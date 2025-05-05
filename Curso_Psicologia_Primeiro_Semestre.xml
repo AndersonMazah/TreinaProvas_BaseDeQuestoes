@@ -2360,7 +2360,7 @@
 		  </questao>
 		</aula>
 		<aula id="7c8f373b-2e27-403d-9788-06d146867f41" idmateria="c0b08c7e-99bd-4f69-bb54-15fa1b992d86" nome="Unidade 2 - Metodologia da Ciência">
-		  <questao id="dd696008-26ff-4bbc-8cdf-50538b9be8f8" idaula="7c8f373b-2e27-403d-9788-06d146867f41" enunciado="Qual é a principal recomendação sobre o local de estudo, segundo o documento?" justificativa="Um local fixo, calmo e organizado ajuda na concentração e na eficácia do estudo. Estudar em vários locais ou em ambientes desorganizados compromete a aprendizagem.">
+		  <questao id="dd696008-26ff-4bbc-8cdf-50538b9be8f8" idaula="7c8f373b-2e27-403d-9788-06d146867f41" enunciado="Qual é a principal recomendação sobre o local de estudo?" justificativa="Um local fixo, calmo e organizado ajuda na concentração e na eficácia do estudo. Estudar em vários locais ou em ambientes desorganizados compromete a aprendizagem.">
 			<opcao id="69a14b3a-668a-4298-974b-25148ecc3aeb" idquestao="dd696008-26ff-4bbc-8cdf-50538b9be8f8" correta="true" texto="Ter um local fixo, calmo e organizado para estudar"/>
 			<opcao id="5463e148-30ce-4c5b-bd98-5dcb0dbd5bc9" idquestao="dd696008-26ff-4bbc-8cdf-50538b9be8f8" correta="false" texto="Estudar em qualquer lugar, desde que confortável"/>
 			<opcao id="e8bf1dc2-a3ec-4286-b3cf-ce358eb39cf5" idquestao="dd696008-26ff-4bbc-8cdf-50538b9be8f8" correta="false" texto="Alternar os locais de estudo diariamente"/>
@@ -2390,15 +2390,15 @@
 			<opcao id="5ec20302-3cbd-4237-94e0-00bf99667f22" idquestao="86cec8d8-800e-4b03-a57f-00df770adf7c" correta="false" texto="Ficar em silêncio absoluto durante toda a aula"/>
 			<opcao id="64a66341-b27f-4a24-acf0-9e4043f2a6b2" idquestao="86cec8d8-800e-4b03-a57f-00df770adf7c" correta="false" texto="Evitar fazer perguntas para não atrapalhar a aula"/>
 		  </questao>
-		  <questao id="b7bf4622-830c-4ad5-b5fe-93c0a4580be1" idaula="7c8f373b-2e27-403d-9788-06d146867f41" enunciado="O que se recomenda ao trabalhar em grupo, conforme o documento?" justificativa="O trabalho em grupo exige responsabilidade, divisão de tarefas, bom relacionamento e diálogo para resolução de conflitos.">
-			<opcao id="b3189360-3fb7-4977-832c-8d8ff004cd97" idquestao="b7bf4622-830c-4ad5-b5fe-93c0a4580be1" correta="true" texto="Definir objetivos, cumprir tarefas e manter boas relações"/>
-			<opcao id="5aff200b-d4ad-4fe1-a757-adc938241eaf" idquestao="b7bf4622-830c-4ad5-b5fe-93c0a4580be1" correta="false" texto="Delegar tudo ao líder do grupo"/>
-			<opcao id="16a24fc5-337a-4c37-87c4-9d63b2aceff7" idquestao="b7bf4622-830c-4ad5-b5fe-93c0a4580be1" correta="false" texto="Evitar falar com colegas durante as reuniões"/>
-			<opcao id="3121c283-79c5-46e1-8fc1-e1f217ced8bb" idquestao="b7bf4622-830c-4ad5-b5fe-93c0a4580be1" correta="false" texto="Focar em debates e discussões agressivas para garantir participação"/>
+		  <questao id="b7bf4622-830c-4ad5-b5fe-93c0a4580be1" idaula="7c8f373b-2e27-403d-9788-06d146867f41" enunciado="O que se recomenda ao trabalhar em grupo?" justificativa="O trabalho em grupo exige responsabilidade, divisão de tarefas, bom relacionamento e diálogo para resolução de conflitos.">
+			<opcao id="b3189360-3fb7-4977-832c-8d8ff004cd97" idquestao="b7bf4622-830c-4ad5-b5fe-93c0a4580be1" correta="true" texto="Definir objetivos e cumprir tarefas."/>
+			<opcao id="5aff200b-d4ad-4fe1-a757-adc938241eaf" idquestao="b7bf4622-830c-4ad5-b5fe-93c0a4580be1" correta="false" texto="Definir objetivos e delegar tudo ao líder do grupo."/>
+			<opcao id="16a24fc5-337a-4c37-87c4-9d63b2aceff7" idquestao="b7bf4622-830c-4ad5-b5fe-93c0a4580be1" correta="false" texto="Focar em definir objetivos e delegar ao lider do grupo."/>
+			<opcao id="3121c283-79c5-46e1-8fc1-e1f217ced8bb" idquestao="b7bf4622-830c-4ad5-b5fe-93c0a4580be1" correta="false" texto="Focar em debates e discussões de idéias."/>
 		  </questao>
 		</aula>
 		<aula id="237484fa-ae8f-4ea1-8435-bd12f8098d68" idmateria="c0b08c7e-99bd-4f69-bb54-15fa1b992d86" nome="Unidade 3 - Elaboração de Trabalhos Acadêmicos Científicos">
-		  <questao id="52a0994a-97c4-4317-8c05-af4729951bcb" idaula="237484fa-ae8f-4ea1-8435-bd12f8098d68" enunciado="Quais são as três operações fundamentais da atividade de estudo, segundo o documento?" justificativa="Leitura, documentação e redação são as etapas fundamentais que sustentam a assimilação e reelaboração do conhecimento.">
+		  <questao id="52a0994a-97c4-4317-8c05-af4729951bcb" idaula="237484fa-ae8f-4ea1-8435-bd12f8098d68" enunciado="Quais são as três operações fundamentais da atividade de estudo?" justificativa="Leitura, documentação e redação são as etapas fundamentais que sustentam a assimilação e reelaboração do conhecimento.">
 			<opcao id="77e2730c-23f6-4d55-a452-251ccebf8665" idquestao="52a0994a-97c4-4317-8c05-af4729951bcb" correta="true" texto="Leitura, documentação e redação"/>
 			<opcao id="3b72cb26-3dce-40c2-884d-3d8b5a1c61ac" idquestao="52a0994a-97c4-4317-8c05-af4729951bcb" correta="false" texto="Pesquisa, debate e escrita"/>
 			<opcao id="db87f19f-0e09-4e63-a39a-69fb2bb3472b" idquestao="52a0994a-97c4-4317-8c05-af4729951bcb" correta="false" texto="Memorização, exposição e avaliação"/>
