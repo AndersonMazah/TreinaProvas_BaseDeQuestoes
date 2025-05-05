@@ -2321,77 +2321,395 @@
 		</aula>
 	</materia>
 	<materia id="c0b08c7e-99bd-4f69-bb54-15fa1b992d86" nome="EaD - Metodologia da Ciência">
-		<aula id="774fc099-cbd5-4952-9405-2a4b5590db62" idmateria="c0b08c7e-99bd-4f69-bb54-15fa1b992d86" nome="aula 01 - Ciência e Conhecimento">
-			<questao id="4279eb8d-2b60-4c6e-8c52-a38a3e57c1cd" idaula="774fc099-cbd5-4952-9405-2a4b5590db62" enunciado="A ciência não é neutra. A partir dessa afirmação pode-se entender que, quando optamos por decidir algo fundamentado por razões científicas, a probabilidade de acerto é maior.&amp;#13;&amp;#10;No entanto, a ciência é questionável. O que é certo hoje pode mudar amanhã, diferente dos interesses de cunho político e/ou dogmáticos do conhecimento religioso.&amp;#13;&amp;#10;Sobre o exposto, analise as afirmativas a seguir:&amp;#13;&amp;#10;&amp;#9;I - Para o público em geral, ciência é um conjunto de conhecimentos puros e aplicados, originados por métodos rigorosos e que permitem ter uma nova percepção da realidade.&amp;#13;&amp;#10;&amp;#9;II - A ciência é mais conceituada do que definida. Definir um conceito consiste em formular um problema e, para tanto, as hipóteses que o tornaram formulável.&amp;#13;&amp;#10;&amp;#9;III - A ciência é caracterizada por verdades absolutas e inquestionáveis, fruto da personificação de metodologias abstratas.&amp;#13;&amp;#10;&amp;#9;IV - Não existe definição objetiva e/ou neutra do conceito de ciência, podendo ser um modo de interpretar a nossa realidade." justificativa="">
-				<opcao id="0566b3d6-4a08-4fed-917f-748217d64942" idquestao="4279eb8d-2b60-4c6e-8c52-a38a3e57c1cd" correta="false" texto="II, apenas."/>
-				<opcao id="c00bd56c-89f3-4108-8951-21d329ec6dab" idquestao="4279eb8d-2b60-4c6e-8c52-a38a3e57c1cd" correta="false" texto="III, apenas."/>
-				<opcao id="a137b923-1966-470b-b184-c49c213c58c7" idquestao="4279eb8d-2b60-4c6e-8c52-a38a3e57c1cd" correta="true" texto="I, II e IV, apenas."/>
-				<opcao id="0867e61c-708a-46f3-a803-0c49f2fa82b8" idquestao="4279eb8d-2b60-4c6e-8c52-a38a3e57c1cd" correta="false" texto="III e IV, apenas."/>
-				<opcao id="bafb8e92-d3fd-4668-b514-f9a8f61b4816" idquestao="4279eb8d-2b60-4c6e-8c52-a38a3e57c1cd" correta="false" texto="IV, apenas."/>
-			</questao>
-			<questao id="85722f29-3019-4404-b99b-408831a89338" idaula="774fc099-cbd5-4952-9405-2a4b5590db62" enunciado="Analise os excertos a seguir.&amp;#13;&amp;#10;&amp;#9;I - Texto sobre Mavutsim e blablaba.&amp;#13;&amp;#10;&amp;#9;II - Texto sobre Abraão e blablaba." justificativa="">
-				<opcao id="b949632a-fcd2-4ebc-9e67-8bc87269b9f6" idquestao="85722f29-3019-4404-b99b-408831a89338" correta="false" texto="conhecimento científico e empírico, respectivamente."/>
-				<opcao id="0090137d-a60b-435c-a224-c76f89a4aa62" idquestao="85722f29-3019-4404-b99b-408831a89338" correta="false" texto="conhecimento empírico e filosófico, respectivamente."/>
-				<opcao id="8e5204f9-c9fa-411e-813a-19301f53e19f" idquestao="85722f29-3019-4404-b99b-408831a89338" correta="false" texto="conhecimento filosófico e religioso, respectivamente."/>
-				<opcao id="690af646-da16-41cd-a69a-a78fe7e285d0" idquestao="85722f29-3019-4404-b99b-408831a89338" correta="false" texto="conhecimento mítico e empírico, respectivamente."/>
-				<opcao id="845e2621-8870-46c3-a0a1-84daf180891e" idquestao="85722f29-3019-4404-b99b-408831a89338" correta="true" texto="conhecimento mítico e religioso, respectivamente."/>
-			</questao>
-			<questao id="b325379b-d6b0-4f11-917c-de02f26d45a5" idaula="774fc099-cbd5-4952-9405-2a4b5590db62" enunciado="Antigamente acreditava-se que, no sétimo dia após o nascimento, o bebê não podia sair de casa, para não pegar o &amp;quot;mal-de-sete-dias&amp;quot;.&amp;#13;&amp;#10;O &amp;quot;mal&amp;quot; são duas doenças que antigamente atingiam os bebês com frequência, nos primeiros sete dias de vida.&amp;#13;&amp;#10;Uma é o hoje raro tétano umbilical, causado em geral por falta de higiene dos instrumentos médicos e do local do parto.&amp;#13;&amp;#10;A outra é a doença hemorrágica do recém-nascido. &amp;quot;O bebê pode sofrer hemorragias por falta de vitamina K, que ajuda na coagulação do sangue.&amp;#13;&amp;#10;Ela é produzida pela flora intestinal, imatura no recém-nascido&amp;quot;, explica o pediatra Roberto Bittar.&amp;#13;&amp;#10;Hoje, logo após o parto, é um procedimento de rotina nas maternidades aplicar nos bebês uma injeção de vitamina K.&amp;#13;&amp;#10;&amp;#13;&amp;#10;Neste fragmento, analisando os tipos de conhecimento vistos até aqui, podemos perceber:" justificativa="">
-				<opcao id="416ae8a6-0d13-4a06-8610-7575e93e9f13" idquestao="b325379b-d6b0-4f11-917c-de02f26d45a5" correta="false" texto="Que a flora intestinal imatura do recém-nascido e as condições de higiene do tempo antigo provocavam o “mal-de-sete-dias”. Com o aparecimento do conhecimento científico, essa doença teve cura."/>
-				<opcao id="41dbd33e-6717-485f-a002-5451dce3b1db" idquestao="b325379b-d6b0-4f11-917c-de02f26d45a5" correta="false" texto="Que as mães, atualmente, são mais cuidadosas com seus filhos e, por isso, os afastam das doenças que eram comuns antigamente, quando ainda não existia o conhecimento científico"/>
-				<opcao id="11b50a82-a0b1-4d4d-8352-1d27dd728f16" idquestao="b325379b-d6b0-4f11-917c-de02f26d45a5" correta="false" texto="Que o “mal-de-sete-dias” era uma crença das mães de antigamente (pensamento religioso) que atingia bebês e que podia matá-los ao completarem o sétimo dia de vida. Por isso, era costume não sair com as crianças quando elas completavam sete dias de nascimento."/>
-				<opcao id="12af5c21-850b-4bd7-b565-59a29f21f868" idquestao="b325379b-d6b0-4f11-917c-de02f26d45a5" correta="false" texto="Que o pediatra Roberto Bittar ironiza as crenças dos povos antigos ao afirmar que a doença conhecida como “mal-de-sete-dias” era, na verdade o pensamento mítico, já que hoje se sabe que são duas doenças para as quais existe cura facilmente."/>
-				<opcao id="517d86eb-881a-458c-89e8-0b65cf20fa84" idquestao="b325379b-d6b0-4f11-917c-de02f26d45a5" correta="true" texto="Uma contradição entre o conhecimento do senso comum e o conhecimento científico, sendo que as explicações dadas pela ciência esclarecem uma crença que perdurou por muitos anos."/>
-			</questao>
-			<questao id="84a827bc-7f66-40b8-9e93-c5c3f66dde48" idaula="774fc099-cbd5-4952-9405-2a4b5590db62" enunciado="A respeito dos diferentes tipos de conhecimento: Científico, empírico e filosófico, avalie as assertivas abaixo.&amp;#13;&amp;#10;&amp;#9;I - Ao contrário do conhecimento empírico, somente o conhecimento científico acompanha as experiências que acumulamos e o desenvolvimento da sociedade.&amp;#13;&amp;#10;&amp;#9;II - O conhecimento científico busca estudar os fenômenos e suas causas e empenha-se em tornar o universo compreensível.&amp;#13;&amp;#10;&amp;#9;III - O conhecimento filosófico está sujeito ao método e rigor, que garantem a credibilidade dos resultados.&amp;#13;&amp;#10;&amp;#13;&amp;#10;Está correto o que se afirma em:" justificativa="">
-				<opcao id="0f23ad27-82dc-49bd-bc1a-c7fd2584e741" idquestao="84a827bc-7f66-40b8-9e93-c5c3f66dde48" correta="false" texto="I, apenas."/>
-				<opcao id="35285946-be0d-4024-8453-af1ff647aa44" idquestao="84a827bc-7f66-40b8-9e93-c5c3f66dde48" correta="false" texto="I e II, apenas."/>
-				<opcao id="51b3d77c-e317-4e20-839f-4f858dd6d1f3" idquestao="84a827bc-7f66-40b8-9e93-c5c3f66dde48" correta="true" texto="II, apenas."/>
-				<opcao id="c1179981-b08d-47a3-94e6-318868324fbf" idquestao="84a827bc-7f66-40b8-9e93-c5c3f66dde48" correta="false" texto="II e III, apenas."/>
-				<opcao id="8008dd71-3170-426a-bdd7-e6cb17c55dea" idquestao="84a827bc-7f66-40b8-9e93-c5c3f66dde48" correta="false" texto="III, apenas."/>
-			</questao>
-			<questao id="7a08c599-f592-42a1-91f4-b80745e361c2" idaula="774fc099-cbd5-4952-9405-2a4b5590db62" enunciado="Observe o problema sugerido no texto abaixo e marque a resposta que melhor expressa a ideia central apresentada pelo autor.&amp;#13;&amp;#10;&amp;#13;&amp;#10;Por onde se começa a solução de um problema? Imagine que você é um escoteiro e se perdeu numa floresta. O seu problema é voltar ao acampamento. Qual seria o seu procedimento? O que significa encontrar a solução para o problema? A solução para o problema é o caminho que o levará de onde você está até onde você deseja ir. Imagine que você não sabe para onde ir: não poderá fazer nada inteligente. Gritará, chorará, andará a esmo. O procedimento inteligente é o seguinte: pegue o seu mapa, identifique o ponto para onde ir, o ponto onde você se encontra, e, a partir do primeiro, trace um caminho. A inteligência segue o caminho inverso da ação. E é somente isto que a torna inteligência. &amp;#13;&amp;#10;Começando de onde se deseja chegar, evita-se o comportamento errático e desordenado a que se dá o nome de &amp;quot;tentativa e erro&amp;quot;." justificativa="">
-				<opcao id="21a2da2b-68c9-4508-a138-332fde19b316" idquestao="7a08c599-f592-42a1-91f4-b80745e361c2" correta="false" texto="O texto fala da reflexão presente no saber do senso comum."/>
-				<opcao id="402d2ca4-f617-483a-8c66-3d2ac2f18259" idquestao="7a08c599-f592-42a1-91f4-b80745e361c2" correta="false" texto="O texto fala do conhecimento filosófico presente no saber do senso comum."/>
-				<opcao id="1b8e53ab-dba0-406d-af31-ad7010e0ab34" idquestao="7a08c599-f592-42a1-91f4-b80745e361c2" correta="false" texto="O texto fala do método indutivo no conhecimento filosófico."/>
-				<opcao id="17715a89-afac-4256-9561-aadb3c3f1872" idquestao="7a08c599-f592-42a1-91f4-b80745e361c2" correta="true" texto="O texto fala do método presente no conhecimento científico."/>
-				<opcao id="ad5aaa75-3838-4aaf-b405-0b6f3de85197" idquestao="7a08c599-f592-42a1-91f4-b80745e361c2" correta="false" texto="O texto fala do senso comum presente no conhecimento filosófico."/>
-			</questao>
-			<questao id="57c834a6-8e97-4be5-b136-9f134db237c6" idaula="774fc099-cbd5-4952-9405-2a4b5590db62" enunciado="O Ensino Superior Brasileiro tem o papel de pesquisa e geração de conhecimento, ou seja, o aluno formado deve ser capaz de contribuir na produção de conhecimento com autonomia. Para tanto, o aluno deve ser preparado para:" justificativa="">
-				<opcao id="1eae81e8-ce08-4244-a9a4-07744b3ed76e" idquestao="57c834a6-8e97-4be5-b136-9f134db237c6" correta="false" texto="Acessar, somente, as teorias clássicas da sua área de conhecimento."/>
-				<opcao id="dce5eeb2-3c8d-4f6d-9f98-c6d466d9762f" idquestao="57c834a6-8e97-4be5-b136-9f134db237c6" correta="true" texto="Capacidade de desenvolver novas ideias, a partir dos conteúdos e métodos estudados."/>
-				<opcao id="42adf1b7-f403-457d-b719-e94ce58e0fda" idquestao="57c834a6-8e97-4be5-b136-9f134db237c6" correta="false" texto="Capacidade de discutir os conteúdos aprendidos em seu curso para imortalizá-los."/>
-				<opcao id="1d45995f-2b8e-470d-9760-81b46e2d7fb7" idquestao="57c834a6-8e97-4be5-b136-9f134db237c6" correta="false" texto="Contestar todas as teorias existentes e não propor nenhuma evolução."/>
-				<opcao id="1fd9586a-e21e-4fd0-b1bd-c2c3afc76bd0" idquestao="57c834a6-8e97-4be5-b136-9f134db237c6" correta="false" texto="Memorização dos principais assuntos discutidos."/>
-			</questao>
-			<questao id="26c0296f-a159-4757-afc0-e8407e29d3ec" idaula="774fc099-cbd5-4952-9405-2a4b5590db62" enunciado="&amp;quot;O ministério da saúde adverte: Fumar faz mal à saúde&amp;quot;. Você já leu isso em muitos jornais e revistas, já ouviu, com poucas variações, campanhas em rádio e televisão sobre esse mesmo assunto.&amp;#13;&amp;#10;Sobre que tipo de conhecimento se fundamenta a advertência do Ministério da Saúde?" justificativa="">
-				<opcao id="3763a33d-e4db-4108-943a-e8b053844a62" idquestao="26c0296f-a159-4757-afc0-e8407e29d3ec" correta="false" texto="A advertência do governo tem caráter moralista, porque preocupa-se com o mal exemplo social dessa prática para as crianças."/>
-				<opcao id="5558b3b9-777c-4b0c-bda5-4965067b9d20" idquestao="26c0296f-a159-4757-afc0-e8407e29d3ec" correta="false" texto="A advertência do governo tem caráter religioso, porque pretende associar a prática do fumo à quebra de um dogma."/>
-				<opcao id="c234cabd-a861-4ca0-9c2c-114f1adbf005" idquestao="26c0296f-a159-4757-afc0-e8407e29d3ec" correta="false" texto="A advertência do governo tem fundamentação filosófica, porque homens não fumantes são mais felizes."/>
-				<opcao id="95f06fe9-e29e-4351-9cd2-d524f9229fca" idquestao="26c0296f-a159-4757-afc0-e8407e29d3ec" correta="false" texto="A advertência do governo tem fundamento popular, porque o preço do cigarro não permite que todas as pessoas comprem cigarros."/>
-				<opcao id="db823c25-10c7-41ae-83be-666383e00ebe" idquestao="26c0296f-a159-4757-afc0-e8407e29d3ec" correta="true" texto="A advertência do ministério da Saúde tem fundamento científico, porque o fumo é um dos causadores de doenças pulmonares e altamente cancerígeno."/>
-			</questao>
-			<questao id="6cb87730-ebf6-4328-af89-c6c3b0a6e1ce" idaula="774fc099-cbd5-4952-9405-2a4b5590db62" enunciado="O Mito é um modo de consciência que predomina nas sociedades tribais e que, nas civilizações da antiguidade, também exerceu significativa influência.&amp;#13;&amp;#10;Ao contrário, porém, do que muitos supõem, o mito não desapareceu com o tempo.&amp;#13;&amp;#10;Sobre os significados do mito, assinale o que for INCORRETO." justificativa="">
-				<opcao id="8f04f6fd-4be5-46e8-b5ce-c17e8c369883" idquestao="6cb87730-ebf6-4328-af89-c6c3b0a6e1ce" correta="false" texto="O mistério é um dos componentes do mito: apresenta um enigma a ser decifrado e expressa o espanto do homem diante do mundo"/>
-				<opcao id="087a7fc6-2b73-427c-bd10-75c2474be7cd" idquestao="6cb87730-ebf6-4328-af89-c6c3b0a6e1ce" correta="true" texto="O mito, como as lendas, é pura fantasia, pois não possui nenhuma coerência lógica e, por ser dissociado da realidade, não expressa nenhuma forma de verdade."/>
-				<opcao id="54e60b0c-5897-45a1-b3ef-5c1b38878931" idquestao="6cb87730-ebf6-4328-af89-c6c3b0a6e1ce" correta="false" texto="O mito é uma forma predominante de narrativa nas culturas que não conhecem a escrita. Um de seus objetivos é contar a origem de um grupo humano."/>
-				<opcao id="2904dd34-c075-413b-8cbb-4affbf509adf" idquestao="6cb87730-ebf6-4328-af89-c6c3b0a6e1ce" correta="false" texto="O mito é uma intuição compreensiva da realidade, cujas raízes se fundam na emoção e na afetividade. O mito expressa o que desejamos ou tememos, como somos atraídos pelas coisas ou como delas nos afastamos."/>
-				<opcao id="5d34dc6a-bd0d-48b3-ad3e-fac29aa04fb2" idquestao="6cb87730-ebf6-4328-af89-c6c3b0a6e1ce" correta="false" texto="Uma das funções do mito é fixar os modelos exemplares de todos os ritos e de todas as atividades humanas significativas. Portanto, o mito é um meio de orientação das sociedades humanas."/>
-			</questao>
-			<questao id="489763e6-f536-4c75-a65b-9727224fc119" idaula="774fc099-cbd5-4952-9405-2a4b5590db62" enunciado="Sabemos que vários hábitos como excesso de ingestão de frituras, doces, embutidos, álcool não fazem bem à saúde. &amp;#13;&amp;#10;O que passa desapercebido é que alguns hábitos ditos saudáveis não verdadeiramente o são, o que nos leva, algumas vezes, a cairmos em armadilhas, por exemplo, usar sabão anti-bactérias várias vezes ao dia.&amp;#13;&amp;#10;Os comerciais nos fazem acreditar que o uso de antissépticos é suficiente para eliminar qualquer chance de contaminação.&amp;#13;&amp;#10;Não obstante, o uso frequente desses produtos pode provocar de novas e mais resistentes formas de bactérias. O ideal é usar o bom e velho sabonete.&amp;#13;&amp;#10;&amp;#13;&amp;#10;Sobre que tipo de conhecimento se fundamenta o caso acima?" justificativa="">
-				<opcao id="a001d6d0-af40-4083-a9a1-41a49f703db9" idquestao="489763e6-f536-4c75-a65b-9727224fc119" correta="true" texto="Conhecimento científico, pois há estudos indicando que as bactérias vão se tornando mais resistentes."/>
-				<opcao id="1b4bf6b4-81cb-459c-86cc-1de063400d90" idquestao="489763e6-f536-4c75-a65b-9727224fc119" correta="false" texto="Conhecimento empírico, pois lavar as mãos é higiênico."/>
-				<opcao id="6bf97361-2ed4-4e37-9dc1-a38ce3106728" idquestao="489763e6-f536-4c75-a65b-9727224fc119" correta="false" texto="Conhecimento filosófico, pois as pessoas que lavam as mãos com regularidade se preocupam limpeza."/>
-				<opcao id="22193171-1ebb-4813-ab7f-9b91348af293" idquestao="489763e6-f536-4c75-a65b-9727224fc119" correta="false" texto="Conhecimento midiático, pois as campanhas de sabão estimulam a usá-los."/>
-				<opcao id="ee0808d0-3a95-4e91-9150-cbc5d46b705c" idquestao="489763e6-f536-4c75-a65b-9727224fc119" correta="false" texto="Conhecimento religioso, pois associam limpeza à pureza."/>
-			</questao>
-			<questao id="d99fcaa3-aad1-43ce-ad55-9213512a438d" idaula="774fc099-cbd5-4952-9405-2a4b5590db62" enunciado="Sobre o conhecimento filosófico, assinale a alternativa INCORRETA:" justificativa="">
-				<opcao id="950bea27-4827-44fa-afe7-45b7b73a7dea" idquestao="d99fcaa3-aad1-43ce-ad55-9213512a438d" correta="false" texto="A filosofia permeia toda a vida humana e é a base de todo o conhecimento, inclusive da ciência, que nela se originou"/>
-				<opcao id="6e8c046a-3653-4fd7-ac01-ba15bde10f1b" idquestao="d99fcaa3-aad1-43ce-ad55-9213512a438d" correta="false" texto="A filosofia usa a razão e a intuição intelectual e não aceita a interferência divina na explicação dos fenômenos."/>
-				<opcao id="2ee40f29-370a-4777-ad35-7ceb3bde9c9f" idquestao="d99fcaa3-aad1-43ce-ad55-9213512a438d" correta="false" texto="O conhecimento filosófico é valorativo, julga o que é certo ou errado, através do pensamento e da reflexão."/>
-				<opcao id="656872d6-8948-4b66-988d-a04d6d26ab5b" idquestao="d99fcaa3-aad1-43ce-ad55-9213512a438d" correta="true" texto="Quando o homem deixa sua posição de ser observador, passivo e testemunha dos fenômenos para uma atitude crítica, racional e lógica, que busca entender o mundo através da observação empírica e sua comprovação, é que surge o conhecimento filosófico."/>
-				<opcao id="997d1900-764c-48c4-ace5-c0a73e83bfd9" idquestao="d99fcaa3-aad1-43ce-ad55-9213512a438d" correta="false" texto="Surgiu quando houve um questionamento sobre um conhecimento dado, uma vontade de buscar explicações pela razão intelectual pura."/>
-			</questao>
+		<aula id="28ccb87c-7b40-459c-8ac7-f2e5482b3318" idmateria="c0b08c7e-99bd-4f69-bb54-15fa1b992d86" nome="Unidade 1 - Ciência e Conhecimento">
+		  <questao id="d7322e9f-6887-4d0c-88a4-73f47cccc4e0" idaula="28ccb87c-7b40-459c-8ac7-f2e5482b3318" enunciado="Qual das alternativas melhor caracteriza o conhecimento empírico?" justificativa="O conhecimento empírico é adquirido pela experiência cotidiana, é assistemático, acrítico e não requer comprovação.">
+			<opcao id="07cdcfa4-e43e-4aca-8bae-54730a5ddf0d" idquestao="d7322e9f-6887-4d0c-88a4-73f47cccc4e0" correta="false" texto="É obtido por meio de experimentações rigorosas e verificações científicas."/>
+			<opcao id="19310e0e-2859-422d-8c13-c7a2e2855bcb" idquestao="d7322e9f-6887-4d0c-88a4-73f47cccc4e0" correta="false" texto="É baseado na fé e revelações divinas, considerado infalível."/>
+			<opcao id="c44b55c2-73b3-4962-92a7-aed43aeb90f9" idquestao="d7322e9f-6887-4d0c-88a4-73f47cccc4e0" correta="true" texto="É adquirido por meio da vivência cotidiana e da observação do mundo ao redor."/>
+			<opcao id="6bab30a2-d744-4f6f-9dde-c252af51ddc3" idquestao="d7322e9f-6887-4d0c-88a4-73f47cccc4e0" correta="false" texto="É construído por meio da lógica e de raciocínios abstratos e conceituais."/>
+		  </questao>
+		  <questao id="1ddb2e99-eaad-41c1-960a-a32a3bbb5902" idaula="28ccb87c-7b40-459c-8ac7-f2e5482b3318" enunciado="O conhecimento filosófico se diferencia do científico porque:" justificativa="O conhecimento filosófico se baseia na reflexão racional e conceitual, sem necessidade de comprovação empírica.">
+			<opcao id="28c870f5-ef86-440d-9e93-aae1b79f9eb6" idquestao="1ddb2e99-eaad-41c1-960a-a32a3bbb5902" correta="false" texto="É baseado em experimentações laboratoriais."/>
+			<opcao id="c5659f8a-d46e-4708-a6a6-94cea56cc527" idquestao="1ddb2e99-eaad-41c1-960a-a32a3bbb5902" correta="false" texto="Se baseia na fé e em livros sagrados."/>
+			<opcao id="b16f9817-888c-4fb6-8cfd-93c55bd0df5e" idquestao="1ddb2e99-eaad-41c1-960a-a32a3bbb5902" correta="false" texto="Depende exclusivamente da tradição oral."/>
+			<opcao id="f4b0d29e-5801-4909-aa3b-64c3f5853414" idquestao="1ddb2e99-eaad-41c1-960a-a32a3bbb5902" correta="true" texto="Foca na reflexão racional sobre conceitos e ideias."/>
+		  </questao>
+		  <questao id="11696763-cc6b-4957-bfad-49add11b8be5" idaula="28ccb87c-7b40-459c-8ac7-f2e5482b3318" enunciado="As ciências formais são aquelas que:" justificativa="As ciências formais, como a Matemática e a Lógica, lidam com ideias racionais e métodos analíticos rigorosos.">
+			<opcao id="b3e5a928-6f67-4ff3-97fc-11be83f0056d" idquestao="11696763-cc6b-4957-bfad-49add11b8be5" correta="false" texto="Investigam fenômenos sociais baseados em fatos observáveis."/>
+			<opcao id="5d743377-75b2-40f6-8328-18bb1fca06dc" idquestao="11696763-cc6b-4957-bfad-49add11b8be5" correta="false" texto="Tratam de fatos naturais e sociais baseados em observações empíricas."/>
+			<opcao id="65c09bb3-f10f-4806-bd27-44e75d27e81a" idquestao="11696763-cc6b-4957-bfad-49add11b8be5" correta="true" texto="Estudam ideias racionais e utilizam métodos rigorosos de pensamento lógico."/>
+			<opcao id="52480979-d1bb-40ad-8023-142a8edb6298" idquestao="11696763-cc6b-4957-bfad-49add11b8be5" correta="false" texto="Dependem de revelações religiosas e mitos."/>
+		  </questao>
+		  <questao id="b1c184be-b265-4779-874b-fff5515db104" idaula="28ccb87c-7b40-459c-8ac7-f2e5482b3318" enunciado="Qual é a sequência correta de etapas do método científico?" justificativa="A sequência clássica envolve: observação, hipótese, experimentação, indução da lei e elaboração de teoria.">
+			<opcao id="ad54d7a6-cc45-4a16-b904-7e169fcb2228" idquestao="b1c184be-b265-4779-874b-fff5515db104" correta="false" texto="Observação, opinião, crença, dedução, fé."/>
+			<opcao id="154dddcb-8a25-4ae1-9644-0c208d49faa9" idquestao="b1c184be-b265-4779-874b-fff5515db104" correta="false" texto="Curiosidade, mito, tradição, teoria, verdade."/>
+			<opcao id="facdfba0-6dbc-4572-a0d7-a52520341eb4" idquestao="b1c184be-b265-4779-874b-fff5515db104" correta="true" texto="Observação, hipótese, experimentação, indução e teoria."/>
+			<opcao id="6f68e0dc-7459-46da-b145-c83381483dee" idquestao="b1c184be-b265-4779-874b-fff5515db104" correta="false" texto="Experiência, verificação, julgamento, erro, acerto."/>
+		  </questao>
+		  <questao id="6066b590-b744-477f-aa37-844123ccf576" idaula="28ccb87c-7b40-459c-8ac7-f2e5482b3318" enunciado="A objetividade na ciência significa:" justificativa="Na ciência, é fundamental que os resultados não dependam de crenças pessoais ou subjetividades, mas sim de dados verificáveis.">
+			<opcao id="70c8bc77-d115-4e91-8622-837a50eb824b" idquestao="6066b590-b744-477f-aa37-844123ccf576" correta="false" texto="Aderir a crenças pessoais durante os experimentos."/>
+			<opcao id="904b8855-165b-466a-ad39-284f11df39b3" idquestao="6066b590-b744-477f-aa37-844123ccf576" correta="false" texto="Ignorar os dados e confiar no senso comum."/>
+			<opcao id="e182eb83-0161-4d56-873f-dd084d16f6fe" idquestao="6066b590-b744-477f-aa37-844123ccf576" correta="true" texto="Garantir que os dados possam ser verificados independentemente por outros."/>
+			<opcao id="9fabb1e8-3888-4c1a-8c62-5b84359aef0f" idquestao="6066b590-b744-477f-aa37-844123ccf576" correta="false" texto="Utilizar opiniões para fundamentar as hipóteses."/>
+		  </questao>
+		  <questao id="498859f9-5824-48d9-b117-a7f67faee0a1" idaula="28ccb87c-7b40-459c-8ac7-f2e5482b3318" enunciado="A principal diferença entre método e técnica é que:" justificativa="O método define 'o que fazer', enquanto a técnica define 'como fazer'.">
+			<opcao id="6cbe80d0-0860-44d6-a2a2-a18c8ef8b665" idquestao="498859f9-5824-48d9-b117-a7f67faee0a1" correta="false" texto="Método é científico e técnica é filosófica."/>
+			<opcao id="373cf7a1-6cc7-4620-b565-edf9f99352bf" idquestao="498859f9-5824-48d9-b117-a7f67faee0a1" correta="false" texto="Método é prático e técnica é teórica."/>
+			<opcao id="5b8f14ad-aea3-4264-9210-10723df1a6fc" idquestao="498859f9-5824-48d9-b117-a7f67faee0a1" correta="true" texto="Método indica o que fazer e técnica como fazer."/>
+			<opcao id="c9b60089-f932-487f-a8f4-df98d46c4cd2" idquestao="498859f9-5824-48d9-b117-a7f67faee0a1" correta="false" texto="Técnica é mais importante que o método."/>
+		  </questao>
+		</aula>
+		<aula id="7c8f373b-2e27-403d-9788-06d146867f41" idmateria="c0b08c7e-99bd-4f69-bb54-15fa1b992d86" nome="Unidade 2 - Metodologia da Ciência">
+		  <questao id="dd696008-26ff-4bbc-8cdf-50538b9be8f8" idaula="7c8f373b-2e27-403d-9788-06d146867f41" enunciado="Qual é a principal recomendação sobre o local de estudo, segundo o documento?" justificativa="Um local fixo, calmo e organizado ajuda na concentração e na eficácia do estudo. Estudar em vários locais ou em ambientes desorganizados compromete a aprendizagem.">
+			<opcao id="69a14b3a-668a-4298-974b-25148ecc3aeb" idquestao="dd696008-26ff-4bbc-8cdf-50538b9be8f8" correta="true" texto="Ter um local fixo, calmo e organizado para estudar"/>
+			<opcao id="5463e148-30ce-4c5b-bd98-5dcb0dbd5bc9" idquestao="dd696008-26ff-4bbc-8cdf-50538b9be8f8" correta="false" texto="Estudar em qualquer lugar, desde que confortável"/>
+			<opcao id="e8bf1dc2-a3ec-4286-b3cf-ce358eb39cf5" idquestao="dd696008-26ff-4bbc-8cdf-50538b9be8f8" correta="false" texto="Alternar os locais de estudo diariamente"/>
+			<opcao id="b5376304-05fb-4260-a049-f5fad176e193" idquestao="dd696008-26ff-4bbc-8cdf-50538b9be8f8" correta="false" texto="Assistir televisão enquanto estuda"/>
+		  </questao>
+		  <questao id="bdac0e1c-8160-410a-92a3-350c8743812f" idaula="7c8f373b-2e27-403d-9788-06d146867f41" enunciado="Por que o planejamento do tempo é considerado essencial para o sucesso nos estudos?" justificativa="Planejar o tempo permite distribuir tarefas de forma equilibrada, evitando o acúmulo e permitindo melhor aproveitamento do estudo.">
+			<opcao id="1049cc74-4c76-43be-9a87-4a0efb093dd7" idquestao="bdac0e1c-8160-410a-92a3-350c8743812f" correta="true" texto="Porque permite distribuir as tarefas e evitar acúmulo de atividades"/>
+			<opcao id="64d5abc2-b32f-4af3-bc12-019a775d6d84" idquestao="bdac0e1c-8160-410a-92a3-350c8743812f" correta="false" texto="Porque evita assistir aulas desnecessárias"/>
+			<opcao id="d5def240-c21c-474d-bd64-9a3575806c9a" idquestao="bdac0e1c-8160-410a-92a3-350c8743812f" correta="false" texto="Porque reduz o tempo total de estudo"/>
+			<opcao id="72e50dbd-f024-4d41-b6f4-755783f18db9" idquestao="bdac0e1c-8160-410a-92a3-350c8743812f" correta="false" texto="Porque garante que todo conteúdo seja memorizado automaticamente"/>
+		  </questao>
+		  <questao id="84bb69ce-7ea7-44ba-bdfd-f929e9bd7652" idaula="7c8f373b-2e27-403d-9788-06d146867f41" enunciado="De acordo com Severino, como a sala de aula universitária deve ser utilizada?" justificativa="A sala de aula deve ser um espaço ativo de aprendizagem, com leitura, debate, pesquisa e troca de ideias.">
+			<opcao id="ef89b003-5470-48a0-82e7-bcd6ac3b0252" idquestao="84bb69ce-7ea7-44ba-bdfd-f929e9bd7652" correta="true" texto="Como espaço de leitura, debate, pesquisa e aprendizagem ativa"/>
+			<opcao id="4be419ad-8242-4722-9ff4-5d818c51393f" idquestao="84bb69ce-7ea7-44ba-bdfd-f929e9bd7652" correta="false" texto="Como local exclusivo para provas e avaliações"/>
+			<opcao id="1988873c-ce85-439b-ab69-5b2d0b710a6c" idquestao="84bb69ce-7ea7-44ba-bdfd-f929e9bd7652" correta="false" texto="Apenas para escutar o professor"/>
+			<opcao id="e006a8b1-381f-409b-83c3-687a558b4e28" idquestao="84bb69ce-7ea7-44ba-bdfd-f929e9bd7652" correta="false" texto="Como local para atividades recreativas"/>
+		  </questao>
+		  <questao id="dfc07b52-eed2-4fcc-ade9-2e6eb334f798" idaula="7c8f373b-2e27-403d-9788-06d146867f41" enunciado="Qual é uma atitude favorável à aprendizagem segundo António Estanqueiro?" justificativa="A autoconfiança e a motivação pessoal são fundamentais para um bom rendimento acadêmico.">
+			<opcao id="a6dd0db1-a0bf-4938-abbb-f878e3d2fec1" idquestao="dfc07b52-eed2-4fcc-ade9-2e6eb334f798" correta="true" texto="Ser autoconfiante e valorizar suas capacidades"/>
+			<opcao id="7896c299-2296-4691-b22b-4ab1772bb466" idquestao="dfc07b52-eed2-4fcc-ade9-2e6eb334f798" correta="false" texto="Focar somente nas limitações"/>
+			<opcao id="13554c20-2f70-4c8e-8439-bb99e5f76dfb" idquestao="dfc07b52-eed2-4fcc-ade9-2e6eb334f798" correta="false" texto="Estudar apenas quando for cobrado"/>
+			<opcao id="a72d9a7a-0a06-4ae1-9726-de5d2cc24ca3" idquestao="dfc07b52-eed2-4fcc-ade9-2e6eb334f798" correta="false" texto="Evitar pensar no futuro para não gerar ansiedade"/>
+		  </questao>
+		  <questao id="86cec8d8-800e-4b03-a57f-00df770adf7c" idaula="7c8f373b-2e27-403d-9788-06d146867f41" enunciado="O que é recomendado para tirar o máximo proveito das aulas?" justificativa="Participar ativamente, ouvir com atenção, fazer perguntas e tomar notas são formas de aproveitar melhor as aulas.">
+			<opcao id="f63df358-38df-4385-86bd-cca26f2d397c" idquestao="86cec8d8-800e-4b03-a57f-00df770adf7c" correta="true" texto="Participar ativamente, fazer anotações e refletir criticamente"/>
+			<opcao id="a7d7acff-1b64-40a5-b072-c2c7cef6bace" idquestao="86cec8d8-800e-4b03-a57f-00df770adf7c" correta="false" texto="Chegar atrasado para evitar o início teórico"/>
+			<opcao id="5ec20302-3cbd-4237-94e0-00bf99667f22" idquestao="86cec8d8-800e-4b03-a57f-00df770adf7c" correta="false" texto="Ficar em silêncio absoluto durante toda a aula"/>
+			<opcao id="64a66341-b27f-4a24-acf0-9e4043f2a6b2" idquestao="86cec8d8-800e-4b03-a57f-00df770adf7c" correta="false" texto="Evitar fazer perguntas para não atrapalhar a aula"/>
+		  </questao>
+		  <questao id="b7bf4622-830c-4ad5-b5fe-93c0a4580be1" idaula="7c8f373b-2e27-403d-9788-06d146867f41" enunciado="O que se recomenda ao trabalhar em grupo, conforme o documento?" justificativa="O trabalho em grupo exige responsabilidade, divisão de tarefas, bom relacionamento e diálogo para resolução de conflitos.">
+			<opcao id="b3189360-3fb7-4977-832c-8d8ff004cd97" idquestao="b7bf4622-830c-4ad5-b5fe-93c0a4580be1" correta="true" texto="Definir objetivos, cumprir tarefas e manter boas relações"/>
+			<opcao id="5aff200b-d4ad-4fe1-a757-adc938241eaf" idquestao="b7bf4622-830c-4ad5-b5fe-93c0a4580be1" correta="false" texto="Delegar tudo ao líder do grupo"/>
+			<opcao id="16a24fc5-337a-4c37-87c4-9d63b2aceff7" idquestao="b7bf4622-830c-4ad5-b5fe-93c0a4580be1" correta="false" texto="Evitar falar com colegas durante as reuniões"/>
+			<opcao id="3121c283-79c5-46e1-8fc1-e1f217ced8bb" idquestao="b7bf4622-830c-4ad5-b5fe-93c0a4580be1" correta="false" texto="Focar em debates e discussões agressivas para garantir participação"/>
+		  </questao>
+		</aula>
+		<aula id="237484fa-ae8f-4ea1-8435-bd12f8098d68" idmateria="c0b08c7e-99bd-4f69-bb54-15fa1b992d86" nome="Unidade 3 - Elaboração de Trabalhos Acadêmicos Científicos">
+		  <questao id="52a0994a-97c4-4317-8c05-af4729951bcb" idaula="237484fa-ae8f-4ea1-8435-bd12f8098d68" enunciado="Quais são as três operações fundamentais da atividade de estudo, segundo o documento?" justificativa="Leitura, documentação e redação são as etapas fundamentais que sustentam a assimilação e reelaboração do conhecimento.">
+			<opcao id="77e2730c-23f6-4d55-a452-251ccebf8665" idquestao="52a0994a-97c4-4317-8c05-af4729951bcb" correta="true" texto="Leitura, documentação e redação"/>
+			<opcao id="3b72cb26-3dce-40c2-884d-3d8b5a1c61ac" idquestao="52a0994a-97c4-4317-8c05-af4729951bcb" correta="false" texto="Pesquisa, debate e escrita"/>
+			<opcao id="db87f19f-0e09-4e63-a39a-69fb2bb3472b" idquestao="52a0994a-97c4-4317-8c05-af4729951bcb" correta="false" texto="Memorização, exposição e avaliação"/>
+			<opcao id="bd368187-3257-44b5-92bd-37bc02638e5e" idquestao="52a0994a-97c4-4317-8c05-af4729951bcb" correta="false" texto="Resumo, crítica e revisão"/>
+		  </questao>
+		  <questao id="bd4354fc-ba75-4bc4-aef2-f5244c3f7f39" idaula="237484fa-ae8f-4ea1-8435-bd12f8098d68" enunciado="Por que é importante ler artigos científicos na vida acadêmica?" justificativa="A leitura de artigos científicos atualiza o conhecimento, amplia o vocabulário técnico e serve de base para novas pesquisas.">
+			<opcao id="f1ed78a7-e7eb-438f-b561-b43ccea617cd" idquestao="bd4354fc-ba75-4bc4-aef2-f5244c3f7f39" correta="true" texto="Porque amplia o conhecimento, fornece vocabulário técnico e base para novas pesquisas"/>
+			<opcao id="2d82bf19-e236-4f1d-8bf4-f81def0d497d" idquestao="bd4354fc-ba75-4bc4-aef2-f5244c3f7f39" correta="false" texto="Porque substitui livros e resumos"/>
+			<opcao id="9bde2724-8a1b-4dd6-8524-751618b488bb" idquestao="bd4354fc-ba75-4bc4-aef2-f5244c3f7f39" correta="false" texto="Porque é uma exigência burocrática"/>
+			<opcao id="7ae7d2b6-fd02-4a18-9281-6def294fa754" idquestao="bd4354fc-ba75-4bc4-aef2-f5244c3f7f39" correta="false" texto="Porque são mais fáceis que os livros didáticos"/>
+		  </questao>
+		  <questao id="ba78d8d7-744f-4c87-90a1-0e75fbbec7e0" idaula="237484fa-ae8f-4ea1-8435-bd12f8098d68" enunciado="Qual das alternativas apresenta corretamente os elementos textuais de um artigo científico?" justificativa="Segundo a ABNT NBR 6022:2003, os elementos textuais de um artigo são introdução, desenvolvimento e conclusão.">
+			<opcao id="4dc76904-fb0d-459b-acf8-4c42a5162bac" idquestao="ba78d8d7-744f-4c87-90a1-0e75fbbec7e0" correta="true" texto="Introdução, desenvolvimento e conclusão"/>
+			<opcao id="c3171139-6d98-4433-a640-365799086d52" idquestao="ba78d8d7-744f-4c87-90a1-0e75fbbec7e0" correta="false" texto="Resumo, resultados e referências"/>
+			<opcao id="6ab09a30-f714-440e-9562-ec01059942bf" idquestao="ba78d8d7-744f-4c87-90a1-0e75fbbec7e0" correta="false" texto="Título, autor e palavras-chave"/>
+			<opcao id="0988f31a-fb50-4a46-a6f1-46e599d8c075" idquestao="ba78d8d7-744f-4c87-90a1-0e75fbbec7e0" correta="false" texto="Objetivos, metodologia e agradecimentos"/>
+		  </questao>
+		  <questao id="1e3ded22-2a8c-4de4-8b3b-809d8631e835" idaula="237484fa-ae8f-4ea1-8435-bd12f8098d68" enunciado="O que caracteriza um resumo crítico (ou resenha)?" justificativa="O resumo crítico analisa interpretativamente o conteúdo, podendo incluir comentários e opiniões sobre o texto.">
+			<opcao id="db3be7cc-94f9-4142-a7a6-b60ed92576b4" idquestao="1e3ded22-2a8c-4de4-8b3b-809d8631e835" correta="true" texto="É um tipo de resumo que inclui análise interpretativa e opiniões do leitor"/>
+			<opcao id="ceb7cca9-7723-4586-beef-0c96c3f5eb10" idquestao="1e3ded22-2a8c-4de4-8b3b-809d8631e835" correta="false" texto="É um resumo que apenas indica os pontos principais do texto"/>
+			<opcao id="199cb647-1ee8-4c54-8ac6-02709cbc47db" idquestao="1e3ded22-2a8c-4de4-8b3b-809d8631e835" correta="false" texto="É um resumo sem opinião, usado apenas para memorização"/>
+			<opcao id="a1e3bc7f-ef78-44a7-bb3c-c35252e68ddd" idquestao="1e3ded22-2a8c-4de4-8b3b-809d8631e835" correta="false" texto="É um texto escrito pelo autor original do artigo"/>
+		  </questao>
+		  <questao id="20981cd0-959c-482b-84c7-419dbc091adc" idaula="237484fa-ae8f-4ea1-8435-bd12f8098d68" enunciado="O que se recomenda sublinhar durante a leitura de um texto para estudo?" justificativa="Sublinhar palavras-chave ajuda a destacar as ideias principais e facilita a memorização sem poluir visualmente o texto.">
+			<opcao id="a4e2f715-c27b-4d29-98a4-68f1c3023a71" idquestao="20981cd0-959c-482b-84c7-419dbc091adc" correta="true" texto="Somente palavras-chave e dados importantes"/>
+			<opcao id="ba7419be-68e3-46db-9ff1-f4d625c3b475" idquestao="20981cd0-959c-482b-84c7-419dbc091adc" correta="false" texto="Frases inteiras e parágrafos completos"/>
+			<opcao id="fa18b6cf-c5e1-4a73-8cc8-44acf1b4b886" idquestao="20981cd0-959c-482b-84c7-419dbc091adc" correta="false" texto="Apenas títulos e subtítulos"/>
+			<opcao id="28636897-b950-4b3a-aaf5-3f40bba5ece7" idquestao="20981cd0-959c-482b-84c7-419dbc091adc" correta="false" texto="Tudo o que parecer relevante em primeira leitura"/>
+		  </questao>
+		  <questao id="d4c4cbe6-6acb-4580-ace2-5433195fb6a7" idaula="237484fa-ae8f-4ea1-8435-bd12f8098d68" enunciado="Qual é a função dos esquemas no processo de estudo?" justificativa="Os esquemas ajudam a organizar e visualizar as ideias principais de um texto, servindo de base para resumos e revisões.">
+			<opcao id="cf695579-e4e2-471b-849d-7d88f5cecf16" idquestao="d4c4cbe6-6acb-4580-ace2-5433195fb6a7" correta="true" texto="Sintetizar graficamente os temas importantes de um texto"/>
+			<opcao id="8b3242f7-d75c-4871-8b51-35f2c38c367f" idquestao="d4c4cbe6-6acb-4580-ace2-5433195fb6a7" correta="false" texto="Substituir completamente a leitura do texto original"/>
+			<opcao id="0cde7767-a013-4256-b89d-368694a4257c" idquestao="d4c4cbe6-6acb-4580-ace2-5433195fb6a7" correta="false" texto="Criar novas ideias baseadas em suposições pessoais"/>
+			<opcao id="b7573e90-c4b8-47a1-9a0b-fe2173fb274d" idquestao="d4c4cbe6-6acb-4580-ace2-5433195fb6a7" correta="false" texto="Servir apenas como enfeite visual dos resumos"/>
+		  </questao>
+		</aula>
+		<aula id="30f018c2-c9de-4961-882f-c76d5dc82582" idmateria="c0b08c7e-99bd-4f69-bb54-15fa1b992d86" nome="Unidade 4 - Normas Técnicas: Citações e Referências">
+		  <questao id="e0faecf2-3ee5-4c6c-8c19-58649118a63c" idaula="30f018c2-c9de-4961-882f-c76d5dc82582" enunciado="Qual é a principal finalidade das normas técnicas em trabalhos acadêmicos?" justificativa="Elas garantem padronização, facilitando a compreensão e o reconhecimento científico dos trabalhos.">
+			<opcao id="14a16c47-1544-46bb-bdaa-642136f0c405" idquestao="e0faecf2-3ee5-4c6c-8c19-58649118a63c" correta="true" texto="Padronizar a apresentação para garantir clareza e reconhecimento científico"/>
+			<opcao id="cb424bf9-7f5c-487e-a80b-2d6a51f42a1d" idquestao="e0faecf2-3ee5-4c6c-8c19-58649118a63c" correta="false" texto="Substituir o conteúdo pelo formato"/>
+			<opcao id="3b60b4af-2fe6-48ef-92dd-ab80dddf7672" idquestao="e0faecf2-3ee5-4c6c-8c19-58649118a63c" correta="false" texto="Facilitar apenas a estética visual do trabalho"/>
+			<opcao id="64b004ca-8992-4e17-b7c6-67fcaa1024bd" idquestao="e0faecf2-3ee5-4c6c-8c19-58649118a63c" correta="false" texto="Aumentar a dificuldade de produção textual"/>
+		  </questao>
+		  <questao id="5be504c6-1a5a-49f2-a1c8-d6b1019c137c" idaula="30f018c2-c9de-4961-882f-c76d5dc82582" enunciado="Qual entidade brasileira é responsável pela normalização técnica?" justificativa="A ABNT (Associação Brasileira de Normas Técnicas) é o órgão oficial de padronização no Brasil.">
+			<opcao id="998a5fbc-1433-44b1-978b-92986c1f31d6" idquestao="5be504c6-1a5a-49f2-a1c8-d6b1019c137c" correta="true" texto="ABNT (Associação Brasileira de Normas Técnicas)"/>
+			<opcao id="af448af5-1efd-4fca-bb31-e1396fe68271" idquestao="5be504c6-1a5a-49f2-a1c8-d6b1019c137c" correta="false" texto="MEC"/>
+			<opcao id="276d4ded-a4fa-47bd-bea2-98d87c7b8355" idquestao="5be504c6-1a5a-49f2-a1c8-d6b1019c137c" correta="false" texto="CNPq"/>
+			<opcao id="1cd07fc5-4d49-4355-b8af-3d90f21532ee" idquestao="5be504c6-1a5a-49f2-a1c8-d6b1019c137c" correta="false" texto="INMETRO"/>
+		  </questao>
+		  <questao id="9b160d61-b8cf-4c39-8dfe-91dc52079d87" idaula="30f018c2-c9de-4961-882f-c76d5dc82582" enunciado="Qual norma da ABNT trata da elaboração de referências?" justificativa="A NBR 6023:2018 define as regras para formatação e apresentação de referências bibliográficas.">
+			<opcao id="de063588-38aa-42f1-9c96-05fb2db6aa8b" idquestao="9b160d61-b8cf-4c39-8dfe-91dc52079d87" correta="true" texto="NBR 6023:2018"/>
+			<opcao id="c30283bd-1e17-4596-ac77-3e4817a612fd" idquestao="9b160d61-b8cf-4c39-8dfe-91dc52079d87" correta="false" texto="NBR 10520:2023"/>
+			<opcao id="53cfa9dd-eb6f-40fa-af81-f12097d8a573" idquestao="9b160d61-b8cf-4c39-8dfe-91dc52079d87" correta="false" texto="NBR 14724:2011"/>
+			<opcao id="17f4e8da-65c6-420f-ac1d-0f1444831cad" idquestao="9b160d61-b8cf-4c39-8dfe-91dc52079d87" correta="false" texto="NBR 6028:2003"/>
+		  </questao>
+		  <questao id="977e072e-0f46-4738-9fec-44453841a30b" idaula="30f018c2-c9de-4961-882f-c76d5dc82582" enunciado="O que caracteriza uma citação direta?" justificativa="Citação direta é a transcrição literal das palavras do autor consultado.">
+			<opcao id="4e26fd9c-7d7f-438d-83fb-0c991eb09177" idquestao="977e072e-0f46-4738-9fec-44453841a30b" correta="true" texto="Reprodução literal do texto do autor consultado"/>
+			<opcao id="ae3da6ac-08f8-424f-8a0b-045dc4352ef6" idquestao="977e072e-0f46-4738-9fec-44453841a30b" correta="false" texto="Síntese de várias obras"/>
+			<opcao id="770eaf36-205b-4482-a857-9c2050629712" idquestao="977e072e-0f46-4738-9fec-44453841a30b" correta="false" texto="Resumo crítico do conteúdo"/>
+			<opcao id="36258f28-6761-4952-a4f7-6b0f1dbaa7c5" idquestao="977e072e-0f46-4738-9fec-44453841a30b" correta="false" texto="Paráfrase com palavras próprias"/>
+		  </questao>
+		  <questao id="ddf5c288-9732-4117-9230-9cab4882a0a9" idaula="30f018c2-c9de-4961-882f-c76d5dc82582" enunciado="Como se deve formatar uma citação direta curta (até 3 linhas)?" justificativa="Ela deve vir no corpo do texto entre aspas duplas.">
+			<opcao id="bb7d92ba-cb64-4e6b-a244-d67fb927d813" idquestao="ddf5c288-9732-4117-9230-9cab4882a0a9" correta="true" texto="Entre aspas duplas, no corpo do texto"/>
+			<opcao id="32499d97-e703-4f8e-9943-0525ac583a17" idquestao="ddf5c288-9732-4117-9230-9cab4882a0a9" correta="false" texto="Em itálico e com recuo"/>
+			<opcao id="2c833776-8053-4bf7-9e61-afc4e2520400" idquestao="ddf5c288-9732-4117-9230-9cab4882a0a9" correta="false" texto="Sem aspas, apenas com destaque negrito"/>
+			<opcao id="46787bbb-516e-46f2-ba1a-a5079f1d2e15" idquestao="ddf5c288-9732-4117-9230-9cab4882a0a9" correta="false" texto="Em fonte menor e centralizada"/>
+		  </questao>
+		  <questao id="fa444519-1b2f-4afc-867e-e9248627ef05" idaula="30f018c2-c9de-4961-882f-c76d5dc82582" enunciado="O que significa a expressão latina 'apud' em uma citação?" justificativa="'Apud' indica uma citação de citação, quando o autor não teve acesso direto à obra original.">
+			<opcao id="69981859-c3e5-42aa-a81a-bd8a923078c0" idquestao="fa444519-1b2f-4afc-867e-e9248627ef05" correta="true" texto="Citação de citação"/>
+			<opcao id="3c545dac-08a9-46ba-aeb9-4ebe1edb8ee2" idquestao="fa444519-1b2f-4afc-867e-e9248627ef05" correta="false" texto="Citação anônima"/>
+			<opcao id="6351237a-a5bb-4092-af31-dffac4f5b57b" idquestao="fa444519-1b2f-4afc-867e-e9248627ef05" correta="false" texto="Tradução do autor"/>
+			<opcao id="34feffe7-9d14-41b4-a0c9-b58f0f7683df" idquestao="fa444519-1b2f-4afc-867e-e9248627ef05" correta="false" texto="Expressão opinativa"/>
+		  </questao>
+		  <questao id="2181d9b1-94a3-4974-8290-ae80aaa1c9dd" idaula="30f018c2-c9de-4961-882f-c76d5dc82582" enunciado="Como devem ser apresentadas as citações longas (mais de 3 linhas)?" justificativa="Devem estar em parágrafo recuado, sem aspas e com fonte menor (tamanho 10).">
+			<opcao id="62a0b80d-cf79-48e1-a097-46752fbbaad8" idquestao="2181d9b1-94a3-4974-8290-ae80aaa1c9dd" correta="true" texto="Recuadas 4 cm da margem esquerda, sem aspas e em fonte menor"/>
+			<opcao id="38e6881e-5e51-495e-bc87-b24787c40fcd" idquestao="2181d9b1-94a3-4974-8290-ae80aaa1c9dd" correta="false" texto="Entre aspas simples, em itálico"/>
+			<opcao id="8e3c7e67-fc5c-4b31-8a7c-394a3efae6cf" idquestao="2181d9b1-94a3-4974-8290-ae80aaa1c9dd" correta="false" texto="Destacadas com marcador e negrito"/>
+			<opcao id="b4c6c8a7-a398-4a0b-a31b-84bc7f3a6e55" idquestao="2181d9b1-94a3-4974-8290-ae80aaa1c9dd" correta="false" texto="No rodapé como nota explicativa"/>
+		  </questao>
+		  <questao id="ea482041-9ebe-4be8-9020-1d62d1537b00" idaula="30f018c2-c9de-4961-882f-c76d5dc82582" enunciado="Em qual sistema de citação usamos autor, data e página?" justificativa="O sistema autor-data é o mais usado em trabalhos acadêmicos de graduação.">
+			<opcao id="f8e03970-1add-446e-b7a7-83a4ebb1a096" idquestao="ea482041-9ebe-4be8-9020-1d62d1537b00" correta="true" texto="Sistema autor-data (alfabético)"/>
+			<opcao id="c31b78d4-b0d9-4a69-86fe-29516c2e9f48" idquestao="ea482041-9ebe-4be8-9020-1d62d1537b00" correta="false" texto="Sistema numérico"/>
+			<opcao id="0b92064e-df9f-46d9-a4fb-75ae47f9e943" idquestao="ea482041-9ebe-4be8-9020-1d62d1537b00" correta="false" texto="Sistema por código"/>
+			<opcao id="1999f735-b515-4d28-a561-1e42421a5bd3" idquestao="ea482041-9ebe-4be8-9020-1d62d1537b00" correta="false" texto="Sistema por capítulo"/>
+		  </questao>
+		  <questao id="4725341d-4599-4350-878b-b7aebc713965" idaula="30f018c2-c9de-4961-882f-c76d5dc82582" enunciado="Qual recomendação a ABNT faz quanto ao uso de notas de rodapé na graduação?" justificativa="Devem ser usadas preferencialmente para explicações, e não para referências bibliográficas.">
+			<opcao id="d2157df1-47f6-4fba-bc0b-e15fb875b103" idquestao="4725341d-4599-4350-878b-b7aebc713965" correta="true" texto="Devem ser usadas para explicações, não para referências"/>
+			<opcao id="b19096fc-e598-4b35-908f-e99849ad68ea" idquestao="4725341d-4599-4350-878b-b7aebc713965" correta="false" texto="Devem conter todas as referências do trabalho"/>
+			<opcao id="98ea1bf4-fd0a-4512-a361-ea063e9e1386" idquestao="4725341d-4599-4350-878b-b7aebc713965" correta="false" texto="Devem ser evitadas em qualquer caso"/>
+			<opcao id="e69b38ac-6d92-442a-af5a-10980854e9ec" idquestao="4725341d-4599-4350-878b-b7aebc713965" correta="false" texto="Devem ser usadas apenas com imagens"/>
+		  </questao>
+		  <questao id="c77a19c0-bd9e-4e89-a25b-e307a9adeab8" idaula="30f018c2-c9de-4961-882f-c76d5dc82582" enunciado="Segundo a NBR 6023, como as referências devem ser alinhadas?" justificativa="Devem ser alinhadas à margem esquerda e separadas entre si por espaço simples.">
+			<opcao id="cf7f246e-2970-471f-8e6a-0e9e100f96d1" idquestao="c77a19c0-bd9e-4e89-a25b-e307a9adeab8" correta="true" texto="Alinhadas à margem esquerda e separadas por espaço simples"/>
+			<opcao id="33571f31-a2d8-43e6-a89f-8207d8a72269" idquestao="c77a19c0-bd9e-4e89-a25b-e307a9adeab8" correta="false" texto="Centralizadas e espaçadas por linha dupla"/>
+			<opcao id="c26394e0-277d-480a-b585-69e313d76489" idquestao="c77a19c0-bd9e-4e89-a25b-e307a9adeab8" correta="false" texto="Justificadas com tabulação"/>
+			<opcao id="b3f21cba-a99e-480d-96cf-eaa30ad1011e" idquestao="c77a19c0-bd9e-4e89-a25b-e307a9adeab8" correta="false" texto="Em duas colunas laterais"/>
+		  </questao>
+		  <questao id="efc1e046-9309-45d7-b69e-95d616482624" idaula="30f018c2-c9de-4961-882f-c76d5dc82582" enunciado="Qual é o formato correto para o sobrenome do autor em uma referência de livro?" justificativa="Sobrenome em letras maiúsculas e os demais nomes em minúsculas.">
+			<opcao id="ae29b82c-e12e-4d57-b606-0c946fed7aff" idquestao="efc1e046-9309-45d7-b69e-95d616482624" correta="true" texto="SOBRENOME em maiúsculas, nomes seguintes em minúsculas"/>
+			<opcao id="cf757856-dab1-4e5e-b3d7-19ed11a61ae1" idquestao="efc1e046-9309-45d7-b69e-95d616482624" correta="false" texto="Tudo em maiúsculas"/>
+			<opcao id="28914072-3b48-441c-9c0b-27f8b0537b9b" idquestao="efc1e046-9309-45d7-b69e-95d616482624" correta="false" texto="Tudo em minúsculas"/>
+			<opcao id="49842767-9c53-46ec-b79d-633930bcb976" idquestao="efc1e046-9309-45d7-b69e-95d616482624" correta="false" texto="Em negrito e sublinhado"/>
+		  </questao>
+		  <questao id="ffa4cd08-708b-424a-8a39-3e2c384ffd95" idaula="30f018c2-c9de-4961-882f-c76d5dc82582" enunciado="Como devem ser referenciados documentos extraídos da internet?" justificativa="Devem conter autor, título, URL completo e data de acesso.">
+			<opcao id="88e53b92-58ce-4d1b-be1a-22faf647240a" idquestao="ffa4cd08-708b-424a-8a39-3e2c384ffd95" correta="true" texto="Autor, título, endereço eletrônico e data de acesso"/>
+			<opcao id="258384c4-6c3b-4c64-8966-a4cdc0d89a67" idquestao="ffa4cd08-708b-424a-8a39-3e2c384ffd95" correta="false" texto="Apenas o link e o ano"/>
+			<opcao id="aba5e5a4-d979-4459-b942-0ed3af59146d" idquestao="ffa4cd08-708b-424a-8a39-3e2c384ffd95" correta="false" texto="Título da página e número de IP"/>
+			<opcao id="bb0fd65b-cc93-4ab4-83f7-5cc47124977e" idquestao="ffa4cd08-708b-424a-8a39-3e2c384ffd95" correta="false" texto="Resumo do conteúdo e link"/>
+		  </questao>
+		  <questao id="6019cdc5-971c-431b-aec6-8bc48debf5c3" idaula="30f018c2-c9de-4961-882f-c76d5dc82582" enunciado="O que indica a expressão 'tradução nossa' em uma citação?" justificativa="Mostra que o trecho foi traduzido pelo autor do trabalho e não é versão oficial.">
+			<opcao id="da347ccd-eed0-40aa-829a-410b66c81190" idquestao="6019cdc5-971c-431b-aec6-8bc48debf5c3" correta="true" texto="O trecho foi traduzido pelo autor do trabalho"/>
+			<opcao id="c92e40ab-587a-49bf-a8b5-4f0307dcbeba" idquestao="6019cdc5-971c-431b-aec6-8bc48debf5c3" correta="false" texto="É uma citação oficial do tradutor original"/>
+			<opcao id="4296de28-df72-4daa-a1ac-6c652c592883" idquestao="6019cdc5-971c-431b-aec6-8bc48debf5c3" correta="false" texto="A citação foi extraída de dicionário"/>
+			<opcao id="93327d92-32ea-41ce-a916-eae7cae637ae" idquestao="6019cdc5-971c-431b-aec6-8bc48debf5c3" correta="false" texto="A fonte é de domínio público"/>
+		  </questao>
+		  <questao id="7fff74c2-0084-46d9-a23f-c9a0a34dc01d" idaula="30f018c2-c9de-4961-882f-c76d5dc82582" enunciado="Qual ferramenta online gratuita permite gerar referências segundo a ABNT?" justificativa="O MORE, da UFSC, ajuda a gerar referências conforme a NBR 6023.">
+			<opcao id="836392d6-42a6-4426-a231-8de403ecf071" idquestao="7fff74c2-0084-46d9-a23f-c9a0a34dc01d" correta="true" texto="MORE – Mecanismo Online para Referências (UFSC)"/>
+			<opcao id="3e86892b-f2ca-4f63-8f38-6f2cede0ac57" idquestao="7fff74c2-0084-46d9-a23f-c9a0a34dc01d" correta="false" texto="Lattes Brasil"/>
+			<opcao id="2458cd05-5419-4387-b1ae-a99511dd43ce" idquestao="7fff74c2-0084-46d9-a23f-c9a0a34dc01d" correta="false" texto="Editor Acadêmico"/>
+			<opcao id="e9aaeab3-0b17-4766-b43b-debcd38f5fa4" idquestao="7fff74c2-0084-46d9-a23f-c9a0a34dc01d" correta="false" texto="FastCite Express"/>
+		  </questao>
+		  <questao id="b16bccc6-d2c7-489f-94b9-e8cbdcdee618" idaula="30f018c2-c9de-4961-882f-c76d5dc82582" enunciado="O que é uma 'chamada' em um trabalho acadêmico?" justificativa="É a informação que acompanha a citação e permite identificar a fonte na lista de referências.">
+			<opcao id="1db3b4cf-fcdd-4023-9c2d-a26a408cce42" idquestao="b16bccc6-d2c7-489f-94b9-e8cbdcdee618" correta="true" texto="Identificação da fonte da citação dentro do texto"/>
+			<opcao id="dd36ebaf-962f-4780-be60-71a8e670773c" idquestao="b16bccc6-d2c7-489f-94b9-e8cbdcdee618" correta="false" texto="Resumo geral do trabalho"/>
+			<opcao id="a9cddec3-aedb-465f-8aac-d5d35588e842" idquestao="b16bccc6-d2c7-489f-94b9-e8cbdcdee618" correta="false" texto="Nota explicativa no rodapé"/>
+			<opcao id="93237fda-3bc4-4464-a522-67b12c8589ed" idquestao="b16bccc6-d2c7-489f-94b9-e8cbdcdee618" correta="false" texto="Título do capítulo de origem"/>
+		  </questao>
+		</aula>
+		<aula id="f35c3757-7462-4c29-a401-f6461fb3c5fb" idmateria="c0b08c7e-99bd-4f69-bb54-15fa1b992d86" nome="Unidade 5 - Estrutura e Apresentação de Trabalhos Acadêmicos Científicos">
+		  <questao id="3626e2ea-e5ac-464d-9a37-3ac415195b5d" idaula="f35c3757-7462-4c29-a401-f6461fb3c5fb" enunciado="Qual norma da ABNT define a estrutura de trabalhos acadêmicos como teses e dissertações?" justificativa="A NBR 14724:2011 trata da apresentação de trabalhos acadêmicos.">
+			<opcao id="ad3c0a11-69b6-4d53-9c97-888ed273963d" idquestao="3626e2ea-e5ac-464d-9a37-3ac415195b5d" correta="true" texto="NBR 14724:2011"/>
+			<opcao id="c927fbae-3fd6-4196-a332-c535f6babc59" idquestao="3626e2ea-e5ac-464d-9a37-3ac415195b5d" correta="false" texto="NBR 6023:2018"/>
+			<opcao id="5281886d-13a0-4a21-a480-7b926dd5534a" idquestao="3626e2ea-e5ac-464d-9a37-3ac415195b5d" correta="false" texto="NBR 6027:2012"/>
+			<opcao id="ea47fc4a-7d12-4286-9c54-c231ceff6948" idquestao="3626e2ea-e5ac-464d-9a37-3ac415195b5d" correta="false" texto="NBR 10520:2023"/>
+		  </questao>
+		  <questao id="85c7a406-e397-4fc6-bd91-58d8765b5a74" idaula="f35c3757-7462-4c29-a401-f6461fb3c5fb" enunciado="Quais são os elementos que compõem a parte externa de um trabalho acadêmico?" justificativa="A parte externa inclui a capa (obrigatória) e a lombada (opcional).">
+			<opcao id="5b1df055-53d0-470e-81c4-ae7f17a5bdea" idquestao="85c7a406-e397-4fc6-bd91-58d8765b5a74" correta="true" texto="Capa e lombada"/>
+			<opcao id="844962d0-c5d4-446c-be52-f2621386ce02" idquestao="85c7a406-e397-4fc6-bd91-58d8765b5a74" correta="false" texto="Sumário e folha de rosto"/>
+			<opcao id="bee28754-6e86-4645-8722-0ce37cc80a04" idquestao="85c7a406-e397-4fc6-bd91-58d8765b5a74" correta="false" texto="Resumo e palavras-chave"/>
+			<opcao id="1e6e86f6-341c-40b8-b2cf-7ad7214afc3e" idquestao="85c7a406-e397-4fc6-bd91-58d8765b5a74" correta="false" texto="Referências e glossário"/>
+		  </questao>
+		  <questao id="27001f21-4532-4227-bdeb-08af12110af4" idaula="f35c3757-7462-4c29-a401-f6461fb3c5fb" enunciado="O que deve conter a folha de rosto de um trabalho acadêmico?" justificativa="A folha de rosto inclui informações como autor, título, natureza do trabalho e orientador.">
+			<opcao id="23743440-d125-40fc-b11d-793e411f7b01" idquestao="27001f21-4532-4227-bdeb-08af12110af4" correta="true" texto="Autor, título, natureza do trabalho, orientador, instituição, local e ano"/>
+			<opcao id="e7eda6e1-9bfe-4f17-a4de-12fda69488d9" idquestao="27001f21-4532-4227-bdeb-08af12110af4" correta="false" texto="Somente autor e título"/>
+			<opcao id="c5e6ed40-38e7-4ccc-97b1-b3aba484ff84" idquestao="27001f21-4532-4227-bdeb-08af12110af4" correta="false" texto="Apenas o resumo e as palavras-chave"/>
+			<opcao id="a95720e3-ec47-4fc0-991b-18d1ea647a90" idquestao="27001f21-4532-4227-bdeb-08af12110af4" correta="false" texto="Nome do curso e número de páginas"/>
+		  </questao>
+		  <questao id="62dcb25a-cfcd-449b-9a24-f40baf0a1fa5" idaula="f35c3757-7462-4c29-a401-f6461fb3c5fb" enunciado="Quando se deve utilizar a errata em um trabalho acadêmico?" justificativa="A errata é usada para corrigir erros após o trabalho estar impresso.">
+			<opcao id="18c7679e-da87-41c2-a057-fd65609ccc80" idquestao="62dcb25a-cfcd-449b-9a24-f40baf0a1fa5" correta="true" texto="Quando o trabalho já foi impresso e não pode mais ser alterado"/>
+			<opcao id="b09bb46a-41c5-4e9d-98f7-dc674374d222" idquestao="62dcb25a-cfcd-449b-9a24-f40baf0a1fa5" correta="false" texto="Antes da entrega da primeira versão"/>
+			<opcao id="0262a007-8d82-4178-a869-905407f31398" idquestao="62dcb25a-cfcd-449b-9a24-f40baf0a1fa5" correta="false" texto="Somente em artigos científicos"/>
+			<opcao id="c9cd40b1-c38a-4aac-9bd0-89c061036b31" idquestao="62dcb25a-cfcd-449b-9a24-f40baf0a1fa5" correta="false" texto="Para incluir novos dados"/>
+		  </questao>
+		  <questao id="0bf68047-35ce-4dfb-b3e1-d7be66679ce0" idaula="f35c3757-7462-4c29-a401-f6461fb3c5fb" enunciado="Qual é a função do resumo segundo a NBR 6028:2003?" justificativa="O resumo apresenta os objetivos, metodologia, resultados e conclusões do trabalho.">
+			<opcao id="bedcb71e-e78d-414f-980c-d23d2a599898" idquestao="0bf68047-35ce-4dfb-b3e1-d7be66679ce0" correta="true" texto="Apresentar de forma clara e concisa os objetivos, métodos e resultados do trabalho"/>
+			<opcao id="df943d5c-3a60-41cf-9b0f-440afb782314" idquestao="0bf68047-35ce-4dfb-b3e1-d7be66679ce0" correta="false" texto="Contar a história do autor"/>
+			<opcao id="217a3b31-234f-42db-bf8a-8314152b1cca" idquestao="0bf68047-35ce-4dfb-b3e1-d7be66679ce0" correta="false" texto="Mostrar as críticas recebidas"/>
+			<opcao id="c7132225-1c29-4045-a368-303379ddaf9f" idquestao="0bf68047-35ce-4dfb-b3e1-d7be66679ce0" correta="false" texto="Reproduzir o sumário"/>
+		  </questao>
+		  <questao id="6b033f13-b4a2-4ba7-92be-6f315efc38d0" idaula="f35c3757-7462-4c29-a401-f6461fb3c5fb" enunciado="Quantas palavras deve ter o resumo de um trabalho acadêmico?" justificativa="Deve ter entre 150 e 500 palavras.">
+			<opcao id="a4373aff-f4ef-4ddb-b5b8-d1dd5772be4e" idquestao="6b033f13-b4a2-4ba7-92be-6f315efc38d0" correta="true" texto="Entre 150 e 500 palavras"/>
+			<opcao id="86854394-6421-4f43-939e-152abc778752" idquestao="6b033f13-b4a2-4ba7-92be-6f315efc38d0" correta="false" texto="Entre 50 e 100 palavras"/>
+			<opcao id="1e4ad56a-f4c9-43b2-b400-eeb51195d709" idquestao="6b033f13-b4a2-4ba7-92be-6f315efc38d0" correta="false" texto="Mais de 1000 palavras"/>
+			<opcao id="e40a82ff-9dcc-48fc-879b-a6365d1f996e" idquestao="6b033f13-b4a2-4ba7-92be-6f315efc38d0" correta="false" texto="Não possui limite mínimo"/>
+		  </questao>
+		  <questao id="213c4200-4307-46c8-9d5a-bf97da6caa76" idaula="f35c3757-7462-4c29-a401-f6461fb3c5fb" enunciado="Onde devem ser posicionadas as palavras-chave no trabalho?" justificativa="Elas são colocadas logo abaixo do resumo, com espaçamento duplo.">
+			<opcao id="1ef3cbe7-17cc-4fb2-b035-9dd17117eb2f" idquestao="213c4200-4307-46c8-9d5a-bf97da6caa76" correta="true" texto="Logo abaixo do resumo, com espaçamento duplo"/>
+			<opcao id="debb420a-1c51-4081-8839-d6f74afd5188" idquestao="213c4200-4307-46c8-9d5a-bf97da6caa76" correta="false" texto="No final do trabalho"/>
+			<opcao id="8a32ec7b-5e0c-46a6-b085-3184640d0fd3" idquestao="213c4200-4307-46c8-9d5a-bf97da6caa76" correta="false" texto="Antes da folha de rosto"/>
+			<opcao id="e3df4c43-b929-4d31-a3b6-34e21d6a72c6" idquestao="213c4200-4307-46c8-9d5a-bf97da6caa76" correta="false" texto="Junto ao sumário"/>
+		  </questao>
+		  <questao id="b8617abd-e0b9-4817-b11c-c3c207911d1f" idaula="f35c3757-7462-4c29-a401-f6461fb3c5fb" enunciado="Qual é o idioma obrigatório do segundo resumo em trabalhos acadêmicos?" justificativa="Segundo a NBR 6028, deve haver um resumo em língua estrangeira, usualmente em inglês.">
+			<opcao id="2018306a-dea5-4133-8b5e-f3cd2e121308" idquestao="b8617abd-e0b9-4817-b11c-c3c207911d1f" correta="true" texto="Inglês"/>
+			<opcao id="de8b1874-7eed-4595-8851-953fd137dd11" idquestao="b8617abd-e0b9-4817-b11c-c3c207911d1f" correta="false" texto="Espanhol"/>
+			<opcao id="ad7f2994-0c33-4fb6-948a-faab2c33c209" idquestao="b8617abd-e0b9-4817-b11c-c3c207911d1f" correta="false" texto="Francês"/>
+			<opcao id="7f7fde4f-b032-46e6-b5d7-0a81b0cb47d5" idquestao="b8617abd-e0b9-4817-b11c-c3c207911d1f" correta="false" texto="Alemão"/>
+		  </questao>
+		  <questao id="23af1b7f-8c86-4ece-88db-2ba95b68b8f2" idaula="f35c3757-7462-4c29-a401-f6461fb3c5fb" enunciado="O que é o glossário?" justificativa="É uma lista de termos técnicos com definições usadas no trabalho.">
+			<opcao id="aacc82a4-243e-46d6-92b8-e104208f2c6a" idquestao="23af1b7f-8c86-4ece-88db-2ba95b68b8f2" correta="true" texto="Lista de termos técnicos com definições"/>
+			<opcao id="8b3e6514-2b9b-4269-a124-9bca1828f058" idquestao="23af1b7f-8c86-4ece-88db-2ba95b68b8f2" correta="false" texto="Lista de capítulos"/>
+			<opcao id="796ab324-b40d-44b7-8f01-5173e060b176" idquestao="23af1b7f-8c86-4ece-88db-2ba95b68b8f2" correta="false" texto="Resumo estendido"/>
+			<opcao id="b8e49c6a-2357-4707-a518-0aa951b06b23" idquestao="23af1b7f-8c86-4ece-88db-2ba95b68b8f2" correta="false" texto="Tabela de dados"/>
+		  </questao>
+		  <questao id="ae13675f-f65e-4b50-ab6a-f24997d28a8c" idaula="f35c3757-7462-4c29-a401-f6461fb3c5fb" enunciado="Qual a diferença entre apêndice e anexo?" justificativa="Apêndice é produzido pelo autor, anexo é material externo.">
+			<opcao id="9f185e9e-f642-4724-ac68-15b25b67bb47" idquestao="ae13675f-f65e-4b50-ab6a-f24997d28a8c" correta="true" texto="Apêndice é do autor; anexo é material externo"/>
+			<opcao id="21179ca5-373f-4e19-b4e0-9a754531ad1f" idquestao="ae13675f-f65e-4b50-ab6a-f24997d28a8c" correta="false" texto="Ambos são produzidos por terceiros"/>
+			<opcao id="d821917b-c591-4513-9ca3-61036054baf1" idquestao="ae13675f-f65e-4b50-ab6a-f24997d28a8c" correta="false" texto="Não há diferença"/>
+			<opcao id="2c0cc177-3581-4174-8923-ef05a706c841" idquestao="ae13675f-f65e-4b50-ab6a-f24997d28a8c" correta="false" texto="Apêndice é opcional; anexo é obrigatório"/>
+		  </questao>
+		  <questao id="e68cc1bd-4ae7-4e63-bc5d-01721ef7eab7" idaula="f35c3757-7462-4c29-a401-f6461fb3c5fb" enunciado="Qual elemento deve aparecer por último entre os pré-textuais?" justificativa="O sumário é o último dos elementos pré-textuais, conforme a NBR 6027.">
+			<opcao id="528fb908-157b-42fd-bc9b-46edb49f3081" idquestao="e68cc1bd-4ae7-4e63-bc5d-01721ef7eab7" correta="true" texto="Sumário"/>
+			<opcao id="0c424aa0-0386-4127-8a19-268e6bac7302" idquestao="e68cc1bd-4ae7-4e63-bc5d-01721ef7eab7" correta="false" texto="Resumo"/>
+			<opcao id="18e0878a-416e-4ca5-b8f1-2c033d980ff3" idquestao="e68cc1bd-4ae7-4e63-bc5d-01721ef7eab7" correta="false" texto="Folha de rosto"/>
+			<opcao id="3d885e65-ba3c-4f9f-acc4-3df15272819e" idquestao="e68cc1bd-4ae7-4e63-bc5d-01721ef7eab7" correta="false" texto="Agradecimentos"/>
+		  </questao>
+		  <questao id="d05b72c0-8be1-4a86-8e82-9d16c579fe66" idaula="f35c3757-7462-4c29-a401-f6461fb3c5fb" enunciado="Quais são as partes do texto segundo a estrutura textual?" justificativa="A estrutura textual inclui introdução, desenvolvimento e conclusão.">
+			<opcao id="13560659-0ddb-4d88-8a7e-3ca29a939315" idquestao="d05b72c0-8be1-4a86-8e82-9d16c579fe66" correta="true" texto="Introdução, desenvolvimento e conclusão"/>
+			<opcao id="53dcd28f-7ac1-4358-8305-b58afee16e78" idquestao="d05b72c0-8be1-4a86-8e82-9d16c579fe66" correta="false" texto="Resumo, tema e resultado"/>
+			<opcao id="1b0f079c-6afb-4c3b-bf92-722e769d1738" idquestao="d05b72c0-8be1-4a86-8e82-9d16c579fe66" correta="false" texto="Objetivo, fundamentação e apêndices"/>
+			<opcao id="eef91c1c-03b8-454e-8743-88287cff41ef" idquestao="d05b72c0-8be1-4a86-8e82-9d16c579fe66" correta="false" texto="Referências, glossário e índice"/>
+		  </questao>
+		  <questao id="a0a72241-45b5-43b0-a19f-25f74ca9a7e7" idaula="f35c3757-7462-4c29-a401-f6461fb3c5fb" enunciado="Qual é a recomendação de espaçamento entre linhas no corpo do texto?" justificativa="O espaçamento padrão no corpo do texto é de 1,5.">
+			<opcao id="67cae0f6-ff91-4219-9cc8-9616d17f8e6b" idquestao="a0a72241-45b5-43b0-a19f-25f74ca9a7e7" correta="true" texto="1,5"/>
+			<opcao id="d999b230-dd9d-48a1-a3ac-779451bbc3b6" idquestao="a0a72241-45b5-43b0-a19f-25f74ca9a7e7" correta="false" texto="Simples"/>
+			<opcao id="730d5440-0a4d-40d3-a05f-3a608b9dcbbc" idquestao="a0a72241-45b5-43b0-a19f-25f74ca9a7e7" correta="false" texto="Duplo"/>
+			<opcao id="0ff29c38-c553-4654-b6ac-a6a394e7323e" idquestao="a0a72241-45b5-43b0-a19f-25f74ca9a7e7" correta="false" texto="2,5"/>
+		  </questao>
+		  <questao id="4ce087c1-7362-4c48-aa30-7c5d914c006b" idaula="f35c3757-7462-4c29-a401-f6461fb3c5fb" enunciado="Qual tamanho de fonte deve ser utilizado no corpo do texto?" justificativa="A ABNT recomenda tamanho 12 para o corpo do texto.">
+			<opcao id="ff3d990e-8809-4f83-8108-7bfb5a962783" idquestao="4ce087c1-7362-4c48-aa30-7c5d914c006b" correta="true" texto="12"/>
+			<opcao id="57ed0e88-ec58-4c60-babc-10515b339fe8" idquestao="4ce087c1-7362-4c48-aa30-7c5d914c006b" correta="false" texto="10"/>
+			<opcao id="9b22bd3c-a11c-47f5-9a3a-bd546fac181e" idquestao="4ce087c1-7362-4c48-aa30-7c5d914c006b" correta="false" texto="14"/>
+			<opcao id="82bc922e-36ee-4026-84ee-b50d1791c21b" idquestao="4ce087c1-7362-4c48-aa30-7c5d914c006b" correta="false" texto="16"/>
+		  </questao>
+		  <questao id="d70671aa-add9-453f-a5e8-4a8b89a89361" idaula="f35c3757-7462-4c29-a401-f6461fb3c5fb" enunciado="Como deve ser a numeração das páginas?" justificativa="A numeração começa na parte textual, no canto superior direito.">
+			<opcao id="99473e74-d493-4021-8d64-74db69171c16" idquestao="d70671aa-add9-453f-a5e8-4a8b89a89361" correta="true" texto="No canto superior direito, a partir da parte textual"/>
+			<opcao id="3d8a6855-116f-426e-8925-a48e219cdfe1" idquestao="d70671aa-add9-453f-a5e8-4a8b89a89361" correta="false" texto="No rodapé, desde a capa"/>
+			<opcao id="dc88b010-e2f0-448d-84af-0b34c762108d" idquestao="d70671aa-add9-453f-a5e8-4a8b89a89361" correta="false" texto="No canto esquerdo"/>
+			<opcao id="19949da4-a807-4f15-81ec-00044b5ca56c" idquestao="d70671aa-add9-453f-a5e8-4a8b89a89361" correta="false" texto="No verso das folhas"/>
+		  </questao>
+		  <questao id="104cc112-ece9-4982-9168-9d1e2385a1d2" idaula="f35c3757-7462-4c29-a401-f6461fb3c5fb" enunciado="Qual fonte é recomendada pela ABNT para textos acadêmicos?" justificativa="Arial ou Times New Roman são as fontes recomendadas.">
+			<opcao id="c5c9c1a0-01d0-4dac-834a-f7fe79acb469" idquestao="104cc112-ece9-4982-9168-9d1e2385a1d2" correta="true" texto="Arial ou Times New Roman"/>
+			<opcao id="4e8f1811-285b-42ce-b5b3-ac25bbabf4b7" idquestao="104cc112-ece9-4982-9168-9d1e2385a1d2" correta="false" texto="Calibri"/>
+			<opcao id="dd3e2219-2968-4d6f-b084-f7898009b577" idquestao="104cc112-ece9-4982-9168-9d1e2385a1d2" correta="false" texto="Comic Sans"/>
+			<opcao id="ec530d6a-d5f4-420d-b211-a6947576e988" idquestao="104cc112-ece9-4982-9168-9d1e2385a1d2" correta="false" texto="Verdana"/>
+		  </questao>
+		  <questao id="82faf5a8-7303-44ad-8346-c91c84419f88" idaula="f35c3757-7462-4c29-a401-f6461fb3c5fb" enunciado="Qual é a principal função das ilustrações em um trabalho?" justificativa="As ilustrações auxiliam na compreensão visual do conteúdo textual.">
+			<opcao id="122dc273-2a10-40cd-97ba-3b540cb8002d" idquestao="82faf5a8-7303-44ad-8346-c91c84419f88" correta="true" texto="Complementar visualmente o conteúdo textual"/>
+			<opcao id="756b1599-df33-49b1-b782-325cc88baed1" idquestao="82faf5a8-7303-44ad-8346-c91c84419f88" correta="false" texto="Substituir as explicações"/>
+			<opcao id="938c6d4e-2cab-4b9e-b377-63295a76e82a" idquestao="82faf5a8-7303-44ad-8346-c91c84419f88" correta="false" texto="Preencher espaços vazios"/>
+			<opcao id="3cdaf706-61d4-4705-8d70-c0797e60d48d" idquestao="82faf5a8-7303-44ad-8346-c91c84419f88" correta="false" texto="Enfeitar o trabalho"/>
+		  </questao>
+		  <questao id="123a6056-355d-40ec-b05e-1e31efd0a082" idaula="f35c3757-7462-4c29-a401-f6461fb3c5fb" enunciado="Como deve ser identificada uma ilustração segundo a ABNT?" justificativa="O título da ilustração deve vir acima, com a fonte abaixo.">
+			<opcao id="1318b6e5-cac7-4abb-80c3-b3754e203e3d" idquestao="123a6056-355d-40ec-b05e-1e31efd0a082" correta="true" texto="Com título acima e fonte abaixo"/>
+			<opcao id="eb2ea991-1cc5-4e06-9d8f-e679208d48ba" idquestao="123a6056-355d-40ec-b05e-1e31efd0a082" correta="false" texto="Com legenda lateral"/>
+			<opcao id="16990d7b-154b-492b-b392-3e37a7e42012" idquestao="123a6056-355d-40ec-b05e-1e31efd0a082" correta="false" texto="Com número romano"/>
+			<opcao id="2590da06-6dd5-4a5e-a58d-1fcb40741376" idquestao="123a6056-355d-40ec-b05e-1e31efd0a082" correta="false" texto="Com destaque em negrito no texto"/>
+		  </questao>
+		  <questao id="da6dc8bd-c69f-43bb-a378-f58d6e76a384" idaula="f35c3757-7462-4c29-a401-f6461fb3c5fb" enunciado="Qual é a norma que trata da apresentação de tabelas, segundo o IBGE?" justificativa="A norma do IBGE de 1993 orienta sobre apresentação tabular.">
+			<opcao id="36bcf048-615a-4209-895b-a77e76d08eba" idquestao="da6dc8bd-c69f-43bb-a378-f58d6e76a384" correta="true" texto="Normas de apresentação tabular (IBGE, 1993)"/>
+			<opcao id="08f4dfee-bad2-46d4-b289-7e8e5ba1cfe6" idquestao="da6dc8bd-c69f-43bb-a378-f58d6e76a384" correta="false" texto="NBR 6023"/>
+			<opcao id="5e72496e-7eb8-492d-889b-74313e22035d" idquestao="da6dc8bd-c69f-43bb-a378-f58d6e76a384" correta="false" texto="NBR 10520"/>
+			<opcao id="6186cb59-4433-4b90-853a-58128e0d09ab" idquestao="da6dc8bd-c69f-43bb-a378-f58d6e76a384" correta="false" texto="NBR 14724"/>
+		  </questao>
+		  <questao id="8aabe65d-34c8-4b00-b0c8-767f1b89f856" idaula="f35c3757-7462-4c29-a401-f6461fb3c5fb" enunciado="O que diferencia uma tabela de um quadro?" justificativa="Tabelas apresentam dados numéricos; quadros, informações textuais.">
+			<opcao id="82f455fc-10e0-4fc9-b2d9-fdab50f00b83" idquestao="8aabe65d-34c8-4b00-b0c8-767f1b89f856" correta="true" texto="Tabelas têm dados numéricos; quadros apresentam textos agrupados"/>
+			<opcao id="f16aa525-3161-4be6-a342-b0a18c212632" idquestao="8aabe65d-34c8-4b00-b0c8-767f1b89f856" correta="false" texto="Tabelas são maiores que quadros"/>
+			<opcao id="391fcf58-8aeb-4a49-a731-b0c170eb96e8" idquestao="8aabe65d-34c8-4b00-b0c8-767f1b89f856" correta="false" texto="Quadros não precisam de fonte"/>
+			<opcao id="8fc13f45-7030-49ed-9c0a-c5bdaa9fa42a" idquestao="8aabe65d-34c8-4b00-b0c8-767f1b89f856" correta="false" texto="Tabelas são sempre coloridas"/>
+		  </questao>
+		</aula>
+		<aula id="315bf05e-9776-47f1-8836-1c6c202b3f40" idmateria="c0b08c7e-99bd-4f69-bb54-15fa1b992d86" nome="Unidade 6 - Elaboração de Projetos de Pesquisa">
+		  <questao id="04250dbf-020e-4988-8e1d-2849415fcc3e" idaula="315bf05e-9776-47f1-8836-1c6c202b3f40" enunciado="Qual norma da ABNT trata especificamente da elaboração de projetos de pesquisa?" justificativa="A NBR 15287:2011 estabelece os requisitos para formatação e estrutura de projetos de pesquisa.">
+			<opcao id="65f9872e-fddb-4e17-b943-c79e1a87caed" idquestao="04250dbf-020e-4988-8e1d-2849415fcc3e" correta="true" texto="NBR 15287:2011"/>
+			<opcao id="e3b24490-f837-4e5f-ac7f-f2b15e16c7c4" idquestao="04250dbf-020e-4988-8e1d-2849415fcc3e" correta="false" texto="NBR 14724:2011"/>
+			<opcao id="70c1cf5a-3a3e-4ee4-932f-68bd16ad9ce7" idquestao="04250dbf-020e-4988-8e1d-2849415fcc3e" correta="false" texto="NBR 10719:2011"/>
+			<opcao id="5b9786a9-50be-4a88-b3ad-2e415f805434" idquestao="04250dbf-020e-4988-8e1d-2849415fcc3e" correta="false" texto="NBR 6022:2003"/>
+		  </questao>
+		  <questao id="668a0a2e-4ae2-44c3-87dc-008f8509199b" idaula="315bf05e-9776-47f1-8836-1c6c202b3f40" enunciado="O que caracteriza uma pesquisa científica?" justificativa="É uma investigação sistemática com base em um problema delimitado, métodos claros e resultados originais.">
+			<opcao id="40b06193-9ec1-4d96-b702-9651981317fd" idquestao="668a0a2e-4ae2-44c3-87dc-008f8509199b" correta="true" texto="Investigação sistemática com problema delimitado e métodos definidos"/>
+			<opcao id="fcc1ac31-379a-42a5-bce9-d3d9c8640328" idquestao="668a0a2e-4ae2-44c3-87dc-008f8509199b" correta="false" texto="Revisão informal de conteúdos acadêmicos"/>
+			<opcao id="11879482-f2be-49c0-8ae3-d05b3b15fbbd" idquestao="668a0a2e-4ae2-44c3-87dc-008f8509199b" correta="false" texto="Apresentação de opiniões pessoais"/>
+			<opcao id="bd13b768-c0dc-4448-b151-cdf654306913" idquestao="668a0a2e-4ae2-44c3-87dc-008f8509199b" correta="false" texto="Tradução de artigos estrangeiros"/>
+		  </questao>
+		  <questao id="4d1a8c0c-7900-40b7-bdcf-994edf5a5ba5" idaula="315bf05e-9776-47f1-8836-1c6c202b3f40" enunciado="Qual a diferença entre pesquisa básica e aplicada?" justificativa="A básica busca conhecimento teórico; a aplicada busca solução prática para problemas.">
+			<opcao id="08d688c5-99fd-40c0-a6de-65dfd9a69c5f" idquestao="4d1a8c0c-7900-40b7-bdcf-994edf5a5ba5" correta="true" texto="A básica visa conhecimento teórico; a aplicada, solução prática"/>
+			<opcao id="cf3ebaa9-6e60-4351-8859-e9d96b9699e9" idquestao="4d1a8c0c-7900-40b7-bdcf-994edf5a5ba5" correta="false" texto="A básica é feita em campo; a aplicada, em laboratório"/>
+			<opcao id="a227bdbc-4663-4e57-a76c-5015ff9b6856" idquestao="4d1a8c0c-7900-40b7-bdcf-994edf5a5ba5" correta="false" texto="A básica é usada apenas em TCCs"/>
+			<opcao id="c400e0a0-a54d-4b4d-9ebc-d94cce2a4601" idquestao="4d1a8c0c-7900-40b7-bdcf-994edf5a5ba5" correta="false" texto="A aplicada não exige fundamentação teórica"/>
+		  </questao>
+		  <questao id="761a7237-1629-47c1-83cb-a2e0808ccf11" idaula="315bf05e-9776-47f1-8836-1c6c202b3f40" enunciado="O que é uma monografia científica?" justificativa="É um estudo aprofundado, sistemático e com valor científico, geralmente usado em cursos de graduação e pós-graduação.">
+			<opcao id="a8755e95-2451-4616-96fe-aaa25c020bca" idquestao="761a7237-1629-47c1-83cb-a2e0808ccf11" correta="true" texto="Estudo aprofundado e sistemático com valor científico"/>
+			<opcao id="3e5959b8-bade-48c7-b708-63534aec03c1" idquestao="761a7237-1629-47c1-83cb-a2e0808ccf11" correta="false" texto="Resumo de livros importantes"/>
+			<opcao id="ea9e49c2-3ca6-45e3-9aba-1bccefa2a90a" idquestao="761a7237-1629-47c1-83cb-a2e0808ccf11" correta="false" texto="Texto de opinião acadêmica"/>
+			<opcao id="555ab99b-8033-4949-8862-e96af58b6958" idquestao="761a7237-1629-47c1-83cb-a2e0808ccf11" correta="false" texto="Glossário de conceitos"/>
+		  </questao>
+		  <questao id="4d6014a2-1ed7-47bf-82e1-4a5bb4990dbe" idaula="315bf05e-9776-47f1-8836-1c6c202b3f40" enunciado="Qual das etapas abaixo faz parte da elaboração de um projeto de pesquisa?" justificativa="Escolha do tema, revisão da literatura e definição de métodos são etapas essenciais.">
+			<opcao id="f7f8b5d3-1d94-48f0-9412-28a72f1ca90c" idquestao="4d6014a2-1ed7-47bf-82e1-4a5bb4990dbe" correta="true" texto="Escolha do tema e revisão da literatura"/>
+			<opcao id="706e18fb-0fd0-42e6-b3a8-9fc7e03c5aa4" idquestao="4d6014a2-1ed7-47bf-82e1-4a5bb4990dbe" correta="false" texto="Resumo e dedicatória"/>
+			<opcao id="8b123551-369f-4fb1-83aa-d8b14699c379" idquestao="4d6014a2-1ed7-47bf-82e1-4a5bb4990dbe" correta="false" texto="Impressão e encadernação"/>
+			<opcao id="ff5a02d2-646b-4c67-95a8-f80509a5f0af" idquestao="4d6014a2-1ed7-47bf-82e1-4a5bb4990dbe" correta="false" texto="Cadastro no portal da CAPES"/>
+		  </questao>
+		  <questao id="be11da8d-3bed-446d-94c2-e00c0d379b5a" idaula="315bf05e-9776-47f1-8836-1c6c202b3f40" enunciado="Qual a principal característica de um pôster científico segundo a NBR 15437:2006?" justificativa="Deve ser visualmente claro e legível a uma distância de 1 metro.">
+			<opcao id="8420b772-e663-42e0-9d16-02fbc3b1b5fb" idquestao="be11da8d-3bed-446d-94c2-e00c0d379b5a" correta="true" texto="Legível a 1 metro, com informações organizadas visualmente"/>
+			<opcao id="9e190399-7422-4b30-939e-861bdb37f61e" idquestao="be11da8d-3bed-446d-94c2-e00c0d379b5a" correta="false" texto="Escrito em fonte manuscrita"/>
+			<opcao id="f87fb021-5a86-46c1-8216-ef32194f0c1d" idquestao="be11da8d-3bed-446d-94c2-e00c0d379b5a" correta="false" texto="Com no mínimo 10 páginas"/>
+			<opcao id="bec25f79-23ca-4f0c-9205-cc39be470cb1" idquestao="be11da8d-3bed-446d-94c2-e00c0d379b5a" correta="false" texto="Impresso apenas em papel A4"/>
+		  </questao>
+		  <questao id="aeb28210-08d4-430a-927c-081e02284b61" idaula="315bf05e-9776-47f1-8836-1c6c202b3f40" enunciado="Qual norma da ABNT orienta a apresentação de relatórios técnicos e científicos?" justificativa="A NBR 10719:2011 trata da estrutura e formatação desses documentos.">
+			<opcao id="433313ae-a749-4dbf-97aa-97767cd50b2d" idquestao="aeb28210-08d4-430a-927c-081e02284b61" correta="true" texto="NBR 10719:2011"/>
+			<opcao id="67063c32-07bb-4701-afdd-a40fa570d81b" idquestao="aeb28210-08d4-430a-927c-081e02284b61" correta="false" texto="NBR 6028:2003"/>
+			<opcao id="45c47045-0b04-4228-8c02-1df6cac5bc31" idquestao="aeb28210-08d4-430a-927c-081e02284b61" correta="false" texto="NBR 6023:2018"/>
+			<opcao id="074846ee-a45b-4d48-b860-7d719622da61" idquestao="aeb28210-08d4-430a-927c-081e02284b61" correta="false" texto="NBR 15437:2006"/>
+		  </questao>
+		  <questao id="65ac6cfd-2e8b-421a-9c6f-ad3e9e675a0b" idaula="315bf05e-9776-47f1-8836-1c6c202b3f40" enunciado="Qual é a estrutura básica de um relatório técnico segundo a ABNT?" justificativa="Inclui elementos como folha de rosto, sumário, introdução, desenvolvimento, conclusão e referências.">
+			<opcao id="315c077a-b799-474f-b92f-182ee9f487c7" idquestao="65ac6cfd-2e8b-421a-9c6f-ad3e9e675a0b" correta="true" texto="Folha de rosto, sumário, introdução, desenvolvimento, conclusão e referências"/>
+			<opcao id="8a11b9b6-2cf4-4040-8acd-4ab0f964504c" idquestao="65ac6cfd-2e8b-421a-9c6f-ad3e9e675a0b" correta="false" texto="Capa, resumo, bibliografia, agradecimentos"/>
+			<opcao id="b6207141-6417-4fe8-b724-68c34f39020a" idquestao="65ac6cfd-2e8b-421a-9c6f-ad3e9e675a0b" correta="false" texto="Introdução, metodologia, apêndice, anexo"/>
+			<opcao id="b17dccbc-7073-43da-8f13-de36ad5a4631" idquestao="65ac6cfd-2e8b-421a-9c6f-ad3e9e675a0b" correta="false" texto="Resumo gráfico, roteiro e índice"/>
+		  </questao>
+		  <questao id="9479d8aa-e885-45d7-ae82-5ec57aed3e47" idaula="315bf05e-9776-47f1-8836-1c6c202b3f40" enunciado="Qual a função da hipótese no projeto de pesquisa?" justificativa="A hipótese orienta a investigação e pode ser confirmada ou refutada pelos dados coletados.">
+			<opcao id="6185dfbb-8588-440e-a75b-84fc7861142c" idquestao="9479d8aa-e885-45d7-ae82-5ec57aed3e47" correta="true" texto="Propor uma possível resposta ao problema da pesquisa"/>
+			<opcao id="36f3c104-e1b5-41de-b15f-6f8881e09c88" idquestao="9479d8aa-e885-45d7-ae82-5ec57aed3e47" correta="false" texto="Servir como justificativa do tema"/>
+			<opcao id="d7226006-b196-49b0-a87d-e359d5e080f9" idquestao="9479d8aa-e885-45d7-ae82-5ec57aed3e47" correta="false" texto="Definir o título da pesquisa"/>
+			<opcao id="c2d55de0-b31b-4ded-bd0c-cf942317de35" idquestao="9479d8aa-e885-45d7-ae82-5ec57aed3e47" correta="false" texto="Organizar o sumário"/>
+		  </questao>
+		  <questao id="1513acaa-04b6-4457-99bc-140be1d63407" idaula="315bf05e-9776-47f1-8836-1c6c202b3f40" enunciado="O que é revisão de literatura em um projeto de pesquisa?" justificativa="É a análise crítica de obras relevantes sobre o tema, que embasa teoricamente o estudo.">
+			<opcao id="e9da27bc-b852-4ffa-bf7e-d3581198229a" idquestao="1513acaa-04b6-4457-99bc-140be1d63407" correta="true" texto="Análise crítica de obras relevantes sobre o tema"/>
+			<opcao id="324b068c-4d98-4348-b7da-5395bba3d05d" idquestao="1513acaa-04b6-4457-99bc-140be1d63407" correta="false" texto="Listagem de livros lidos"/>
+			<opcao id="591b0ac8-577c-40e0-b088-efff8894aa7b" idquestao="1513acaa-04b6-4457-99bc-140be1d63407" correta="false" texto="Resumo das aulas teóricas"/>
+			<opcao id="f27d8259-5023-4610-8083-6642dc265204" idquestao="1513acaa-04b6-4457-99bc-140be1d63407" correta="false" texto="Descrição de experimentos realizados"/>
+		  </questao>
 		</aula>
 	</materia>
 	<materia id="ee535819-ddfc-4456-be3c-242499b9892d" nome="Estudo dirigido para N3">
