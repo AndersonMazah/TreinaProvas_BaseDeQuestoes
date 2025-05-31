@@ -2544,6 +2544,494 @@
 				<opcao id="511d7960-8f45-4008-9d94-14433bb6912f" idquestao="c4a7fe17-209e-4564-bc8c-4e4cc3916541" correta="true" texto="Supressão imunológica e ansiedade."/>
 			</questao>
 		</aula>
+		<aula id="2f0ca4ef-d875-4109-b4c7-4dd845942fa1" idmateria="326d5763-7fcb-42d9-82e5-0429839683c2" nome="14.1 - Fases embriológicas">
+			<questao id="8a04e366-4156-4094-a12d-a677af1a8987" idaula="2f0ca4ef-d875-4109-b4c7-4dd845942fa1" enunciado="Qual é a primeira estrutura formada após a fecundação?" justificativa="O zigoto é a célula inicial formada pela união do espermatozoide com o óvulo.">
+				<opcao id="54e233ac-c1ae-4a59-a58b-b29cde9025d8" idquestao="8a04e366-4156-4094-a12d-a677af1a8987" correta="true" texto="Zigoto."/>
+				<opcao id="3ac49e88-4fca-4ac1-8383-90c16575da5d" idquestao="8a04e366-4156-4094-a12d-a677af1a8987" correta="false" texto="Blástula."/>
+				<opcao id="df19de03-090c-45dc-bb90-fb156e561593" idquestao="8a04e366-4156-4094-a12d-a677af1a8987" correta="false" texto="Gástrula."/>
+				<opcao id="d2377c33-dd0c-4999-9447-0387b365ea9f" idquestao="8a04e366-4156-4094-a12d-a677af1a8987" correta="false" texto="Mórula."/>
+			</questao>
+			<questao id="0cfe6120-4344-4a21-9e05-7c5422eae89a" idaula="2f0ca4ef-d875-4109-b4c7-4dd845942fa1" enunciado="Por que a fase de blástula é importante no desenvolvimento embrionário?" justificativa="A blástula é uma fase oca que prepara o embrião para a formação das camadas germinativas.">
+				<opcao id="96907f17-53d9-42f7-858e-3bac2819d41b" idquestao="0cfe6120-4344-4a21-9e05-7c5422eae89a" correta="true" texto="Porque é a estrutura onde ocorre a formação da cavidade blastocélica e o início da diferenciação celular."/>
+				<opcao id="508d5c42-576a-49b9-8d3c-0d456c3f66c7" idquestao="0cfe6120-4344-4a21-9e05-7c5422eae89a" correta="false" texto="Porque já é o estágio em que todos os órgãos estão formados."/>
+				<opcao id="ba78fff8-0365-45be-885c-fc27bb8ece21" idquestao="0cfe6120-4344-4a21-9e05-7c5422eae89a" correta="false" texto="Porque é a última fase antes do nascimento."/>
+				<opcao id="afe14ac7-e41e-4f40-a6e7-53c7b6a2ca84" idquestao="0cfe6120-4344-4a21-9e05-7c5422eae89a" correta="false" texto="Porque representa o estágio final da gastrulação."/>
+			</questao>
+			<questao id="1d2abcf9-8cb6-47f7-b1cc-4f0951658016" idaula="2f0ca4ef-d875-4109-b4c7-4dd845942fa1" enunciado="Se um embrião apresenta falhas na formação do tubo neural, qual condição pode surgir?" justificativa="Defeitos na formação do tubo neural estão associados a problemas como anencefalia e espinha bífida.">
+				<opcao id="fb5a48c3-dd45-4e97-b8ef-9fce50af2cbe" idquestao="1d2abcf9-8cb6-47f7-b1cc-4f0951658016" correta="true" texto="Espinha bífida ou anencefalia."/>
+				<opcao id="b0d7b731-5c94-44e4-8d9b-e189f2a4a7c9" idquestao="1d2abcf9-8cb6-47f7-b1cc-4f0951658016" correta="false" texto="Malformações nos rins e bexiga."/>
+				<opcao id="d5d040f5-1c11-492e-9845-4c7d3b59bf5a" idquestao="1d2abcf9-8cb6-47f7-b1cc-4f0951658016" correta="false" texto="Síndrome de Down."/>
+				<opcao id="bde5fac3-6506-473b-b1b7-6704d3939ff6" idquestao="1d2abcf9-8cb6-47f7-b1cc-4f0951658016" correta="false" texto="Hidrocefalia leve."/>
+			</questao>
+			<questao id="25942da9-d8d4-4100-b04a-d4265962b577" idaula="2f0ca4ef-d875-4109-b4c7-4dd845942fa1" enunciado="O que ocorre na gastrulação que a torna uma fase fundamental para o desenvolvimento?" justificativa="A formação dos três folhetos germinativos é o que permite a origem dos diferentes tecidos e órgãos.">
+				<opcao id="ea01df5b-ff04-4cf6-85fa-c99903813290" idquestao="25942da9-d8d4-4100-b04a-d4265962b577" correta="true" texto="Formação dos três folhetos germinativos: ectoderma, mesoderma e endoderma."/>
+				<opcao id="546f45d2-bf57-485c-83b2-02d47139870a" idquestao="25942da9-d8d4-4100-b04a-d4265962b577" correta="false" texto="Início da formação do coração e dos pulmões."/>
+				<opcao id="f639e2fb-a33e-407a-8440-05ea50963cbf" idquestao="25942da9-d8d4-4100-b04a-d4265962b577" correta="false" texto="Implantação do embrião no útero."/>
+				<opcao id="81d08754-8b66-46b3-bcaa-9b955ee5dd3b" idquestao="25942da9-d8d4-4100-b04a-d4265962b577" correta="false" texto="Especialização dos gametas femininos."/>
+			</questao>
+			<questao id="2c84d92e-23bc-4f28-bcee-c2b70b8b651a" idaula="2f0ca4ef-d875-4109-b4c7-4dd845942fa1" enunciado="Por que é essencial que o tubo neural se feche corretamente durante a neurulação?" justificativa="O fechamento correto garante o desenvolvimento normal do sistema nervoso central.">
+				<opcao id="b8b039de-3e85-4efb-bba4-c6c581ef3000" idquestao="2c84d92e-23bc-4f28-bcee-c2b70b8b651a" correta="true" texto="Porque evita malformações neurológicas graves, como a anencefalia."/>
+				<opcao id="b0e84d26-d6ac-4c54-844e-cd1b190bb48d" idquestao="2c84d92e-23bc-4f28-bcee-c2b70b8b651a" correta="false" texto="Porque estimula a formação do cordão umbilical."/>
+				<opcao id="9b2611bd-edc6-4b17-b020-cd529d8874d7" idquestao="2c84d92e-23bc-4f28-bcee-c2b70b8b651a" correta="false" texto="Porque permite a digestão adequada durante a gestação."/>
+				<opcao id="5b6293c3-7497-48fd-b8c8-1e67bed24f6c" idquestao="2c84d92e-23bc-4f28-bcee-c2b70b8b651a" correta="false" texto="Porque previne alterações nos folhetos embrionários."/>
+			</questao>
+			<questao id="3c5c759f-21ca-402a-9b47-3a6227862c35" idaula="2f0ca4ef-d875-4109-b4c7-4dd845942fa1" enunciado="Como você explicaria a relação entre os folhetos embrionários e os órgãos formados?" justificativa="A resposta correta relaciona diretamente os folhetos com os órgãos específicos que derivam deles.">
+				<opcao id="86eb5160-d42d-4828-a3d8-731fe065be30" idquestao="3c5c759f-21ca-402a-9b47-3a6227862c35" correta="true" texto="O ectoderma origina pele e sistema nervoso, o mesoderma forma músculos e vasos, e o endoderma dá origem ao intestino, fígado e pulmões."/>
+				<opcao id="7a38c3ac-cb22-4b78-8092-05961c583430" idquestao="3c5c759f-21ca-402a-9b47-3a6227862c35" correta="false" texto="Todos os folhetos formam apenas o sistema nervoso."/>
+				<opcao id="70006e68-7872-4f4d-84ea-b980ff4e7151" idquestao="3c5c759f-21ca-402a-9b47-3a6227862c35" correta="false" texto="O mesoderma dá origem apenas à pele e ao cérebro."/>
+				<opcao id="63e957d9-d625-4a32-ac0f-343a3f659743" idquestao="3c5c759f-21ca-402a-9b47-3a6227862c35" correta="false" texto="O endoderma forma os ossos e músculos exclusivamente."/>
+			</questao>
+			<questao id="2f8c074d-d18f-4e2d-9802-b3eb71b0ec74" idaula="2f0ca4ef-d875-4109-b4c7-4dd845942fa1" enunciado="Qual é a sequência correta das fases do desenvolvimento embrionário logo após a fecundação?" justificativa="A sequência correta inicia com o zigoto, célula formada logo após a fecundação. Em seguida, ocorrem as divisões celulares que formam a mórula, uma massa compacta de células. Depois disso, surge a blástula, uma estrutura oca. Por fim, acontece a gastrulação, processo em que se formam os três folhetos germinativos.">
+				<opcao id="c7c41875-8852-49a3-8c6a-5c2f7940242c" idquestao="2f8c074d-d18f-4e2d-9802-b3eb71b0ec74" correta="true" texto="Zigoto > Mórula > Blástula > Gástrula"/>
+				<opcao id="c3326ff1-cfaa-4cdf-9f1a-fa11be70ba97" idquestao="2f8c074d-d18f-4e2d-9802-b3eb71b0ec74" correta="false" texto="Zigoto > Gástrula > Mórula > Blástula"/>
+				<opcao id="c5a69134-5cbe-4527-9630-c3c0fef87753" idquestao="2f8c074d-d18f-4e2d-9802-b3eb71b0ec74" correta="false" texto="Zigoto > Gástrula > Blástula > Mórula"/>
+				<opcao id="28db6834-0108-4444-8f5e-4ae060bf2f2e" idquestao="2f8c074d-d18f-4e2d-9802-b3eb71b0ec74" correta="false" texto="Zigoto > Blástula > Mórula > Gástrula"/>
+			</questao>
+			<questao id="49dddac8-b2d5-4fc3-84f9-f40a4da0087f" idaula="2f0ca4ef-d875-4109-b4c7-4dd845942fa1" enunciado="Qual é a ordem correta das fases do desenvolvimento embrionário humano, incluindo a fase em que se inicia a formação do sistema nervoso?" justificativa="Após a fecundação, o embrião passa por fases bem definidas: começa com o zigoto, que se divide e forma a mórula. Depois, surge a blástula, que dará origem à gástrula, onde se formam os folhetos germinativos. Por fim, ocorre a nêurula, fase em que o sistema nervoso começa a se formar com a placa neural, tubo neural e crista neural.">
+				<opcao id="babc0e8b-fbf8-4547-8989-8303374691ba" idquestao="49dddac8-b2d5-4fc3-84f9-f40a4da0087f" correta="false" texto="Zigoto > Mórula > Gástrula > Blástula > Nêurula"/>
+				<opcao id="343893ab-86cf-4529-a5e9-43dc2b29073b" idquestao="49dddac8-b2d5-4fc3-84f9-f40a4da0087f" correta="true" texto="Zigoto > Mórula > Blástula > Gástrula > Nêurula"/>
+				<opcao id="c946b2fc-450a-4127-91d7-b72134cf9d11" idquestao="49dddac8-b2d5-4fc3-84f9-f40a4da0087f" correta="false" texto="Zigoto > Gástrula > Blástula > Mórula > Nêurula"/>
+				<opcao id="fcedb455-59a7-46e7-8a82-796cd2fa9488" idquestao="49dddac8-b2d5-4fc3-84f9-f40a4da0087f" correta="false" texto="Zigoto > Blástula > Mórula > Gástrula > Nêurula"/>
+			</questao>
+		</aula>
+		<aula id="4d43a864-a122-43d9-bd28-0e84f5919cb6" idmateria="326d5763-7fcb-42d9-82e5-0429839683c2" nome="14.2 - Folhetos embrionários">
+			<questao id="3a855d08-6725-430d-89fe-fc01b7c63682" idaula="4d43a864-a122-43d9-bd28-0e84f5919cb6" enunciado="Quantos e quais são os folhetos embrionários formados durante a gastrulação?" justificativa="A resposta correta identifica os três folhetos principais: ectoderma, mesoderma e endoderma.">
+				<opcao id="0d756e27-f3c8-4fff-a7dd-40807b2f7f15" idquestao="3a855d08-6725-430d-89fe-fc01b7c63682" correta="true" texto="Três: ectoderma, mesoderma e endoderma."/>
+				<opcao id="c14336e4-86ec-4aaa-bcfe-727f97f59c50" idquestao="3a855d08-6725-430d-89fe-fc01b7c63682" correta="false" texto="Dois: endoderma e ectoderma."/>
+				<opcao id="33f0b2a9-f67a-46a5-9b27-6e1a361a40d9" idquestao="3a855d08-6725-430d-89fe-fc01b7c63682" correta="false" texto="Quatro: ectoderma, mesoderma, endoderma e exoderma."/>
+				<opcao id="34c8d805-64e4-4327-aa39-ffa2c0f882fc" idquestao="3a855d08-6725-430d-89fe-fc01b7c63682" correta="false" texto="Cinco: epiderme, derme, mesoderma, endoderma e medoderma."/>
+			</questao>
+			<questao id="254320e6-226f-4731-b07a-5f840ff9441d" idaula="4d43a864-a122-43d9-bd28-0e84f5919cb6" enunciado="Qual a função do ectoderma no desenvolvimento do embrião?" justificativa="O ectoderma origina estruturas externas e o sistema nervoso.">
+				<opcao id="425b6674-be5b-4a99-a2a0-16464f48f03f" idquestao="254320e6-226f-4731-b07a-5f840ff9441d" correta="true" texto="Formar a pele, o sistema nervoso e estruturas sensoriais."/>
+				<opcao id="deeb427d-8b2a-4ce2-9bb6-5f9cad43aa9e" idquestao="254320e6-226f-4731-b07a-5f840ff9441d" correta="false" texto="Formar o coração e os rins."/>
+				<opcao id="10b53a58-663d-45b0-ad51-7484770870a4" idquestao="254320e6-226f-4731-b07a-5f840ff9441d" correta="false" texto="Gerar o sistema digestivo e respiratório."/>
+				<opcao id="b29582a2-ccff-4d6d-93f9-b6f1e565dfda" idquestao="254320e6-226f-4731-b07a-5f840ff9441d" correta="false" texto="Originar os músculos e os ossos."/>
+			</questao>
+			<questao id="7f426202-743f-4ee9-823d-1db04f8f9015" idaula="4d43a864-a122-43d9-bd28-0e84f5919cb6" enunciado="Se uma estrutura do sistema urinário está com defeito, qual folheto embrionário pode ter sido afetado?" justificativa="O sistema urinário deriva do mesoderma, por isso defeitos nessa área sugerem problemas nessa camada.">
+				<opcao id="d73eacf1-5ee8-48c1-b6e8-fd193e5868dd" idquestao="7f426202-743f-4ee9-823d-1db04f8f9015" correta="true" texto="Mesoderma."/>
+				<opcao id="b6308277-2c21-4aa6-aa3d-9aa84573df85" idquestao="7f426202-743f-4ee9-823d-1db04f8f9015" correta="false" texto="Ectoderma."/>
+				<opcao id="c674a79c-c21d-40ad-b669-146bb2ccd636" idquestao="7f426202-743f-4ee9-823d-1db04f8f9015" correta="false" texto="Endoderma."/>
+				<opcao id="444468d6-d103-4f36-ac96-401f55c4b6a9" idquestao="7f426202-743f-4ee9-823d-1db04f8f9015" correta="false" texto="Exoderma."/>
+			</questao>
+			<questao id="e9dd7e22-851d-45b7-8d93-ae6f1cca727a" idaula="4d43a864-a122-43d9-bd28-0e84f5919cb6" enunciado="Por que os folhetos embrionários são considerados essenciais para a formação dos órgãos?" justificativa="Cada folheto dá origem a sistemas e tecidos diferentes, sendo o ponto de partida para a especialização celular.">
+				<opcao id="7a19af98-6dc9-4c87-85cc-19a3e9254162" idquestao="e9dd7e22-851d-45b7-8d93-ae6f1cca727a" correta="true" texto="Porque cada um dá origem a diferentes órgãos e sistemas do corpo."/>
+				<opcao id="06ea26b7-f386-4fcf-a017-9c40f722238f" idquestao="e9dd7e22-851d-45b7-8d93-ae6f1cca727a" correta="false" texto="Porque todos formam apenas tecidos musculares."/>
+				<opcao id="61646b50-bc12-45d2-ac61-c29bfa79a1b5" idquestao="e9dd7e22-851d-45b7-8d93-ae6f1cca727a" correta="false" texto="Porque servem apenas para nutrir o embrião."/>
+				<opcao id="be085232-cbc1-44f2-874a-34a0c9b4fcb0" idquestao="e9dd7e22-851d-45b7-8d93-ae6f1cca727a" correta="false" texto="Porque controlam os batimentos cardíacos no início da gestação."/>
+			</questao>
+			<questao id="c5048619-80ab-480a-b555-19e07cfd08e7" idaula="4d43a864-a122-43d9-bd28-0e84f5919cb6" enunciado="O que indica uma má formação no endoderma durante a embriogênese?" justificativa="O endoderma dá origem a órgãos como pulmões e fígado, então alterações nesses órgãos podem apontar falhas nessa camada.">
+				<opcao id="51368ef6-7082-44bc-ba87-c38b1376f43d" idquestao="c5048619-80ab-480a-b555-19e07cfd08e7" correta="true" texto="Possíveis problemas no fígado, intestinos ou pulmões."/>
+				<opcao id="5ee307b8-a27c-452e-afb1-4e8a646ecd85" idquestao="c5048619-80ab-480a-b555-19e07cfd08e7" correta="false" texto="Alterações nos ossos e músculos."/>
+				<opcao id="474e3ccf-b7da-4c03-ab41-a6c991d7f3c5" idquestao="c5048619-80ab-480a-b555-19e07cfd08e7" correta="false" texto="Problemas na formação da pele e do cérebro."/>
+				<opcao id="fa1c2cd9-3e9d-4bb3-9cca-0044cf29122b" idquestao="c5048619-80ab-480a-b555-19e07cfd08e7" correta="false" texto="Má formação do coração e vasos sanguíneos."/>
+			</questao>
+			<questao id="2dde2f99-2ee8-4a21-ae63-d3abc13d95c5" idaula="4d43a864-a122-43d9-bd28-0e84f5919cb6" enunciado="Como você explicaria que os folhetos embrionários são como 'departamentos de construção' do corpo?" justificativa="A explicação correta mostra que cada folheto tem responsabilidades específicas na formação de partes do corpo.">
+				<opcao id="2cf31243-b382-4be0-9b21-b4970a2eeb35" idquestao="2dde2f99-2ee8-4a21-ae63-d3abc13d95c5" correta="true" texto="Cada folheto é responsável por formar tipos específicos de tecidos e órgãos, como se fossem áreas especializadas em uma construção."/>
+				<opcao id="9dcb2852-ea28-44e0-aaee-28304c3d029b" idquestao="2dde2f99-2ee8-4a21-ae63-d3abc13d95c5" correta="false" texto="Todos os folhetos fazem a mesma coisa e se misturam depois."/>
+				<opcao id="cfae067b-ef62-4ad4-bbdb-6afb6a400ac6" idquestao="2dde2f99-2ee8-4a21-ae63-d3abc13d95c5" correta="false" texto="Os folhetos são apenas camadas temporárias que desaparecem."/>
+				<opcao id="8e7ecd47-62d2-40be-bef1-cf067d6121e9" idquestao="2dde2f99-2ee8-4a21-ae63-d3abc13d95c5" correta="false" texto="Eles controlam apenas o crescimento da pele e do cabelo."/>
+			</questao>
+		</aula>
+		<aula id="9d9c8693-aaac-4ce4-b977-27d1000e9f3c" idmateria="326d5763-7fcb-42d9-82e5-0429839683c2" nome="14.3 - Neuroplasticidade">
+			<questao id="33f2d5e8-6753-4d61-8a4f-719028ee6559" idaula="9d9c8693-aaac-4ce4-b977-27d1000e9f3c" enunciado="O que é neuroplasticidade?" justificativa="A resposta correta define a neuroplasticidade como a capacidade do sistema nervoso de se modificar em resposta a estímulos, enquanto as demais confundem ou distorcem o conceito.">
+				<opcao id="b0fc0198-5f7e-450f-8898-264e73915197" idquestao="33f2d5e8-6753-4d61-8a4f-719028ee6559" correta="true" texto="A capacidade do sistema nervoso de se modificar em resposta a estímulos internos e externos."/>
+				<opcao id="aa36a174-b4b7-41e3-8ffa-23320a4c8ee5" idquestao="33f2d5e8-6753-4d61-8a4f-719028ee6559" correta="false" texto="A capacidade dos músculos de responderem a exercícios físicos intensos."/>
+				<opcao id="002e2566-ad2e-4aab-b663-5a99d4df6c54" idquestao="33f2d5e8-6753-4d61-8a4f-719028ee6559" correta="false" texto="A função exclusiva dos neurônios motores na condução de impulsos."/>
+				<opcao id="0899acd2-5428-43d2-a8b6-0b33c583bbbc" idquestao="33f2d5e8-6753-4d61-8a4f-719028ee6559" correta="false" texto="O processo de multiplicação celular do sistema nervoso central."/>
+			</questao>
+			<questao id="f140588a-5bfc-4469-8204-45b7542025fc" idaula="9d9c8693-aaac-4ce4-b977-27d1000e9f3c" enunciado="Qual é o papel do BDNF na neuroplasticidade?" justificativa="O BDNF promove o crescimento e a sobrevivência dos neurônios, sendo essencial para a plasticidade. As outras opções descrevem funções incorretas ou incompletas.">
+				<opcao id="1fd64638-ab2d-400b-94d3-3609e6f26c8f" idquestao="f140588a-5bfc-4469-8204-45b7542025fc" correta="true" texto="Promover o crescimento, sobrevivência e diferenciação dos neurônios."/>
+				<opcao id="e61c44f2-ca5f-4205-820f-36fd10870b23" idquestao="f140588a-5bfc-4469-8204-45b7542025fc" correta="false" texto="Impedir a formação de novas conexões sinápticas."/>
+				<opcao id="6988ac3a-ea23-48b8-84da-1f4e14ce0727" idquestao="f140588a-5bfc-4469-8204-45b7542025fc" correta="false" texto="Reduzir o número de sinapses no cérebro."/>
+				<opcao id="d758f0b2-3ba6-4ce6-b82c-69efc52e2299" idquestao="f140588a-5bfc-4469-8204-45b7542025fc" correta="false" texto="Atuar apenas na transmissão da dor em situações de lesão."/>
+			</questao>
+			<questao id="3ca553e6-b557-4efc-9b21-2ad6e0e0a218" idaula="9d9c8693-aaac-4ce4-b977-27d1000e9f3c" enunciado="Qual prática pode estimular positivamente a neuroplasticidade?" justificativa="Exercício físico regular tem impacto comprovado na melhora da plasticidade cerebral, diferente das opções incorretas.">
+				<opcao id="329732f3-e65f-4ddb-9c7b-4d2a8e6208f1" idquestao="3ca553e6-b557-4efc-9b21-2ad6e0e0a218" correta="true" texto="Praticar exercícios físicos regularmente."/>
+				<opcao id="4d361543-d49c-425d-b02f-5d27560a1eff" idquestao="3ca553e6-b557-4efc-9b21-2ad6e0e0a218" correta="false" texto="Evitar qualquer esforço mental durante a rotina."/>
+				<opcao id="0449b1ea-0366-43d0-80e2-25c2516dd145" idquestao="3ca553e6-b557-4efc-9b21-2ad6e0e0a218" correta="false" texto="Manter-se isolado socialmente por longos períodos."/>
+				<opcao id="00cf774d-56ba-412c-b118-f7c3d213bbcd" idquestao="3ca553e6-b557-4efc-9b21-2ad6e0e0a218" correta="false" texto="Dormir menos de 4 horas por noite para manter o cérebro ativo."/>
+			</questao>
+			<questao id="60d80f59-bc3e-4f65-a094-67a6f62d6ea1" idaula="9d9c8693-aaac-4ce4-b977-27d1000e9f3c" enunciado="Por que a poda sináptica é importante durante o desenvolvimento?" justificativa="A poda sináptica elimina conexões pouco utilizadas, tornando o funcionamento cerebral mais eficiente. As outras opções não refletem esse processo corretamente.">
+				<opcao id="3fe046aa-8010-4c64-96e0-1a07d3c4a5d2" idquestao="60d80f59-bc3e-4f65-a094-67a6f62d6ea1" correta="true" texto="Porque elimina sinapses pouco utilizadas, aumentando a eficiência das conexões neurais."/>
+				<opcao id="f6a56236-9cee-4b42-a0bc-a71841b62ad5" idquestao="60d80f59-bc3e-4f65-a094-67a6f62d6ea1" correta="false" texto="Porque destrói neurônios danificados e impede a neurogênese."/>
+				<opcao id="34efc088-357b-4a93-ac80-188d9d57819f" idquestao="60d80f59-bc3e-4f65-a094-67a6f62d6ea1" correta="false" texto="Porque impede o cérebro de criar novas memórias a longo prazo."/>
+				<opcao id="9d16daf8-bb7a-4fcc-9115-29e50450ed44" idquestao="60d80f59-bc3e-4f65-a094-67a6f62d6ea1" correta="false" texto="Porque bloqueia completamente estímulos sensoriais durante o sono."/>
+			</questao>
+			<questao id="a486eb2b-e731-4d22-8d69-206c40ba5b6f" idaula="9d9c8693-aaac-4ce4-b977-27d1000e9f3c" enunciado="O que pode ser considerado um exemplo de neuroplasticidade mal-adaptativa?" justificativa="Vícios reforçam circuitos disfuncionais de recompensa, o que é um exemplo claro de plasticidade negativa. As demais não se enquadram nessa definição.">
+				<opcao id="92ab1397-4a79-4df4-968a-5d8857b99128" idquestao="a486eb2b-e731-4d22-8d69-206c40ba5b6f" correta="true" texto="O reforço de circuitos cerebrais disfuncionais associados ao vício."/>
+				<opcao id="68dba80c-e720-4663-b698-ba4c1c087ab7" idquestao="a486eb2b-e731-4d22-8d69-206c40ba5b6f" correta="false" texto="A aprendizagem de uma nova habilidade linguística."/>
+				<opcao id="3d9cbbbd-70ed-4463-b315-2f3dd9e4222b" idquestao="a486eb2b-e731-4d22-8d69-206c40ba5b6f" correta="false" texto="A recuperação da fala após um AVC."/>
+				<opcao id="4c1f5286-8863-4b44-b96c-61e40aaf2f71" idquestao="a486eb2b-e731-4d22-8d69-206c40ba5b6f" correta="false" texto="A adaptação emocional após a prática de meditação."/>
+			</questao>
+			<questao id="4d2120f7-e5a4-443a-a50e-8ce3fa355a3b" idaula="9d9c8693-aaac-4ce4-b977-27d1000e9f3c" enunciado="Como um terapeuta pode aplicar o conceito de neuroplasticidade no tratamento de um paciente com depressão?" justificativa="A combinação de estímulos ambientais e técnicas terapêuticas pode remodelar circuitos cerebrais afetados. As outras opções não consideram adequadamente esse princípio.">
+				<opcao id="340ab228-82bc-4a2d-9f6a-e1e95c355515" idquestao="4d2120f7-e5a4-443a-a50e-8ce3fa355a3b" correta="true" texto="Utilizando intervenções que estimulem novas conexões sinápticas, como psicoterapia e atividades cognitivas."/>
+				<opcao id="abe20d00-3452-442e-a9d2-b93f073090a5" idquestao="4d2120f7-e5a4-443a-a50e-8ce3fa355a3b" correta="false" texto="Estimulando o paciente a evitar qualquer tipo de mudança em sua rotina."/>
+				<opcao id="248f7825-0b5c-4f9c-b9ec-f2ab611e1641" idquestao="4d2120f7-e5a4-443a-a50e-8ce3fa355a3b" correta="false" texto="Limitando o contato social do paciente para reduzir estímulos cerebrais."/>
+				<opcao id="3b533348-7dbf-4454-9c15-b8a12a467efb" idquestao="4d2120f7-e5a4-443a-a50e-8ce3fa355a3b" correta="false" texto="Apenas prescrevendo medicamentos sem intervenção comportamental."/>
+			</questao>
+			<questao id="4d2120f7-e5a4-443a-a50e-8ce3fa355a3e" idaula="9d9c8693-aaac-4ce4-b977-27d1000e9f3c" enunciado="Qual é a relação entre a poda sináptica e o Transtorno do Espectro Autista (TEA)?" justificativa="Estudos mostram que crianças com TEA apresentam menor índice de poda sináptica, o que pode contribuir para alterações na comunicação neural. As opções incorretas ignoram ou distorcem esse achado.">
+				<opcao id="4d2120f7-e5a4-443a-a50e-6ce3fa355a3e" idquestao="4d2120f7-e5a4-443a-a50e-8ce3fa355a3e" correta="true" texto="Crianças com TEA apresentam menos poda sináptica, o que pode afetar a organização das conexões cerebrais."/>
+				<opcao id="4d2120f7-e5a4-443a-a50e-6ce3fa355a3e" idquestao="4d2120f7-e5a4-443a-a50e-8ce3fa355a3e" correta="false" texto="A poda sináptica é mais intensa em crianças com TEA, eliminando conexões importantes demais."/>
+				<opcao id="4d2120f7-e5a4-443a-a50e-6ce3fa355a3e" idquestao="4d2120f7-e5a4-443a-a50e-8ce3fa355a3e" correta="false" texto="A poda sináptica não ocorre em indivíduos com TEA."/>
+				<opcao id="4d2120f7-e5a4-443a-a50e-6ce3fa355a3e" idquestao="4d2120f7-e5a4-443a-a50e-8ce3fa355a3e" correta="false" texto="O TEA é causado por excesso de neurogênese, e não tem relação com sinapses."/>
+			</questao>
+		</aula>
+		<aula id="bb3f1f25-84d4-49e6-b5cf-3cf3480a46de" idmateria="326d5763-7fcb-42d9-82e5-0429839683c2" nome="15 - Tipos de Memória">
+			<questao id="1c1a089f-2d3e-406a-9b5b-dbc7b191f2b1" idaula="bb3f1f25-84d4-49e6-b5cf-3cf3480a46de" enunciado="Qual das alternativas representa corretamente um exemplo de memória sensorial?" justificativa="A memória icônica armazena por frações de segundos imagens visuais percebidas pelos olhos, sendo uma forma de memória sensorial. As demais opções envolvem memória de longo prazo ou curto prazo.">
+				<opcao id="e60f7de6-3e88-4215-bb17-1b597d1cd27e" idquestao="1c1a089f-2d3e-406a-9b5b-dbc7b191f2b1" correta="true" texto="Lembrar da imagem de um relâmpago logo após vê-lo."/>
+				<opcao id="0aa80d32-f2a3-4c2e-b2cd-29ec5be0ef0a" idquestao="1c1a089f-2d3e-406a-9b5b-dbc7b191f2b1" correta="false" texto="Lembrar como foi sua última festa de aniversário."/>
+				<opcao id="227cf3f1-bd4b-4f27-87ce-77c39b862e13" idquestao="1c1a089f-2d3e-406a-9b5b-dbc7b191f2b1" correta="false" texto="Recitar a tabuada do 7."/>
+				<opcao id="a860a7b6-d591-4f56-960b-939730935c90" idquestao="1c1a089f-2d3e-406a-9b5b-dbc7b191f2b1" correta="false" texto="Executar uma coreografia de dança decorada."/>
+			</questao>
+			<questao id="a95cba1a-d098-4f43-9965-38fc3f347870" idaula="bb3f1f25-84d4-49e6-b5cf-3cf3480a46de" enunciado="A memória de curto prazo é melhor definida como:" justificativa="A memória de curto prazo é limitada em capacidade e duração, usada para armazenar temporariamente informações necessárias para tarefas imediatas.">
+				<opcao id="0fdf8231-22b9-4bde-a8c1-316f65ac911f" idquestao="a95cba1a-d098-4f43-9965-38fc3f347870" correta="true" texto="Capacidade limitada de armazenamento temporário usada para tarefas imediatas."/>
+				<opcao id="4202f7ff-6b46-48b1-b54b-3e3a437b3257" idquestao="a95cba1a-d098-4f43-9965-38fc3f347870" correta="false" texto="Armazenamento permanente de informações pessoais."/>
+				<opcao id="7c83964f-1cc4-4e0f-9ef8-fb9fd243f3e4" idquestao="a95cba1a-d098-4f43-9965-38fc3f347870" correta="false" texto="Registro inconsciente de experiências traumáticas."/>
+				<opcao id="d350fe8b-7e8e-439d-83e6-7d8ec4576ac4" idquestao="a95cba1a-d098-4f43-9965-38fc3f347870" correta="false" texto="Armazenamento de sons por vários minutos após ouvi-los."/>
+			</questao>
+			<questao id="b9e6fc6b-4d32-40e3-b785-33a2b68b14f6" idaula="bb3f1f25-84d4-49e6-b5cf-3cf3480a46de" enunciado="Qual das seguintes opções é um exemplo de memória episódica?" justificativa="Memórias episódicas são memórias de eventos vividos pessoalmente, com tempo e espaço definidos, como lembrar de uma viagem.">
+				<opcao id="7320e2c7-5e83-4dc2-bcb5-9944794fa929" idquestao="b9e6fc6b-4d32-40e3-b785-33a2b68b14f6" correta="true" texto="Lembrar do passeio que fez ao zoológico no último fim de semana."/>
+				<opcao id="1d01dcf0-3698-49f9-bb6b-f94f7d7dc7e7" idquestao="b9e6fc6b-4d32-40e3-b785-33a2b68b14f6" correta="false" texto="Saber que o Sol é uma estrela."/>
+				<opcao id="85792a61-7e5d-4f6b-bf27-330b84f55a91" idquestao="b9e6fc6b-4d32-40e3-b785-33a2b68b14f6" correta="false" texto="Tocar violão sem pensar nos movimentos."/>
+				<opcao id="8c8cb1b9-1442-421f-936e-849de271a1e0" idquestao="b9e6fc6b-4d32-40e3-b785-33a2b68b14f6" correta="false" texto="Reagir com susto ao ouvir um barulho alto."/>
+			</questao>
+			<questao id="22efb183-01a5-4427-8e70-6e239e60ec3d" idaula="bb3f1f25-84d4-49e6-b5cf-3cf3480a46de" enunciado="A memória semântica é responsável por armazenar:" justificativa="A memória semântica envolve conhecimento geral sobre o mundo, como fatos, conceitos e significados.">
+				<opcao id="52e22163-dfe4-4a37-a1ec-08e1e91638fd" idquestao="22efb183-01a5-4427-8e70-6e239e60ec3d" correta="true" texto="Conhecimentos gerais, como o nome dos planetas do sistema solar."/>
+				<opcao id="2d9ecab9-9ff6-4203-8c84-d09e4c34fc91" idquestao="22efb183-01a5-4427-8e70-6e239e60ec3d" correta="false" texto="Eventos autobiográficos marcantes da infância."/>
+				<opcao id="72c6f90d-4016-4c28-bc28-447dfcfae4ee" idquestao="22efb183-01a5-4427-8e70-6e239e60ec3d" correta="false" texto="Habilidades motoras como dirigir ou nadar."/>
+				<opcao id="68ab9c3f-f79b-4698-b58d-c285118c63b0" idquestao="22efb183-01a5-4427-8e70-6e239e60ec3d" correta="false" texto="Reações emocionais a cheiros específicos."/>
+			</questao>
+			<questao id="6580193c-3a4e-4e1a-b025-9d7d08bc9b18" idaula="bb3f1f25-84d4-49e6-b5cf-3cf3480a46de" enunciado="O que caracteriza a memória procedural (procedimental)?" justificativa="A memória procedural envolve ações automáticas, como andar de bicicleta, sem exigir esforço consciente para serem executadas.">
+				<opcao id="8ad2109a-1cf8-44e6-b38b-49607dc7d73e" idquestao="6580193c-3a4e-4e1a-b025-9d7d08bc9b18" correta="true" texto="Capacidade de executar tarefas motoras automáticas, como andar de bicicleta."/>
+				<opcao id="0838444d-320a-4bde-91a2-81615b2c59ef" idquestao="6580193c-3a4e-4e1a-b025-9d7d08bc9b18" correta="false" texto="Lembrar do conteúdo de uma palestra assistida ontem."/>
+				<opcao id="eec9ae69-6f8b-4c59-8df9-b92203842916" idquestao="6580193c-3a4e-4e1a-b025-9d7d08bc9b18" correta="false" texto="Recordar o nome de um colega de escola."/>
+				<opcao id="a770a86f-9260-4c90-89db-bd1d2550b1d9" idquestao="6580193c-3a4e-4e1a-b025-9d7d08bc9b18" correta="false" texto="Identificar o som de um instrumento musical novo."/>
+			</questao>
+			<questao id="2792f4d5-4217-4f85-b808-eabc7cb8e50f" idaula="bb3f1f25-84d4-49e6-b5cf-3cf3480a46de" enunciado="Qual das seguintes opções representa um exemplo de 'priming'?" justificativa="Priming ocorre quando a exposição prévia a um estímulo influencia a resposta a um estímulo seguinte, mesmo sem consciência disso.">
+				<opcao id="f6f29941-b7e0-4fbb-9210-7080f9cf5a47" idquestao="2792f4d5-4217-4f85-b808-eabc7cb8e50f" correta="true" texto="Ler a palavra 'hospital' e depois lembrar mais rápido da palavra 'médico'."/>
+				<opcao id="c9a1f7fa-10b8-4c45-ae5a-f5c0c0f34895" idquestao="2792f4d5-4217-4f85-b808-eabc7cb8e50f" correta="false" texto="Lembrar do nome do seu primeiro professor."/>
+				<opcao id="a638154b-11b1-4d79-9208-934be3e73326" idquestao="2792f4d5-4217-4f85-b808-eabc7cb8e50f" correta="false" texto="Cantar a letra de uma música ouvida na infância."/>
+				<opcao id="5ab4dc61-5918-4e7e-bdea-c8f89b4ce21e" idquestao="2792f4d5-4217-4f85-b808-eabc7cb8e50f" correta="false" texto="Reconhecer um cheiro familiar de infância."/>
+			</questao>
+		</aula>
+		<aula id="cd017e5c-7b47-4851-b1ef-c3db665473ed" idmateria="326d5763-7fcb-42d9-82e5-0429839683c2" nome="16.1 - Bases Biológicas da Percepção e Sensação">
+			<questao id="f26758c1-e18f-4dbb-8180-f4b8ae5f0193" idaula="cd017e5c-7b47-4851-b1ef-c3db665473ed" enunciado="Qual é a principal diferença entre sensação e percepção?" justificativa="A sensação refere-se à captação de estímulos físicos pelos órgãos sensoriais, enquanto a percepção envolve a interpretação desses estímulos pelo cérebro.">
+				<opcao id="f71d92ab-ec80-4486-b2c3-f7c19a7f1bfc" idquestao="f26758c1-e18f-4dbb-8180-f4b8ae5f0193" correta="true" texto="A sensação capta estímulos físicos e a percepção os interpreta no cérebro."/>
+				<opcao id="020b1bfa-fc4a-42f3-81da-9d84a29d4723" idquestao="f26758c1-e18f-4dbb-8180-f4b8ae5f0193" correta="false" texto="A percepção detecta estímulos e a sensação os interpreta."/>
+				<opcao id="f8d2e841-ea7d-4b11-816c-4cfa4e35f4e2" idquestao="f26758c1-e18f-4dbb-8180-f4b8ae5f0193" correta="false" texto="A sensação depende do humor e a percepção depende do tato."/>
+				<opcao id="30efb9b3-f291-4d42-bb0b-80edbf9e812d" idquestao="f26758c1-e18f-4dbb-8180-f4b8ae5f0193" correta="false" texto="A percepção ocorre nos órgãos dos sentidos e a sensação no córtex cerebral."/>
+			</questao>
+			<questao id="f3a1c48a-9a70-4e25-bf6b-62128bdfc233" idaula="cd017e5c-7b47-4851-b1ef-c3db665473ed" enunciado="Qual estrutura cerebral é responsável pela interpretação das imagens visuais captadas pela retina?" justificativa="O córtex occipital, localizado na parte posterior do cérebro, é a área responsável pelo processamento da visão.">
+				<opcao id="63798f40-8cf5-4705-a019-10fda11fe9ff" idquestao="f3a1c48a-9a70-4e25-bf6b-62128bdfc233" correta="true" texto="Córtex occipital"/>
+				<opcao id="ab5b57d2-2a06-41e1-9f06-c0149cf2b4a1" idquestao="f3a1c48a-9a70-4e25-bf6b-62128bdfc233" correta="false" texto="Córtex frontal"/>
+				<opcao id="87d2f7a9-2be3-4cd9-b74d-c3c24f3dd27b" idquestao="f3a1c48a-9a70-4e25-bf6b-62128bdfc233" correta="false" texto="Hipotálamo"/>
+				<opcao id="db8d1326-28ae-4f1b-b03e-4c34b0ed45a6" idquestao="f3a1c48a-9a70-4e25-bf6b-62128bdfc233" correta="false" texto="Cerebelo"/>
+			</questao>
+			<questao id="8e50c56e-bd09-4624-b7ae-fcad508d7352" idaula="cd017e5c-7b47-4851-b1ef-c3db665473ed" enunciado="Como ocorre o processamento do paladar no sistema nervoso?" justificativa="As papilas gustativas enviam sinais pelos nervos cranianos VII, IX e X até o tálamo e, posteriormente, ao córtex gustativo.">
+				<opcao id="b3a5ef26-d1e1-4c31-bc95-c234e2f4f514" idquestao="8e50c56e-bd09-4624-b7ae-fcad508d7352" correta="true" texto="As papilas gustativas enviam sinais pelos nervos cranianos ao tálamo e córtex gustativo."/>
+				<opcao id="0632711b-34f1-441e-a7cf-3836fdc159e7" idquestao="8e50c56e-bd09-4624-b7ae-fcad508d7352" correta="false" texto="O paladar é interpretado diretamente pela medula espinhal."/>
+				<opcao id="1e197706-5c2a-4142-8a8d-e122eab0a2d2" idquestao="8e50c56e-bd09-4624-b7ae-fcad508d7352" correta="false" texto="O sabor é identificado no córtex visual após o estímulo do nervo trigêmeo."/>
+				<opcao id="b869f7a3-f7a7-4d01-a520-fc9b229ea1a2" idquestao="8e50c56e-bd09-4624-b7ae-fcad508d7352" correta="false" texto="As papilas enviam sinais apenas ao bulbo olfativo para gerar percepção do sabor."/>
+			</questao>
+			<questao id="eb0a4f5b-28c9-464c-96f6-6e89e849f9d1" idaula="cd017e5c-7b47-4851-b1ef-c3db665473ed" enunciado="O sistema olfativo se destaca entre os sentidos porque:" justificativa="Diferente dos demais sentidos, o olfato se conecta diretamente ao sistema límbico, o que explica sua forte ligação com memórias e emoções.">
+				<opcao id="986255f2-1471-462c-95d1-0ff371040b68" idquestao="eb0a4f5b-28c9-464c-96f6-6e89e849f9d1" correta="true" texto="Se conecta diretamente ao sistema límbico, sem passar pelo tálamo."/>
+				<opcao id="75a6a19b-3701-4d90-9cb4-27e49a982ce6" idquestao="eb0a4f5b-28c9-464c-96f6-6e89e849f9d1" correta="false" texto="É o único sentido que não usa neurotransmissores."/>
+				<opcao id="cd3465ec-20b6-4a93-9393-cb8f9c65b39b" idquestao="eb0a4f5b-28c9-464c-96f6-6e89e849f9d1" correta="false" texto="Processa os estímulos no cerebelo antes de chegar ao cérebro."/>
+				<opcao id="69c2210b-b4b2-41db-a2b1-d030a3f9e0b4" idquestao="eb0a4f5b-28c9-464c-96f6-6e89e849f9d1" correta="false" texto="Envia sinais exclusivamente para o córtex motor e visual."/>
+			</questao>
+			<questao id="aa41d8cb-c12c-4c0b-ae04-19b8d15c889a" idaula="cd017e5c-7b47-4851-b1ef-c3db665473ed" enunciado="O que é propriocepção, segundo a neurociência?" justificativa="A propriocepção é a percepção inconsciente da posição e movimento do corpo no espaço, essencial para equilíbrio e coordenação.">
+				<opcao id="9680bb33-9090-4067-83eb-9eab7bc4476a" idquestao="aa41d8cb-c12c-4c0b-ae04-19b8d15c889a" correta="true" texto="Capacidade de perceber a posição e o movimento do corpo no espaço, sem usar a visão."/>
+				<opcao id="4e1566f6-bf6b-4904-934f-dc8d3b6c512c" idquestao="aa41d8cb-c12c-4c0b-ae04-19b8d15c889a" correta="false" texto="Processamento visual de objetos em movimento."/>
+				<opcao id="81ec6d34-cc1e-4b63-bc94-f70540e70b35" idquestao="aa41d8cb-c12c-4c0b-ae04-19b8d15c889a" correta="false" texto="Percepção dos sons sem localização espacial."/>
+				<opcao id="b8cd52e6-6c96-46a9-8679-c261ed3035a3" idquestao="aa41d8cb-c12c-4c0b-ae04-19b8d15c889a" correta="false" texto="Reconhecimento de expressões faciais por meio do tato."/>
+			</questao>
+		</aula>
+		<aula id="9d3969ff-648e-43a9-97a3-fd582105c364" idmateria="326d5763-7fcb-42d9-82e5-0429839683c2" nome="16.2 - Consciência e Estados Alterados">
+			<questao id="e823cc1e-5a7c-4c51-8ae4-71dd1d6b4470" idaula="9d3969ff-648e-43a9-97a3-fd582105c364" enunciado="O que é consciência, segundo a psicologia e neurociência?" justificativa="A consciência é entendida como o estado de vigília e percepção de si e do ambiente, envolvendo integração de diversas áreas cerebrais.">
+				<opcao id="6b065a3c-8a84-4436-9913-d6e15298c312" idquestao="e823cc1e-5a7c-4c51-8ae4-71dd1d6b4470" correta="true" texto="É o estado de estar acordado e ciente do ambiente, dos pensamentos e sentimentos."/>
+				<opcao id="0e444b98-6748-4be5-8901-40e6a1a9fe5c" idquestao="e823cc1e-5a7c-4c51-8ae4-71dd1d6b4470" correta="false" texto="É a capacidade exclusiva de lembrar eventos passados com precisão."/>
+				<opcao id="519a9358-f6dc-4f57-8aa2-cb33440da284" idquestao="e823cc1e-5a7c-4c51-8ae4-71dd1d6b4470" correta="false" texto="É um estado inconsciente em que os pensamentos não são acessíveis."/>
+				<opcao id="d1d2eeb2-1216-4cfd-b030-0a66cc6ec1e0" idquestao="e823cc1e-5a7c-4c51-8ae4-71dd1d6b4470" correta="false" texto="É o mesmo que memória de longo prazo."/>
+			</questao>
+			<questao id="78a6be03-1b06-4e50-8d4b-1b7fc2e93461" idaula="9d3969ff-648e-43a9-97a3-fd582105c364" enunciado="O que diferencia a autoconsciência da consciência simples?" justificativa="A autoconsciência envolve a habilidade de perceber e refletir sobre si mesmo, além da simples percepção do ambiente.">
+				<opcao id="3f5b7485-6171-44ae-b5ec-9c29f4a0ccfa" idquestao="78a6be03-1b06-4e50-8d4b-1b7fc2e93461" correta="true" texto="A autoconsciência permite que o indivíduo perceba a si mesmo como alguém distinto, com pensamentos e sentimentos próprios."/>
+				<opcao id="d8891b5f-5eb1-4dc8-b8bb-8f452d9ff4f0" idquestao="78a6be03-1b06-4e50-8d4b-1b7fc2e93461" correta="false" texto="A autoconsciência é a capacidade de perceber o ambiente físico com mais clareza."/>
+				<opcao id="b7096e01-2ab0-453e-a7e7-bad6d13585e7" idquestao="78a6be03-1b06-4e50-8d4b-1b7fc2e93461" correta="false" texto="A consciência simples envolve reflexão profunda sobre emoções pessoais."/>
+				<opcao id="ffebf63e-c36c-48e7-a4e5-05f0d4ad245f" idquestao="78a6be03-1b06-4e50-8d4b-1b7fc2e93461" correta="false" texto="Não há diferença entre consciência e autoconsciência."/>
+			</questao>
+			<questao id="d9fcb79a-5890-4037-936e-c01be95d60c2" idaula="9d3969ff-648e-43a9-97a3-fd582105c364" enunciado="Qual das opções abaixo é um exemplo de estado alterado de consciência induzido?" justificativa="A hipnose é um estado induzido por técnicas específicas que alteram o foco da atenção e a percepção da realidade.">
+				<opcao id="a7283835-d1df-4a61-9e6d-ec52c0b799c9" idquestao="d9fcb79a-5890-4037-936e-c01be95d60c2" correta="true" texto="Hipnose"/>
+				<opcao id="ef3917db-1136-44d0-b053-b123ee6bc372" idquestao="d9fcb79a-5890-4037-936e-c01be95d60c2" correta="false" texto="Estado de alerta durante uma conversa"/>
+				<opcao id="46e50d02-6812-4b94-91e4-3ef15b9c91e0" idquestao="d9fcb79a-5890-4037-936e-c01be95d60c2" correta="false" texto="Autoconsciência durante a leitura"/>
+				<opcao id="429a94ec-33a4-4458-ae6e-7f9b6cbcc902" idquestao="d9fcb79a-5890-4037-936e-c01be95d60c2" correta="false" texto="Concentração em uma tarefa escolar"/>
+			</questao>
+			<questao id="154ea199-c948-4cd0-9496-4c5ec276ff7e" idaula="9d3969ff-648e-43a9-97a3-fd582105c364" enunciado="Por que o sono REM é considerado um estado alterado de consciência?" justificativa="No sono REM, há intensa atividade cerebral e ocorrência de sonhos vívidos, mesmo com o corpo em repouso.">
+				<opcao id="905c43c1-7617-437e-9975-8805d0219f0f" idquestao="154ea199-c948-4cd0-9496-4c5ec276ff7e" correta="true" texto="Porque há atividade cerebral intensa e sonhos vívidos, mesmo sem consciência do ambiente externo."/>
+				<opcao id="b70d434c-1a9b-4fe3-a8e3-29f4c8cfb901" idquestao="154ea199-c948-4cd0-9496-4c5ec276ff7e" correta="false" texto="Porque o cérebro para completamente suas funções durante o sono REM."/>
+				<opcao id="13d18a45-1c79-468a-a6e6-f0f84fe1214c" idquestao="154ea199-c948-4cd0-9496-4c5ec276ff7e" correta="false" texto="Porque os músculos ficam mais ativos do que em estado desperto."/>
+				<opcao id="a4a9338d-185e-45a7-8b7f-42aa66372cfc" idquestao="154ea199-c948-4cd0-9496-4c5ec276ff7e" correta="false" texto="Porque o sono REM é o mesmo que estar em coma leve."/>
+			</questao>
+			<questao id="58a9d996-b403-4fd4-bd59-38a7c7f8c3a3" idaula="9d3969ff-648e-43a9-97a3-fd582105c364" enunciado="Qual estrutura cerebral está diretamente envolvida na regulação do nível de vigília e alerta?" justificativa="O sistema reticular ativador ascendente atua como um regulador do estado de alerta e da transição entre sono e vigília.">
+				<opcao id="72bdcb23-47a7-4b4e-87c6-f98c24a29391" idquestao="58a9d996-b403-4fd4-bd59-38a7c7f8c3a3" correta="true" texto="Sistema reticular ativador ascendente"/>
+				<opcao id="e4a2e379-8db0-4c98-9db0-2c9cb6ff7c4e" idquestao="58a9d996-b403-4fd4-bd59-38a7c7f8c3a3" correta="false" texto="Córtex occipital"/>
+				<opcao id="d773cf6a-8b62-4b7f-a4a1-d6f2d23c8b42" idquestao="58a9d996-b403-4fd4-bd59-38a7c7f8c3a3" correta="false" texto="Hipotálamo lateral"/>
+				<opcao id="55cd2ef9-b9d0-4aa5-810e-9ad269cc7f36" idquestao="58a9d996-b403-4fd4-bd59-38a7c7f8c3a3" correta="false" texto="Cerebelo anterior"/>
+			</questao>
+		</aula>
+		<aula id="b18729f5-3a56-4d15-8f59-e40256df93ae" idmateria="326d5763-7fcb-42d9-82e5-0429839683c2" nome="16.3 - Inconsciente e Subconsciente">
+			<questao id="bfe93060-74cc-4b52-94ae-cc33eb6cd8e7" idaula="b18729f5-3a56-4d15-8f59-e40256df93ae" enunciado="Qual é a principal característica do inconsciente, segundo a psicanálise de Freud?" justificativa="A resposta correta destaca que o inconsciente abriga conteúdos reprimidos e inacessíveis à consciência direta, influenciando o comportamento de forma indireta.">
+				<opcao id="b0a4d41a-4db7-44b5-9f7f-51283d14f2bb" idquestao="bfe93060-74cc-4b52-94ae-cc33eb6cd8e7" correta="true" texto="É composto por desejos e memórias reprimidas que influenciam o comportamento de forma indireta."/>
+				<opcao id="164244b3-1684-45fc-a869-baf8ec410c5f" idquestao="bfe93060-74cc-4b52-94ae-cc33eb6cd8e7" correta="false" texto="É onde se concentram as decisões racionais do indivíduo."/>
+				<opcao id="16c504d1-5122-4f3e-b768-d3e6e646fc6f" idquestao="bfe93060-74cc-4b52-94ae-cc33eb6cd8e7" correta="false" texto="É responsável apenas pelas funções motoras automáticas."/>
+				<opcao id="e40254ef-37c4-4ac9-b5ee-f7dd2c11c8fb" idquestao="bfe93060-74cc-4b52-94ae-cc33eb6cd8e7" correta="false" texto="É a parte da mente que organiza o pensamento lógico."/>
+			</questao>
+			<questao id="5cb40530-8704-4b85-b7bb-1eeb0ad9d83c" idaula="b18729f5-3a56-4d15-8f59-e40256df93ae" enunciado="Qual exemplo representa um conteúdo do subconsciente?" justificativa="O subconsciente é relacionado a memórias ou ações automáticas que não estão no foco da consciência, mas que podem ser acessadas quando necessário.">
+				<opcao id="5b153b56-0e56-4537-bf01-b58bbbe60d00" idquestao="5cb40530-8704-4b85-b7bb-1eeb0ad9d83c" correta="true" texto="Dirigir um carro automaticamente após anos de prática."/>
+				<opcao id="087f25ef-cc9a-4f0c-99cb-d86dbd580fa7" idquestao="5cb40530-8704-4b85-b7bb-1eeb0ad9d83c" correta="false" texto="Esquecer completamente um trauma de infância sem motivo aparente."/>
+				<opcao id="5f0b0ee3-d787-4a8e-823e-03ff5e586066" idquestao="5cb40530-8704-4b85-b7bb-1eeb0ad9d83c" correta="false" texto="Tomar uma decisão com base em argumentos lógicos."/>
+				<opcao id="aa3c63e1-b4a1-4a23-83ed-5d509b157d56" idquestao="5cb40530-8704-4b85-b7bb-1eeb0ad9d83c" correta="false" texto="Resolver um problema matemático com atenção concentrada."/>
+			</questao>
+			<questao id="d7b3b929-e0bc-4df3-b95c-8c2b5c399d29" idaula="b18729f5-3a56-4d15-8f59-e40256df93ae" enunciado="Qual das opções diferencia corretamente o inconsciente do subconsciente?" justificativa="O inconsciente envolve conteúdos reprimidos e inacessíveis à vontade, enquanto o subconsciente refere-se a hábitos e memórias que podem ser acessados.">
+				<opcao id="e271bf3b-ff36-46ac-abc6-7a14393b3f27" idquestao="d7b3b929-e0bc-4df3-b95c-8c2b5c399d29" correta="true" texto="O inconsciente contém conteúdos reprimidos, enquanto o subconsciente lida com processos automáticos acessíveis."/>
+				<opcao id="cf8d3ac6-3791-4bb5-b28c-0e403994e9b3" idquestao="d7b3b929-e0bc-4df3-b95c-8c2b5c399d29" correta="false" texto="O inconsciente é acessado a todo momento, enquanto o subconsciente nunca pode ser acessado."/>
+				<opcao id="9f0b321e-83ff-42f1-b97d-2260e03d0c6d" idquestao="d7b3b929-e0bc-4df3-b95c-8c2b5c399d29" correta="false" texto="O subconsciente é reprimido por mecanismos de defesa."/>
+				<opcao id="03046db6-6a0c-4a9d-91aa-64a77d607f93" idquestao="d7b3b929-e0bc-4df3-b95c-8c2b5c399d29" correta="false" texto="Não existe diferença entre subconsciente e inconsciente."/>
+			</questao>
+			<questao id="0d470c89-3192-4a94-8c9f-c2ed7df41627" idaula="b18729f5-3a56-4d15-8f59-e40256df93ae" enunciado="Qual das manifestações abaixo pode ser explicada como resultado de conteúdos inconscientes?" justificativa="Os atos falhos, como esquecer um nome ou trocar palavras, são frequentemente interpretados pela psicanálise como manifestações do inconsciente.">
+				<opcao id="1729633a-44f6-4b60-b1c7-1a1891f04246" idquestao="0d470c89-3192-4a94-8c9f-c2ed7df41627" correta="true" texto="Um ato falho, como chamar alguém pelo nome errado sem intenção."/>
+				<opcao id="c709f4f7-1912-4b0e-831d-b5d833cd2a42" idquestao="0d470c89-3192-4a94-8c9f-c2ed7df41627" correta="false" texto="Resolver conscientemente um problema de matemática."/>
+				<opcao id="2f92a282-9e0c-493b-b2df-1c36e61de647" idquestao="0d470c89-3192-4a94-8c9f-c2ed7df41627" correta="false" texto="Escutar uma música e reconhecer sua melodia automaticamente."/>
+				<opcao id="42cdb195-8d3e-4cc5-aaf7-f72007a52bc9" idquestao="0d470c89-3192-4a94-8c9f-c2ed7df41627" correta="false" texto="Lembrar de um compromisso ao ler sua agenda."/>
+			</questao>
+			<questao id="7b75d795-5608-4c99-8cd0-bc48c3c4a2fa" idaula="b18729f5-3a56-4d15-8f59-e40256df93ae" enunciado="Por que o estudo do inconsciente é importante para a psicologia clínica?" justificativa="Compreender o inconsciente ajuda a entender comportamentos, conflitos e sintomas que não são explicados apenas pela razão ou consciência.">
+				<opcao id="eb0bb708-ea57-470e-8b6a-3dfac7e16e14" idquestao="7b75d795-5608-4c99-8cd0-bc48c3c4a2fa" correta="true" texto="Porque muitos conflitos e sintomas se originam de conteúdos reprimidos e não acessíveis pela consciência."/>
+				<opcao id="fbfe38a5-6934-4db5-9de7-9c7e57d18dbe" idquestao="7b75d795-5608-4c99-8cd0-bc48c3c4a2fa" correta="false" texto="Porque o inconsciente é responsável por controlar os músculos voluntários."/>
+				<opcao id="a29ae493-68db-4b68-8511-f476ff4d6ac3" idquestao="7b75d795-5608-4c99-8cd0-bc48c3c4a2fa" correta="false" texto="Porque o inconsciente só atua durante o sono e por isso não afeta a vida diária."/>
+				<opcao id="b3a6edb3-c3f7-4716-b728-f289f7f15c92" idquestao="7b75d795-5608-4c99-8cd0-bc48c3c4a2fa" correta="false" texto="Porque a psicanálise não trabalha com conteúdos mentais reprimidos."/>
+			</questao>
+		</aula>
+		<aula id="4b057443-0aa0-4f85-93e6-4d79bc07013a" idmateria="326d5763-7fcb-42d9-82e5-0429839683c2" nome="16.4 - Propriocepção">
+			<questao id="0d7c0a26-2cc5-45aa-9f8a-ef9bc8696795" idaula="4b057443-0aa0-4f85-93e6-4d79bc07013a" enunciado="O que é propriocepção?" justificativa="A resposta correta define propriocepção como a capacidade do corpo de perceber sua posição e movimento sem a necessidade de usar a visão. As demais opções descrevem outros sentidos.">
+				<opcao id="5f6480c3-6f20-4297-9c3d-2cfe385ce151" idquestao="0d7c0a26-2cc5-45aa-9f8a-ef9bc8696795" correta="true" texto="É a capacidade do corpo perceber sua posição e movimento sem usar a visão."/>
+				<opcao id="eae4a004-3cd7-4b26-9d1e-fac0dbcb9615" idquestao="0d7c0a26-2cc5-45aa-9f8a-ef9bc8696795" correta="false" texto="É a capacidade de perceber estímulos sonoros no ambiente."/>
+				<opcao id="04a927e7-80d5-4355-9e04-5d2cfeae61a8" idquestao="0d7c0a26-2cc5-45aa-9f8a-ef9bc8696795" correta="false" texto="É a capacidade de distinguir odores no ar."/>
+				<opcao id="13911b36-09d1-4f14-b79b-e26503c191eb" idquestao="0d7c0a26-2cc5-45aa-9f8a-ef9bc8696795" correta="false" texto="É a percepção consciente de estímulos táteis intensos."/>
+			</questao>
+			<questao id="c9c13ce0-f9a4-4f1b-a53a-e0a2bcb8fc68" idaula="4b057443-0aa0-4f85-93e6-4d79bc07013a" enunciado="Qual estrutura do sistema nervoso é principalmente responsável por coordenar os sinais proprioceptivos?" justificativa="O cerebelo é o principal responsável por coordenar o equilíbrio, a postura e os movimentos corporais com base nos sinais proprioceptivos.">
+				<opcao id="8ff5775c-9673-47f6-b55a-537d14909be9" idquestao="c9c13ce0-f9a4-4f1b-a53a-e0a2bcb8fc68" correta="true" texto="Cerebelo"/>
+				<opcao id="ccf778b7-7d3e-4204-83cf-3539aa38c7d1" idquestao="c9c13ce0-f9a4-4f1b-a53a-e0a2bcb8fc68" correta="false" texto="Hipotálamo"/>
+				<opcao id="16b405df-693d-45e9-85c8-2731c33631fc" idquestao="c9c13ce0-f9a4-4f1b-a53a-e0a2bcb8fc68" correta="false" texto="Tronco encefálico"/>
+				<opcao id="eec1d306-9059-4f32-b44d-bdddc7eaf84d" idquestao="c9c13ce0-f9a4-4f1b-a53a-e0a2bcb8fc68" correta="false" texto="Hipocampo"/>
+			</questao>
+			<questao id="3f2656f9-2b58-4a45-bdfa-3813b3d57e9d" idaula="4b057443-0aa0-4f85-93e6-4d79bc07013a" enunciado="Qual das alternativas representa uma situação do uso da propriocepção?" justificativa="A resposta correta descreve uma ação comum em que o corpo reconhece a posição dos membros sem precisar vê-los, característica típica da propriocepção.">
+				<opcao id="274129e1-6b4d-4f23-a279-58c879ffed14" idquestao="3f2656f9-2b58-4a45-bdfa-3813b3d57e9d" correta="true" texto="Tocar seu nariz com os olhos fechados."/>
+				<opcao id="524c2c4f-8af8-4ae3-85b4-7a54b05d2730" idquestao="3f2656f9-2b58-4a45-bdfa-3813b3d57e9d" correta="false" texto="Sentir a temperatura de um objeto quente."/>
+				<opcao id="fda15ff4-5c68-47db-b877-cf5d6d3e03f3" idquestao="3f2656f9-2b58-4a45-bdfa-3813b3d57e9d" correta="false" texto="Escutar alguém chamando seu nome."/>
+				<opcao id="0bcda81e-45d4-4c57-9ac8-74bcda4e334e" idquestao="3f2656f9-2b58-4a45-bdfa-3813b3d57e9d" correta="false" texto="Perceber o cheiro de uma flor."/>
+			</questao>
+			<questao id="2d26a403-b9ab-4ab0-b071-889e51088c72" idaula="4b057443-0aa0-4f85-93e6-4d79bc07013a" enunciado="Qual das opções abaixo pode indicar um problema na propriocepção?" justificativa="A dificuldade de manter o equilíbrio ou perceber a posição do corpo pode indicar falhas nos sinais proprioceptivos.">
+				<opcao id="d9357f4b-0057-4481-86a6-c539b7a7451a" idquestao="2d26a403-b9ab-4ab0-b071-889e51088c72" correta="true" texto="Desequilíbrio ao caminhar em linha reta com os olhos fechados."/>
+				<opcao id="08c6e1d2-6cf6-47de-bd99-1ef83b84c8fa" idquestao="2d26a403-b9ab-4ab0-b071-889e51088c72" correta="false" texto="Aumento de batimentos cardíacos em repouso."/>
+				<opcao id="63bd6a16-75c8-4ac0-8233-7c1e469c879d" idquestao="2d26a403-b9ab-4ab0-b071-889e51088c72" correta="false" texto="Dificuldade em reconhecer rostos conhecidos."/>
+				<opcao id="17735ae1-3873-49c7-9ae4-b1a727eb0242" idquestao="2d26a403-b9ab-4ab0-b071-889e51088c72" correta="false" texto="Perda do apetite durante o dia."/>
+			</questao>
+			<questao id="109fa9b4-63fa-4d26-a813-5dbfd2933f0c" idaula="4b057443-0aa0-4f85-93e6-4d79bc07013a" enunciado="Quais atividades ajudam a desenvolver a propriocepção?" justificativa="Exercícios de equilíbrio e movimentação corporal consciente fortalecem os receptores proprioceptivos e aprimoram a percepção corporal.">
+				<opcao id="7c6ef7f8-6b16-4a8f-b0de-e7e29bd6fd58" idquestao="109fa9b4-63fa-4d26-a813-5dbfd2933f0c" correta="true" texto="Yoga, pilates e exercícios de equilíbrio."/>
+				<opcao id="f3d1e6c9-0c24-4918-a325-b00212e2d0c3" idquestao="109fa9b4-63fa-4d26-a813-5dbfd2933f0c" correta="false" texto="Leitura em voz alta e resolução de cálculos matemáticos."/>
+				<opcao id="46b7ed67-1a92-471b-9251-043061fa233f" idquestao="109fa9b4-63fa-4d26-a813-5dbfd2933f0c" correta="false" texto="Assistir filmes e ouvir músicas."/>
+				<opcao id="3fa2e9ed-2ff3-44ec-a9ab-0d94d5389ea7" idquestao="109fa9b4-63fa-4d26-a813-5dbfd2933f0c" correta="false" texto="Comer alimentos variados e beber bastante água."/>
+			</questao>
+			<questao id="5dfb1ea7-1142-472b-8d1c-7fd6e7f67923" idaula="4b057443-0aa0-4f85-93e6-4d79bc07013a" enunciado="Qual é a principal função dos receptores sensoriais envolvidos na propriocepção?" justificativa="Esses receptores detectam mudanças na posição, tensão e alongamento dos músculos, tendões e articulações, permitindo que o cérebro monitore o corpo.">
+				<opcao id="4b7c8e0a-ef8f-402e-b7aa-eacbe8fc9f44" idquestao="5dfb1ea7-1142-472b-8d1c-7fd6e7f67923" correta="true" texto="Detectar posição, movimento e tensão nos músculos e articulações."/>
+				<opcao id="3538e2cf-001f-4e70-9cbf-73252fa3f486" idquestao="5dfb1ea7-1142-472b-8d1c-7fd6e7f67923" correta="false" texto="Detectar mudanças na temperatura corporal."/>
+				<opcao id="f7a476e4-4c63-4cd7-9bd2-b45ab59a2bc4" idquestao="5dfb1ea7-1142-472b-8d1c-7fd6e7f67923" correta="false" texto="Controlar a pressão arterial e frequência respiratória."/>
+				<opcao id="43d40289-1c5a-402e-8144-934b4375f0c7" idquestao="5dfb1ea7-1142-472b-8d1c-7fd6e7f67923" correta="false" texto="Identificar sons agudos e graves no ambiente."/>
+			</questao>
+		</aula>
+		<aula id="e9c81d6f-f06c-40e6-86b1-81fce6a94246" idmateria="326d5763-7fcb-42d9-82e5-0429839683c2" nome="17.1 - Vigília, Sono e Sonhos">
+			<questao id="e40a90ec-5b3e-4eb3-9d0b-3fd0babc2fe1" idaula="e9c81d6f-f06c-40e6-86b1-81fce6a94246" enunciado="O que caracteriza o estado de vigília?" justificativa="A vigília é o estado em que o indivíduo está acordado, consciente e interagindo com o ambiente. As demais opções se referem a estados de sono ou alterações da consciência.">
+				<opcao id="c9bb226b-601b-4b33-8cc5-b9b0b859b189" idquestao="e40a90ec-5b3e-4eb3-9d0b-3fd0babc2fe1" correta="true" texto="É o estado em que a pessoa está acordada, consciente e atenta ao ambiente."/>
+				<opcao id="81e27871-3ef1-45fd-84f4-7a23748ae178" idquestao="e40a90ec-5b3e-4eb3-9d0b-3fd0babc2fe1" correta="false" texto="É a fase do sono profundo sem sonhos."/>
+				<opcao id="d90f33c4-730e-4f75-8b29-17d2b660f13e" idquestao="e40a90ec-5b3e-4eb3-9d0b-3fd0babc2fe1" correta="false" texto="É o momento de alucinações rápidas durante o sono REM."/>
+				<opcao id="93a0fef7-50fd-4e0d-9602-d1b73956dd98" idquestao="e40a90ec-5b3e-4eb3-9d0b-3fd0babc2fe1" correta="false" texto="É o período em que o cérebro entra em estado de inconsciência total."/>
+			</questao>
+			<questao id="e4632093-c6dc-4989-9682-1e8acfb37f7b" idaula="e9c81d6f-f06c-40e6-86b1-81fce6a94246" enunciado="Qual das opções descreve corretamente uma das funções do sono?" justificativa="O sono ajuda na consolidação da memória, enquanto as outras opções apresentam funções erradas ou incompletas.">
+				<opcao id="fb39ed6d-c138-4aef-83bb-8755cf179b36" idquestao="e4632093-c6dc-4989-9682-1e8acfb37f7b" correta="true" texto="O sono ajuda na consolidação da memória e recuperação do corpo."/>
+				<opcao id="ae27b688-26d9-4e54-857b-fb7d2516f69f" idquestao="e4632093-c6dc-4989-9682-1e8acfb37f7b" correta="false" texto="Durante o sono, o cérebro desliga completamente e não realiza nenhuma atividade."/>
+				<opcao id="a14c3374-08eb-4c37-9d25-6c4f5ff0a9d1" idquestao="e4632093-c6dc-4989-9682-1e8acfb37f7b" correta="false" texto="A principal função do sono é a produção de adrenalina para o dia seguinte."/>
+				<opcao id="f969127b-df75-4aa1-9612-55a09a12fcb2" idquestao="e4632093-c6dc-4989-9682-1e8acfb37f7b" correta="false" texto="O sono apenas serve para descanso físico e não tem relação com o aprendizado."/>
+			</questao>
+			<questao id="759f1b87-4e42-4a14-9b0b-91b108af0d28" idaula="e9c81d6f-f06c-40e6-86b1-81fce6a94246" enunciado="Qual fase do sono está mais relacionada com a ocorrência de sonhos vívidos?" justificativa="A fase REM é marcada por atividade cerebral intensa e movimentos oculares rápidos, sendo o período em que os sonhos mais vívidos ocorrem.">
+				<opcao id="93b88a41-2bd2-41e2-a9d0-e63b66c2e245" idquestao="759f1b87-4e42-4a14-9b0b-91b108af0d28" correta="true" texto="Fase REM"/>
+				<opcao id="43e4d1b5-c20a-45b3-89c5-c1d55e139fa5" idquestao="759f1b87-4e42-4a14-9b0b-91b108af0d28" correta="false" texto="Fase N1"/>
+				<opcao id="34cb29df-e4df-4b47-9777-353c92e00a6f" idquestao="759f1b87-4e42-4a14-9b0b-91b108af0d28" correta="false" texto="Fase N3"/>
+				<opcao id="61eb3c35-6b99-4625-a262-7e2edcf99eae" idquestao="759f1b87-4e42-4a14-9b0b-91b108af0d28" correta="false" texto="Fase de vigília relaxada"/>
+			</questao>
+			<questao id="fd4242d4-8ee3-4072-bd7f-537bc9b3f9cd" idaula="e9c81d6f-f06c-40e6-86b1-81fce6a94246" enunciado="Durante o sono REM, o que acontece com o corpo e o cérebro?" justificativa="O sono REM é caracterizado por uma intensa atividade cerebral, mas o corpo permanece relaxado e com movimentos musculares inibidos.">
+				<opcao id="e7e264a4-63e8-4c24-a4dc-45389fe1869a" idquestao="fd4242d4-8ee3-4072-bd7f-537bc9b3f9cd" correta="true" texto="O cérebro fica ativo e o corpo relaxado com movimentos musculares reduzidos."/>
+				<opcao id="ef72d998-c539-4f2c-8751-5aa74dc582db" idquestao="fd4242d4-8ee3-4072-bd7f-537bc9b3f9cd" correta="false" texto="O cérebro desacelera e o corpo entra em atividade intensa."/>
+				<opcao id="0d8f7b12-3b1a-4af6-bbeb-9e271d28e9f1" idquestao="fd4242d4-8ee3-4072-bd7f-537bc9b3f9cd" correta="false" texto="O corpo fica agitado e o cérebro permanece inativo."/>
+				<opcao id="0b232c46-f591-487f-ae97-0f67a82d71c3" idquestao="fd4242d4-8ee3-4072-bd7f-537bc9b3f9cd" correta="false" texto="Coração e respiração param temporariamente para descanso completo."/>
+			</questao>
+			<questao id="69fef10d-f4e3-43e5-9e3c-49c12a3dbcd6" idaula="e9c81d6f-f06c-40e6-86b1-81fce6a94246" enunciado="Qual das opções mostra um benefício direto de uma boa noite de sono?" justificativa="Dormir bem melhora a concentração e a memória, ao contrário do que acontece com a privação de sono, que prejudica essas funções.">
+				<opcao id="f12b33f3-d72a-4bb2-a315-c3e0e3748582" idquestao="69fef10d-f4e3-43e5-9e3c-49c12a3dbcd6" correta="true" texto="Melhora da concentração e consolidação da memória."/>
+				<opcao id="68b0dc93-cc44-40de-8b35-54e9ef01ec83" idquestao="69fef10d-f4e3-43e5-9e3c-49c12a3dbcd6" correta="false" texto="Aumento da agressividade e impulsividade."/>
+				<opcao id="1bb3a421-859e-4cb7-988b-8aa2c446372e" idquestao="69fef10d-f4e3-43e5-9e3c-49c12a3dbcd6" correta="false" texto="Maior dificuldade em aprender novas informações."/>
+				<opcao id="2d74f84c-eeb5-43ce-86de-dc28b6df3f28" idquestao="69fef10d-f4e3-43e5-9e3c-49c12a3dbcd6" correta="false" texto="Redução na produção de hormônios benéficos."/>
+			</questao>
+			<questao id="c8471674-6358-4b60-93be-37d1f4874d44" idaula="e9c81d6f-f06c-40e6-86b1-81fce6a94246" enunciado="O que são os sonhos, de acordo com a neurociência?" justificativa="A neurociência entende os sonhos como construções mentais que ocorrem principalmente durante o sono REM, ligadas a memórias, emoções e reorganização cerebral.">
+				<opcao id="d1a26cbb-bf7f-4c67-90c6-718f5a0585e2" idquestao="c8471674-6358-4b60-93be-37d1f4874d44" correta="true" texto="Construções mentais que ocorrem principalmente durante o sono REM, envolvendo memórias e emoções."/>
+				<opcao id="beef9de7-9939-4781-b4c2-ff029d1ff4fa" idquestao="c8471674-6358-4b60-93be-37d1f4874d44" correta="false" texto="Interrupções do sono causadas por estímulos externos."/>
+				<opcao id="16334cd6-1f3a-4384-89c3-57093cfa3ee2" idquestao="c8471674-6358-4b60-93be-37d1f4874d44" correta="false" texto="Imagens visuais causadas por má digestão."/>
+				<opcao id="f7052d66-f239-44ea-a0f4-d1a5f943e5ff" idquestao="c8471674-6358-4b60-93be-37d1f4874d44" correta="false" texto="Sensações aleatórias sem relação com o cérebro."/>
+			</questao>
+		</aula>
+		<aula id="00ff670e-df64-4b5b-9400-b84dc0c3537b" idmateria="326d5763-7fcb-42d9-82e5-0429839683c2" nome="17.2 - Ciclo Circadiano">
+			<questao id="682d6b4b-86ec-4f7c-bb28-ec98c2199a3e" idaula="00ff670e-df64-4b5b-9400-b84dc0c3537b" enunciado="O que é o ciclo circadiano?" justificativa="O ciclo circadiano é o ritmo biológico de cerca de 24 horas que regula diversas funções do corpo, como sono, temperatura e hormônios. As outras opções são incorretas ou incompletas.">
+				<opcao id="3a34b7e0-bf6a-4f82-80cb-8c7d3e991fd6" idquestao="682d6b4b-86ec-4f7c-bb28-ec98c2199a3e" correta="true" texto="É o ritmo biológico de cerca de 24 horas que regula funções como sono, temperatura e hormônios."/>
+				<opcao id="e4fbbcb7-4d37-445c-9bb0-689e9cfbfc61" idquestao="682d6b4b-86ec-4f7c-bb28-ec98c2199a3e" correta="false" texto="É a reação automática do corpo diante de uma ameaça imediata."/>
+				<opcao id="3bde1055-91aa-4230-91b0-142ff2b4a3fc" idquestao="682d6b4b-86ec-4f7c-bb28-ec98c2199a3e" correta="false" texto="É o tempo que o corpo leva para se recuperar de um trauma emocional."/>
+				<opcao id="76d1fc11-d843-41c5-b785-c69eec3a5b49" idquestao="682d6b4b-86ec-4f7c-bb28-ec98c2199a3e" correta="false" texto="É um ciclo de batimentos cardíacos durante o sono profundo."/>
+			</questao>
+			<questao id="4527d34f-e8a9-44c1-8186-9991aa5d6de3" idaula="00ff670e-df64-4b5b-9400-b84dc0c3537b" enunciado="Qual estrutura do cérebro é responsável por controlar o ciclo circadiano?" justificativa="O núcleo supraquiasmático, localizado no hipotálamo, recebe informações sobre a luz e coordena o relógio biológico interno.">
+				<opcao id="36d68d27-fdc4-4cb5-85b7-2cb29e43b747" idquestao="4527d34f-e8a9-44c1-8186-9991aa5d6de3" correta="true" texto="Núcleo supraquiasmático"/>
+				<opcao id="af2076c4-92c6-4d7a-9e36-b0dc3687554e" idquestao="4527d34f-e8a9-44c1-8186-9991aa5d6de3" correta="false" texto="Hipocampo"/>
+				<opcao id="3ff028d0-3792-41f6-bb74-cd226b9d71c3" idquestao="4527d34f-e8a9-44c1-8186-9991aa5d6de3" correta="false" texto="Córtex pré-frontal"/>
+				<opcao id="72d84e0e-0111-4c6b-bda0-7bda3c66fd09" idquestao="4527d34f-e8a9-44c1-8186-9991aa5d6de3" correta="false" texto="Cerebelo"/>
+			</questao>
+			<questao id="861ba54a-bf3d-4ad4-ae25-c378dd9ce92b" idaula="00ff670e-df64-4b5b-9400-b84dc0c3537b" enunciado="Qual fator ambiental mais influencia o ciclo circadiano?" justificativa="A luz é o principal regulador externo do ciclo circadiano, pois ajuda o cérebro a ajustar o relógio biológico às condições do ambiente.">
+				<opcao id="dc173c1e-7389-4872-94e3-7f407fd48227" idquestao="861ba54a-bf3d-4ad4-ae25-c378dd9ce92b" correta="true" texto="A luz do ambiente"/>
+				<opcao id="ae446a18-7be7-4e6b-bc5d-0f117ad3fa6f" idquestao="861ba54a-bf3d-4ad4-ae25-c378dd9ce92b" correta="false" texto="A alimentação diária"/>
+				<opcao id="3145e7d4-3e77-46e2-a69a-1dd06cdcc70b" idquestao="861ba54a-bf3d-4ad4-ae25-c378dd9ce92b" correta="false" texto="O nível de estresse"/>
+				<opcao id="4012f79a-4b02-4875-9d9f-f0ed6c058317" idquestao="861ba54a-bf3d-4ad4-ae25-c378dd9ce92b" correta="false" texto="A prática de exercícios físicos"/>
+			</questao>
+			<questao id="f20384f5-4705-49c5-873c-64cbb3e1f4f5" idaula="00ff670e-df64-4b5b-9400-b84dc0c3537b" enunciado="O que pode ocorrer com uma pessoa que tem o ciclo circadiano desregulado?" justificativa="A desregulação do ciclo pode causar distúrbios no sono, dificuldade de concentração, alterações hormonais e maior risco de doenças.">
+				<opcao id="1c6a9a70-2848-4aa5-8a64-5b7b5fc3a18d" idquestao="f20384f5-4705-49c5-873c-64cbb3e1f4f5" correta="true" texto="Distúrbios no sono, dificuldade de concentração e alterações hormonais"/>
+				<opcao id="32bdbdf1-9fd0-4efb-8c93-9c21b1a95e68" idquestao="f20384f5-4705-49c5-873c-64cbb3e1f4f5" correta="false" texto="Aumento da energia e melhora no desempenho mental"/>
+				<opcao id="efbe0d3a-5cb6-4d9e-9d1e-7301148b3bb1" idquestao="f20384f5-4705-49c5-873c-64cbb3e1f4f5" correta="false" texto="Melhora na memória e no humor"/>
+				<opcao id="5c1e69d5-b748-4be7-abc4-3ea4483a1066" idquestao="f20384f5-4705-49c5-873c-64cbb3e1f4f5" correta="false" texto="Diminuição do sono REM e aumento da regeneração celular"/>
+			</questao>
+			<questao id="e972c848-53ae-45b8-a04b-d7a87d0ce723" idaula="00ff670e-df64-4b5b-9400-b84dc0c3537b" enunciado="Qual hormônio é produzido à noite para induzir o sono?" justificativa="A melatonina é liberada em maior quantidade à noite para sinalizar ao corpo que é hora de dormir.">
+				<opcao id="df5a49c7-63d7-420d-a99b-b29a2a301219" idquestao="e972c848-53ae-45b8-a04b-d7a87d0ce723" correta="true" texto="Melatonina"/>
+				<opcao id="da0134a4-5cc4-4962-94c0-33fd2077c05d" idquestao="e972c848-53ae-45b8-a04b-d7a87d0ce723" correta="false" texto="Adrenalina"/>
+				<opcao id="abfc3e3c-bd7e-4bb1-9a6d-cfa5313a46b1" idquestao="e972c848-53ae-45b8-a04b-d7a87d0ce723" correta="false" texto="Insulina"/>
+				<opcao id="ba7c2fa5-d71a-4f0f-878c-fd80c18fdd6f" idquestao="e972c848-53ae-45b8-a04b-d7a87d0ce723" correta="false" texto="Cortisol"/>
+			</questao>
+			<questao id="a92f785f-3c6c-4c4e-a634-d51bbf02a74f" idaula="00ff670e-df64-4b5b-9400-b84dc0c3537b" enunciado="Qual hábito ajuda a manter o ciclo circadiano equilibrado?" justificativa="Manter horários regulares para dormir e acordar contribui para a estabilidade do ritmo biológico.">
+				<opcao id="0e404164-2535-4045-a7c2-45cd16c35f4c" idquestao="a92f785f-3c6c-4c4e-a634-d51bbf02a74f" correta="true" texto="Dormir e acordar em horários semelhantes todos os dias"/>
+				<opcao id="b101d3e2-5c6a-471c-8996-1ed1817026fb" idquestao="a92f785f-3c6c-4c4e-a634-d51bbf02a74f" correta="false" texto="Usar o celular até tarde da noite diariamente"/>
+				<opcao id="5a4b30db-c3c3-4b9e-82dc-3aef4509734b" idquestao="a92f785f-3c6c-4c4e-a634-d51bbf02a74f" correta="false" texto="Trocar os horários de sono entre semana e fim de semana"/>
+				<opcao id="cc3e53d9-0e7e-48d7-952f-b91e0c16298f" idquestao="a92f785f-3c6c-4c4e-a634-d51bbf02a74f" correta="false" texto="Evitar se expor à luz solar pela manhã"/>
+			</questao>
+		</aula>
+		<aula id="5fa6b9d0-3fa7-4e67-b75e-b540c3f12e2e" idmateria="326d5763-7fcb-42d9-82e5-0429839683c2" nome="17.3 - Fases do Sono">
+			<questao id="61a32a43-e1aa-4019-a85c-3db3953d1b86" idaula="5fa6b9d0-3fa7-4e67-b75e-b540c3f12e2e" enunciado="Quais são os dois tipos principais de sono?" justificativa="O sono é dividido em dois tipos principais: NREM, que inclui os estágios de sono leve e profundo, e REM, que é associado aos sonhos e à consolidação da memória.">
+				<opcao id="7f7497a1-fc5b-4693-9304-5d753a263afd" idquestao="61a32a43-e1aa-4019-a85c-3db3953d1b86" correta="true" texto="Sono NREM e sono REM"/>
+				<opcao id="c55c8a0f-370c-4606-95f6-7b6e987bca1a" idquestao="61a32a43-e1aa-4019-a85c-3db3953d1b86" correta="false" texto="Sono leve e sono profundo"/>
+				<opcao id="a185dd03-7f0e-4865-a61a-f3ae808d3171" idquestao="61a32a43-e1aa-4019-a85c-3db3953d1b86" correta="false" texto="Sono alfa e sono beta"/>
+				<opcao id="f43a4092-3011-47b1-9732-64659c476805" idquestao="61a32a43-e1aa-4019-a85c-3db3953d1b86" correta="false" texto="Sono consciente e inconsciente"/>
+			</questao>
+			<questao id="cb5dc292-b8f7-4641-a9e1-14a1dcba48f0" idaula="5fa6b9d0-3fa7-4e67-b75e-b540c3f12e2e" enunciado="O que caracteriza o estágio N3 do sono NREM?" justificativa="O estágio N3 é o mais profundo do sono NREM, sendo essencial para a recuperação física e difícil de ser interrompido por estímulos externos.">
+				<opcao id="2aeb4c53-38a3-4db1-89cc-dfa9c790c8e3" idquestao="cb5dc292-b8f7-4641-a9e1-14a1dcba48f0" correta="true" texto="É o sono mais profundo, com maior recuperação física e difícil de acordar."/>
+				<opcao id="8d493fb7-1949-4db2-86fc-00ee9447b8a1" idquestao="cb5dc292-b8f7-4641-a9e1-14a1dcba48f0" correta="false" texto="É o estágio em que ocorrem os sonhos vívidos."/>
+				<opcao id="5c3538b2-161a-4b2d-a69a-2e94ad26ac1a" idquestao="cb5dc292-b8f7-4641-a9e1-14a1dcba48f0" correta="false" texto="É o estágio inicial da transição entre vigília e sono."/>
+				<opcao id="d2e63673-36f5-4b9b-a9ea-fca01ae3dbf2" idquestao="cb5dc292-b8f7-4641-a9e1-14a1dcba48f0" correta="false" texto="É o estágio que provoca sonhos lúcidos e paralisia do corpo."/>
+			</questao>
+			<questao id="5ceaa1ff-0bd9-417a-8dc0-9820aa3f23cd" idaula="5fa6b9d0-3fa7-4e67-b75e-b540c3f12e2e" enunciado="O que acontece com a atividade cerebral durante o sono REM?" justificativa="Durante o sono REM, o cérebro está altamente ativo, como se estivesse acordado, e ocorrem os sonhos mais intensos.">
+				<opcao id="7ecfe404-5b34-4347-813f-2aa9ad0b54cf" idquestao="5ceaa1ff-0bd9-417a-8dc0-9820aa3f23cd" correta="true" texto="A atividade cerebral aumenta e ocorrem sonhos vívidos."/>
+				<opcao id="81d158a5-d57e-4144-ae1e-063de8853b70" idquestao="5ceaa1ff-0bd9-417a-8dc0-9820aa3f23cd" correta="false" texto="O cérebro entra em repouso completo."/>
+				<opcao id="c7fc8e9e-73f8-4c9d-8262-bf190cd83c46" idquestao="5ceaa1ff-0bd9-417a-8dc0-9820aa3f23cd" correta="false" texto="A atividade elétrica para completamente."/>
+				<opcao id="30838807-62ee-4bd4-b1be-6df7f6ffeb61" idquestao="5ceaa1ff-0bd9-417a-8dc0-9820aa3f23cd" correta="false" texto="O cérebro alterna entre paralisia e atividade muscular."/>
+			</questao>
+			<questao id="e9914ff1-4b1e-4e48-a670-d8b481e8cb5c" idaula="5fa6b9d0-3fa7-4e67-b75e-b540c3f12e2e" enunciado="Qual a principal função do sono REM?" justificativa="O sono REM tem papel central na consolidação da memória, no processamento emocional e na criatividade.">
+				<opcao id="fb2e3cd6-0e1d-4b87-8422-c9266d9e9461" idquestao="e9914ff1-4b1e-4e48-a670-d8b481e8cb5c" correta="true" texto="Consolidar memórias e processar emoções."/>
+				<opcao id="05f3b178-b645-4bb2-bf98-7d0c26d4a9fa" idquestao="e9914ff1-4b1e-4e48-a670-d8b481e8cb5c" correta="false" texto="Fortalecer os músculos e articulações."/>
+				<opcao id="4f5b69c7-2384-4f52-a8a2-42f81a5b4780" idquestao="e9914ff1-4b1e-4e48-a670-d8b481e8cb5c" correta="false" texto="Aumentar a frequência cardíaca durante o sono."/>
+				<opcao id="2e16f6d7-b89c-4fc2-804e-8d251aecaf83" idquestao="e9914ff1-4b1e-4e48-a670-d8b481e8cb5c" correta="false" texto="Gerar contrações musculares e agitação corporal."/>
+			</questao>
+			<questao id="1384f5fa-b342-408f-b7e7-b92e8750e58d" idaula="5fa6b9d0-3fa7-4e67-b75e-b540c3f12e2e" enunciado="Por que é importante passar por todas as fases do sono?" justificativa="Cada fase tem funções específicas. O sono N3 recupera o corpo e o sono REM cuida da mente. A interrupção dessas fases compromete a saúde física e mental.">
+				<opcao id="b633c4f5-79be-4ce1-a57d-f210f3a6dc38" idquestao="1384f5fa-b342-408f-b7e7-b92e8750e58d" correta="true" texto="Porque cada fase tem funções importantes para corpo e mente."/>
+				<opcao id="e82dbf28-1300-40b5-b2c6-56566b4c4868" idquestao="1384f5fa-b342-408f-b7e7-b92e8750e58d" correta="false" texto="Porque a repetição de fases acelera o metabolismo."/>
+				<opcao id="361c64c0-b2e6-4b2b-990e-df41015ff14e" idquestao="1384f5fa-b342-408f-b7e7-b92e8750e58d" correta="false" texto="Porque aumenta os níveis de adrenalina ao longo do sono."/>
+				<opcao id="03ed314f-9059-4c71-a00c-f57fd68dfc21" idquestao="1384f5fa-b342-408f-b7e7-b92e8750e58d" correta="false" texto="Porque a fase REM é a única responsável pela saúde."/>
+			</questao>
+			<questao id="df19d385-6933-4419-9c10-b5471beebcf2" idaula="5fa6b9d0-3fa7-4e67-b75e-b540c3f12e2e" enunciado="O que acontece no estágio N2 do sono NREM?" justificativa="O estágio N2 é o sono leve, onde a pessoa está mais relaxada, mas ainda pode acordar. Há diminuição da frequência cardíaca e da temperatura corporal.">
+				<opcao id="5ff22c53-ec17-4653-91a6-6f5c8fd0cd7d" idquestao="df19d385-6933-4419-9c10-b5471beebcf2" correta="true" texto="A pessoa entra em sono leve, com queda na temperatura e na frequência cardíaca."/>
+				<opcao id="0712357c-1f1d-4f87-9ad5-31024e2532a0" idquestao="df19d385-6933-4419-9c10-b5471beebcf2" correta="false" texto="A pessoa apresenta paralisia muscular e sonhos intensos."/>
+				<opcao id="755a005f-982b-4636-bd01-4b5e02e805a3" idquestao="df19d385-6933-4419-9c10-b5471beebcf2" correta="false" texto="O corpo libera hormônio do crescimento de forma intensa."/>
+				<opcao id="4c4a52c0-3c77-4b84-babb-1e3891394e4c" idquestao="df19d385-6933-4419-9c10-b5471beebcf2" correta="false" texto="Há aumento da atividade muscular e consciência dos sonhos."/>
+			</questao>
+		</aula>
+		<aula id="8fc0dc37-bd84-4769-86a2-c57036039677" idmateria="326d5763-7fcb-42d9-82e5-0429839683c2" nome="17.4 - Transtornos do Sono">
+			<questao id="e6e457b7-25a5-44a9-a267-c89cb2cd51e3" idaula="8fc0dc37-bd84-4769-86a2-c57036039677" enunciado="O que caracteriza a insônia?" justificativa="A insônia é marcada pela dificuldade de iniciar ou manter o sono, com impacto direto na qualidade do descanso e no funcionamento diário.">
+				<opcao id="f4980091-3bb7-4f1a-b146-52710a10fc14" idquestao="e6e457b7-25a5-44a9-a267-c89cb2cd51e3" correta="true" texto="Dificuldade para iniciar ou manter o sono de forma adequada."/>
+				<opcao id="a5cf15b2-cd0a-4dd1-9393-d149d77e09c1" idquestao="e6e457b7-25a5-44a9-a267-c89cb2cd51e3" correta="false" texto="Sono profundo com movimentos involuntários."/>
+				<opcao id="5f8f4d26-d1fd-4fc7-91cc-e23960d4316f" idquestao="e6e457b7-25a5-44a9-a267-c89cb2cd51e3" correta="false" texto="Sonhos recorrentes e vívidos durante toda a noite."/>
+				<opcao id="7b997d14-5245-4622-a6a0-99f09bc34f0e" idquestao="e6e457b7-25a5-44a9-a267-c89cb2cd51e3" correta="false" texto="Ronco alto e pausas na respiração."/>
+			</questao>
+			<questao id="ce11a881-1c70-4a77-bbe4-38c17f9e8622" idaula="8fc0dc37-bd84-4769-86a2-c57036039677" enunciado="Qual é um sintoma comum da apneia do sono?" justificativa="A apneia do sono provoca interrupções na respiração durante a noite, gerando sonolência e cansaço ao longo do dia.">
+				<opcao id="1c055ebf-3c28-4695-85a0-72eb4f7bb6b6" idquestao="ce11a881-1c70-4a77-bbe4-38c17f9e8622" correta="true" texto="Pausas repetidas na respiração durante o sono."/>
+				<opcao id="ec2ce58c-e51b-4214-90cd-2dc7d83db74f" idquestao="ce11a881-1c70-4a77-bbe4-38c17f9e8622" correta="false" texto="Dificuldade para manter os olhos fechados enquanto dorme."/>
+				<opcao id="63d0aafe-2404-45ac-bd62-04201059d524" idquestao="ce11a881-1c70-4a77-bbe4-38c17f9e8622" correta="false" texto="Sonambulismo frequente e agitado."/>
+				<opcao id="baeb3c9d-7c33-4d8c-a765-78a1c818acb7" idquestao="ce11a881-1c70-4a77-bbe4-38c17f9e8622" correta="false" texto="Movimentação rápida dos olhos durante o sono NREM."/>
+			</questao>
+			<questao id="748e0e34-ade6-423e-b7b6-2e80e4b4f3b2" idaula="8fc0dc37-bd84-4769-86a2-c57036039677" enunciado="O que é narcolepsia?" justificativa="Narcolepsia é um distúrbio neurológico que provoca episódios súbitos de sono durante o dia, mesmo em momentos inadequados.">
+				<opcao id="e5046540-09f1-40b6-80f6-6c545c5f746e" idquestao="748e0e34-ade6-423e-b7b6-2e80e4b4f3b2" correta="true" texto="Sono incontrolável e repentino durante o dia."/>
+				<opcao id="9638493e-e07e-48c5-8bd4-4d72b23a12db" idquestao="748e0e34-ade6-423e-b7b6-2e80e4b4f3b2" correta="false" texto="Vontade intensa de se movimentar durante o sono."/>
+				<opcao id="e7a1c509-62e0-4de0-84f1-cdf2d21043bc" idquestao="748e0e34-ade6-423e-b7b6-2e80e4b4f3b2" correta="false" texto="Acordar várias vezes com sensação de sufocamento."/>
+				<opcao id="9b7c8c0d-35bb-43fd-bf32-84143d4a7475" idquestao="748e0e34-ade6-423e-b7b6-2e80e4b4f3b2" correta="false" texto="Movimentos involuntários e automáticos durante o sono."/>
+			</questao>
+			<questao id="6785e09d-fbb7-423e-81b4-2b79bc9df1d3" idaula="8fc0dc37-bd84-4769-86a2-c57036039677" enunciado="Qual é a característica da síndrome das pernas inquietas?" justificativa="Essa síndrome gera desconforto e vontade de movimentar as pernas ao deitar, atrapalhando o início do sono.">
+				<opcao id="2c18f429-8f2a-465b-abe4-319c22dcdd59" idquestao="6785e09d-fbb7-423e-81b4-2b79bc9df1d3" correta="true" texto="Necessidade constante de mexer as pernas ao deitar."/>
+				<opcao id="2b4ad7db-5100-4ab4-a4ef-2e2e2cdb4eb9" idquestao="6785e09d-fbb7-423e-81b4-2b79bc9df1d3" correta="false" texto="Movimentação intensa dos olhos durante o sono REM."/>
+				<opcao id="f7ee748f-768f-4067-a97d-bd69eb96aa12" idquestao="6785e09d-fbb7-423e-81b4-2b79bc9df1d3" correta="false" texto="Acordar com espasmos musculares repetitivos."/>
+				<opcao id="e38a78fd-27b2-45f3-977f-d2cbb93cf893" idquestao="6785e09d-fbb7-423e-81b4-2b79bc9df1d3" correta="false" texto="Sonolência extrema pela manhã e falta de apetite."/>
+			</questao>
+			<questao id="b1a90c2a-e110-46bb-984e-d2e3b8374a9d" idaula="8fc0dc37-bd84-4769-86a2-c57036039677" enunciado="O sonambulismo geralmente acontece em que fase do sono?" justificativa="O sonambulismo costuma ocorrer durante o sono profundo, especialmente no estágio N3, sem que a pessoa tenha consciência do que está fazendo.">
+				<opcao id="7b7e00f4-d67e-48b7-bf07-502119622f40" idquestao="b1a90c2a-e110-46bb-984e-d2e3b8374a9d" correta="true" texto="Durante o sono profundo (estágio N3) do sono NREM."/>
+				<opcao id="047afc1c-e420-4e43-a3a0-74a6c2efb857" idquestao="b1a90c2a-e110-46bb-984e-d2e3b8374a9d" correta="false" texto="Durante os sonhos vívidos do sono REM."/>
+				<opcao id="1e81aa9d-89aa-4a5e-8570-7b313e91f4b0" idquestao="b1a90c2a-e110-46bb-984e-d2e3b8374a9d" correta="false" texto="No início do sono, enquanto a pessoa ainda está acordando."/>
+				<opcao id="67467ab5-dcdf-41a5-baad-46e356d4c967" idquestao="b1a90c2a-e110-46bb-984e-d2e3b8374a9d" correta="false" texto="Somente em pessoas com apneia do sono não tratada."/>
+			</questao>
+			<questao id="4e39998f-3c9f-4400-a4f6-4a6820a73dc3" idaula="8fc0dc37-bd84-4769-86a2-c57036039677" enunciado="Qual profissional deve ser procurado para avaliar e tratar transtornos do sono?" justificativa="O neurologista ou o médico especialista em medicina do sono são os mais indicados para diagnosticar e tratar esses distúrbios de forma correta.">
+				<opcao id="ed6c73c2-53ee-4a29-a91b-5a9315d86b80" idquestao="4e39998f-3c9f-4400-a4f6-4a6820a73dc3" correta="true" texto="Neurologista ou médico do sono."/>
+				<opcao id="f7a3bb6d-4067-4b6e-b7cb-50f894bb16dc" idquestao="4e39998f-3c9f-4400-a4f6-4a6820a73dc3" correta="false" texto="Cardiologista ou psiquiatra forense."/>
+				<opcao id="336ae0c2-bc77-4239-b2c1-6301a3e1b195" idquestao="4e39998f-3c9f-4400-a4f6-4a6820a73dc3" correta="false" texto="Fisioterapeuta ou nutricionista do esporte."/>
+				<opcao id="a9b2d4f6-f407-453f-afe0-5698b2d4b0b5" idquestao="4e39998f-3c9f-4400-a4f6-4a6820a73dc3" correta="false" texto="Oftalmologista ou clínico geral."/>
+			</questao>
+		</aula>
+		<aula id="2fbd1e1d-0f6d-46dc-bdf8-2e88194d7b52" idmateria="326d5763-7fcb-42d9-82e5-0429839683c2" nome="18 - Características Gerais da Psicobiologia dos Transtornos Mentais">
+			<questao id="bb79511a-e920-41d0-a553-89a4f121c86e" idaula="2fbd1e1d-0f6d-46dc-bdf8-2e88194d7b52" enunciado="O que a psicobiologia dos transtornos mentais busca compreender?" justificativa="A psicobiologia investiga como o cérebro e seus processos influenciam o surgimento e desenvolvimento de distúrbios mentais.">
+				<opcao id="07cdab96-9d18-4bff-bcb9-0aa9cd0eab68" idquestao="bb79511a-e920-41d0-a553-89a4f121c86e" correta="true" texto="A relação entre o funcionamento biológico do cérebro e os transtornos mentais"/>
+				<opcao id="b4b1b070-68db-4e6c-a8b3-2b9b9e2d27a4" idquestao="bb79511a-e920-41d0-a553-89a4f121c86e" correta="false" texto="As práticas culturais associadas à saúde mental"/>
+				<opcao id="c646f382-1678-4030-9c3f-99c62cb2d3e3" idquestao="bb79511a-e920-41d0-a553-89a4f121c86e" correta="false" texto="As teorias filosóficas sobre a origem da mente"/>
+				<opcao id="8c17f5a9-8e3e-41fa-9ec9-5d32b029d7e7" idquestao="bb79511a-e920-41d0-a553-89a4f121c86e" correta="false" texto="As consequências legais dos transtornos mentais"/>
+			</questao>
+			<questao id="f98dfb0e-d52b-43c2-84fc-bd4e20d4aa3a" idaula="2fbd1e1d-0f6d-46dc-bdf8-2e88194d7b52" enunciado="Qual neurotransmissor está mais associado à regulação do humor e ao sono?" justificativa="A serotonina está ligada ao controle do humor, sono e apetite, sendo um neurotransmissor-chave nos transtornos depressivos.">
+				<opcao id="85cc9f38-f7f4-4f8e-b317-02f86f98f473" idquestao="f98dfb0e-d52b-43c2-84fc-bd4e20d4aa3a" correta="true" texto="Serotonina"/>
+				<opcao id="67093e89-43c7-4209-984b-d7092cce0c3b" idquestao="f98dfb0e-d52b-43c2-84fc-bd4e20d4aa3a" correta="false" texto="Dopamina"/>
+				<opcao id="9f39a00b-c0ef-4b4f-b369-8697bd6e4b46" idquestao="f98dfb0e-d52b-43c2-84fc-bd4e20d4aa3a" correta="false" texto="GABA"/>
+				<opcao id="2d07b999-ff1e-4d3f-a4f5-832de31a349b" idquestao="f98dfb0e-d52b-43c2-84fc-bd4e20d4aa3a" correta="false" texto="Noradrenalina"/>
+			</questao>
+			<questao id="e8b264b7-c9a1-44ef-9187-b509cdac18d0" idaula="2fbd1e1d-0f6d-46dc-bdf8-2e88194d7b52" enunciado="Qual estrutura cerebral está mais relacionada ao medo e à ansiedade?" justificativa="A amígdala desempenha papel central nas respostas emocionais como medo e ansiedade.">
+				<opcao id="e1d5c83a-6b57-4043-b621-4fd40857eb31" idquestao="e8b264b7-c9a1-44ef-9187-b509cdac18d0" correta="true" texto="Amígdala"/>
+				<opcao id="7a30458b-e1e4-4260-bc37-174df1d57436" idquestao="e8b264b7-c9a1-44ef-9187-b509cdac18d0" correta="false" texto="Hipocampo"/>
+				<opcao id="e5b83a76-1250-4ce2-a9ee-657ef7a36ec9" idquestao="e8b264b7-c9a1-44ef-9187-b509cdac18d0" correta="false" texto="Córtex pré-frontal"/>
+				<opcao id="28938869-1949-4f15-86e8-684b2d947057" idquestao="e8b264b7-c9a1-44ef-9187-b509cdac18d0" correta="false" texto="Tálamo"/>
+			</questao>
+			<questao id="1b21eb60-65a2-4b90-aedf-6a2f47f87e42" idaula="2fbd1e1d-0f6d-46dc-bdf8-2e88194d7b52" enunciado="Como a psicobiologia entende a origem dos transtornos mentais?" justificativa="A psicobiologia considera que os transtornos mentais surgem da interação entre predisposição genética e vivências ambientais.">
+				<opcao id="55a8de16-2e47-460b-9cbb-0ea85ab6744a" idquestao="1b21eb60-65a2-4b90-aedf-6a2f47f87e42" correta="true" texto="Como resultado da interação entre fatores genéticos e ambientais"/>
+				<opcao id="73021e4a-3d36-4596-9a0f-4f1c0f1cc8b3" idquestao="1b21eb60-65a2-4b90-aedf-6a2f47f87e42" correta="false" texto="Como um desequilíbrio exclusivamente químico"/>
+				<opcao id="894373ff-75e4-4cd7-a8d5-fb6d71c9b49e" idquestao="1b21eb60-65a2-4b90-aedf-6a2f47f87e42" correta="false" texto="Como uma falha moral do indivíduo"/>
+				<opcao id="cf94d17e-80ce-4e6a-95df-86e1a3e24ef5" idquestao="1b21eb60-65a2-4b90-aedf-6a2f47f87e42" correta="false" texto="Como um distúrbio de origem exclusivamente espiritual"/>
+			</questao>
+			<questao id="76089138-2916-419c-8992-1ff6a8a2ee45" idaula="2fbd1e1d-0f6d-46dc-bdf8-2e88194d7b52" enunciado="Por que o estudo da psicobiologia é importante para os tratamentos dos transtornos mentais?" justificativa="Compreender os aspectos biológicos permite combinar estratégias para melhores resultados terapêuticos.">
+				<opcao id="2f16b228-7b08-4c86-9ee7-e3bdb7cc3ed4" idquestao="76089138-2916-419c-8992-1ff6a8a2ee45" correta="true" texto="Porque permite desenvolver abordagens terapêuticas mais eficazes, combinando medicamentos e psicoterapia"/>
+				<opcao id="2dce8aef-083e-45f5-a83f-43123a1a43ae" idquestao="76089138-2916-419c-8992-1ff6a8a2ee45" correta="false" texto="Porque substitui totalmente a psicoterapia por remédios"/>
+				<opcao id="f34d9ea0-6dc5-4b19-b16a-3f707c0d99e2" idquestao="76089138-2916-419c-8992-1ff6a8a2ee45" correta="false" texto="Porque ignora os fatores sociais nos tratamentos"/>
+				<opcao id="4f0306b4-49e1-4c39-b9ea-9c496220ee3a" idquestao="76089138-2916-419c-8992-1ff6a8a2ee45" correta="false" texto="Porque defende que todos os transtornos são incuráveis"/>
+			</questao>
+		</aula>
 	</materia>
 	<materia id="2e71db2d-a57a-4bf9-a383-cdd34ed4d21c" nome="EaD - Ambientação Universitária">
 		<aula id="caa194a3-20ad-4a8c-afcd-0c559b97c9eb" idmateria="2e71db2d-a57a-4bf9-a383-cdd34ed4d21c" nome="aula 01 - O ensino superior no Brasil e a educação a distância">
