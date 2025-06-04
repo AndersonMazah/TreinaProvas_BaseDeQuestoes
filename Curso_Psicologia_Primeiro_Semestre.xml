@@ -458,13 +458,403 @@
 		</aula>
 	</materia>
 	<materia id="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="2-Genética">
-		<aula id="ad1dd269-374c-48ba-ab66-d6ade39f5830" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="1-Introdução à Genética"/>
-		<aula id="e1734ffb-e066-41b4-ad6b-27ef10bafa31" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="2-Estrutura do DNA e Tipos de RNA"/>
-		<aula id="8512032d-fe35-44ab-9b40-7062385eaa32" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="3-Replicação, Transcrição e Tradução"/>
-		<aula id="62854565-2431-4882-b4a2-626ccec85de5" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="4-Cromossomos e Reprodução celular"/>
-		<aula id="287b2442-6b2c-4be8-91ad-b82bcd68f0e3" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="5-Hereditariedade - 1ª lei de Mendel"/>
-		<aula id="a14998a8-5f6b-412b-8d56-280cd2a13b46" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="6-Hereditariedade - 2ª lei de Mendel"/>
-		<aula id="6bfd5a48-310a-4040-90fa-1ac80611acfd" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="7-Probabilidade e Análise de Heredograma"/>
+		<aula id="f1486ad4-c17f-443f-b88c-7846f891b8ee" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="1-Introdução à Genética">
+			<questao id="55aa1e39-1e5f-4ce6-8332-05a7972b7582" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="O que é genética?" justificativa="A alternativa correta define adequadamente a genética como ramo da biologia que estuda os genes, hereditariedade e variação. As demais distorcem ou limitam o conceito.">
+				<opcao id="8f92dcb4-096c-4ea3-8a81-2e0421a858f9" idquestao="55aa1e39-1e5f-4ce6-8332-05a7972b7582" correta="true" texto="É o ramo da biologia que estuda os genes, a hereditariedade e a variação dos organismos."/>
+				<opcao id="1addc4f7-7b19-4639-a4bc-1e3b4e817f3e" idquestao="55aa1e39-1e5f-4ce6-8332-05a7972b7582" correta="false" texto="É a ciência que estuda apenas as mutações genéticas em humanos."/>
+				<opcao id="99f1040a-7909-48b8-a0b8-05db8f7c28b7" idquestao="55aa1e39-1e5f-4ce6-8332-05a7972b7582" correta="false" texto="É a parte da medicina que trata doenças hereditárias."/>
+				<opcao id="968747c6-c181-4d8d-a941-0215d5b653e3" idquestao="55aa1e39-1e5f-4ce6-8332-05a7972b7582" correta="false" texto="É o estudo da influência do ambiente no comportamento."/>
+			</questao>
+			<questao id="97fbf28f-8cf2-4e5e-aa57-e637f1db9f10" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Quais são as principais divisões da genética?" justificativa="A resposta correta cita as três divisões principais: transmissão, molecular e populacional, conforme apresentado no material.">
+				<opcao id="1977092c-ce40-4235-94fb-7e58dec5f824" idquestao="97fbf28f-8cf2-4e5e-aa57-e637f1db9f10" correta="true" texto="Genética de transmissão, genética molecular e genética populacional."/>
+				<opcao id="00fec743-cb32-4990-8e4d-7a93714a47c6" idquestao="97fbf28f-8cf2-4e5e-aa57-e637f1db9f10" correta="false" texto="Genética evolutiva, genética comportamental e genética celular."/>
+				<opcao id="f7398086-d016-4117-ba6c-3ec9290acaeb" idquestao="97fbf28f-8cf2-4e5e-aa57-e637f1db9f10" correta="false" texto="Genética ambiental, genética neural e genética psicossocial."/>
+				<opcao id="08aa77f5-8b2d-4b59-8b0a-5afcdbc92d5a" idquestao="97fbf28f-8cf2-4e5e-aa57-e637f1db9f10" correta="false" texto="Genética aplicada, genética médica e genética forense."/>
+			</questao>
+			<questao id="c4055c71-7758-4664-a750-bd2b14407a61" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Explique a diferença entre genótipo e fenótipo." justificativa="A resposta correta destaca a diferença entre o conteúdo genético e a manifestação observável, o que é fundamental para o entendimento da genética.">
+				<opcao id="9a3d2a28-5482-4beb-990c-22c1c3012772" idquestao="c4055c71-7758-4664-a750-bd2b14407a61" correta="true" texto="Genótipo é o conjunto de alelos; fenótipo é o conjunto de características observáveis."/>
+				<opcao id="a5c335cf-2821-41a6-808b-ee81423466b1" idquestao="c4055c71-7758-4664-a750-bd2b14407a61" correta="false" texto="Genótipo é o ambiente onde o indivíduo vive; fenótipo é a sequência de DNA."/>
+				<opcao id="1e27ba32-0c1b-4f53-9855-e001824b984e" idquestao="c4055c71-7758-4664-a750-bd2b14407a61" correta="false" texto="Genótipo são as mutações genéticas; fenótipo é o resultado de doenças genéticas."/>
+				<opcao id="bbf32696-f920-474b-a562-f94f16bce544" idquestao="c4055c71-7758-4664-a750-bd2b14407a61" correta="false" texto="Genótipo refere-se à expressão de proteínas; fenótipo ao RNA mensageiro."/>
+			</questao>
+			<questao id="115ac513-1eef-4e3c-9db1-7c3573080546" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Como Gregor Mendel contribuiu para a genética?" justificativa="A alternativa correta reflete sua importância como fundador da genética com experimentos em ervilhas.">
+				<opcao id="af759f9f-f3b1-4378-b0f4-4dd07cdb4bbe" idquestao="115ac513-1eef-4e3c-9db1-7c3573080546" correta="true" texto="Descobriu os princípios da herdabilidade ao cruzar ervilhas."/>
+				<opcao id="2ab62d9e-5d0c-495a-8935-3c1503a4324a" idquestao="115ac513-1eef-4e3c-9db1-7c3573080546" correta="false" texto="Descreveu a estrutura do DNA com modelos tridimensionais."/>
+				<opcao id="65958273-ca35-4209-8c1a-908303f4c9d1" idquestao="115ac513-1eef-4e3c-9db1-7c3573080546" correta="false" texto="Coordenou o Projeto Genoma Humano."/>
+				<opcao id="16c85126-d6b0-4597-8cab-9c24457a0b0b" idquestao="115ac513-1eef-4e3c-9db1-7c3573080546" correta="false" texto="Estudou as mutações genéticas no século XXI."/>
+			</questao>
+			<questao id="c7faa80d-1c2b-4d71-bb78-d1a3045176d0" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Qual das opções representa corretamente a estrutura que carrega os genes?" justificativa="A alternativa correta identifica o cromossomo como estrutura que carrega os genes. As demais confundem ou omitem elementos essenciais.">
+				<opcao id="0fee12f1-1c3d-4a9c-b1bf-89dee7f7eaa3" idquestao="c7faa80d-1c2b-4d71-bb78-d1a3045176d0" correta="true" texto="Cromossomos são estruturas compostas de DNA e proteínas que carregam os genes responsáveis pelas características herdadas."/>
+				<opcao id="24657df4-952c-4fe1-b042-3ad2531503ff" idquestao="c7faa80d-1c2b-4d71-bb78-d1a3045176d0" correta="false" texto="Fenótipo é a aparência externa de um organismo, resultante da interação entre genes e ambiente."/>
+				<opcao id="9896b716-8e0a-4364-bf33-e223c2ae11fa" idquestao="c7faa80d-1c2b-4d71-bb78-d1a3045176d0" correta="false" texto="Mutação é uma alteração na sequência do DNA, não uma estrutura de armazenamento de genes."/>
+				<opcao id="1dac3d0b-e309-466b-a586-6e85570e6f7e" idquestao="c7faa80d-1c2b-4d71-bb78-d1a3045176d0" correta="false" texto="Cariótipo é uma representação gráfica do conjunto de cromossomos de uma célula, não uma estrutura em si."/>
+			</questao>
+			<questao id="bc77c054-68cb-4801-8c26-ac9113d8939d" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Como o ambiente influencia o fenótipo de um indivíduo?" justificativa="A resposta correta reconhece a interação entre genótipo e ambiente na formação do fenótipo, como destacado na fórmula Fenótipo = Genótipo + Ambiente.">
+				<opcao id="c75e2dc1-2205-4a0a-b343-840b00a9f134" idquestao="bc77c054-68cb-4801-8c26-ac9113d8939d" correta="true" texto="O ambiente interage com o genótipo, influenciando as características observáveis do indivíduo."/>
+				<opcao id="1645e692-b996-42ce-b343-9d8df22601d8" idquestao="bc77c054-68cb-4801-8c26-ac9113d8939d" correta="false" texto="O ambiente modifica diretamente o genótipo do indivíduo."/>
+				<opcao id="bce8d68b-fc5c-49d7-8ae4-b07e1b03bc62" idquestao="bc77c054-68cb-4801-8c26-ac9113d8939d" correta="false" texto="O ambiente não tem influência sobre as características genéticas de um indivíduo."/>
+				<opcao id="e3d6b374-f740-44fa-ba24-834b38467554" idquestao="bc77c054-68cb-4801-8c26-ac9113d8939d" correta="false" texto="A interação ambiente-genótipo ocorre apenas em casos de mutações genéticas."/>
+			</questao>
+			<questao id="b3d9e4b7-e5ed-41c0-a76e-876558049709" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Dada a presença de dois alelos diferentes para um gene, como esse indivíduo é classificado?" justificativa="A alternativa correta é 'heterozigoto', conforme o conceito apresentado.">
+				<opcao id="b05dd9de-1f25-45c7-b121-bb37a0690215" idquestao="b3d9e4b7-e5ed-41c0-a76e-876558049709" correta="true" texto="Heterozigoto."/>
+				<opcao id="2c199dca-488e-4dc0-ac7b-4df4ffacc7f1" idquestao="b3d9e4b7-e5ed-41c0-a76e-876558049709" correta="false" texto="Homozigoto."/>
+				<opcao id="d77742c8-9b77-47e7-9eee-723cc1f14608" idquestao="b3d9e4b7-e5ed-41c0-a76e-876558049709" correta="false" texto="Dominante."/>
+				<opcao id="f3759bc9-0ec6-426a-87eb-2c01fce79a32" idquestao="b3d9e4b7-e5ed-41c0-a76e-876558049709" correta="false" texto="Recessivo."/>
+			</questao>
+			<questao id="d51cf8ab-9fd8-4ff0-a146-30fc8d66c84f" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Analise a importância do Projeto Genoma Humano para a ciência genética." justificativa="A resposta correta avalia criticamente a relevância do projeto, destacando seu papel na identificação e sequenciamento dos genes humanos.">
+				<opcao id="f92f4d10-36f0-4db6-b5e9-56c98b2f3ba7" idquestao="d51cf8ab-9fd8-4ff0-a146-30fc8d66c84f" correta="true" texto="Permitiu o mapeamento completo dos genes humanos, auxiliando na compreensão de doenças genéticas."/>
+				<opcao id="94e0ed58-a75f-454d-a356-72709e45e0a4" idquestao="d51cf8ab-9fd8-4ff0-a146-30fc8d66c84f" correta="false" texto="Iniciou os primeiros experimentos com células-tronco em humanos."/>
+				<opcao id="dc81966e-e400-43a1-a170-442fc6b41cef" idquestao="d51cf8ab-9fd8-4ff0-a146-30fc8d66c84f" correta="false" texto="Desenvolveu a técnica de inseminação artificial moderna."/>
+				<opcao id="bddc4336-89a1-4e4a-9df4-81dc238fb5e8" idquestao="d51cf8ab-9fd8-4ff0-a146-30fc8d66c84f" correta="false" texto="Criou leis internacionais sobre manipulação genética."/>
+			</questao>
+			<questao id="b4eeac5f-23cc-47b3-9532-399e94489e39" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Crie um exemplo que mostre como a dominância e a recessividade se manifestam." justificativa="A questão exige que o aluno aplique o conceito em um exemplo prático, envolvendo alelos dominantes e recessivos.">
+				<opcao id="0f187259-a526-450e-87f6-ec425534b13f" idquestao="b4eeac5f-23cc-47b3-9532-399e94489e39" correta="true" texto="Um indivíduo com alelos Aa para cor dos olhos apresenta olhos castanhos, pois o alelo A é dominante sobre o a."/>
+				<opcao id="cc05090d-baf0-4678-882d-8fe991ba9321" idquestao="b4eeac5f-23cc-47b3-9532-399e94489e39" correta="false" texto="Um indivíduo Aa apresentará traços intermediários entre A e a."/>
+				<opcao id="4c644a10-e880-4bab-a40b-63a2848b7297" idquestao="b4eeac5f-23cc-47b3-9532-399e94489e39" correta="false" texto="A presença de dois alelos recessivos resulta sempre em mutações genéticas."/>
+				<opcao id="af90c75e-ce6e-4b99-8650-aaf5891a6489" idquestao="b4eeac5f-23cc-47b3-9532-399e94489e39" correta="false" texto="O alelo dominante só se manifesta se estiver duplicado."/>
+			</questao>
+			<questao id="f9325439-7b47-48f0-8b0f-25fd8682d9d9" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Quais cientistas estão associados à descoberta da estrutura do DNA?" justificativa="A resposta correta reconhece os quatro cientistas principais que descreveram a estrutura tridimensional do DNA.">
+				<opcao id="cc8e7b4c-4a45-47c9-b8d0-eba5b0a4f72d" idquestao="f9325439-7b47-48f0-8b0f-25fd8682d9d9" correta="true" texto="Francis Crick, James Watson, Maurice Wilkins e Rosalind Franklin."/>
+				<opcao id="d3172d8b-69bc-4550-89cb-fbf233f041a9" idquestao="f9325439-7b47-48f0-8b0f-25fd8682d9d9" correta="false" texto="Gregor Mendel, Watson, Darwin e Lamarck."/>
+				<opcao id="9f72e6a4-5deb-440a-a05c-2e18fe337bdf" idquestao="f9325439-7b47-48f0-8b0f-25fd8682d9d9" correta="false" texto="Watson, Pavlov, Freud e Crick."/>
+				<opcao id="8e1fd7bb-cf69-48c8-b6a2-918c839e4f15" idquestao="f9325439-7b47-48f0-8b0f-25fd8682d9d9" correta="false" texto="Wilkins, Watson, Skinner e Mendel."/>
+			</questao>
+			<questao id="7142b0b8-794e-4ede-bdf2-71bfafcc0fa8" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Avalie como mutações genéticas podem afetar a saúde humana." justificativa="A resposta correta envolve análise do impacto funcional das mutações no organismo, como exemplificado pela fibrose cística.">
+				<opcao id="170b7534-6b0a-49fe-8100-9cca6019623a" idquestao="7142b0b8-794e-4ede-bdf2-71bfafcc0fa8" correta="true" texto="Podem alterar a função dos genes, levando a doenças como a fibrose cística."/>
+				<opcao id="40cd847d-f1b1-4707-8d28-44c1248a25ce" idquestao="7142b0b8-794e-4ede-bdf2-71bfafcc0fa8" correta="false" texto="Apenas melhoram o desempenho celular e raramente causam doenças."/>
+				<opcao id="9ddc1583-f687-4987-89b8-32ec87e0023d" idquestao="7142b0b8-794e-4ede-bdf2-71bfafcc0fa8" correta="false" texto="Afetam somente as características físicas e nunca a saúde."/>
+				<opcao id="9dc0c123-a88f-428b-afb9-7bb9c5560efc" idquestao="7142b0b8-794e-4ede-bdf2-71bfafcc0fa8" correta="false" texto="São sempre herdadas dos pais e não ocorrem ao longo da vida."/>
+			</questao>
+			<questao id="7f27d4e6-e32c-453b-aa90-5f31b4fc84da" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Proponha um exemplo de como a genética e o ambiente podem interagir na formação da personalidade." justificativa="Essa questão envolve a criação de um cenário integrando conhecimento sobre genética e ambiente, como discutido na leitura complementar.">
+				<opcao id="0de1c55d-1732-434f-99b0-a3b069ca3b6e" idquestao="7f27d4e6-e32c-453b-aa90-5f31b4fc84da" correta="true" texto="Uma pessoa com predisposição genética à ansiedade pode ou não desenvolver o transtorno dependendo das experiências de vida e ambiente familiar."/>
+				<opcao id="51c4b60e-728c-4ffe-9357-c9e1ee778f94" idquestao="7f27d4e6-e32c-453b-aa90-5f31b4fc84da" correta="false" texto="Personalidade é exclusivamente moldada por traços genéticos herdados dos pais."/>
+				<opcao id="b08c0e7a-be3a-42d8-abdd-6145dab05348" idquestao="7f27d4e6-e32c-453b-aa90-5f31b4fc84da" correta="false" texto="O ambiente não influencia a personalidade se o genótipo for dominante."/>
+				<opcao id="8053a3aa-b1dc-4576-a3a4-eac7f9f8137a" idquestao="7f27d4e6-e32c-453b-aa90-5f31b4fc84da" correta="false" texto="A personalidade depende exclusivamente de fatores externos, como educação e cultura."/>
+			</questao>
+			<questao id="54ec9c4d-da6e-48ca-aaa2-73f51296b3bf" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="O que são cromossomos?" justificativa="Cromossomos são estruturas filamentosas presentes no núcleo das células, compostas por DNA e proteínas, e carregam os genes. As outras opções confundem com organelas ou funções celulares incorretas.">
+				<opcao id="d60bee6b-45a6-45ba-8ee4-9aa2b5b63d5f" idquestao="54ec9c4d-da6e-48ca-aaa2-73f51296b3bf" correta="true" texto="São estruturas que contêm o DNA e os genes, localizadas no núcleo celular."/>
+				<opcao id="02f8e333-7737-48e7-954a-6f0084ca8885" idquestao="54ec9c4d-da6e-48ca-aaa2-73f51296b3bf" correta="false" texto="São organelas responsáveis pela produção de energia nas células."/>
+				<opcao id="b89a5863-9f41-40a1-85b4-4776ed12e576" idquestao="54ec9c4d-da6e-48ca-aaa2-73f51296b3bf" correta="false" texto="São proteínas que regulam o metabolismo celular."/>
+				<opcao id="5e6da088-e7a1-41d5-9a8a-28c522fb228b" idquestao="54ec9c4d-da6e-48ca-aaa2-73f51296b3bf" correta="false" texto="São hormônios que controlam o crescimento dos tecidos."/>
+			</questao>
+			<questao id="a03bf9a5-e399-463c-b083-e2158e413deb" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="O que é um cariótipo?" justificativa="O cariótipo é o conjunto completo de cromossomos de uma célula, organizado em pares. As opções incorretas confundem com conceitos genéticos distintos.">
+				<opcao id="56455e8f-e940-4e17-a814-d392bd3a0a9f" idquestao="a03bf9a5-e399-463c-b083-e2158e413deb" correta="true" texto="É o conjunto completo de cromossomos organizados por pares e tamanho."/>
+				<opcao id="1ab3aea3-d488-4edb-99bd-80be91a5c3e0" idquestao="a03bf9a5-e399-463c-b083-e2158e413deb" correta="false" texto="É a sequência de bases nitrogenadas do DNA."/>
+				<opcao id="2dd5937c-08a6-45b7-9a3c-3054588eb65b" idquestao="a03bf9a5-e399-463c-b083-e2158e413deb" correta="false" texto="É a expressão visível das características de um indivíduo."/>
+				<opcao id="9b7c7106-1556-4e5c-aa9f-6808066e178d" idquestao="a03bf9a5-e399-463c-b083-e2158e413deb" correta="false" texto="É a mutação que afeta diretamente o fenótipo."/>
+			</questao>
+			<questao id="c605be67-678f-48a6-8d28-43605e4f54c9" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Qual é a função de um gene?" justificativa="O gene contém a informação necessária para a produção de proteínas. As demais opções não representam corretamente a definição ou função do gene.">
+				<opcao id="d8a49b86-dbcd-4a6c-afca-39a7b44ac3c4" idquestao="c605be67-678f-48a6-8d28-43605e4f54c9" correta="true" texto="Codificar informações para a produção de proteínas."/>
+				<opcao id="2126aa8f-6688-4a55-8787-27b57908ec1d" idquestao="c605be67-678f-48a6-8d28-43605e4f54c9" correta="false" texto="Destruir agentes patológicos dentro da célula."/>
+				<opcao id="91490aec-e8b6-40f7-b5f7-209e4e0d0cd0" idquestao="c605be67-678f-48a6-8d28-43605e4f54c9" correta="false" texto="Transportar nutrientes para o núcleo celular."/>
+				<opcao id="6875db01-d29e-4c69-8f2a-1d90913899b3" idquestao="c605be67-678f-48a6-8d28-43605e4f54c9" correta="false" texto="Produzir energia para o funcionamento da célula."/>
+			</questao>
+			<questao id="686934e8-970f-4d4f-8ce2-073d99cfb0f7" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="O que são alelos?" justificativa="Alelos são versões diferentes de um mesmo gene em um locus específico. As alternativas incorretas descrevem outros conceitos genéticos.">
+				<opcao id="09b54ae3-4d40-4994-aad6-d741b86f6208" idquestao="686934e8-970f-4d4f-8ce2-073d99cfb0f7" correta="true" texto="São diferentes versões de um mesmo gene."/>
+				<opcao id="54a2d4a7-5770-40f6-a266-b0c93e4a0bea" idquestao="686934e8-970f-4d4f-8ce2-073d99cfb0f7" correta="false" texto="São as proteínas formadas pelo DNA."/>
+				<opcao id="d6fef043-0f0d-48c1-9fe6-58586724ce7c" idquestao="686934e8-970f-4d4f-8ce2-073d99cfb0f7" correta="false" texto="São as células responsáveis pela hereditariedade."/>
+				<opcao id="4f64f130-cd5e-4430-83e4-dcf8042f8229" idquestao="686934e8-970f-4d4f-8ce2-073d99cfb0f7" correta="false" texto="São mutações que surgem espontaneamente no DNA."/>
+			</questao>
+			<questao id="edc19b35-08c0-4ef0-939a-644831927b24" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Como é definido o genótipo?" justificativa="Genótipo é o conjunto de alelos que um organismo possui. As outras opções tratam de expressões fenotípicas ou comportamentais.">
+				<opcao id="ee45e9ab-cb0b-4af5-9092-6df768eff13b" idquestao="edc19b35-08c0-4ef0-939a-644831927b24" correta="true" texto="É o conjunto de alelos presentes em um organismo."/>
+				<opcao id="e971134c-4aab-416c-bf61-d5217099adac" idquestao="edc19b35-08c0-4ef0-939a-644831927b24" correta="false" texto="É o conjunto de características observáveis de um indivíduo."/>
+				<opcao id="4fe08a0f-632b-4030-936d-4aa070d43640" idquestao="edc19b35-08c0-4ef0-939a-644831927b24" correta="false" texto="É a aparência externa causada pelo ambiente."/>
+				<opcao id="37c11363-27d6-453f-8393-2f7e43d3be93" idquestao="edc19b35-08c0-4ef0-939a-644831927b24" correta="false" texto="É a combinação entre ambiente e hábitos sociais."/>
+			</questao>
+			<questao id="bf3bf536-d20e-4284-af83-f62f376d77f8" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Qual é a definição de fenótipo?" justificativa="Fenótipo é o conjunto de características observáveis de um indivíduo, resultado da interação entre genótipo e ambiente.">
+				<opcao id="65780f99-982b-4e7d-8397-25e05408a1a7" idquestao="bf3bf536-d20e-4284-af83-f62f376d77f8" correta="true" texto="Conjunto de características observáveis resultantes do genótipo e ambiente."/>
+				<opcao id="40dcf1f5-d8c1-45ca-abc4-e92cc51cb2a9" idquestao="bf3bf536-d20e-4284-af83-f62f376d77f8" correta="false" texto="Somente as características genéticas herdadas dos pais."/>
+				<opcao id="beb6e076-826b-49e9-88dc-5bac12b1eff0" idquestao="bf3bf536-d20e-4284-af83-f62f376d77f8" correta="false" texto="Apenas os traços físicos visíveis ao nascimento."/>
+				<opcao id="742fe79f-850f-486a-81e1-4be994d54302" idquestao="bf3bf536-d20e-4284-af83-f62f376d77f8" correta="false" texto="As mutações presentes no DNA."/>
+			</questao>
+			<questao id="06451de1-d4c9-44ae-90e9-0cf64e11fce6" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="O que caracteriza um alelo dominante?" justificativa="Um alelo dominante se expressa no fenótipo mesmo na presença de um alelo recessivo. As outras alternativas distorcem esse conceito.">
+				<opcao id="6a54946e-647e-4e26-aeb5-ca17ca6052a8" idquestao="06451de1-d4c9-44ae-90e9-0cf64e11fce6" correta="true" texto="Manifesta-se no fenótipo mesmo na presença de um alelo recessivo."/>
+				<opcao id="89e70e0e-0b2c-4d6b-acef-038723c7720f" idquestao="06451de1-d4c9-44ae-90e9-0cf64e11fce6" correta="false" texto="Só aparece se os dois alelos forem diferentes."/>
+				<opcao id="afd22cc4-0dc2-4c8f-bfa4-f6869f2238a8" idquestao="06451de1-d4c9-44ae-90e9-0cf64e11fce6" correta="false" texto="É sempre responsável por doenças genéticas."/>
+				<opcao id="09a61617-a592-458c-8580-2103b34886f0" idquestao="06451de1-d4c9-44ae-90e9-0cf64e11fce6" correta="false" texto="Nunca se expressa em organismos heterozigotos."/>
+			</questao>
+			<questao id="e5b107f8-ac78-48e5-a7aa-7ea5db067b3d" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="O que é um indivíduo homozigoto?" justificativa="Indivíduos homozigotos possuem dois alelos iguais para um determinado gene. As demais opções descrevem casos distintos.">
+				<opcao id="1906b4d2-0277-4fce-8e02-eacee4df8a3b" idquestao="e5b107f8-ac78-48e5-a7aa-7ea5db067b3d" correta="true" texto="Aquele que possui dois alelos idênticos para um gene."/>
+				<opcao id="c7e4fca3-6ffa-4de3-8465-48f70c1015ae" idquestao="e5b107f8-ac78-48e5-a7aa-7ea5db067b3d" correta="false" texto="Aquele que possui genes duplicados em diferentes cromossomos."/>
+				<opcao id="c8703791-3308-4fdb-8c4c-0bf377b25480" idquestao="e5b107f8-ac78-48e5-a7aa-7ea5db067b3d" correta="false" texto="Aquele que possui alelos diferentes para um gene."/>
+				<opcao id="3aa02269-0295-4ce8-a91d-981e227d7286" idquestao="e5b107f8-ac78-48e5-a7aa-7ea5db067b3d" correta="false" texto="Aquele que possui mutações em todos os genes."/>
+			</questao>
+			<questao id="2f9154b3-e765-4c66-a50d-7047d34b73f4" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Como é definido um indivíduo heterozigoto?" justificativa="Um indivíduo heterozigoto possui dois alelos diferentes para um mesmo gene.">
+				<opcao id="2c6359bc-2a99-4672-a92b-c68f1bf51c45" idquestao="2f9154b3-e765-4c66-a50d-7047d34b73f4" correta="true" texto="Aquele que possui alelos diferentes para um gene."/>
+				<opcao id="35ce5ba6-5dc5-425d-9608-0f313e998238" idquestao="2f9154b3-e765-4c66-a50d-7047d34b73f4" correta="false" texto="Aquele que apresenta duas cópias de DNA mutante."/>
+				<opcao id="a1a820e0-95b0-4ae0-9dc8-73196289c14b" idquestao="2f9154b3-e765-4c66-a50d-7047d34b73f4" correta="false" texto="Aquele que expressa apenas alelos recessivos."/>
+				<opcao id="41a988cd-d01c-4a0d-8217-c8ae8274fdd4" idquestao="2f9154b3-e765-4c66-a50d-7047d34b73f4" correta="false" texto="Aquele que não expressa características herdadas."/>
+			</questao>
+			<questao id="c7d9964b-c215-4962-9678-ce82b79a00fb" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="O que é uma mutação genética?" justificativa="Mutação é uma alteração na sequência do DNA que pode afetar a função dos genes. As outras opções são equivocadas ou incompletas.">
+				<opcao id="83e47479-6d1e-41d9-92ac-9dc229960a3e" idquestao="c7d9964b-c215-4962-9678-ce82b79a00fb" correta="true" texto="Alteração na sequência do DNA que pode mudar a função dos genes."/>
+				<opcao id="42642406-45a2-4bb8-8bd6-2b54c9799fd1" idquestao="c7d9964b-c215-4962-9678-ce82b79a00fb" correta="false" texto="Modificação permanente do fenótipo causada por ambiente."/>
+				<opcao id="4620b627-971e-4f5a-a616-7583ab3a5fc8" idquestao="c7d9964b-c215-4962-9678-ce82b79a00fb" correta="false" texto="Processo natural de duplicação celular."/>
+				<opcao id="2083a97f-e2bb-4e29-97a2-0933d6399144" idquestao="c7d9964b-c215-4962-9678-ce82b79a00fb" correta="false" texto="Sequência de proteínas herdadas dos pais."/>
+			</questao>
+			<questao id="f15ab4ee-7d71-4b77-b0f1-7ac8a7753d02" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="O que ocorre quando um organismo apresenta um alelo dominante e um alelo recessivo para um mesmo gene?" justificativa="A alternativa correta descreve o conceito fundamental da dominância: o alelo dominante se manifesta no fenótipo mesmo quando o alelo recessivo está presente. As demais confundem dominância com codominância ou expressão recessiva.">
+				<opcao id="4d4de199-7a56-40e0-b21e-013b7d5d9b9a" idquestao="f15ab4ee-7d71-4b77-b0f1-7ac8a7753d02" correta="true" texto="O alelo dominante se expressa no fenótipo, mesmo na presença do alelo recessivo."/>
+				<opcao id="2bd0a93b-61a9-437e-8d7b-ec2d95120efb" idquestao="f15ab4ee-7d71-4b77-b0f1-7ac8a7753d02" correta="false" texto="Ambos os alelos são igualmente expressos no fenótipo, caracterizando codominância."/>
+				<opcao id="2cfce4de-79b7-4e8f-86f5-400c81fe6e45" idquestao="f15ab4ee-7d71-4b77-b0f1-7ac8a7753d02" correta="false" texto="O alelo recessivo prevalece e suprime a expressão do dominante."/>
+				<opcao id="32c62055-813d-4b9a-a4a0-7f26e38e354b" idquestao="f15ab4ee-7d71-4b77-b0f1-7ac8a7753d02" correta="false" texto="Nenhum dos alelos se expressa no fenótipo, apenas em homozigose."/>
+			</questao>
+			<questao id="d0b7dd12-5bc1-46c1-a8e2-089cb36f2180" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Qual das alternativas diferencia corretamente a dominância completa, a dominância incompleta e a codominância?" justificativa="A resposta correta compara adequadamente os três tipos de dominância, conforme os conceitos genéticos clássicos. As demais misturam ou confundem os termos.">
+				<opcao id="c09fbb7c-3802-4452-9620-86539e3e7618" idquestao="d0b7dd12-5bc1-46c1-a8e2-089cb36f2180" correta="true" texto="Na dominância completa, o alelo dominante se expressa totalmente; na incompleta, ocorre mistura dos fenótipos; e na codominância, ambos os alelos se expressam simultaneamente."/>
+				<opcao id="7f9d23ee-60c2-4ff0-a6df-d705345fb4c5" idquestao="d0b7dd12-5bc1-46c1-a8e2-089cb36f2180" correta="false" texto="Na dominância completa, o recessivo se expressa sozinho; na incompleta, nenhum alelo se expressa; na codominância, apenas o dominante se manifesta."/>
+				<opcao id="02cba3f6-786b-429f-81dc-e97a14749f2b" idquestao="d0b7dd12-5bc1-46c1-a8e2-089cb36f2180" correta="false" texto="A dominância incompleta é quando o dominante é mais forte; a codominância é quando o recessivo prevalece; e a completa é quando há mutação."/>
+				<opcao id="6e1f3087-c084-4c2a-a27e-b130f8023cf7" idquestao="d0b7dd12-5bc1-46c1-a8e2-089cb36f2180" correta="false" texto="Todos os tipos de dominância resultam no mesmo fenótipo, independentemente da combinação de alelos."/>
+			</questao>
+			<questao id="b7a1279c-0f4f-4220-bcf1-0a83978614d9" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Em um cruzamento entre dois indivíduos heterozigotos (Aa), qual a proporção esperada de fenótipos dominantes?" justificativa="A alternativa correta considera o resultado clássico de um cruzamento Aa x Aa, com 75% de fenótipos dominantes (AA ou Aa).">
+				<opcao id="e1a86e0f-0895-4d26-b4e6-72058e749799" idquestao="b7a1279c-0f4f-4220-bcf1-0a83978614d9" correta="true" texto="75% dos descendentes apresentarão o fenótipo dominante."/>
+				<opcao id="ed88f10e-fccc-4356-8800-2a676a147679" idquestao="b7a1279c-0f4f-4220-bcf1-0a83978614d9" correta="false" texto="100% dos descendentes apresentarão o fenótipo recessivo."/>
+				<opcao id="a21c00d5-3a38-4f26-a443-2373e75c6cc9" idquestao="b7a1279c-0f4f-4220-bcf1-0a83978614d9" correta="false" texto="50% dos descendentes serão recessivos e 50% dominantes."/>
+				<opcao id="c55b0df6-17db-4fc5-a899-166d0b0666e3" idquestao="b7a1279c-0f4f-4220-bcf1-0a83978614d9" correta="false" texto="Todos os descendentes terão genótipo homozigoto."/>
+			</questao>
+		</aula>
+		<aula id="e596b84f-fc4d-486b-8ee9-5bd93516bc66" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="2-Estrutura do DNA e tipos de RNA">
+			<questao id="3d6e2af2-9147-4b69-9e5f-d092b379097b" idaula="e596b84f-fc4d-486b-8ee9-5bd93516bc66" enunciado="Qual é a função principal do DNA nas células dos seres vivos?" justificativa="A principal função do DNA é armazenar a informação genética que determina as características e o funcionamento dos organismos vivos.">
+				<opcao id="cb5a6516-7c18-45b5-a723-f2ebf4278021" idquestao="3d6e2af2-9147-4b69-9e5f-d092b379097b" correta="false" texto="Transportar aminoácidos até o ribossomo"/>
+				<opcao id="64911583-281b-4edf-bc31-e749bbce5972" idquestao="3d6e2af2-9147-4b69-9e5f-d092b379097b" correta="true" texto="Armazenar a informação genética"/>
+				<opcao id="78b46d5c-6027-47d4-a2e1-0af32ea62a1a" idquestao="3d6e2af2-9147-4b69-9e5f-d092b379097b" correta="false" texto="Produzir energia para a célula"/>
+				<opcao id="acd3703a-8515-4d92-9ed4-b5840620c1c2" idquestao="3d6e2af2-9147-4b69-9e5f-d092b379097b" correta="false" texto="Digestionar proteínas no citoplasma"/>
+				<opcao id="10c7f3eb-600a-4c7a-8f41-84d054fc0989" idquestao="3d6e2af2-9147-4b69-9e5f-d092b379097b" correta="false" texto="Realizar a síntese de lipídios"/>
+			</questao>
+			<questao id="f35a2b28-225a-4f9f-b40c-530ab5e55791" idaula="e596b84f-fc4d-486b-8ee9-5bd93516bc66" enunciado="Quais são as bases nitrogenadas presentes no DNA?" justificativa="As bases nitrogenadas do DNA são: adenina (A), timina (T), citosina (C) e guanina (G).">
+				<opcao id="21ac2301-d0b2-4e8c-8079-f02c033458ad" idquestao="f35a2b28-225a-4f9f-b40c-530ab5e55791" correta="false" texto="Adenina, Uracila, Citosina e Guanina"/>
+				<opcao id="40e4e5e2-d1af-45d8-ac02-559ab3b4b93a" idquestao="f35a2b28-225a-4f9f-b40c-530ab5e55791" correta="true" texto="Adenina, Timina, Citosina e Guanina"/>
+				<opcao id="8a09b15b-238d-46f9-b13b-8c6367c04a45" idquestao="f35a2b28-225a-4f9f-b40c-530ab5e55791" correta="false" texto="Uracila, Timina, Citosina e Guanina"/>
+				<opcao id="9631fcd8-0204-4f93-abf8-ea842375d1fe" idquestao="f35a2b28-225a-4f9f-b40c-530ab5e55791" correta="false" texto="Timina, Uracila, Adenina e Guanina"/>
+				<opcao id="46e7ac71-0334-4f72-b2e2-5a059950d422" idquestao="f35a2b28-225a-4f9f-b40c-530ab5e55791" correta="false" texto="Adenina, Uracila, Guanina e Xantina"/>
+			</questao>
+			<questao id="4b4b8803-2535-4921-80c2-524706ad20e2" idaula="e596b84f-fc4d-486b-8ee9-5bd93516bc66" enunciado="Qual base nitrogenada do RNA substitui a timina do DNA?" justificativa="No RNA, a base uracila (U) substitui a timina (T), que está presente apenas no DNA.">
+				<opcao id="d2839765-ad98-4019-8599-9a56cd94f372" idquestao="4b4b8803-2535-4921-80c2-524706ad20e2" correta="false" texto="Citosina"/>
+				<opcao id="e4f5cc04-6d66-4ca9-b800-c1d6114ecf95" idquestao="4b4b8803-2535-4921-80c2-524706ad20e2" correta="false" texto="Adenina"/>
+				<opcao id="a5691fa8-2d1e-40a8-b78c-58e6ed9ca0b2" idquestao="4b4b8803-2535-4921-80c2-524706ad20e2" correta="true" texto="Uracila"/>
+				<opcao id="42d8299d-d5aa-4a91-855f-301fe0ce350c" idquestao="4b4b8803-2535-4921-80c2-524706ad20e2" correta="false" texto="Guanina"/>
+				<opcao id="f60190ac-cd96-47d2-b504-ee739177afa8" idquestao="4b4b8803-2535-4921-80c2-524706ad20e2" correta="false" texto="Tirosina"/>
+			</questao>
+			<questao id="e45f7880-8d1c-4338-9c0c-e10d6e5adc7c" idaula="e596b84f-fc4d-486b-8ee9-5bd93516bc66" enunciado="O que diferencia estruturalmente o RNA do DNA?" justificativa="O RNA tem ribose e uracila, enquanto o DNA tem desoxirribose e timina, o que os diferencia estruturalmente.">
+				<opcao id="1a006129-739d-4fbf-b13a-ec14a9b31c9b" idquestao="e45f7880-8d1c-4338-9c0c-e10d6e5adc7c" correta="false" texto="O RNA é fita dupla, enquanto o DNA é fita simples"/>
+				<opcao id="c252a30d-0796-4cbd-910c-f7c5572f7adc" idquestao="e45f7880-8d1c-4338-9c0c-e10d6e5adc7c" correta="false" texto="O RNA contém desoxirribose, e o DNA contém ribose"/>
+				<opcao id="ba622d09-260a-4b58-a6d7-e9f91180936d" idquestao="e45f7880-8d1c-4338-9c0c-e10d6e5adc7c" correta="true" texto="O RNA possui uracila e ribose, enquanto o DNA possui timina e desoxirribose"/>
+				<opcao id="ba0a41f9-8870-4e2d-af84-f8bf9ff8a5e4" idquestao="e45f7880-8d1c-4338-9c0c-e10d6e5adc7c" correta="false" texto="O RNA possui bases nitrogenadas diferentes do DNA"/>
+				<opcao id="662d7ae4-02ce-47b3-a362-9822286c4de8" idquestao="e45f7880-8d1c-4338-9c0c-e10d6e5adc7c" correta="false" texto="O RNA está presente apenas no núcleo celular"/>
+			</questao>
+			<questao id="85e21147-9a8c-4b58-bc43-e8f6365e95ed" idaula="e596b84f-fc4d-486b-8ee9-5bd93516bc66" enunciado="Qual é a função do RNA mensageiro (mRNA)?" justificativa="O RNA mensageiro transporta a informação genética do DNA até o ribossomo, onde será traduzida em proteína.">
+				<opcao id="6028e058-0341-42c7-8141-0cc9025c2335" idquestao="85e21147-9a8c-4b58-bc43-e8f6365e95ed" correta="false" texto="Produzir energia dentro da mitocôndria"/>
+				<opcao id="cbf3d67e-0957-4440-b7b6-98405bf42a9c" idquestao="85e21147-9a8c-4b58-bc43-e8f6365e95ed" correta="false" texto="Transportar o DNA para o citoplasma"/>
+				<opcao id="7c8b6da9-44f7-4d19-b838-f1c1ca135ff3" idquestao="85e21147-9a8c-4b58-bc43-e8f6365e95ed" correta="false" texto="Transportar aminoácidos até os ribossomos"/>
+				<opcao id="085d44d1-6ecf-48fd-9d76-e77d54d24ea6" idquestao="85e21147-9a8c-4b58-bc43-e8f6365e95ed" correta="true" texto="Levar a informação genética do DNA até o ribossomo"/>
+				<opcao id="eae70daf-6ea2-450a-9e1a-2fedfc226977" idquestao="85e21147-9a8c-4b58-bc43-e8f6365e95ed" correta="false" texto="Degradar proteínas envelhecidas"/>
+			</questao>
+			<questao id="a74c45ef-b262-4c88-b672-e5896cdb0bd1" idaula="e596b84f-fc4d-486b-8ee9-5bd93516bc66" enunciado="Qual é o papel do RNA transportador (tRNA) durante a síntese de proteínas?" justificativa="O RNA transportador (tRNA) carrega os aminoácidos até o ribossomo, onde são organizados para formar proteínas.">
+				<opcao id="701b2412-a7a2-4e30-bc93-1a81ff81b6de" idquestao="a74c45ef-b262-4c88-b672-e5896cdb0bd1" correta="false" texto="Sintetizar lipídios"/>
+				<opcao id="9e17b97c-1e3c-4d8e-bf9c-c8ae6162a33b" idquestao="a74c45ef-b262-4c88-b672-e5896cdb0bd1" correta="false" texto="Produzir energia no núcleo"/>
+				<opcao id="9823d0ee-5e42-4991-b0f4-604f5393bf80" idquestao="a74c45ef-b262-4c88-b672-e5896cdb0bd1" correta="false" texto="Levar cópias do DNA para o ribossomo"/>
+				<opcao id="038651a8-f39c-4746-b582-bda57e9cd5d4" idquestao="a74c45ef-b262-4c88-b672-e5896cdb0bd1" correta="true" texto="Carregar aminoácidos até o ribossomo"/>
+				<opcao id="4397a319-bf22-4dc1-bc19-4bf38d9941d9" idquestao="a74c45ef-b262-4c88-b672-e5896cdb0bd1" correta="false" texto="Replicar o DNA durante a divisão celular"/>
+			</questao>
+			<questao id="3c00557c-b685-45d4-81ca-db455610c656" idaula="e596b84f-fc4d-486b-8ee9-5bd93516bc66" enunciado="Como as fitas da dupla hélice do DNA se mantêm unidas?" justificativa="As fitas do DNA são mantidas unidas por ligações de hidrogênio entre bases complementares: A-T e G-C.">
+				<opcao id="f3a30cd7-3601-49b0-9b16-3cb23943d1b5" idquestao="3c00557c-b685-45d4-81ca-db455610c656" correta="false" texto="Por pontes de hidrogênio entre os açúcares"/>
+				<opcao id="fa0a06c7-00c7-4527-b507-9b8b6f8d484e" idquestao="3c00557c-b685-45d4-81ca-db455610c656" correta="true" texto="Por ligações de hidrogênio entre bases nitrogenadas complementares"/>
+				<opcao id="d40437eb-dc41-4122-b67c-ba1a0d0b1295" idquestao="3c00557c-b685-45d4-81ca-db455610c656" correta="false" texto="Por interações hidrofóbicas entre fosfatos"/>
+				<opcao id="e31cc554-f30b-4f08-af6d-e964f871a967" idquestao="3c00557c-b685-45d4-81ca-db455610c656" correta="false" texto="Por ligações covalentes entre as bases"/>
+				<opcao id="00d2c1ec-c878-4844-92cf-afe3bd18aa70" idquestao="3c00557c-b685-45d4-81ca-db455610c656" correta="false" texto="Por ligações iônicas entre riboses"/>
+			</questao>
+			<questao id="aaffbd11-76dc-4d18-9a60-db658df43d30" idaula="e596b84f-fc4d-486b-8ee9-5bd93516bc66" enunciado="O que significa dizer que as fitas do DNA são antiparalelas?" justificativa="As fitas do DNA são antiparalelas porque possuem direções opostas: uma vai de 5’ para 3’ e a outra de 3’ para 5’.">
+				<opcao id="ab644990-2707-4644-acf7-38bf49dd0d44" idquestao="aaffbd11-76dc-4d18-9a60-db658df43d30" correta="false" texto="Elas têm a mesma sequência de bases"/>
+				<opcao id="bcd9dbb3-7089-4879-ac27-33b336fb12c3" idquestao="aaffbd11-76dc-4d18-9a60-db658df43d30" correta="false" texto="Elas possuem o mesmo sentido 5’ para 3’"/>
+				<opcao id="f4062952-ff2e-42d7-b437-871dd1a160e2" idquestao="aaffbd11-76dc-4d18-9a60-db658df43d30" correta="false" texto="Elas se enrolam em direções opostas formando uma hélice dupla"/>
+				<opcao id="1bc92baf-ee30-4031-b774-25d858026d61" idquestao="aaffbd11-76dc-4d18-9a60-db658df43d30" correta="true" texto="Elas estão lado a lado mas com polaridades opostas: uma 5’ para 3’ e outra 3’ para 5’"/>
+				<opcao id="3fb53029-3318-4fa9-8368-289dd88c357a" idquestao="aaffbd11-76dc-4d18-9a60-db658df43d30" correta="false" texto="Elas estão ligadas por pontes dissulfeto"/>
+			</questao>
+			<questao id="d6284fc4-e9d3-4429-a16a-192b659393f8" idaula="e596b84f-fc4d-486b-8ee9-5bd93516bc66" enunciado="Qual estrutura do DNA é formada quando ele se enrola em histonas?" justificativa="O DNA se enrola em proteínas chamadas histonas formando nucleossomos, que são a base da compactação do DNA.">
+				<opcao id="a5efaa30-d6f6-4b10-b6d1-ce47b12fae17" idquestao="d6284fc4-e9d3-4429-a16a-192b659393f8" correta="true" texto="Nucleossomo"/>
+				<opcao id="809a6b0a-9b20-4949-ac5e-1c0e7ad793f4" idquestao="d6284fc4-e9d3-4429-a16a-192b659393f8" correta="false" texto="Ribossomo"/>
+				<opcao id="79cf2e9e-feed-48e7-b56f-ef42a3e07fd6" idquestao="d6284fc4-e9d3-4429-a16a-192b659393f8" correta="false" texto="Topoisômero"/>
+				<opcao id="8a7924a8-d087-4b57-8919-2e0db5715873" idquestao="d6284fc4-e9d3-4429-a16a-192b659393f8" correta="false" texto="Cromátide"/>
+				<opcao id="2b9b5c14-7a14-4d3a-aa33-f208b8ededdc" idquestao="d6284fc4-e9d3-4429-a16a-192b659393f8" correta="false" texto="Polissomo"/>
+			</questao>
+			<questao id="56231d89-2a67-48d9-ba28-9471fdbdaafb" idaula="e596b84f-fc4d-486b-8ee9-5bd93516bc66" enunciado="Qual é a diferença entre eucromatina e heterocromatina?" justificativa="A eucromatina é a forma relaxada da cromatina onde ocorre a transcrição, enquanto a heterocromatina é mais compacta e inativa.">
+				<opcao id="a8c4f1c7-e2d1-4dae-b9c0-26067b0b4b5b" idquestao="56231d89-2a67-48d9-ba28-9471fdbdaafb" correta="false" texto="Eucromatina está inativa e heterocromatina está ativa"/>
+				<opcao id="986b7d09-c5fc-4656-a497-b76042de3226" idquestao="56231d89-2a67-48d9-ba28-9471fdbdaafb" correta="false" texto="Eucromatina é altamente compactada, enquanto heterocromatina é aberta"/>
+				<opcao id="630a0d7d-fd61-4075-8ebf-e5cd50157034" idquestao="56231d89-2a67-48d9-ba28-9471fdbdaafb" correta="true" texto="Eucromatina permite transcrição de genes, enquanto heterocromatina é inativa"/>
+				<opcao id="b7218079-1a21-4de6-acbb-797f6162a9f8" idquestao="56231d89-2a67-48d9-ba28-9471fdbdaafb" correta="false" texto="Eucromatina se localiza no citoplasma, heterocromatina no núcleo"/>
+				<opcao id="6fc376de-3346-4b49-9da3-f370c0256286" idquestao="56231d89-2a67-48d9-ba28-9471fdbdaafb" correta="false" texto="Eucromatina é formada por RNA, heterocromatina por DNA"/>
+			</questao>
+			<questao id="0f1b0f35-a2d8-4aad-a4c2-bbe6167857cc" idaula="e596b84f-fc4d-486b-8ee9-5bd93516bc66" enunciado="Qual é a função das enzimas topoisomerases no DNA?" justificativa="As topoisomerases aliviam tensões na molécula de DNA durante o enrolamento e desenrolamento, evitando rupturas.">
+				<opcao id="182dbf37-ff56-4a39-a155-5ec09b171b8b" idquestao="0f1b0f35-a2d8-4aad-a4c2-bbe6167857cc" correta="false" texto="Quebrar as pontes de hidrogênio entre as fitas"/>
+				<opcao id="0c739184-b896-4a30-86fc-46a7b646b6b7" idquestao="0f1b0f35-a2d8-4aad-a4c2-bbe6167857cc" correta="false" texto="Sintetizar proteínas a partir do RNA"/>
+				<opcao id="8cf4e69e-51b8-464d-b271-3bc48c086825" idquestao="0f1b0f35-a2d8-4aad-a4c2-bbe6167857cc" correta="true" texto="Permitir que o DNA se desenrole ou enrole sem quebrar"/>
+				<opcao id="129d2195-28e3-4819-a566-ab5e7f878e30" idquestao="0f1b0f35-a2d8-4aad-a4c2-bbe6167857cc" correta="false" texto="Ligar aminoácidos no ribossomo"/>
+				<opcao id="eeb72d27-faef-41b2-9c50-d8430199bc11" idquestao="0f1b0f35-a2d8-4aad-a4c2-bbe6167857cc" correta="false" texto="Eliminar mutações no código genético"/>
+			</questao>
+			<questao id="f7c7c64a-d4ab-4f94-a259-4edb64b7c0b1" idaula="e596b84f-fc4d-486b-8ee9-5bd93516bc66" enunciado="Qual é a principal função do RNA ribossômico (rRNA)?" justificativa="O RNA ribossômico compõe a estrutura dos ribossomos e participa da formação das proteínas junto com o mRNA e tRNA.">
+				<opcao id="b0071331-b9ec-40e7-a19f-d1f8e422aee4" idquestao="f7c7c64a-d4ab-4f94-a259-4edb64b7c0b1" correta="false" texto="Traduzir o RNA mensageiro em proteínas"/>
+				<opcao id="7175f5f8-9dc4-4c87-a7f6-cc5a957cb8cc" idquestao="f7c7c64a-d4ab-4f94-a259-4edb64b7c0b1" correta="true" texto="Formar a estrutura dos ribossomos e catalisar a síntese proteica"/>
+				<opcao id="cab3e73a-1911-46fb-b659-3b21f5414a44" idquestao="f7c7c64a-d4ab-4f94-a259-4edb64b7c0b1" correta="false" texto="Carregar aminoácidos para o DNA"/>
+				<opcao id="174b3593-4e30-4e99-afb7-d1612a500f1e" idquestao="f7c7c64a-d4ab-4f94-a259-4edb64b7c0b1" correta="false" texto="Produzir energia para a célula"/>
+				<opcao id="5adc4bbd-4795-4fda-8291-f5cde829ebdc" idquestao="f7c7c64a-d4ab-4f94-a259-4edb64b7c0b1" correta="false" texto="Replicar a informação genética"/>
+			</questao>
+			<questao id="e5f0a4b1-80f5-4d25-9fae-8f14571a6b99" idaula="e596b84f-fc4d-486b-8ee9-5bd93516bc66" enunciado="Qual das alternativas a seguir descreve corretamente a composição e função dos diferentes tipos de RNA?" justificativa="A alternativa correta descreve com precisão a estrutura e função do RNA mensageiro: ele é linear e carrega a informação do DNA até o ribossomo para a síntese de proteínas. As demais opções confundem as funções dos tipos de RNA.">
+				<opcao id="1c64bde7-59fa-4aef-9c9b-3098a3783c88" idquestao="e5f0a4b1-80f5-4d25-9fae-8f14571a6b99" correta="false" texto="O RNA ribossômico (RNAr) é o responsável pela transcrição do DNA em moléculas de RNA mensageiro no núcleo celular."/>
+				<opcao id="b7600376-5c2d-44dc-a3e9-01c9bce5a4f5" idquestao="e5f0a4b1-80f5-4d25-9fae-8f14571a6b99" correta="false" texto="O RNA transportador (RNAt) é composto por uma sequência linear de nucleotídeos e atua como molde para a síntese proteica no citoplasma."/>
+				<opcao id="df643013-cc4d-407f-a9a0-e050bb8b3793" idquestao="e5f0a4b1-80f5-4d25-9fae-8f14571a6b99" correta="false" texto="O RNA transportador (RNAt) faz parte da estrutura do ribossomo, sendo responsável pela catálise da ligação peptídica entre aminoácidos durante a tradução."/>
+				<opcao id="a2f20542-c1b3-4a8c-b25a-2c771b8efc29" idquestao="e5f0a4b1-80f5-4d25-9fae-8f14571a6b99" correta="false" texto="O RNA mensageiro (RNAm) é composto por uma dupla hélice de nucleotídeos e transporta aminoácidos para o ribossomo durante a tradução."/>
+				<opcao id="2d2f3f9d-1ec5-4083-ae7c-2a69fa1edec1" idquestao="e5f0a4b1-80f5-4d25-9fae-8f14571a6b99" correta="true" texto="O RNA mensageiro (RNAm) é composto por uma sequência linear de nucleotídeos e carrega a informação genética do DNA para o ribossomo, onde atua como molde para a síntese de proteínas."/>
+			</questao>
+			<questao id="5fa33ae6-e93d-41fd-b3f1-4f4185126c1f" idaula="e596b84f-fc4d-486b-8ee9-5bd93516bc66" enunciado="Sobre a estrutura do DNA, julgue as afirmações a seguir. I) A sigla DNA refere-se ao ácido desoxirribonucleico. II) As purinas possuem dois anéis; as pirimidinas, um. III) A estrutura primária do DNA é composta por nucleotídeos ligados por ligações fosfodiésteres. IV) A estrutura secundária é tridimensional, com fitas complementares unidas por ligações de hidrogênio. V) As fitas são antiparalelas e adenina se liga a timina com duas ligações. VI) A estrutura terciária inclui superenrolamento com histonas e topoisomerases. VII) A cromatina pode ser eucromatina ou heterocromatina. Assinale a alternativa correta." justificativa="Todas as afirmações estão corretas conforme o conteúdo apresentado no material de estudo. Elas abordam desde os níveis estruturais do DNA até a função das enzimas e organização da cromatina.">
+				<opcao id="db94ac5f-2bde-4975-84f6-85e1f32a0a91" idquestao="5fa33ae6-e93d-41fd-b3f1-4f4185126c1f" correta="false" texto="Apenas I, II, IV e VI estão corretas."/>
+				<opcao id="e6b0c4f3-518f-4a3a-8891-2ce96bff50dc" idquestao="5fa33ae6-e93d-41fd-b3f1-4f4185126c1f" correta="false" texto="Apenas II, IV e VI estão corretas."/>
+				<opcao id="02179d27-c463-4dc3-b245-f1b0bc72f3e7" idquestao="5fa33ae6-e93d-41fd-b3f1-4f4185126c1f" correta="false" texto="Apenas I, II, III, IV e VI estão corretas."/>
+				<opcao id="80b5d576-8b1b-405c-8698-652f2fc8e9ef" idquestao="5fa33ae6-e93d-41fd-b3f1-4f4185126c1f" correta="false" texto="Apenas I, II, IV, VI e VII estão corretas."/>
+				<opcao id="65a7d360-cb6b-4d46-ae61-c7f19fe28e6c" idquestao="5fa33ae6-e93d-41fd-b3f1-4f4185126c1f" correta="true" texto="Todas estão corretas."/>
+			</questao>
+		</aula>
+		<aula id="9565250c-3d57-4c9f-af05-963654bad5a3" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="3-Replicação, Transcrição e Tradução">
+			<questao id="215de923-1936-4530-9b7c-6d469f40c2b8" idaula="9565250c-3d57-4c9f-af05-963654bad5a3" enunciado="Qual é a principal enzima responsável pela síntese de novas fitas de DNA durante a replicação?" justificativa="A DNA polimerase é a enzima que adiciona novos nucleotídeos à fita molde durante a replicação.">
+				<opcao id="d91c0fe4-58da-44a7-bdf8-9d60980e4eb1" idquestao="215de923-1936-4530-9b7c-6d469f40c2b8" correta="false" texto="Helicase"/>
+				<opcao id="d1876f07-cf14-45e2-ae51-cccae6672a11" idquestao="215de923-1936-4530-9b7c-6d469f40c2b8" correta="false" texto="Primase"/>
+				<opcao id="816a8138-0a3b-43c4-ac17-05fbd47b1426" idquestao="215de923-1936-4530-9b7c-6d469f40c2b8" correta="true" texto="DNA polimerase"/>
+				<opcao id="cf8eea97-edf8-437a-8b2e-d5587ccec012" idquestao="215de923-1936-4530-9b7c-6d469f40c2b8" correta="false" texto="Ligase"/>
+				<opcao id="0189f2eb-d848-4f0d-9cae-f688c5dcb28a" idquestao="215de923-1936-4530-9b7c-6d469f40c2b8" correta="false" texto="Topoisomerase"/>
+			</questao>
+			<questao id="59eeefad-628a-40cf-b4b2-6760090534b0" idaula="9565250c-3d57-4c9f-af05-963654bad5a3" enunciado="O que ocorre durante o processo de transcrição?" justificativa="Na transcrição, a informação do DNA é copiada para uma molécula de RNA mensageiro.">
+				<opcao id="9147b4fc-8360-40c6-95df-a5cf5cd43d04" idquestao="59eeefad-628a-40cf-b4b2-6760090534b0" correta="false" texto="O RNA é traduzido em proteínas"/>
+				<opcao id="38bd4679-910c-4bed-a167-d337ba5a860f" idquestao="59eeefad-628a-40cf-b4b2-6760090534b0" correta="false" texto="O DNA é duplicado para formar novas células"/>
+				<opcao id="e64bc5d2-2839-443a-9f69-29a1a3f0ae99" idquestao="59eeefad-628a-40cf-b4b2-6760090534b0" correta="false" texto="O DNA é convertido diretamente em proteínas"/>
+				<opcao id="b77c8351-74c5-4c02-a9d3-64506d7f7417" idquestao="59eeefad-628a-40cf-b4b2-6760090534b0" correta="true" texto="A informação genética do DNA é copiada para o RNA mensageiro"/>
+				<opcao id="96ba39c4-53a0-48d3-a309-54332fd33986" idquestao="59eeefad-628a-40cf-b4b2-6760090534b0" correta="false" texto="Os ribossomos leem o DNA para produzir RNA"/>
+			</questao>
+			<questao id="0bc73407-ad9d-410e-a7e2-72f03f584cbb" idaula="9565250c-3d57-4c9f-af05-963654bad5a3" enunciado="Qual é a função do RNA transportador (tRNA) durante a tradução?" justificativa="O tRNA transporta aminoácidos específicos até o ribossomo, onde são ligados para formar uma proteína.">
+				<opcao id="18e2d3ae-286e-4697-bdd4-22f33df3c043" idquestao="0bc73407-ad9d-410e-a7e2-72f03f584cbb" correta="false" texto="Carregar códons do DNA até o ribossomo"/>
+				<opcao id="1709390b-e490-49c4-8799-3114cb27f7e8" idquestao="0bc73407-ad9d-410e-a7e2-72f03f584cbb" correta="false" texto="Estabilizar a estrutura do DNA"/>
+				<opcao id="385f56c1-4fde-40ff-9a04-5d777b049b29" idquestao="0bc73407-ad9d-410e-a7e2-72f03f584cbb" correta="false" texto="Remover íntrons do RNA"/>
+				<opcao id="30517f29-e091-4380-bbe8-74addab6af09" idquestao="0bc73407-ad9d-410e-a7e2-72f03f584cbb" correta="true" texto="Transportar aminoácidos até o ribossomo"/>
+				<opcao id="bb414dac-c8dd-4b84-abdb-0f3098296b0b" idquestao="0bc73407-ad9d-410e-a7e2-72f03f584cbb" correta="false" texto="Copiar informações do RNA mensageiro"/>
+			</questao>
+			<questao id="fe3c29e8-e115-44bb-b6be-2e202e154ab9" idaula="9565250c-3d57-4c9f-af05-963654bad5a3" enunciado="Qual estrutura celular é o local onde ocorre a tradução?" justificativa="A tradução ocorre nos ribossomos, que podem estar livres no citoplasma ou ligados ao retículo endoplasmático rugoso.">
+				<opcao id="9476e341-07e9-445d-8ccd-c1988c7b00c1" idquestao="fe3c29e8-e115-44bb-b6be-2e202e154ab9" correta="false" texto="Núcleo"/>
+				<opcao id="eebc07bf-7fe1-4a3d-9c33-68379ce12413" idquestao="fe3c29e8-e115-44bb-b6be-2e202e154ab9" correta="false" texto="Mitocôndria"/>
+				<opcao id="754af213-f1ef-4048-b450-b283a0fad11d" idquestao="fe3c29e8-e115-44bb-b6be-2e202e154ab9" correta="true" texto="Ribossomo"/>
+				<opcao id="ac8f579d-64ef-4c1c-8cb2-0d4f0ed52edb" idquestao="fe3c29e8-e115-44bb-b6be-2e202e154ab9" correta="false" texto="Lisossomo"/>
+				<opcao id="70b98d50-167d-4865-9261-af99fba9ad36" idquestao="fe3c29e8-e115-44bb-b6be-2e202e154ab9" correta="false" texto="Complexo de Golgi"/>
+			</questao>
+			<questao id="d0fbd7ca-086a-4d6a-b1d0-10d10d20569c" idaula="9565250c-3d57-4c9f-af05-963654bad5a3" enunciado="O que são fragmentos de Okazaki?" justificativa="Durante a replicação da fita retardada, o DNA é sintetizado em pequenos trechos chamados fragmentos de Okazaki.">
+				<opcao id="feb53015-e710-4521-ae10-81139ff03d49" idquestao="d0fbd7ca-086a-4d6a-b1d0-10d10d20569c" correta="false" texto="Fragmentos de RNA removidos após a transcrição"/>
+				<opcao id="864fc517-784a-4fee-a46a-d061f2d78195" idquestao="d0fbd7ca-086a-4d6a-b1d0-10d10d20569c" correta="false" texto="Partes de proteínas degradadas no citoplasma"/>
+				<opcao id="9904de59-4398-4fac-9f9c-2e5292146048" idquestao="d0fbd7ca-086a-4d6a-b1d0-10d10d20569c" correta="false" texto="Segmentos curtos de DNA sintetizados na fita líder"/>
+				<opcao id="6b6f88cc-cedf-4e46-b2ba-ff6f111ed85a" idquestao="d0fbd7ca-086a-4d6a-b1d0-10d10d20569c" correta="true" texto="Segmentos curtos de DNA sintetizados na fita retardada"/>
+				<opcao id="167ceea0-30c6-4044-b696-df128c5dad08" idquestao="d0fbd7ca-086a-4d6a-b1d0-10d10d20569c" correta="false" texto="Partes duplicadas do RNA mensageiro"/>
+			</questao>
+			<questao id="1bcf36c4-e5fe-4184-aabd-88170d4776cb" idaula="9565250c-3d57-4c9f-af05-963654bad5a3" enunciado="Durante a transcrição, o que acontece após a formação do pré-mRNA?" justificativa="O pré-mRNA passa por modificações como splicing, adição da cap 5' e cauda poli-A, formando o mRNA maduro.">
+				<opcao id="cd77745d-d103-455e-ae9e-18b037bad59c" idquestao="1bcf36c4-e5fe-4184-aabd-88170d4776cb" correta="false" texto="Ele é imediatamente traduzido em proteína"/>
+				<opcao id="f542d5a2-145e-4b99-a5ca-30ef66b775fc" idquestao="1bcf36c4-e5fe-4184-aabd-88170d4776cb" correta="false" texto="Ele é descartado pela célula"/>
+				<opcao id="58652ad1-bb34-4bff-9dc3-55fc061ad674" idquestao="1bcf36c4-e5fe-4184-aabd-88170d4776cb" correta="true" texto="Ele sofre processamento para se tornar mRNA maduro"/>
+				<opcao id="fa9a631d-beee-46ed-918c-197ef9383bbc" idquestao="1bcf36c4-e5fe-4184-aabd-88170d4776cb" correta="false" texto="Ele se liga diretamente ao DNA para formar uma dupla hélice"/>
+				<opcao id="dfc1f712-21a6-458a-a438-7f0fe77e8d6e" idquestao="1bcf36c4-e5fe-4184-aabd-88170d4776cb" correta="false" texto="Ele é encapsulado em vesículas de transporte"/>
+			</questao>
+			<questao id="860ca417-8fba-4f8b-baab-0b57a20519bf" idaula="9565250c-3d57-4c9f-af05-963654bad5a3" enunciado="Qual das alternativas abaixo descreve corretamente o processo de replicação do DNA?" justificativa="A replicação do DNA é semiconservativa, o que significa que cada nova molécula possui uma fita original e uma nova. A alternativa correta descreve esse processo com precisão.">
+				<opcao id="6f52fee9-cb71-4940-b135-cf17a2b92f51" idquestao="860ca417-8fba-4f8b-baab-0b57a20519bf" correta="false" texto="A enzima DNA ligase é responsável pela separação das duas fitas de DNA, formando a bolha de replicação no início do processo."/>
+				<opcao id="9e1d0a9a-ecad-4177-8686-01fc404a3cc5" idquestao="860ca417-8fba-4f8b-baab-0b57a20519bf" correta="false" texto="A síntese da fita líder ocorre de maneira descontínua, formando pequenos fragmentos de Okazaki que são posteriormente ligados pela enzima ligase."/>
+				<opcao id="ea9fa3aa-3d0d-4fad-b079-5f84c836efff" idquestao="860ca417-8fba-4f8b-baab-0b57a20519bf" correta="true" texto="A replicação do DNA é semiconservativa, resultando em duas moléculas de DNA, cada uma com uma fita parental e uma fita nova sintetizada."/>
+				<opcao id="a6efa4ff-087f-4229-b3da-45dc35f2b821" idquestao="860ca417-8fba-4f8b-baab-0b57a20519bf" correta="false" texto="O primer de RNA é removido pela helicase, que também insere nucleotídeos de DNA no lugar do primer para completar a replicação."/>
+				<opcao id="a25f09d1-e3a1-4740-b8fe-84c468acff85" idquestao="860ca417-8fba-4f8b-baab-0b57a20519bf" correta="false" texto="A replicação do DNA ocorre exclusivamente no sentido 5' - 3' em ambas as fitas, utilizando RNA polimerase I como enzima principal."/>
+			</questao>
+			<questao id="af3670cb-7b35-40c7-8ffb-e857c3e9904d" idaula="9565250c-3d57-4c9f-af05-963654bad5a3" enunciado="Qual das alternativas a seguir descreve corretamente o processo de transcrição em células eucarióticas?" justificativa="A transcrição em eucariotos envolve a síntese de RNA no sentido 5' para 3', substituindo timina por uracila. A alternativa correta resume esse processo com clareza.">
+				<opcao id="390813da-4fc8-4d74-8297-0b905543c97d" idquestao="af3670cb-7b35-40c7-8ffb-e857c3e9904d" correta="false" texto="A transcrição nos eucariotos não requer fatores de transcrição, pois a RNA polimerase pode reconhecer diretamente a sequência promotora no DNA."/>
+				<opcao id="735dbfb8-e8d1-44fb-a6c9-433c10807dc7" idquestao="af3670cb-7b35-40c7-8ffb-e857c3e9904d" correta="true" texto="Durante a transcrição, a fita de RNA é sintetizada no sentido 5' para 3', utilizando uma fita de DNA como molde, e a timina do DNA é substituída por uracila no RNA."/>
+				<opcao id="6a71bdd6-1db9-4e0a-95b6-771e53202529" idquestao="af3670cb-7b35-40c7-8ffb-e857c3e9904d" correta="false" texto="A transcrição ocorre exclusivamente no citoplasma e é iniciada pela enzima RNA polimerase que liga-se a uma região chamada intron."/>
+				<opcao id="37be3885-814f-49f9-99ca-a8d612022d04" idquestao="af3670cb-7b35-40c7-8ffb-e857c3e9904d" correta="false" texto="A RNA polimerase III é responsável pela síntese de RNA mensageiro (RNAm) a partir do DNA, enquanto a RNA polimerase II sintetiza RNAs ribossômicos (RNAr)."/>
+				<opcao id="fba15fed-7dbf-4db3-8208-369f4b00c9b9" idquestao="af3670cb-7b35-40c7-8ffb-e857c3e9904d" correta="false" texto="O processo de transcrição resulta na formação de um RNAm funcional que, imediatamente após sua síntese, é traduzido em proteínas, sem qualquer modificação pós-transcricional."/>
+			</questao>
+			<questao id="2e8b90b9-ddb2-4518-988b-666b4f2bcce8" idaula="9565250c-3d57-4c9f-af05-963654bad5a3" enunciado="Qual das alternativas a seguir descreve corretamente o processo de tradução em células eucarióticas?" justificativa="A tradução se inicia com a ligação da subunidade ribossômica pequena ao RNAm e de um RNAt com metionina ao códon de início. Isso marca o início da síntese proteica.">
+				<opcao id="51977ae1-498b-463b-b2d1-aceef8b02a59" idquestao="2e8b90b9-ddb2-4518-988b-666b4f2bcce8" correta="false" texto="Durante a tradução, o ribossomo desloca-se ao longo do RNAm no sentido 3' para 5', adicionando novos aminoácidos com base nas sequências anticódon do RNAt."/>
+				<opcao id="2ee70608-256c-408f-8ee4-02c8ef6e3a54" idquestao="2e8b90b9-ddb2-4518-988b-666b4f2bcce8" correta="false" texto="A elongação da cadeia polipeptídica é finalizada quando um RNAt sem aminoácido se liga a um códon de parada, liberando a proteína recém-formada do ribossomo."/>
+				<opcao id="02d713ac-1483-4eab-bf44-0995efc39cf7" idquestao="2e8b90b9-ddb2-4518-988b-666b4f2bcce8" correta="false" texto="No processo de tradução, os RNAs ribossômicos (RNAr) reconhecem diretamente o códon de início e iniciam a síntese da cadeia polipeptídica no sentido 5' para 3'."/>
+				<opcao id="aaaf8ca3-1d8a-460e-945a-baa457f8be97" idquestao="2e8b90b9-ddb2-4518-988b-666b4f2bcce8" correta="true" texto="O início da tradução requer a ligação da subunidade ribossômica pequena ao RNAm e a subsequente ligação de um RNAt carregado com o primeiro aminoácido, geralmente a metionina, ao códon de início."/>
+				<opcao id="0b4ebd7a-25e7-45f0-91ae-4130ffdae218" idquestao="2e8b90b9-ddb2-4518-988b-666b4f2bcce8" correta="false" texto="A tradução ocorre no núcleo celular, onde o RNA mensageiro (RNAm) se liga aos ribossomos e catalisa a ligação entre aminoácidos, formando a proteína."/>
+			</questao>
+		</aula>
+		<aula id="55b91bc7-0c01-42b5-90eb-71dc2f11b51a" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="4-Cromossomos e Reprodução celular">
+			<questao id="a5ecff10-1781-4346-897d-a6615b6d09ca" idaula="55b91bc7-0c01-42b5-90eb-71dc2f11b51a" enunciado="Qual das alternativas descreve corretamente a função dos cromossomos homólogos?" justificativa="A alternativa correta representa com precisão os conceitos apresentados no conteúdo estudado.">
+				<opcao id="0bd950bd-625a-44b9-9abf-7480d996abcd" idquestao="a5ecff10-1781-4346-897d-a6615b6d09ca" correta="false" texto="Eles são cromossomos duplicados que se separam na mitose e não possuem genes em comum."/>
+				<opcao id="a1445326-dd95-4234-8724-4245376828b0" idquestao="a5ecff10-1781-4346-897d-a6615b6d09ca" correta="false" texto="Eles são responsáveis exclusivamente pela síntese de proteínas e não se pareiam durante a divisão celular."/>
+				<opcao id="038cf33d-4d98-4d20-968e-bdbf6757cced" idquestao="a5ecff10-1781-4346-897d-a6615b6d09ca" correta="false" texto="Eles se formam apenas durante a interfase e não participam da variabilidade genética."/>
+				<opcao id="b4de1b15-d1ab-4838-bea2-4d82014353ac" idquestao="a5ecff10-1781-4346-897d-a6615b6d09ca" correta="true" texto="Eles formam pares com os mesmos genes em sequência e tamanho, contribuindo para a variabilidade genética por meio do crossing-over."/>
+				<opcao id="33dd3b1d-4517-490e-b2b0-935438670ae5" idquestao="a5ecff10-1781-4346-897d-a6615b6d09ca" correta="false" texto="Eles surgem na metáfase da mitose e desaparecem na telófase, sem função genética definida."/>
+			</questao>
+			<questao id="94f136a7-4921-4d39-bd0d-ff07980c3f51" idaula="55b91bc7-0c01-42b5-90eb-71dc2f11b51a" enunciado="Na mitose, o que ocorre durante a metáfase?" justificativa="A alternativa correta representa com precisão os conceitos apresentados no conteúdo estudado.">
+				<opcao id="149fc913-61a5-4dd8-bcf1-07723366a67f" idquestao="94f136a7-4921-4d39-bd0d-ff07980c3f51" correta="true" texto="Os cromossomos se alinham no centro da célula, formando a placa metafásica."/>
+				<opcao id="19417238-0d8f-4fa3-9e31-ac9fa76becf5" idquestao="94f136a7-4921-4d39-bd0d-ff07980c3f51" correta="false" texto="As cromátides-irmãs migram para os polos opostos da célula."/>
+				<opcao id="cdd3eab1-e92d-446c-a37d-7fd281ffe54f" idquestao="94f136a7-4921-4d39-bd0d-ff07980c3f51" correta="false" texto="Os cromossomos se condensam e desaparece o envelope nuclear."/>
+				<opcao id="c99d5b7c-9682-4c2e-8e79-dd34d2b00525" idquestao="94f136a7-4921-4d39-bd0d-ff07980c3f51" correta="false" texto="O citoplasma se divide completamente, formando duas células filhas."/>
+				<opcao id="fdd1f397-8df7-4faa-8bdd-5122d3a6e79d" idquestao="94f136a7-4921-4d39-bd0d-ff07980c3f51" correta="false" texto="Os cromossomos homólogos realizam o crossing-over e se separam."/>
+			</questao>
+			<questao id="46d72505-4762-4aee-a1b9-4601f6ee8a62" idaula="55b91bc7-0c01-42b5-90eb-71dc2f11b51a" enunciado="Qual a principal diferença entre mitose e meiose?" justificativa="A alternativa correta representa com precisão os conceitos apresentados no conteúdo estudado.">
+				<opcao id="f09977b6-320d-41ab-8c9c-1a4aa38a572c" idquestao="46d72505-4762-4aee-a1b9-4601f6ee8a62" correta="false" texto="A mitose ocorre apenas em células germinativas e a meiose em células somáticas."/>
+				<opcao id="90d8da7a-8ecc-4427-9f21-eceac7eccf47" idquestao="46d72505-4762-4aee-a1b9-4601f6ee8a62" correta="true" texto="A mitose produz duas células diploides idênticas e a meiose quatro células haploides diferentes."/>
+				<opcao id="a226532e-dfc8-4c43-a034-2a8c95b7a5cd" idquestao="46d72505-4762-4aee-a1b9-4601f6ee8a62" correta="false" texto="A meiose ocorre sem divisão celular, enquanto a mitose envolve duas divisões consecutivas."/>
+				<opcao id="b8289d88-ea78-4263-9614-ff8fd746ca25" idquestao="46d72505-4762-4aee-a1b9-4601f6ee8a62" correta="false" texto="A mitose resulta em variabilidade genética, enquanto a meiose não."/>
+				<opcao id="61f1bc9a-63e0-4a6e-8072-8e835f95c6d1" idquestao="46d72505-4762-4aee-a1b9-4601f6ee8a62" correta="false" texto="A mitose é exclusiva de organismos unicelulares e a meiose, de multicelulares."/>
+			</questao>
+			<questao id="13e6db1f-8847-4882-abcd-9eab566f4df9" idaula="55b91bc7-0c01-42b5-90eb-71dc2f11b51a" enunciado="O que ocorre durante a prófase I da meiose?" justificativa="A alternativa correta representa com precisão os conceitos apresentados no conteúdo estudado.">
+				<opcao id="9bc36890-6ec0-4ea7-a6af-4d91feabdd3a" idquestao="13e6db1f-8847-4882-abcd-9eab566f4df9" correta="false" texto="Os cromossomos se alinham no centro e ocorre separação das cromátides."/>
+				<opcao id="b8c7ad53-a7cd-4415-934a-7a37c10bfefd" idquestao="13e6db1f-8847-4882-abcd-9eab566f4df9" correta="false" texto="Ocorre duplicação do DNA e formação dos nucléolos."/>
+				<opcao id="a4752f41-d257-4af6-bf6f-a1b74cc69bd5" idquestao="13e6db1f-8847-4882-abcd-9eab566f4df9" correta="true" texto="Os cromossomos homólogos se pareiam e ocorre o crossing-over."/>
+				<opcao id="396f09cd-fe87-457b-82c9-ba9970e7ff0c" idquestao="13e6db1f-8847-4882-abcd-9eab566f4df9" correta="false" texto="Os centríolos desaparecem e os cromossomos são destruídos."/>
+				<opcao id="fb38ff5e-dc0f-4c6d-88e4-a527bf301060" idquestao="13e6db1f-8847-4882-abcd-9eab566f4df9" correta="false" texto="Forma-se a carioteca ao redor dos ribossomos."/>
+			</questao>
+			<questao id="b09447e5-db1f-4669-8166-01c4a6162c18" idaula="55b91bc7-0c01-42b5-90eb-71dc2f11b51a" enunciado="Como pode ser definida a cromatina?" justificativa="A alternativa correta representa com precisão os conceitos apresentados no conteúdo estudado.">
+				<opcao id="84cc3968-91c6-455a-a492-a7ed79ab12a2" idquestao="b09447e5-db1f-4669-8166-01c4a6162c18" correta="false" texto="É o processo de divisão do citoplasma celular."/>
+				<opcao id="05e96678-c48b-4c59-b0b5-64f07f811ac8" idquestao="b09447e5-db1f-4669-8166-01c4a6162c18" correta="false" texto="É o RNA condensado que se liga aos ribossomos."/>
+				<opcao id="477efd8c-b981-4a04-a47e-5392568624b2" idquestao="b09447e5-db1f-4669-8166-01c4a6162c18" correta="true" texto="É a forma como o DNA se organiza associado a proteínas para compor os cromossomos."/>
+				<opcao id="236c0e04-491f-490f-853b-888c6270e298" idquestao="b09447e5-db1f-4669-8166-01c4a6162c18" correta="false" texto="É a estrutura formada apenas por proteínas histonas."/>
+				<opcao id="f0e14f42-26e3-47a5-b784-7f22e288e1d3" idquestao="b09447e5-db1f-4669-8166-01c4a6162c18" correta="false" texto="É a molécula de DNA com função exclusivamente enzimática."/>
+			</questao>
+			<questao id="2c5a7b58-a817-44fe-a897-f7d9cfedbf31" idaula="55b91bc7-0c01-42b5-90eb-71dc2f11b51a" enunciado="O que caracteriza as células diploides e haploides?" justificativa="A alternativa correta representa com precisão os conceitos apresentados no conteúdo estudado.">
+				<opcao id="61256223-aa00-4e0e-a0a7-7ed762a2a0ff" idquestao="2c5a7b58-a817-44fe-a897-f7d9cfedbf31" correta="false" texto="Diploides possuem apenas um conjunto de cromossomos e haploides possuem dois."/>
+				<opcao id="6a683d0e-a141-4ee1-8560-54a53475a1c5" idquestao="2c5a7b58-a817-44fe-a897-f7d9cfedbf31" correta="false" texto="Ambas possuem o mesmo número de cromossomos, mas diferem na forma."/>
+				<opcao id="e8851929-ea36-4c39-8cad-ad5243031906" idquestao="2c5a7b58-a817-44fe-a897-f7d9cfedbf31" correta="false" texto="Haploides possuem dois conjuntos de cromossomos e diploides apenas um."/>
+				<opcao id="4cc7003b-7e8e-4c2c-8883-0a8cfa2f1920" idquestao="2c5a7b58-a817-44fe-a897-f7d9cfedbf31" correta="true" texto="Diploides possuem dois conjuntos de cromossomos e haploides apenas um."/>
+				<opcao id="205d0167-2ff4-4af1-a96e-b47210ab06a2" idquestao="2c5a7b58-a817-44fe-a897-f7d9cfedbf31" correta="false" texto="Diploides e haploides são termos usados para descrever células em anáfase."/>
+			</questao>
+			<questao id="2aba1703-f9c9-429a-b53a-0c8fcfd88579" idaula="55b91bc7-0c01-42b5-90eb-71dc2f11b51a" enunciado="Qual das alternativas a seguir descreve corretamente a relação entre cromossomos homólogos, células haploides e diplóides?" justificativa="A alternativa correta descreve adequadamente a constituição genética das células diplóides, destacando que os cromossomos homólogos vêm um do pai e outro da mãe.">
+				<opcao id="e7cc881f-9789-4f7a-850b-9447e28ebd5f" idquestao="2aba1703-f9c9-429a-b53a-0c8fcfd88579" correta="false" texto="As células haploides possuem pares de cromossomos homólogos, enquanto as células diplóides possuem apenas uma cópia de cada cromossomo, resultando em variação genética."/>
+				<opcao id="c6f66b99-68c8-44bc-a1da-2dd6f7e56855" idquestao="2aba1703-f9c9-429a-b53a-0c8fcfd88579" correta="false" texto="Cromossomos homólogos são idênticos em sequência de nucleotídeos e sempre carregam os mesmos alelos para cada característica, independentemente da célula ser haploide ou diplóide."/>
+				<opcao id="60570c0d-1427-4f9b-986d-1f1f24236ab4" idquestao="2aba1703-f9c9-429a-b53a-0c8fcfd88579" correta="false" texto="A formação de células diplóides ocorre exclusivamente durante a meiose, enquanto as células haploides são formadas pela mitose em organismos multicelulares."/>
+				<opcao id="8a81aaef-8a5c-44fd-b80f-00bb23eadea7" idquestao="2aba1703-f9c9-429a-b53a-0c8fcfd88579" correta="false" texto="Cromossomos homólogos são exclusivamente observados em células haploides, onde cada cromossomo é distinto e não possui um par correspondente."/>
+				<opcao id="f7f33170-92ba-459d-9418-d402ed3c383f" idquestao="2aba1703-f9c9-429a-b53a-0c8fcfd88579" correta="true" texto="Em organismos diplóides, cada célula possui dois conjuntos de cromossomos, um proveniente do pai e outro da mãe, sendo que cada par de cromossomos homólogos é composto por uma cópia paternal e outra maternal."/>
+			</questao>
+			<questao id="c5c3443e-c28c-4000-8613-438b77fa6a23" idaula="55b91bc7-0c01-42b5-90eb-71dc2f11b51a" enunciado="Qual das alternativas a seguir descreve corretamente um evento característico do processo de mitose?" justificativa="A alternativa correta descreve com precisão o que ocorre durante a anáfase da mitose, com a separação das cromátides-irmãs.">
+				<opcao id="41ff1026-f1bc-4c1f-b4b8-dd1a946856c0" idquestao="c5c3443e-c28c-4000-8613-438b77fa6a23" correta="false" texto="Na interfase, os cromossomos se duplicam e se movem para os polos opostos, enquanto o citoplasma se divide para formar duas células filhas idênticas."/>
+				<opcao id="0510f4f4-174f-410a-a849-14784980baae" idquestao="c5c3443e-c28c-4000-8613-438b77fa6a23" correta="false" texto="Na metáfase, as fibras do fuso mitótico se desintegram, e os cromossomos começam a se condensar e se tornar visíveis ao microscópio óptico."/>
+				<opcao id="3533cd9a-85cb-4c91-aea8-376d352cb6fe" idquestao="c5c3443e-c28c-4000-8613-438b77fa6a23" correta="true" texto="Durante a anáfase, as cromátides-irmãs se separam e são puxadas para polos opostos da célula, garantindo que cada célula filha receba uma cópia idêntica de cada cromossomo."/>
+				<opcao id="a0d8d1e6-2b21-4c07-9275-3b132aa09270" idquestao="c5c3443e-c28c-4000-8613-438b77fa6a23" correta="false" texto="Na telófase, as cromátides-irmãs se alinham na região equatorial da célula, antes de serem divididas igualmente entre as células filhas."/>
+				<opcao id="e35172b5-8e1e-48d5-a283-95771428d6a3" idquestao="c5c3443e-c28c-4000-8613-438b77fa6a23" correta="false" texto="Na fase de prófase, os cromossomos se alinham no centro da célula, formando a placa metafásica, enquanto o envelope nuclear se dissolve."/>
+			</questao>
+			<questao id="aee73f1e-efd0-44df-b56a-b7c0a87a9d41" idaula="55b91bc7-0c01-42b5-90eb-71dc2f11b51a" enunciado="Qual das alternativas a seguir descreve corretamente um evento específico do processo de meiose?" justificativa="A alternativa correta resume de forma clara e exata o processo geral da meiose, destacando suas duas divisões celulares e o resultado final em quatro células haplóides.">
+				<opcao id="d98fded0-4776-4637-8a8e-616d60c4f6bf" idquestao="aee73f1e-efd0-44df-b56a-b7c0a87a9d41" correta="true" texto="A meiose consiste em duas divisões celulares consecutivas, resultando em quatro células filhas haplóides, cada uma com metade do número de cromossomos da célula original."/>
+				<opcao id="656f5cbf-b865-4e5f-89f4-7d6eca713a9f" idquestao="aee73f1e-efd0-44df-b56a-b7c0a87a9d41" correta="false" texto="O crossing-over, um evento que aumenta a variabilidade genética, ocorre durante a prófase II, onde há troca de segmentos entre as cromátides-irmãs dos cromossomos homólogos."/>
+				<opcao id="81237bf7-6939-4ef5-b585-d600961db98f" idquestao="aee73f1e-efd0-44df-b56a-b7c0a87a9d41" correta="false" texto="Na anáfase II, os cromossomos homólogos se separam e migram para polos opostos da célula, resultando na formação de células diplóides com um conjunto completo de cromossomos."/>
+				<opcao id="82f14053-7584-4f89-903d-70b3eab7b20a" idquestao="aee73f1e-efd0-44df-b56a-b7c0a87a9d41" correta="false" texto="Durante a metáfase I, os cromossomos homólogos se alinham individualmente na placa metafásica, como ocorre na mitose, garantindo a separação das cromátides-irmãs."/>
+				<opcao id="9963571d-c282-410d-b7a8-bcdbae6f749a" idquestao="aee73f1e-efd0-44df-b56a-b7c0a87a9d41" correta="false" texto="A sinapse, processo em que as cromátides-irmãs se condensam e se conectam por meio de complexos sinaptonêmicos, ocorre exclusivamente na metáfase II da meiose."/>
+			</questao>
+			<questao id="e0dba97a-eb89-4411-8051-aaa5393a4fdd" idaula="55b91bc7-0c01-42b5-90eb-71dc2f11b51a" enunciado="Qual das alternativas a seguir descreve corretamente o processo de crossing-over durante a meiose?" justificativa="A alternativa correta destaca corretamente a ocorrência e função do crossing-over durante a prófase I da meiose, que promove diversidade genética.">
+				<opcao id="5b9c437a-a2df-4703-8a91-c2d953ba6644" idquestao="e0dba97a-eb89-4411-8051-aaa5393a4fdd" correta="false" texto="O crossing-over resulta na formação de cromossomos homólogos idênticos, garantindo que cada gameta tenha uma cópia exata dos genes dos pais."/>
+				<opcao id="2ac255b8-211b-4c1d-9699-17e94fa00bf5" idquestao="e0dba97a-eb89-4411-8051-aaa5393a4fdd" correta="false" texto="O crossing-over é um processo exclusivo da mitose, onde as cromátides-irmãs trocam segmentos de DNA para garantir a fidelidade da replicação celular."/>
+				<opcao id="7aeb8a85-9951-4290-9845-10f30737ba05" idquestao="e0dba97a-eb89-4411-8051-aaa5393a4fdd" correta="false" texto="Ocorre principalmente durante a metáfase II da meiose, quando os cromossomos homólogos se alinham na placa metafásica, aumentando a diversidade genética."/>
+				<opcao id="6a2f5d56-3d6b-4b6f-bee0-06bf4e68a584" idquestao="e0dba97a-eb89-4411-8051-aaa5393a4fdd" correta="true" texto="Durante a prófase I da meiose, o crossing-over envolve a troca de segmentos entre cromossomos homólogos, resultando em novas combinações de alelos nos gametas."/>
+				<opcao id="31684593-a10f-4a98-9195-cf020d8f37eb" idquestao="e0dba97a-eb89-4411-8051-aaa5393a4fdd" correta="false" texto="O crossing-over ocorre na anáfase II da meiose, onde as cromátides-irmãs se separam e são puxadas para os polos opostos, aumentando a variabilidade genética das células filhas."/>
+			</questao>
+		</aula>
+		<aula id="7dea299a-f4a3-487d-958a-a8e64ab69bb7" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="5-Princípios básicos de hereditariedade"/>
+		<aula id="652878ca-41cc-425f-8f04-8a5ab0ea9c35" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="6-Probabilidade e Análise de heredograma"/>
+		<aula id="f397dab4-430c-4121-ac10-07cf636e67f3" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="7-Sistema ABO e Fator Rh"/>
+		<aula id="61dc879f-afc7-4079-b942-803641b79de8" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="8-Epigenética aplicada a psicologia"/>
+		<aula id="e58ca417-b4bb-487e-875f-98f20b9ff5ac" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="9-Anomalias cromossômicas numéricas e estruturais"/>
+		<aula id="0aac8526-77d9-483e-9272-c86890d958a7" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="10-Padrões de herança ligada ao sexo, monogênica e multifatorial"/>
+		<aula id="b1b1bd64-4865-4c54-a3df-95dd91cdc4c7" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="11-Aconselhamento genético e o papel do psicologo"/>
+		<aula id="8072c592-c91c-4d29-ae9c-296b7ebbb030" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="12-Aspectos da evolução e o comportamento humano"/>
 	</materia>
 	<materia id="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="3-Fundamentos Históricos e Epistemológicos da Psicologia">
 		<aula id="9d6c8f9d-34bf-45f4-8940-4ab97fdb6d00" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="prova focada no wundt">
