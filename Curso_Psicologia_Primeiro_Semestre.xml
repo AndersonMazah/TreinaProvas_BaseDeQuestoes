@@ -2072,6 +2072,182 @@
 				<opcao id="f05c836f-90a5-42bd-98f5-ebc3de8a9e16" idquestao="63c1e404-0cff-4070-a77e-6564ec4884d5" correta="false" texto="Aumenta os reflexos motores."/>
 			</questao>
 		</aula>
+		<aula id="763784ee-20d3-408b-8fb6-becf550e1792" idmateria="1489cf70-ad5b-4713-a2be-84e087744d5f" nome="Aula 09 - Emoção e suas Alterações">
+			<questao id="626e1004-5a26-49a7-bcd6-557ab533bba6" idaula="763784ee-20d3-408b-8fb6-becf550e1792" enunciado="Qual estrutura cerebral está mais diretamente relacionada ao processamento do medo?" justificativa="A amígdala é uma estrutura do sistema límbico relacionada ao processamento de emoções, especialmente o medo. As demais estruturas têm outras funções associadas à regulação emocional, memória e tomada de decisão.">
+				<opcao id="cdecbaa9-2d70-4364-b2d9-bf07c4ac335a" idquestao="626e1004-5a26-49a7-bcd6-557ab533bba6" correta="false" texto="Hipotálamo"/>
+				<opcao id="45ae21f4-7feb-4ee6-bc6a-745939194297" idquestao="626e1004-5a26-49a7-bcd6-557ab533bba6" correta="false" texto="Hipocampo"/>
+				<opcao id="a5e16e6c-749a-4164-9fce-0db7c28bf330" idquestao="626e1004-5a26-49a7-bcd6-557ab533bba6" correta="false" texto="Córtex pré-frontal"/>
+				<opcao id="d73b6ea5-127e-47b6-925c-3b6f29f78e6d" idquestao="626e1004-5a26-49a7-bcd6-557ab533bba6" correta="true" texto="Amígdala"/>
+				<opcao id="125f7394-448a-41b3-b9a3-3dc8c2062a85" idquestao="626e1004-5a26-49a7-bcd6-557ab533bba6" correta="false" texto="Giro do cíngulo"/>
+			</questao>
+			<questao id="2d74bd6f-29e1-4653-8364-a1284a9aa5d8" idaula="763784ee-20d3-408b-8fb6-becf550e1792" enunciado="Por que o humor é considerado um estado afetivo basal e difuso?" justificativa="O humor atua como uma lente afetiva constante que colore a percepção da realidade, diferentemente das emoções que são reações momentâneas a estímulos específicos.">
+				<opcao id="536601f3-d70a-4c8f-a701-771a9bbe834b" idquestao="2d74bd6f-29e1-4653-8364-a1284a9aa5d8" correta="false" texto="Porque é uma reação rápida a estímulos externos."/>
+				<opcao id="d72f9084-a546-4471-8454-b527ef05f6df" idquestao="2d74bd6f-29e1-4653-8364-a1284a9aa5d8" correta="false" texto="Porque se manifesta apenas em situações de estresse."/>
+				<opcao id="1e467c6c-6bbc-4498-b348-81434b05270c" idquestao="2d74bd6f-29e1-4653-8364-a1284a9aa5d8" correta="true" texto="Porque ele permeia todas as experiências psíquicas, influenciando a forma como as vivências são percebidas."/>
+				<opcao id="dddfee78-0da5-43bc-bd43-17e5f3b0b665" idquestao="2d74bd6f-29e1-4653-8364-a1284a9aa5d8" correta="false" texto="Porque é um estado físico do organismo."/>
+				<opcao id="5ad74f14-4dae-47d8-a444-d411849f8bb6" idquestao="2d74bd6f-29e1-4653-8364-a1284a9aa5d8" correta="false" texto="Porque é sempre associado à tristeza."/>
+			</questao>
+			<questao id="bdb5de4b-4655-4b4c-a2cb-ccecd1797486" idaula="763784ee-20d3-408b-8fb6-becf550e1792" enunciado="Uma pessoa sente medo intenso de elevadores, evitando-os mesmo em situações seguras. Qual é o diagnóstico mais provável?" justificativa="Claustrofobia é o medo irracional de espaços fechados, como elevadores. As outras opções referem-se a outros tipos de transtornos ansiosos.">
+				<opcao id="db6b8e38-4529-4781-9a91-0385e9ab596b" idquestao="bdb5de4b-4655-4b4c-a2cb-ccecd1797486" correta="false" texto="Agorafobia"/>
+				<opcao id="4452e798-a672-40d3-894e-d6e4ad9e6ca6" idquestao="bdb5de4b-4655-4b4c-a2cb-ccecd1797486" correta="false" texto="Fobia social"/>
+				<opcao id="2de8a125-5db6-4c22-9630-49a4efe748ea" idquestao="bdb5de4b-4655-4b4c-a2cb-ccecd1797486" correta="false" texto="Síndrome do pânico"/>
+				<opcao id="3ad5e2b9-ee0e-43cd-9c9c-b624713bf4b9" idquestao="bdb5de4b-4655-4b4c-a2cb-ccecd1797486" correta="true" texto="Claustrofobia"/>
+				<opcao id="e51a8a47-2857-4a6d-982b-710175107778" idquestao="bdb5de4b-4655-4b4c-a2cb-ccecd1797486" correta="false" texto="Distimia"/>
+			</questao>
+			<questao id="a593aa64-6380-46be-b263-49a65c84b1e3" idaula="763784ee-20d3-408b-8fb6-becf550e1792" enunciado="Qual diferença principal entre emoções e sentimentos ajuda a compreendê-los como experiências distintas?" justificativa="As emoções são reações rápidas a estímulos, enquanto os sentimentos são construções afetivas mais duradouras e ligadas a pensamentos e valores culturais.">
+				<opcao id="55b226fc-9b29-4787-9742-399188771cd5" idquestao="a593aa64-6380-46be-b263-49a65c84b1e3" correta="false" texto="As emoções ocorrem apenas em adultos, e os sentimentos em crianças."/>
+				<opcao id="65a9d80c-1ec4-4453-8b10-ac2da7f96b08" idquestao="a593aa64-6380-46be-b263-49a65c84b1e3" correta="false" texto="Os sentimentos são mais intensos que as emoções."/>
+				<opcao id="b0cb615a-7505-4c0f-9dd2-f36edc4ab1ee" idquestao="a593aa64-6380-46be-b263-49a65c84b1e3" correta="true" texto="As emoções são intensas e passageiras, enquanto os sentimentos são duradouros e ligados a conteúdos intelectuais."/>
+				<opcao id="6af5fdc3-bd18-4b4c-a101-19ae57c5cebc" idquestao="a593aa64-6380-46be-b263-49a65c84b1e3" correta="false" texto="Os sentimentos não têm relação com a cultura."/>
+				<opcao id="51ca2a5a-a188-4a3d-8c34-7d4bb14e23d4" idquestao="a593aa64-6380-46be-b263-49a65c84b1e3" correta="false" texto="As emoções dependem apenas de hormônios."/>
+			</questao>
+			<questao id="7754901a-8d25-4d09-8830-da894f45a125" idaula="763784ee-20d3-408b-8fb6-becf550e1792" enunciado="O que se pode concluir sobre a visão contemporânea da relação entre emoção e razão?" justificativa="A visão contemporânea entende que emoção e razão são complementares e que as emoções ajudam a interpretar o mundo e tomar decisões mais humanas e conscientes.">
+				<opcao id="c9cc804f-3340-422d-9d0e-b840e1f9f080" idquestao="7754901a-8d25-4d09-8830-da894f45a125" correta="false" texto="As emoções devem ser sempre reprimidas para manter a razão."/>
+				<opcao id="11be392f-28fe-45dd-b82b-cc2b8fcc33d2" idquestao="7754901a-8d25-4d09-8830-da894f45a125" correta="false" texto="A emoção atrapalha todo o funcionamento racional."/>
+				<opcao id="cb692385-bed1-4713-8fae-66c611e74c62" idquestao="7754901a-8d25-4d09-8830-da894f45a125" correta="true" texto="As emoções são vistas como componentes essenciais à cognição, influenciando decisões e percepções."/>
+				<opcao id="60f115b0-3ebb-4f09-af7e-922d787a508e" idquestao="7754901a-8d25-4d09-8830-da894f45a125" correta="false" texto="A razão é superior e mais confiável do que a emoção."/>
+				<opcao id="351f1783-3d76-4e98-8388-336cd7652e79" idquestao="7754901a-8d25-4d09-8830-da894f45a125" correta="false" texto="A emoção é tratada como patológica em qualquer contexto."/>
+			</questao>
+			<questao id="0de6d739-5d68-4fa8-a2b1-371eecdaad6c" idaula="763784ee-20d3-408b-8fb6-becf550e1792" enunciado="Se você fosse desenvolver uma campanha de saúde mental sobre transtornos de ansiedade, qual ponto abordaria com base nas manifestações físicas descritas?" justificativa="A campanha pode ajudar a população a reconhecer os sinais físicos da ansiedade, promovendo o diagnóstico e tratamento precoces.">
+				<opcao id="2c292b8f-e95e-4011-b994-5a24467e59c9" idquestao="0de6d739-5d68-4fa8-a2b1-371eecdaad6c" correta="false" texto="A ansiedade é sempre imaginária, sem qualquer base física."/>
+				<opcao id="cd8c48bd-c109-4381-9446-c0cea4024956" idquestao="0de6d739-5d68-4fa8-a2b1-371eecdaad6c" correta="false" texto="Os sintomas físicos da ansiedade indicam apenas doenças cardíacas."/>
+				<opcao id="ed661df4-4f19-4683-8cdd-5e23964863df" idquestao="0de6d739-5d68-4fa8-a2b1-371eecdaad6c" correta="true" texto="A importância de reconhecer sintomas como taquicardia, sudorese e tremores como possíveis sinais de ansiedade."/>
+				<opcao id="db34c654-4aed-45a8-9aa7-ced632765028" idquestao="0de6d739-5d68-4fa8-a2b1-371eecdaad6c" correta="false" texto="Pessoas ansiosas raramente sentem desconfortos físicos."/>
+				<opcao id="1421af3e-89d0-444c-afa9-44a3a76f1d99" idquestao="0de6d739-5d68-4fa8-a2b1-371eecdaad6c" correta="false" texto="A ansiedade não deve ser discutida em público para evitar alarde."/>
+			</questao>
+		</aula>
+		<aula id="2460b09f-2f0c-449b-bb8f-2a80d0caedb7" idmateria="1489cf70-ad5b-4713-a2be-84e087744d5f" nome="Aula 10 - Personalidade">
+			<questao id="b1b69aff-acee-4469-b206-2098d7188f20" idaula="2460b09f-2f0c-449b-bb8f-2a80d0caedb7" enunciado="Qual psicólogo fundou o primeiro laboratório de psicologia e é considerado um dos pioneiros da psicologia experimental?" justificativa="Wilhelm Wundt criou o primeiro laboratório de psicologia em 1879, sendo considerado o pai da psicologia experimental.">
+				<opcao id="b3f1a026-de00-4202-92de-4c0f8bc5a48f" idquestao="b1b69aff-acee-4469-b206-2098d7188f20" correta="false" texto="Sigmund Freud"/>
+				<opcao id="1af4c6a6-6133-43cb-80c2-aafb47939621" idquestao="b1b69aff-acee-4469-b206-2098d7188f20" correta="false" texto="John B. Watson"/>
+				<opcao id="2f8e792a-2ae6-46f0-bb24-5c9c2a868b61" idquestao="b1b69aff-acee-4469-b206-2098d7188f20" correta="false" texto="B. F. Skinner"/>
+				<opcao id="3a332258-bbc4-4c9f-8f6e-53f4b0d945ee" idquestao="b1b69aff-acee-4469-b206-2098d7188f20" correta="false" texto="Gordon Allport"/>
+				<opcao id="93240be5-67f1-4e16-a826-750ea8140758" idquestao="b1b69aff-acee-4469-b206-2098d7188f20" correta="true" texto="Wilhelm Wundt"/>
+			</questao>
+			<questao id="72928ac6-9428-411a-8310-6d5e230ba522" idaula="2460b09f-2f0c-449b-bb8f-2a80d0caedb7" enunciado="Por que os behavioristas rejeitavam o estudo da personalidade como foco da psicologia?" justificativa="Behavioristas como Watson e Skinner defendiam que a psicologia deveria estudar apenas o que pode ser observado, como estímulos e respostas, e não processos internos como a personalidade.">
+				<opcao id="b904fe18-ddcf-44e8-9d67-1f1080064ba3" idquestao="72928ac6-9428-411a-8310-6d5e230ba522" correta="false" texto="Porque não consideravam a personalidade um conceito válido."/>
+				<opcao id="2fd20714-09ee-4e72-be9a-4101f1a27654" idquestao="72928ac6-9428-411a-8310-6d5e230ba522" correta="false" texto="Porque acreditavam que a personalidade era fixa e imutável."/>
+				<opcao id="6f98bc5a-c70d-4cc2-a14c-69ea2bf4d226" idquestao="72928ac6-9428-411a-8310-6d5e230ba522" correta="true" texto="Porque acreditavam que apenas o comportamento observável poderia ser estudado cientificamente."/>
+				<opcao id="1dd18419-9638-43b8-9ea8-c69ed76e6499" idquestao="72928ac6-9428-411a-8310-6d5e230ba522" correta="false" texto="Porque Freud já havia dominado esse campo."/>
+				<opcao id="1540c71f-7edd-487e-ac33-5859a76f77dd" idquestao="72928ac6-9428-411a-8310-6d5e230ba522" correta="false" texto="Porque a personalidade era muito fácil de medir."/>
+			</questao>
+			<questao id="24116d19-d696-4017-91e8-163b20624515" idaula="2460b09f-2f0c-449b-bb8f-2a80d0caedb7" enunciado="Se uma pessoa apresenta padrões comportamentais estáveis e peculiares ao longo do tempo, como esse fenômeno pode ser definido na psicologia?" justificativa="A personalidade envolve padrões de comportamento relativamente estáveis e únicos que influenciam como a pessoa age em diferentes situações.">
+				<opcao id="b15e1a7c-9ddf-41ad-b18b-1f61f3abcf92" idquestao="24116d19-d696-4017-91e8-163b20624515" correta="false" texto="Caráter moral"/>
+				<opcao id="ac3efe49-caf5-46e5-bc60-6855b0535cb8" idquestao="24116d19-d696-4017-91e8-163b20624515" correta="false" texto="Temperamento"/>
+				<opcao id="c4fb6608-1d5f-4a47-b7c8-f8cb5df70576" idquestao="24116d19-d696-4017-91e8-163b20624515" correta="true" texto="Personalidade"/>
+				<opcao id="564fed42-b2da-4e43-af20-e844d9550712" idquestao="24116d19-d696-4017-91e8-163b20624515" correta="false" texto="Comportamento condicionado"/>
+				<opcao id="301ef660-4109-4deb-8687-33995cf524cd" idquestao="24116d19-d696-4017-91e8-163b20624515" correta="false" texto="Atenção seletiva"/>
+			</questao>
+			<questao id="a7eca6c1-ae24-409f-93ff-33b8a4098cc5" idaula="2460b09f-2f0c-449b-bb8f-2a80d0caedb7" enunciado="Qual é a principal diferença entre a abordagem da psicanálise e do behaviorismo em relação à personalidade?" justificativa="Enquanto o behaviorismo prioriza estímulos e respostas observáveis, a psicanálise investiga os processos inconscientes que moldam o comportamento humano.">
+				<opcao id="ddb9459e-1eb9-4a1d-b614-1042370313f4" idquestao="a7eca6c1-ae24-409f-93ff-33b8a4098cc5" correta="false" texto="A psicanálise usa experimentos científicos, enquanto o behaviorismo não."/>
+				<opcao id="35ed660b-172d-44c1-aeab-80fe45f7e805" idquestao="a7eca6c1-ae24-409f-93ff-33b8a4098cc5" correta="false" texto="O behaviorismo considera os sonhos como centrais para o estudo da mente."/>
+				<opcao id="c058ca88-267e-4b07-88d3-e2c54ad89710" idquestao="a7eca6c1-ae24-409f-93ff-33b8a4098cc5" correta="true" texto="A psicanálise foca em processos inconscientes, enquanto o behaviorismo foca em comportamentos observáveis."/>
+				<opcao id="0f29f230-d1ff-4aec-8799-8d647c3cfa0e" idquestao="a7eca6c1-ae24-409f-93ff-33b8a4098cc5" correta="false" texto="O behaviorismo defende o livre-arbítrio, enquanto a psicanálise não."/>
+				<opcao id="2910565d-ccc7-4ac7-96de-5365be9c8870" idquestao="a7eca6c1-ae24-409f-93ff-33b8a4098cc5" correta="false" texto="Ambas ignoram as emoções."/>
+			</questao>
+			<questao id="5f313b8c-d116-4267-b96e-fdde14e11f04" idaula="2460b09f-2f0c-449b-bb8f-2a80d0caedb7" enunciado="Como as teorias da personalidade devem ser avaliadas para que tenham valor científico?" justificativa="Para que uma teoria da personalidade seja útil, ela precisa ser testável, ajudar a explicar dados existentes e permitir prever comportamentos futuros.">
+				<opcao id="e9ba823e-d50d-4cd4-b05e-6ebd4526d2fe" idquestao="5f313b8c-d116-4267-b96e-fdde14e11f04" correta="false" texto="Devem ser aceitas pela maioria dos psicólogos."/>
+				<opcao id="b158f8ba-1d9d-4ef4-977a-11994690dfd2" idquestao="5f313b8c-d116-4267-b96e-fdde14e11f04" correta="true" texto="Devem ser testáveis, explicativas e capazes de prever comportamentos."/>
+				<opcao id="d9b1dfd0-0f8f-4e76-b867-1b0462281ca0" idquestao="5f313b8c-d116-4267-b96e-fdde14e11f04" correta="false" texto="Devem evitar qualquer tipo de generalização."/>
+				<opcao id="234bd38a-a9a2-4c68-a81d-bf220aea025a" idquestao="5f313b8c-d116-4267-b96e-fdde14e11f04" correta="false" texto="Devem ser baseadas apenas em estudos de caso."/>
+				<opcao id="f91efdb8-6fd7-42f0-8265-a945ca26c4be" idquestao="5f313b8c-d116-4267-b96e-fdde14e11f04" correta="false" texto="Devem se concentrar apenas na infância do indivíduo."/>
+			</questao>
+			<questao id="e4f8c7a3-d66a-4387-a5b6-9fb695ac9b5d" idaula="2460b09f-2f0c-449b-bb8f-2a80d0caedb7" enunciado="Se você fosse desenvolver uma teoria sobre personalidade, que elementos seriam essenciais para garantir relevância científica?" justificativa="Uma boa teoria da personalidade precisa ser organizada, verificável e útil para gerar previsões e aplicações práticas na psicologia.">
+				<opcao id="27c84ac8-53c5-44c2-b42d-da35c8ecd369" idquestao="e4f8c7a3-d66a-4387-a5b6-9fb695ac9b5d" correta="false" texto="Foco exclusivo na genética e rejeição do ambiente."/>
+				<opcao id="ddb5a548-cd83-4a21-bb4e-3113b8f06cd4" idquestao="e4f8c7a3-d66a-4387-a5b6-9fb695ac9b5d" correta="true" texto="Capacidade de ser testada, explicar os dados disponíveis e prever comportamentos."/>
+				<opcao id="684e96cf-e3e8-42cc-9f20-99c33e3f50d6" idquestao="e4f8c7a3-d66a-4387-a5b6-9fb695ac9b5d" correta="false" texto="Basear-se apenas em experiências clínicas subjetivas."/>
+				<opcao id="2efd7dc7-fa32-423f-92d6-0f6a9c26211f" idquestao="e4f8c7a3-d66a-4387-a5b6-9fb695ac9b5d" correta="false" texto="Manter-se isolada de outras áreas da psicologia."/>
+				<opcao id="e8ea217b-39df-4a76-8aa0-93369b27f81e" idquestao="e4f8c7a3-d66a-4387-a5b6-9fb695ac9b5d" correta="false" texto="Ser aceita sem necessidade de comprovação empírica."/>
+			</questao>
+		</aula>
+		<aula id="4968b6a2-06ff-47cf-954c-fbae05c1870a" idmateria="1489cf70-ad5b-4713-a2be-84e087744d5f" nome="Aula 11 - Inteligência">
+			<questao id="a07675ce-b6b6-4253-8247-10b3e57852d7" idaula="4968b6a2-06ff-47cf-954c-fbae05c1870a" enunciado="Quem criou o primeiro teste de inteligência com fins educacionais?" justificativa="Binet e Simon criaram o primeiro teste de inteligência em 1904, para identificar crianças com necessidades educacionais especiais.">
+				<opcao id="9913c342-7a68-4b8d-8451-16c3428a3125" idquestao="a07675ce-b6b6-4253-8247-10b3e57852d7" correta="false" texto="David Wechsler"/>
+				<opcao id="da63f379-68e6-4b0f-88a5-8e5ea6b51032" idquestao="a07675ce-b6b6-4253-8247-10b3e57852d7" correta="false" texto="Jean Piaget"/>
+				<opcao id="efdf4ad9-621a-4aab-9b9d-94ac8db4c1db" idquestao="a07675ce-b6b6-4253-8247-10b3e57852d7" correta="false" texto="Lev Vygotsky"/>
+				<opcao id="dfd64ecb-fe3f-439a-a702-8a6c99cb9c6c" idquestao="a07675ce-b6b6-4253-8247-10b3e57852d7" correta="true" texto="Alfred Binet e Théodore Simon"/>
+				<opcao id="1dbd56b0-fb98-40ce-80ba-85959fdc3a87" idquestao="a07675ce-b6b6-4253-8247-10b3e57852d7" correta="false" texto="Lewis Terman"/>
+			</questao>
+			<questao id="09b1910b-c9fc-42f9-84b1-e218ea7b2d82" idaula="4968b6a2-06ff-47cf-954c-fbae05c1870a" enunciado="Por que a teoria de Vygotsky entende a inteligência como algo construído socialmente?" justificativa="Para Vygotsky, a inteligência é formada nas relações sociais e culturais, não sendo apenas um processo biológico individual.">
+				<opcao id="3f12047e-e334-4adc-b30a-10b6c77138f3" idquestao="09b1910b-c9fc-42f9-84b1-e218ea7b2d82" correta="false" texto="Porque depende apenas do crescimento biológico do cérebro."/>
+				<opcao id="d87a920c-c3d4-4cdc-9cba-8b77f7d076bd" idquestao="09b1910b-c9fc-42f9-84b1-e218ea7b2d82" correta="false" texto="Porque está ligada à genética dos pais."/>
+				<opcao id="0c22d5f7-9d1d-46d0-b6b3-cdf700301b03" idquestao="09b1910b-c9fc-42f9-84b1-e218ea7b2d82" correta="true" texto="Porque ela é desenvolvida na interação com outras pessoas e a cultura ao redor."/>
+				<opcao id="54841438-1f37-4264-ba49-b146c06e673c" idquestao="09b1910b-c9fc-42f9-84b1-e218ea7b2d82" correta="false" texto="Porque é uma habilidade espontânea e inata da criança."/>
+				<opcao id="e73b53d7-4f49-4033-b195-7ee5b1444d9e" idquestao="09b1910b-c9fc-42f9-84b1-e218ea7b2d82" correta="false" texto="Porque está relacionada apenas ao desempenho escolar."/>
+			</questao>
+			<questao id="fcd97aae-7be8-4773-a0f1-13734f0e80ee" idaula="4968b6a2-06ff-47cf-954c-fbae05c1870a" enunciado="Uma criança de 10 anos com dificuldades para perceber pistas sociais e manter conversas maduras pode estar apresentando sinais de:" justificativa="Na deficiência intelectual leve, a linguagem é mais concreta e há dificuldade para perceber pistas sociais e regular emoções.">
+				<opcao id="93c2135b-cd7d-4774-bcf6-48cbf364ebc4" idquestao="fcd97aae-7be8-4773-a0f1-13734f0e80ee" correta="false" texto="Inteligência fluida reduzida"/>
+				<opcao id="fd5283ad-31be-4622-9fb2-1197999ba8fb" idquestao="fcd97aae-7be8-4773-a0f1-13734f0e80ee" correta="false" texto="Déficit de atenção"/>
+				<opcao id="f67dfcad-d873-46e7-aae6-3cbecd605858" idquestao="fcd97aae-7be8-4773-a0f1-13734f0e80ee" correta="true" texto="Deficiência intelectual leve"/>
+				<opcao id="36f23e90-3ff9-4eeb-bb4f-55b68435d1a8" idquestao="fcd97aae-7be8-4773-a0f1-13734f0e80ee" correta="false" texto="Transtorno de linguagem"/>
+				<opcao id="2e7a6313-f64a-4196-b8d3-b47286646cf8" idquestao="fcd97aae-7be8-4773-a0f1-13734f0e80ee" correta="false" texto="Superdotação"/>
+			</questao>
+			<questao id="fde4677e-a7d2-4e6c-a822-b93e1741f1c0" idaula="4968b6a2-06ff-47cf-954c-fbae05c1870a" enunciado="Qual é a diferença entre inteligência fluida e cristalizada segundo Cattell?" justificativa="Inteligência fluida lida com novas situações, enquanto a cristalizada envolve o uso do conhecimento acumulado ao longo da vida.">
+				<opcao id="cc2499ca-6366-49a0-bcb0-7c1e858f6a92" idquestao="fde4677e-a7d2-4e6c-a822-b93e1741f1c0" correta="false" texto="A fluida é emocional e a cristalizada é racional."/>
+				<opcao id="7d10efc1-0f4f-4557-9656-f7431d9bf92c" idquestao="fde4677e-a7d2-4e6c-a822-b93e1741f1c0" correta="false" texto="A fluida é fixa e a cristalizada muda com o tempo."/>
+				<opcao id="55c8abde-2328-45fa-8893-5b055e7ea728" idquestao="fde4677e-a7d2-4e6c-a822-b93e1741f1c0" correta="true" texto="A fluida resolve problemas novos e a cristalizada usa conhecimentos adquiridos."/>
+				<opcao id="e35d3bb0-ae18-4e34-ae69-d23a81a6e40b" idquestao="fde4677e-a7d2-4e6c-a822-b93e1741f1c0" correta="false" texto="Ambas são formas de inteligência genética."/>
+				<opcao id="2b7293fa-c8a6-49ab-ab42-6ce307ac733f" idquestao="fde4677e-a7d2-4e6c-a822-b93e1741f1c0" correta="false" texto="Não existe diferença entre elas."/>
+			</questao>
+			<questao id="94dfc3a9-87cf-4b62-b1e9-4fb9189eb509" idaula="4968b6a2-06ff-47cf-954c-fbae05c1870a" enunciado="Por que os testes de QI devem ser aplicados com cautela em diferentes culturas?" justificativa="Testes padronizados para uma cultura podem não representar corretamente o potencial cognitivo de pessoas de outras culturas.">
+				<opcao id="d55c36cd-009b-4dad-95d6-0dead73679c9" idquestao="94dfc3a9-87cf-4b62-b1e9-4fb9189eb509" correta="false" texto="Porque não funcionam para adultos."/>
+				<opcao id="bfa7292c-1a05-4f3f-a710-73d59553e6b8" idquestao="94dfc3a9-87cf-4b62-b1e9-4fb9189eb509" correta="false" texto="Porque não podem medir inteligência real."/>
+				<opcao id="ead6ac61-8613-406b-90ee-a9b9364ace32" idquestao="94dfc3a9-87cf-4b62-b1e9-4fb9189eb509" correta="true" texto="Porque podem conter elementos que não são universais, afetando sua validade."/>
+				<opcao id="56e1d77a-d7d2-47de-bff2-b88bf05100d8" idquestao="94dfc3a9-87cf-4b62-b1e9-4fb9189eb509" correta="false" texto="Porque o QI muda todo dia."/>
+				<opcao id="827a2e0a-ccb0-4928-a3dd-07b9fc4b90c8" idquestao="94dfc3a9-87cf-4b62-b1e9-4fb9189eb509" correta="false" texto="Porque testes não funcionam fora da Europa."/>
+			</questao>
+			<questao id="d9c658f3-7cff-4761-aedb-c6076ce581bd" idaula="4968b6a2-06ff-47cf-954c-fbae05c1870a" enunciado="Se você fosse criar um novo teste de inteligência mais justo, o que incluiria?" justificativa="Um teste mais justo deve respeitar a diversidade cultural e avaliar múltiplas formas de inteligência, como sugerem teorias modernas.">
+				<opcao id="2cb0cd83-2ae3-4144-ac9f-8496174e5a9c" idquestao="d9c658f3-7cff-4761-aedb-c6076ce581bd" correta="false" texto="Apenas questões verbais e matemáticas."/>
+				<opcao id="15ac927a-9c71-4a17-9bdf-6b015f7bcf67" idquestao="d9c658f3-7cff-4761-aedb-c6076ce581bd" correta="false" texto="Perguntas com conteúdo específico de uma única cultura."/>
+				<opcao id="77e0de75-c85d-4439-aa93-ad638b33f08b" idquestao="d9c658f3-7cff-4761-aedb-c6076ce581bd" correta="true" texto="Elementos culturais diversos e tarefas que envolvam diferentes tipos de inteligência."/>
+				<opcao id="7f9f2c5f-5a3e-49f8-b606-46265e5b6a8b" idquestao="d9c658f3-7cff-4761-aedb-c6076ce581bd" correta="false" texto="Somente tarefas motoras."/>
+				<opcao id="f76dba4f-0ec7-45d5-97af-265a48ea121d" idquestao="d9c658f3-7cff-4761-aedb-c6076ce581bd" correta="false" texto="Itens que só avaliem a memória."/>
+			</questao>
+		</aula>
+		<aula id="e6882595-3d75-405e-8645-20368df6603b" idmateria="1489cf70-ad5b-4713-a2be-84e087744d5f" nome="Aula 12 - Motivação">
+			<questao id="0683ea4b-8b47-4a88-b7d8-3a064046379f" idaula="e6882595-3d75-405e-8645-20368df6603b" enunciado="Qual teoria motivacional propõe uma hierarquia de necessidades humanas?" justificativa="A Teoria de Maslow organiza as motivações humanas em uma hierarquia, indo das necessidades fisiológicas até a autorrealização.">
+				<opcao id="d221a66d-bbbc-4ab1-8e03-9135dd104530" idquestao="0683ea4b-8b47-4a88-b7d8-3a064046379f" correta="false" texto="Teoria da Excitação"/>
+				<opcao id="5d49c68b-ce5d-4d85-a4c1-ee1313ef45c7" idquestao="0683ea4b-8b47-4a88-b7d8-3a064046379f" correta="false" texto="Teoria da Redução do Impulso"/>
+				<opcao id="5796d621-6ae5-46b1-9d37-3a0681228e22" idquestao="0683ea4b-8b47-4a88-b7d8-3a064046379f" correta="true" texto="Teoria de Maslow"/>
+				<opcao id="b25a81f9-9a4a-4ac5-a23e-f9e4d9222501" idquestao="0683ea4b-8b47-4a88-b7d8-3a064046379f" correta="false" texto="Teoria da Autodeterminação"/>
+				<opcao id="e784178e-6769-4999-9f87-1f7e7e0d4a12" idquestao="0683ea4b-8b47-4a88-b7d8-3a064046379f" correta="false" texto="Teoria da Motivação Temporal"/>
+			</questao>
+			<questao id="4fda2208-f5dd-4547-8732-7c6a83c70a54" idaula="e6882595-3d75-405e-8645-20368df6603b" enunciado="Por que a dopamina é importante nos processos motivacionais?" justificativa="A dopamina é um neurotransmissor central no sistema de recompensa, responsável por gerar sensações de prazer e reforçar comportamentos.">
+				<opcao id="89793294-4044-4196-acd2-1bf4c6519910" idquestao="4fda2208-f5dd-4547-8732-7c6a83c70a54" correta="false" texto="Porque controla os movimentos musculares voluntários."/>
+				<opcao id="48ba2cd5-78f6-41a4-8ddf-c1ec35b95d6a" idquestao="4fda2208-f5dd-4547-8732-7c6a83c70a54" correta="false" texto="Porque reduz os níveis de excitação cerebral."/>
+				<opcao id="cfc87886-82da-4911-93af-beb4e7a1f1e1" idquestao="4fda2208-f5dd-4547-8732-7c6a83c70a54" correta="true" texto="Porque está ligada ao prazer e ao sistema de recompensa do cérebro."/>
+				<opcao id="7a3ac6e5-4b83-47d5-882e-f40d731657db" idquestao="4fda2208-f5dd-4547-8732-7c6a83c70a54" correta="false" texto="Porque aumenta a produção de adrenalina."/>
+				<opcao id="af219769-0188-4402-817b-6c38a012cf07" idquestao="4fda2208-f5dd-4547-8732-7c6a83c70a54" correta="false" texto="Porque está presente apenas durante o sono."/>
+			</questao>
+			<questao id="66e19bf8-dbf8-4ca9-861b-cde45ab0d7a8" idaula="e6882595-3d75-405e-8645-20368df6603b" enunciado="Se um estudante estuda apenas para tirar boa nota e evitar reprovação, qual tipo de motivação ele apresenta?" justificativa="Motivação extrínseca ocorre quando o comportamento é guiado por recompensas ou punições externas, como notas escolares.">
+				<opcao id="ed98c04a-f03e-450b-ac4f-a946bd2d24d1" idquestao="66e19bf8-dbf8-4ca9-861b-cde45ab0d7a8" correta="false" texto="Motivação intrínseca"/>
+				<opcao id="85b72c63-36b5-405f-a580-856944507c05" idquestao="66e19bf8-dbf8-4ca9-861b-cde45ab0d7a8" correta="false" texto="Motivação biológica"/>
+				<opcao id="e5d5acc9-f72e-4ad2-bb1f-a4aef21b2d4d" idquestao="66e19bf8-dbf8-4ca9-861b-cde45ab0d7a8" correta="false" texto="Motivação inconsciente"/>
+				<opcao id="987f5bd1-5fab-4dcd-bfa4-23e7779820c1" idquestao="66e19bf8-dbf8-4ca9-861b-cde45ab0d7a8" correta="true" texto="Motivação extrínseca"/>
+				<opcao id="56f56bd3-756a-435b-ad9b-0fb0f0998a0c" idquestao="66e19bf8-dbf8-4ca9-861b-cde45ab0d7a8" correta="false" texto="Motivação de autorrealização"/>
+			</questao>
+			<questao id="9f621d84-2df4-42cc-86c0-b6a65ac8422a" idaula="e6882595-3d75-405e-8645-20368df6603b" enunciado="Qual a diferença entre motivos conscientes e inconscientes?" justificativa="Motivos conscientes são aqueles que a pessoa identifica, já os inconscientes atuam sem percepção direta, como propõe a psicanálise.">
+				<opcao id="bea2b1df-bc44-4965-b5a4-8d0b54ba6c5c" idquestao="9f621d84-2df4-42cc-86c0-b6a65ac8422a" correta="false" texto="Conscientes são biológicos; inconscientes são sociais."/>
+				<opcao id="8788c01a-2850-4d1b-9ad0-54721990ef3a" idquestao="9f621d84-2df4-42cc-86c0-b6a65ac8422a" correta="false" texto="Inconscientes ocorrem apenas durante o sono."/>
+				<opcao id="40b69786-f1cc-4bde-9085-7a5a7ad748e2" idquestao="9f621d84-2df4-42cc-86c0-b6a65ac8422a" correta="true" texto="Conscientes são percebidos pela pessoa; inconscientes influenciam sem que ela perceba."/>
+				<opcao id="7b0bd1fe-2345-498a-87a8-7b4f328290cf" idquestao="9f621d84-2df4-42cc-86c0-b6a65ac8422a" correta="false" texto="Inconscientes são sempre negativos."/>
+				<opcao id="4cefaaba-18bc-44e8-893e-bfd5f9647d1b" idquestao="9f621d84-2df4-42cc-86c0-b6a65ac8422a" correta="false" texto="Conscientes estão ligados à dopamina."/>
+			</questao>
+			<questao id="d0e63c41-3dc1-40c7-ba65-c265e5e0b296" idaula="e6882595-3d75-405e-8645-20368df6603b" enunciado="Por que recompensar excessivamente uma atividade que já é prazerosa pode reduzir a motivação da pessoa?" justificativa="O efeito de sobrejustificação mostra que recompensas externas em excesso podem reduzir o prazer interno de realizar a atividade.">
+				<opcao id="80454258-3d2a-4e82-89d7-b387d6d2014a" idquestao="d0e63c41-3dc1-40c7-ba65-c265e5e0b296" correta="false" texto="Porque interfere na memória de longo prazo."/>
+				<opcao id="a96f3bab-3287-418d-af0a-a78e44f08f4c" idquestao="d0e63c41-3dc1-40c7-ba65-c265e5e0b296" correta="false" texto="Porque desvia o foco para outras tarefas."/>
+				<opcao id="34e31df6-41a3-4719-a637-d936cec6c4c1" idquestao="d0e63c41-3dc1-40c7-ba65-c265e5e0b296" correta="true" texto="Porque pode enfraquecer a motivação intrínseca, conhecida como efeito de sobrejustificação."/>
+				<opcao id="9effd85c-a8b1-4a2c-9af2-67f7f6cf783d" idquestao="d0e63c41-3dc1-40c7-ba65-c265e5e0b296" correta="false" texto="Porque ativa áreas cerebrais ligadas à dor."/>
+				<opcao id="4d38011f-bc14-4134-869e-7d8b3caa034e" idquestao="d0e63c41-3dc1-40c7-ba65-c265e5e0b296" correta="false" texto="Porque reduz os níveis de serotonina no cérebro."/>
+			</questao>
+			<questao id="ccf7633c-9416-414c-b4a2-17fe80742459" idaula="e6882595-3d75-405e-8645-20368df6603b" enunciado="Se você fosse montar uma sala de aula motivadora, o que incluiria?" justificativa="Ambientes motivadores equilibram desafio, suporte e reconhecimento, estimulando tanto motivação intrínseca quanto extrínseca.">
+				<opcao id="d77b7835-77e0-4392-a777-d20c920f8758" idquestao="ccf7633c-9416-414c-b4a2-17fe80742459" correta="false" texto="Provas diárias e cobrança intensa."/>
+				<opcao id="93747327-b7c9-42a3-afc0-ee8430147849" idquestao="ccf7633c-9416-414c-b4a2-17fe80742459" correta="false" texto="Recompensas monetárias para as melhores notas."/>
+				<opcao id="4ec40d06-439b-47c3-9f76-e5f37730f8b5" idquestao="ccf7633c-9416-414c-b4a2-17fe80742459" correta="true" texto="Desafios, reconhecimento, suporte emocional e espaço para autonomia dos alunos."/>
+				<opcao id="b6f2d38b-e069-43a7-8f4b-e40eebebb913" idquestao="ccf7633c-9416-414c-b4a2-17fe80742459" correta="false" texto="Isolamento de alunos com baixo desempenho."/>
+				<opcao id="cd61995c-7d27-4a68-a125-6db0a6b6577b" idquestao="ccf7633c-9416-414c-b4a2-17fe80742459" correta="false" texto="Atividades repetitivas e sem variação."/>
+			</questao>
+		</aula>
 	</materia>
 	<materia id="326d5763-7fcb-42d9-82e5-0429839683c2" nome="5-Psicobiologia e Psiconeurologia">
 		<aula id="6d7b6b16-50d5-4cf5-9719-c399c887dbc3" idmateria="326d5763-7fcb-42d9-82e5-0429839683c2" nome="01 - Comportamento Inato X Adquirido">
@@ -2972,16 +3148,16 @@
 				<opcao id="63e957d9-d625-4a32-ac0f-343a3f659743" idquestao="3c5c759f-21ca-402a-9b47-3a6227862c35" correta="false" texto="O endoderma forma os ossos e músculos exclusivamente."/>
 			</questao>
 			<questao id="2f8c074d-d18f-4e2d-9802-b3eb71b0ec74" idaula="2f0ca4ef-d875-4109-b4c7-4dd845942fa1" enunciado="Qual é a sequência correta das fases do desenvolvimento embrionário logo após a fecundação?" justificativa="A sequência correta inicia com o zigoto, célula formada logo após a fecundação. Em seguida, ocorrem as divisões celulares que formam a mórula, uma massa compacta de células. Depois disso, surge a blástula, uma estrutura oca. Por fim, acontece a gastrulação, processo em que se formam os três folhetos germinativos.">
-				<opcao id="c7c41875-8852-49a3-8c6a-5c2f7940242c" idquestao="2f8c074d-d18f-4e2d-9802-b3eb71b0ec74" correta="true" texto="Zigoto > Mórula > Blástula > Gástrula"/>
-				<opcao id="c3326ff1-cfaa-4cdf-9f1a-fa11be70ba97" idquestao="2f8c074d-d18f-4e2d-9802-b3eb71b0ec74" correta="false" texto="Zigoto > Gástrula > Mórula > Blástula"/>
-				<opcao id="c5a69134-5cbe-4527-9630-c3c0fef87753" idquestao="2f8c074d-d18f-4e2d-9802-b3eb71b0ec74" correta="false" texto="Zigoto > Gástrula > Blástula > Mórula"/>
-				<opcao id="28db6834-0108-4444-8f5e-4ae060bf2f2e" idquestao="2f8c074d-d18f-4e2d-9802-b3eb71b0ec74" correta="false" texto="Zigoto > Blástula > Mórula > Gástrula"/>
+				<opcao id="c7c41875-8852-49a3-8c6a-5c2f7940242c" idquestao="2f8c074d-d18f-4e2d-9802-b3eb71b0ec74" correta="true" texto="Zigoto &amp;gt; Mórula &amp;gt; Blástula &amp;gt; Gástrula"/>
+				<opcao id="c3326ff1-cfaa-4cdf-9f1a-fa11be70ba97" idquestao="2f8c074d-d18f-4e2d-9802-b3eb71b0ec74" correta="false" texto="Zigoto &amp;gt; Gástrula &amp;gt; Mórula &amp;gt; Blástula"/>
+				<opcao id="c5a69134-5cbe-4527-9630-c3c0fef87753" idquestao="2f8c074d-d18f-4e2d-9802-b3eb71b0ec74" correta="false" texto="Zigoto &amp;gt; Gástrula &amp;gt; Blástula &amp;gt; Mórula"/>
+				<opcao id="28db6834-0108-4444-8f5e-4ae060bf2f2e" idquestao="2f8c074d-d18f-4e2d-9802-b3eb71b0ec74" correta="false" texto="Zigoto &amp;gt; Blástula &amp;gt; Mórula &amp;gt; Gástrula"/>
 			</questao>
 			<questao id="49dddac8-b2d5-4fc3-84f9-f40a4da0087f" idaula="2f0ca4ef-d875-4109-b4c7-4dd845942fa1" enunciado="Qual é a ordem correta das fases do desenvolvimento embrionário humano, incluindo a fase em que se inicia a formação do sistema nervoso?" justificativa="Após a fecundação, o embrião passa por fases bem definidas: começa com o zigoto, que se divide e forma a mórula. Depois, surge a blástula, que dará origem à gástrula, onde se formam os folhetos germinativos. Por fim, ocorre a nêurula, fase em que o sistema nervoso começa a se formar com a placa neural, tubo neural e crista neural.">
-				<opcao id="babc0e8b-fbf8-4547-8989-8303374691ba" idquestao="49dddac8-b2d5-4fc3-84f9-f40a4da0087f" correta="false" texto="Zigoto > Mórula > Gástrula > Blástula > Nêurula"/>
-				<opcao id="343893ab-86cf-4529-a5e9-43dc2b29073b" idquestao="49dddac8-b2d5-4fc3-84f9-f40a4da0087f" correta="true" texto="Zigoto > Mórula > Blástula > Gástrula > Nêurula"/>
-				<opcao id="c946b2fc-450a-4127-91d7-b72134cf9d11" idquestao="49dddac8-b2d5-4fc3-84f9-f40a4da0087f" correta="false" texto="Zigoto > Gástrula > Blástula > Mórula > Nêurula"/>
-				<opcao id="fcedb455-59a7-46e7-8a82-796cd2fa9488" idquestao="49dddac8-b2d5-4fc3-84f9-f40a4da0087f" correta="false" texto="Zigoto > Blástula > Mórula > Gástrula > Nêurula"/>
+				<opcao id="babc0e8b-fbf8-4547-8989-8303374691ba" idquestao="49dddac8-b2d5-4fc3-84f9-f40a4da0087f" correta="false" texto="Zigoto &amp;gt; Mórula &amp;gt; Gástrula &amp;gt; Blástula &amp;gt; Nêurula"/>
+				<opcao id="343893ab-86cf-4529-a5e9-43dc2b29073b" idquestao="49dddac8-b2d5-4fc3-84f9-f40a4da0087f" correta="true" texto="Zigoto &amp;gt; Mórula &amp;gt; Blástula &amp;gt; Gástrula &amp;gt; Nêurula"/>
+				<opcao id="c946b2fc-450a-4127-91d7-b72134cf9d11" idquestao="49dddac8-b2d5-4fc3-84f9-f40a4da0087f" correta="false" texto="Zigoto &amp;gt; Gástrula &amp;gt; Blástula &amp;gt; Mórula &amp;gt; Nêurula"/>
+				<opcao id="fcedb455-59a7-46e7-8a82-796cd2fa9488" idquestao="49dddac8-b2d5-4fc3-84f9-f40a4da0087f" correta="false" texto="Zigoto &amp;gt; Blástula &amp;gt; Mórula &amp;gt; Gástrula &amp;gt; Nêurula"/>
 			</questao>
 		</aula>
 		<aula id="4d43a864-a122-43d9-bd28-0e84f5919cb6" idmateria="326d5763-7fcb-42d9-82e5-0429839683c2" nome="14.2 - Folhetos embrionários">
