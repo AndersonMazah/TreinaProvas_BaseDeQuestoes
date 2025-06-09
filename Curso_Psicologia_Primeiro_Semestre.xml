@@ -1,68 +1,152 @@
 <backup>
 	<materia id="3166242c-18af-4159-b2be-d0e40a608540" nome="1-Fundamentos Sócio-Antropológicos">
-		<aula id="20a09a51-6775-4651-bc42-8bb387175f50" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Unidade 1 - A) Processo de Socialização, Estado de Natureza x Estado de Sociedade">
-			<questao id="df232d12-5172-479b-b62b-838752abffa4" idaula="20a09a51-6775-4651-bc42-8bb387175f50" enunciado="O que o conceito de 'estado de natureza' representa na filosofia contratualista?" justificativa="O estado de natureza é uma construção teórica que representa uma condição anterior à sociedade organizada, e não um período histórico real.">
+		<aula id="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Aula 01 - Contratualismo – Do Estado de Natureza ao Contrato Social">
+			<questao id="075f2543-ded3-4702-b86f-c77154a28142" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="Qual pensador contratualista acreditava que o ser humano é naturalmente egoísta e que o estado de natureza é uma guerra de todos contra todos?" justificativa="Hobbes acreditava que o ser humano, em seu estado natural, era violento e competitivo, o que justificava a necessidade de um governo absoluto.">
+				<opcao id="91c8c2d5-0242-4ac8-b848-3070e5ca6db2" idquestao="075f2543-ded3-4702-b86f-c77154a28142" correta="true" texto="Thomas Hobbes"/>
+				<opcao id="92b1d2a4-f206-4580-a083-06cd380eb8f0" idquestao="075f2543-ded3-4702-b86f-c77154a28142" correta="false" texto="John Locke"/>
+				<opcao id="7619547c-f8b8-4d8b-bd94-6d7fe170978f" idquestao="075f2543-ded3-4702-b86f-c77154a28142" correta="false" texto="Jean-Jacques Rousseau"/>
+				<opcao id="8ec6523d-5094-4b0f-9b73-4b874d5bdc3c" idquestao="075f2543-ded3-4702-b86f-c77154a28142" correta="false" texto="Immanuel Kant"/>
+				<opcao id="4d71ef93-641c-4d89-b1aa-ebbb00ee98cf" idquestao="075f2543-ded3-4702-b86f-c77154a28142" correta="false" texto="Thomas Morus"/>
+			</questao>
+			<questao id="034b011a-4128-496b-8983-2d7a1990162c" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="De acordo com John Locke, qual é a principal função do Estado dentro do contrato social?" justificativa="Para Locke, o Estado serve para proteger os direitos naturais, como a vida, a liberdade e a propriedade.">
+				<opcao id="5dd2679f-fa61-493c-90d7-d1fbf0f80bc0" idquestao="034b011a-4128-496b-8983-2d7a1990162c" correta="true" texto="Proteger os direitos naturais dos indivíduos"/>
+				<opcao id="0d4aacc7-93a0-4f5d-a7eb-9582ef6cf9be" idquestao="034b011a-4128-496b-8983-2d7a1990162c" correta="false" texto="Controlar a economia"/>
+				<opcao id="3c4c4084-6bd9-4349-a25a-d0dd53d22596" idquestao="034b011a-4128-496b-8983-2d7a1990162c" correta="false" texto="Eliminar a desigualdade"/>
+				<opcao id="96c082e9-9810-4970-9bc7-ae365dea5bc9" idquestao="034b011a-4128-496b-8983-2d7a1990162c" correta="false" texto="Impor a vontade geral"/>
+				<opcao id="2f8f50ba-d1a6-4a91-8f24-47b2532e858a" idquestao="034b011a-4128-496b-8983-2d7a1990162c" correta="false" texto="Concentrar o poder no soberano"/>
+			</questao>
+			<questao id="35040087-fb9d-4ce9-b798-d7088426f9b5" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="Segundo Rousseau, o que corrompe o ser humano e gera desigualdade social?" justificativa="Rousseau afirmava que o homem nasce bom e é corrompido pela sociedade, especialmente com o surgimento da propriedade privada.">
+				<opcao id="907256a2-cdd0-4455-b652-b73da5a3096a" idquestao="35040087-fb9d-4ce9-b798-d7088426f9b5" correta="true" texto="A propriedade privada"/>
+				<opcao id="5a272588-48cb-4ec6-9597-75f67421752c" idquestao="35040087-fb9d-4ce9-b798-d7088426f9b5" correta="false" texto="A religião"/>
+				<opcao id="9cb675bd-c1eb-4cd6-ab55-58acbe1554d6" idquestao="35040087-fb9d-4ce9-b798-d7088426f9b5" correta="false" texto="O comércio"/>
+				<opcao id="3f94bf0b-fffc-42f6-84f6-dd146e87891b" idquestao="35040087-fb9d-4ce9-b798-d7088426f9b5" correta="false" texto="A linguagem"/>
+				<opcao id="160a3ecf-13b5-4529-9f4e-a72e3c7ecd48" idquestao="35040087-fb9d-4ce9-b798-d7088426f9b5" correta="false" texto="O governo"/>
+			</questao>
+			<questao id="f6e93e82-fe33-4261-8baf-06872dcc707d" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="Qual é a diferença entre o contrato social proposto por Hobbes e o de Rousseau?" justificativa="Enquanto Hobbes defendia um poder absoluto para garantir a ordem, Rousseau propunha um governo baseado na vontade geral e participação popular.">
+				<opcao id="1cfa99c5-77a3-41c8-ac5f-8afa92e938a6" idquestao="f6e93e82-fe33-4261-8baf-06872dcc707d" correta="true" texto="Hobbes defendia poder absoluto, Rousseau defendia participação popular"/>
+				<opcao id="09b4aa1f-1d1d-4179-9068-f9a6661dd038" idquestao="f6e93e82-fe33-4261-8baf-06872dcc707d" correta="false" texto="Ambos defendiam o absolutismo"/>
+				<opcao id="99387713-bf9a-4f0f-ad3c-ac84c154b77f" idquestao="f6e93e82-fe33-4261-8baf-06872dcc707d" correta="false" texto="Hobbes era contra o governo, Rousseau a favor"/>
+				<opcao id="693e5ae4-e3b4-4e34-8b37-c92a9b15142b" idquestao="f6e93e82-fe33-4261-8baf-06872dcc707d" correta="false" texto="Rousseau acreditava em anarquia"/>
+				<opcao id="d3a51a48-74a2-46e8-bf06-62b2851ffa59" idquestao="f6e93e82-fe33-4261-8baf-06872dcc707d" correta="false" texto="Hobbes queria democracia direta"/>
+			</questao>
+			<questao id="dfc887a9-2a85-4139-af3d-b8aae0fd91da" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="No pensamento de Locke, o que justifica a criação de um governo civil?" justificativa="A insegurança quanto à proteção dos direitos naturais, mesmo em um estado pacífico, motivava a criação do governo.">
+				<opcao id="0be2b3c4-bbfa-4f56-80e6-0636895d26ab" idquestao="dfc887a9-2a85-4139-af3d-b8aae0fd91da" correta="true" texto="A insegurança na proteção dos direitos naturais"/>
+				<opcao id="58c49d22-436a-4f2a-afbf-33ef8bdea9d4" idquestao="dfc887a9-2a85-4139-af3d-b8aae0fd91da" correta="false" texto="A maldade inata do ser humano"/>
+				<opcao id="5eaf86a6-0ad2-4145-8bb6-559e00c3a478" idquestao="dfc887a9-2a85-4139-af3d-b8aae0fd91da" correta="false" texto="A vontade de dominar outros povos"/>
+				<opcao id="ab89230c-bc69-4ff8-ac17-12080ed1fe27" idquestao="dfc887a9-2a85-4139-af3d-b8aae0fd91da" correta="false" texto="A busca pela igualdade absoluta"/>
+				<opcao id="bef17788-7ab2-4515-b2ff-5e0312ab56dd" idquestao="dfc887a9-2a85-4139-af3d-b8aae0fd91da" correta="false" texto="A necessidade de centralizar o poder"/>
+			</questao>
+			<questao id="d420a3f1-3621-49c5-bae0-25d7d25889c1" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="Para Rousseau, quando um cidadão está verdadeiramente livre?" justificativa="Segundo Rousseau, a liberdade real ocorre quando todos obedecem a leis que foram criadas por todos.">
+				<opcao id="32986c42-3884-49fa-be76-66cb64bc2462" idquestao="d420a3f1-3621-49c5-bae0-25d7d25889c1" correta="true" texto="Quando obedece às leis que ele mesmo ajudou a criar"/>
+				<opcao id="1eca5a44-7c03-498e-8fec-78b8f9f30748" idquestao="d420a3f1-3621-49c5-bae0-25d7d25889c1" correta="false" texto="Quando pode fazer o que quiser"/>
+				<opcao id="55bb38b1-e2a1-4a21-a795-58dc91d9788c" idquestao="d420a3f1-3621-49c5-bae0-25d7d25889c1" correta="false" texto="Quando vive isolado"/>
+				<opcao id="808efd8a-19a0-4928-a84b-0b1bc76549a7" idquestao="d420a3f1-3621-49c5-bae0-25d7d25889c1" correta="false" texto="Quando não há governo"/>
+				<opcao id="0b9fcd66-782b-4e62-952a-2c02782dff5a" idquestao="d420a3f1-3621-49c5-bae0-25d7d25889c1" correta="false" texto="Quando não possui propriedades"/>
+			</questao>
+			<questao id="829dc587-4088-4432-b75f-a60f34286a42" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="Segundo John Locke, qual é a principal finalidade do pacto social?" justificativa="Locke entendia que o principal objetivo do pacto social era preservar a propriedade, termo que abrange vida, liberdade e bens.">
+				<opcao id="b33950ac-803e-4f30-971c-2280d137019e" idquestao="829dc587-4088-4432-b75f-a60f34286a42" correta="true" texto="Preservar a propriedade, incluindo vida, liberdade e bens."/>
+				<opcao id="4cd07996-b861-4c34-a56c-bb392e19ff7e" idquestao="829dc587-4088-4432-b75f-a60f34286a42" correta="false" texto="Garantir o direito à liberdade irrestrita."/>
+				<opcao id="706bf8d6-52f1-4f7d-97d7-a3da62daa5df" idquestao="829dc587-4088-4432-b75f-a60f34286a42" correta="false" texto="Manter a sociedade sob domínio divino."/>
+				<opcao id="1bfe08a5-0e17-4dd4-a3f9-034ff3cc6e6c" idquestao="829dc587-4088-4432-b75f-a60f34286a42" correta="false" texto="Submeter os indivíduos a um soberano absoluto."/>
+			</questao>
+			<questao id="92f785df-cda7-4765-99c5-81d901eb6abe" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="Qual autor afirmou que, no estado de natureza, o homem é 'o lobo do homem'?" justificativa="Hobbes descreveu o estado de natureza como um estado de guerra, onde o homem é o lobo do homem ('homo homini lupus').">
+				<opcao id="85e2dcd7-d429-4655-b692-d0707a0a54b0" idquestao="92f785df-cda7-4765-99c5-81d901eb6abe" correta="true" texto="Thomas Hobbes."/>
+				<opcao id="7e82883f-90b8-4559-96c2-197da54d7346" idquestao="92f785df-cda7-4765-99c5-81d901eb6abe" correta="false" texto="Jean-Jacques Rousseau."/>
+				<opcao id="5e13d160-ce64-4288-b1b3-512e16accbfd" idquestao="92f785df-cda7-4765-99c5-81d901eb6abe" correta="false" texto="John Locke."/>
+				<opcao id="be935d09-710b-47f4-90ec-7e635adb625a" idquestao="92f785df-cda7-4765-99c5-81d901eb6abe" correta="false" texto="Platão."/>
+			</questao>
+			<questao id="926ee1fb-62c9-4347-8361-bd6607ef1d1d" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="Qual conceito Rousseau associava ao surgimento da desigualdade entre os homens?" justificativa="Rousseau afirmava que a desigualdade surgiu com a noção de propriedade privada: 'isto é meu'.">
+				<opcao id="1f72d6f0-c6c8-439c-9d6c-b8ed71facf8d" idquestao="926ee1fb-62c9-4347-8361-bd6607ef1d1d" correta="true" texto="A propriedade privada."/>
+				<opcao id="f0b59d66-f30e-48a1-91c8-32cddadc1761" idquestao="926ee1fb-62c9-4347-8361-bd6607ef1d1d" correta="false" texto="A criação do dinheiro."/>
+				<opcao id="016c5a42-8649-4970-9d7b-e8cee3bbccf0" idquestao="926ee1fb-62c9-4347-8361-bd6607ef1d1d" correta="false" texto="A religião."/>
+				<opcao id="80adcbdf-de9f-41b1-bb95-cb84bb324855" idquestao="926ee1fb-62c9-4347-8361-bd6607ef1d1d" correta="false" texto="A linguagem."/>
+			</questao>
+			<questao id="4dc14c3a-5136-4d45-9038-6213a7c40643" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="Hobbes acreditava que o estado civil deveria ser instituído com que objetivo?" justificativa="Para Hobbes, o Estado civil surge para garantir a paz e a ordem, evitando o caos do estado natural.">
+				<opcao id="43246f67-4b8d-4e40-a1e4-b21ad81a1664" idquestao="4dc14c3a-5136-4d45-9038-6213a7c40643" correta="true" texto="Assegurar a paz e evitar a guerra de todos contra todos."/>
+				<opcao id="8e353c23-e666-4f19-915f-633bc5d68de9" idquestao="4dc14c3a-5136-4d45-9038-6213a7c40643" correta="false" texto="Proteger a religião e a tradição."/>
+				<opcao id="403b31bf-5f6e-4182-a9a8-0eab06ab4d8c" idquestao="4dc14c3a-5136-4d45-9038-6213a7c40643" correta="false" texto="Conservar a liberdade natural."/>
+				<opcao id="1c72c400-054d-4dfa-9c54-89faae406a22" idquestao="4dc14c3a-5136-4d45-9038-6213a7c40643" correta="false" texto="Eliminar a propriedade privada."/>
+			</questao>
+			<questao id="ec69f171-9f3c-4084-a701-e36b05c699d5" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="Qual autor via o homem natural como um 'bom selvagem'?" justificativa="Rousseau descrevia o homem natural como livre, igual e pacífico, corrompido apenas pela sociedade.">
+				<opcao id="3b70b751-9d3d-4fb7-b128-f635b52a5e53" idquestao="ec69f171-9f3c-4084-a701-e36b05c699d5" correta="true" texto="Rousseau."/>
+				<opcao id="017350bc-4920-434e-817b-43c889348aba" idquestao="ec69f171-9f3c-4084-a701-e36b05c699d5" correta="false" texto="Hobbes."/>
+				<opcao id="9780ef65-ff37-4328-8777-4d86682024d3" idquestao="ec69f171-9f3c-4084-a701-e36b05c699d5" correta="false" texto="Locke."/>
+				<opcao id="133748ce-29b0-4bcf-a146-d451caba699f" idquestao="ec69f171-9f3c-4084-a701-e36b05c699d5" correta="false" texto="Maquiavel."/>
+			</questao>
+			<questao id="4e6851a5-0eb7-4575-a36e-8c85e00239a2" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="Para Locke, o estado de natureza era caracterizado por:" justificativa="Locke via o estado de natureza como pacífico, mas incerto, regido por leis naturais que todos deveriam respeitar.">
+				<opcao id="d900c2b2-a8d5-4603-8b5c-9a6e1a14e786" idquestao="4e6851a5-0eb7-4575-a36e-8c85e00239a2" correta="true" texto="Liberdade, igualdade e leis da natureza."/>
+				<opcao id="5b4c7233-161d-46b2-8a61-f31272aac8c1" idquestao="4e6851a5-0eb7-4575-a36e-8c85e00239a2" correta="false" texto="Violência constante."/>
+				<opcao id="503b7c12-7221-4f62-aaee-d195cbd5e6d0" idquestao="4e6851a5-0eb7-4575-a36e-8c85e00239a2" correta="false" texto="Ausência de regras morais."/>
+				<opcao id="86020a1e-eb99-4a67-bf88-703763ab44f9" idquestao="4e6851a5-0eb7-4575-a36e-8c85e00239a2" correta="false" texto="Submissão ao soberano."/>
+			</questao>
+			<questao id="77b8a371-b60b-4693-a4f5-56fdfb506ead" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="Qual é a visão de Hobbes sobre a liberdade no estado de natureza?" justificativa="Hobbes via a liberdade natural como fonte de conflito, já que todos buscavam seus próprios interesses sem limites.">
+				<opcao id="1564bb71-9f82-4bbf-9fd6-15b8458db8ef" idquestao="77b8a371-b60b-4693-a4f5-56fdfb506ead" correta="true" texto="Liberdade que leva ao caos e à guerra."/>
+				<opcao id="e321973f-641d-424c-bb83-5b7bcee99a78" idquestao="77b8a371-b60b-4693-a4f5-56fdfb506ead" correta="false" texto="Liberdade plena e segura."/>
+				<opcao id="333892ef-5a26-4ab3-9973-b2e176f5d48a" idquestao="77b8a371-b60b-4693-a4f5-56fdfb506ead" correta="false" texto="Liberdade limitada pela moral religiosa."/>
+				<opcao id="c97370af-fa1e-45dd-97f4-4a88ffa63f9b" idquestao="77b8a371-b60b-4693-a4f5-56fdfb506ead" correta="false" texto="Liberdade restrita aos mais fortes."/>
+			</questao>
+			<questao id="ce9bbd19-94e3-427d-af83-f08379c3b9b6" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="O que é o contrato social para os contratualistas?" justificativa="O contrato social é um acordo entre indivíduos para instituir regras e garantir a convivência pacífica em sociedade.">
+				<opcao id="688b77e0-da0a-4256-8dd6-9bf84eb036e8" idquestao="ce9bbd19-94e3-427d-af83-f08379c3b9b6" correta="true" texto="Um pacto entre os homens para fundar uma sociedade civil."/>
+				<opcao id="b60042a7-7f7a-4006-bb08-e47f0a5eca9a" idquestao="ce9bbd19-94e3-427d-af83-f08379c3b9b6" correta="false" texto="Um acordo entre o Estado e a Igreja."/>
+				<opcao id="70ab7a06-11d1-402d-961f-f45bd12ae79c" idquestao="ce9bbd19-94e3-427d-af83-f08379c3b9b6" correta="false" texto="Uma submissão à autoridade divina."/>
+				<opcao id="310f70cb-8dd5-4499-9819-3239954edc8b" idquestao="ce9bbd19-94e3-427d-af83-f08379c3b9b6" correta="false" texto="Um tratado internacional."/>
+			</questao>
+			<questao id="df232d12-5172-479b-b62b-838752abffa4" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="O que o conceito de 'estado de natureza' representa na filosofia contratualista?" justificativa="O estado de natureza é uma construção teórica que representa uma condição anterior à sociedade organizada, e não um período histórico real.">
 				<opcao id="1ef34076-287a-4d0c-9d3c-92ae8fe4a0bd" idquestao="df232d12-5172-479b-b62b-838752abffa4" correta="true" texto="Uma hipótese filosófica sobre como os humanos viviam antes da sociedade organizada."/>
 				<opcao id="88909e3d-fc54-4f87-9fa6-0306a4f512f9" idquestao="df232d12-5172-479b-b62b-838752abffa4" correta="false" texto="Um período histórico ocorrido na Idade Média."/>
 				<opcao id="b2464217-5431-4794-8b30-279737c3e50c" idquestao="df232d12-5172-479b-b62b-838752abffa4" correta="false" texto="O momento em que surgiram as primeiras leis civis."/>
 				<opcao id="038e9128-f490-44c6-b825-5ec829e582ad" idquestao="df232d12-5172-479b-b62b-838752abffa4" correta="false" texto="Uma etapa da Revolução Francesa segundo Rousseau."/>
 			</questao>
-			<questao id="9a3a6e78-a2d8-4cea-8b46-4b29b4f56aad" idaula="20a09a51-6775-4651-bc42-8bb387175f50" enunciado="Qual é o ponto de vista de Rousseau sobre a propriedade privada no estado de sociedade?" justificativa="Rousseau considera que a propriedade privada é o fator que corrompe o ser humano e gera desigualdade social.">
+			<questao id="9a3a6e78-a2d8-4cea-8b46-4b29b4f56aad" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="Qual é o ponto de vista de Rousseau sobre a propriedade privada no estado de sociedade?" justificativa="Rousseau considera que a propriedade privada é o fator que corrompe o ser humano e gera desigualdade social.">
 				<opcao id="763df9a0-9f9a-423b-9327-b285dadb1043" idquestao="9a3a6e78-a2d8-4cea-8b46-4b29b4f56aad" correta="true" texto="É a origem das desigualdades e da corrupção social."/>
 				<opcao id="0c09c3a6-ef91-4482-8125-f4e39d507d02" idquestao="9a3a6e78-a2d8-4cea-8b46-4b29b4f56aad" correta="false" texto="É um direito natural dado pela natureza."/>
 				<opcao id="f04cd00c-2161-4c9b-94ee-e8280753f73a" idquestao="9a3a6e78-a2d8-4cea-8b46-4b29b4f56aad" correta="false" texto="É o principal elemento de liberdade individual."/>
 				<opcao id="119f14be-6161-4cef-8a6d-fcdc8c43e550" idquestao="9a3a6e78-a2d8-4cea-8b46-4b29b4f56aad" correta="false" texto="É necessária para garantir o contrato social."/>
 			</questao>
-			<questao id="2d9caadc-372a-4f35-8343-a979ea603348" idaula="20a09a51-6775-4651-bc42-8bb387175f50" enunciado="Qual autor contratualista defende que o estado deve interferir o mínimo possível na vida das pessoas?" justificativa="John Locke defende um Estado liberal, limitado, que apenas proteja os direitos naturais como vida, liberdade e propriedade.">
+			<questao id="2d9caadc-372a-4f35-8343-a979ea603348" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="Qual autor contratualista defende que o estado deve interferir o mínimo possível na vida das pessoas?" justificativa="John Locke defende um Estado liberal, limitado, que apenas proteja os direitos naturais como vida, liberdade e propriedade.">
 				<opcao id="bec79485-f972-47a6-b919-e133c8b5784a" idquestao="2d9caadc-372a-4f35-8343-a979ea603348" correta="true" texto="John Locke."/>
 				<opcao id="1e2c62a9-dc1e-43ee-a03a-223e84db1f9d" idquestao="2d9caadc-372a-4f35-8343-a979ea603348" correta="false" texto="Thomas Hobbes."/>
 				<opcao id="1db7e561-6b4b-41c4-aacb-807b322f4feb" idquestao="2d9caadc-372a-4f35-8343-a979ea603348" correta="false" texto="Jean-Jacques Rousseau."/>
 				<opcao id="929e2c81-0330-41f0-a2a2-036ea36feac3" idquestao="2d9caadc-372a-4f35-8343-a979ea603348" correta="false" texto="Karl Marx."/>
 			</questao>
-			<questao id="c8123768-d9b2-4509-b09f-03b26717ac74" idaula="20a09a51-6775-4651-bc42-8bb387175f50" enunciado="Por que o conceito de liberdade pode gerar confusão ao estudar os contratualistas?" justificativa="Cada autor entende 'liberdade' de maneira diferente: Hobbes como liberdade perigosa, Locke como autonomia com limites, e Rousseau como pureza natural.">
+			<questao id="c8123768-d9b2-4509-b09f-03b26717ac74" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="Por que o conceito de liberdade pode gerar confusão ao estudar os contratualistas?" justificativa="Cada autor entende 'liberdade' de maneira diferente: Hobbes como liberdade perigosa, Locke como autonomia com limites, e Rousseau como pureza natural.">
 				<opcao id="1d53c557-651a-48ee-bbaf-4301b9ecc2ad" idquestao="c8123768-d9b2-4509-b09f-03b26717ac74" correta="true" texto="Porque cada autor entende liberdade de forma distinta, conforme sua visão de natureza humana."/>
 				<opcao id="85ff4132-f70f-4755-8803-31e407ac3a89" idquestao="c8123768-d9b2-4509-b09f-03b26717ac74" correta="false" texto="Porque todos os contratualistas rejeitam a liberdade individual."/>
 				<opcao id="badd77d9-2f86-43d8-b1d6-fa55e55eb8d4" idquestao="c8123768-d9b2-4509-b09f-03b26717ac74" correta="false" texto="Porque liberdade era ilegal nos estados absolutistas."/>
 				<opcao id="ea72c7c3-3e36-4e2c-9a3d-ad43133341c8" idquestao="c8123768-d9b2-4509-b09f-03b26717ac74" correta="false" texto="Porque liberdade é um conceito exclusivamente religioso."/>
 			</questao>
-			<questao id="bacaa79f-4fee-4277-b668-922769ba0c4e" idaula="20a09a51-6775-4651-bc42-8bb387175f50" enunciado="Qual é o erro comum ao comparar as ideias de Hobbes, Locke e Rousseau sobre o contrato social?" justificativa="É incorreto afirmar que todos defendem o mesmo tipo de Estado, pois suas propostas variam do autoritarismo à democracia direta.">
+			<questao id="bacaa79f-4fee-4277-b668-922769ba0c4e" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="Qual é o erro comum ao comparar as ideias de Hobbes, Locke e Rousseau sobre o contrato social?" justificativa="É incorreto afirmar que todos defendem o mesmo tipo de Estado, pois suas propostas variam do autoritarismo à democracia direta.">
 				<opcao id="bb534e18-6ea9-4873-80cf-8d0d930221db" idquestao="bacaa79f-4fee-4277-b668-922769ba0c4e" correta="true" texto="Acreditar que todos defendem o mesmo modelo de Estado."/>
 				<opcao id="267be8b9-4791-4424-8e87-4d9ff330b8f1" idquestao="bacaa79f-4fee-4277-b668-922769ba0c4e" correta="false" texto="Dizer que nenhum deles acredita em liberdade."/>
 				<opcao id="35c8e5c9-a57c-4c2e-bed7-8c515085e523" idquestao="bacaa79f-4fee-4277-b668-922769ba0c4e" correta="false" texto="Supor que todos eram contra a propriedade privada."/>
 				<opcao id="5b876f9b-ceb2-4b29-8a15-f5ead262eeeb" idquestao="bacaa79f-4fee-4277-b668-922769ba0c4e" correta="false" texto="Afirmar que todos viveram no mesmo século."/>
 			</questao>
-			<questao id="9a7c626d-16bf-4d8f-9e10-78040cb78181" idaula="20a09a51-6775-4651-bc42-8bb387175f50" enunciado="Qual filósofo contratualista afirmou que 'o homem é o lobo do homem'?" justificativa="Thomas Hobbes acreditava que, em estado de natureza, os homens tendem ao conflito e à violência.">
-				<opcao id="ee997ffd-6d82-4408-a88c-d40e507af5d8" idquestao="9a7c626d-16bf-4d8f-9e10-78040cb78181" correta="true" texto="Thomas Hobbes."/>
-				<opcao id="fb01c72c-d8e4-4f4e-b0aa-52f758c2ed45" idquestao="9a7c626d-16bf-4d8f-9e10-78040cb78181" correta="false" texto="John Locke."/>
-				<opcao id="341dbd1e-3895-4eaf-8e02-7cacd8fbbe1f" idquestao="9a7c626d-16bf-4d8f-9e10-78040cb78181" correta="false" texto="Jean-Jacques Rousseau."/>
-				<opcao id="67484551-006a-403b-97f7-af8dfa6116df" idquestao="9a7c626d-16bf-4d8f-9e10-78040cb78181" correta="false" texto="Aristóteles."/>
-			</questao>
-			<questao id="4f24e6f7-dc0a-426f-b656-df91da7f303a" idaula="20a09a51-6775-4651-bc42-8bb387175f50" enunciado="Para John Locke, qual é a principal função do Estado após o contrato social?" justificativa="Locke defendia um Estado liberal, com interferência mínima, voltado à garantia da vida, liberdade e propriedade.">
+			<questao id="4f24e6f7-dc0a-426f-b656-df91da7f303a" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="Para John Locke, qual é a principal função do Estado após o contrato social?" justificativa="Locke defendia um Estado liberal, com interferência mínima, voltado à garantia da vida, liberdade e propriedade.">
 				<opcao id="c043e3de-36ab-4841-b304-fdaa59c73159" idquestao="4f24e6f7-dc0a-426f-b656-df91da7f303a" correta="true" texto="Proteger os direitos naturais como vida, liberdade e propriedade."/>
 				<opcao id="5ec3ad55-5412-4c52-b341-b4f53706bbe6" idquestao="4f24e6f7-dc0a-426f-b656-df91da7f303a" correta="false" texto="Controlar todos os aspectos da vida social."/>
 				<opcao id="648a0149-f69f-4542-9609-8f957ef17806" idquestao="4f24e6f7-dc0a-426f-b656-df91da7f303a" correta="false" texto="Impor uma religião oficial à sociedade."/>
 				<opcao id="01438a19-0032-4a3e-b120-5ae720dc7adc" idquestao="4f24e6f7-dc0a-426f-b656-df91da7f303a" correta="false" texto="Garantir o poder absoluto ao soberano."/>
 			</questao>
-			<questao id="43e6f454-230a-4f05-aae9-e918ad7eeb8d" idaula="20a09a51-6775-4651-bc42-8bb387175f50" enunciado="Qual pensador via a sociedade como responsável pela corrupção do homem naturalmente bom?" justificativa="Rousseau acreditava que o homem nasce bom, mas é corrompido pela sociedade e pela propriedade privada.">
+			<questao id="43e6f454-230a-4f05-aae9-e918ad7eeb8d" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="Qual pensador via a sociedade como responsável pela corrupção do homem naturalmente bom?" justificativa="Rousseau acreditava que o homem nasce bom, mas é corrompido pela sociedade e pela propriedade privada.">
 				<opcao id="87217a86-822e-4b22-a27f-b9c6c2529330" idquestao="43e6f454-230a-4f05-aae9-e918ad7eeb8d" correta="true" texto="Jean-Jacques Rousseau."/>
 				<opcao id="c556179c-ac81-4c3d-b14d-d525499fa072" idquestao="43e6f454-230a-4f05-aae9-e918ad7eeb8d" correta="false" texto="Thomas Hobbes."/>
 				<opcao id="fd80702f-c219-46c8-8fcf-e0756d921c38" idquestao="43e6f454-230a-4f05-aae9-e918ad7eeb8d" correta="false" texto="John Locke."/>
 				<opcao id="12c8ee15-a88f-45ce-85b3-67203f009a3d" idquestao="43e6f454-230a-4f05-aae9-e918ad7eeb8d" correta="false" texto="Nicolau Maquiavel."/>
 			</questao>
-			<questao id="ded11e6b-35af-4e60-b9cc-68f5330da31a" idaula="20a09a51-6775-4651-bc42-8bb387175f50" enunciado="Segundo Hobbes, qual é a motivação principal para os homens criarem o contrato social?" justificativa="Para Hobbes, os homens abandonam o estado de natureza por medo da morte violenta e busca por segurança.">
+			<questao id="ded11e6b-35af-4e60-b9cc-68f5330da31a" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="Segundo Hobbes, qual é a motivação principal para os homens criarem o contrato social?" justificativa="Para Hobbes, os homens abandonam o estado de natureza por medo da morte violenta e busca por segurança.">
 				<opcao id="8ee65d94-5084-4681-8c69-4cb021db6997" idquestao="ded11e6b-35af-4e60-b9cc-68f5330da31a" correta="true" texto="Evitar a violência e garantir segurança por meio das leis."/>
 				<opcao id="25e6c89b-6249-4a87-9a6e-06a13fc84caf" idquestao="ded11e6b-35af-4e60-b9cc-68f5330da31a" correta="false" texto="Obter propriedade privada."/>
 				<opcao id="bc4ba365-bf60-4873-b657-5fc94536a93f" idquestao="ded11e6b-35af-4e60-b9cc-68f5330da31a" correta="false" texto="Fundar uma democracia direta."/>
 				<opcao id="a08e19c3-d315-4214-aa26-d9284683e48d" idquestao="ded11e6b-35af-4e60-b9cc-68f5330da31a" correta="false" texto="Seguir as tradições religiosas."/>
 			</questao>
-			<questao id="94ed74f9-684e-4bee-ae52-a45cc01e1edb" idaula="20a09a51-6775-4651-bc42-8bb387175f50" enunciado="De acordo com Rousseau, o contrato social deve..." justificativa="Para Rousseau, o contrato social deve garantir a liberdade civil e expressar a vontade geral do povo.">
+			<questao id="94ed74f9-684e-4bee-ae52-a45cc01e1edb" idaula="9c22f419-4dbf-4f91-bc7d-2d0cd3f33992" enunciado="De acordo com Rousseau, o contrato social deve..." justificativa="Para Rousseau, o contrato social deve garantir a liberdade civil e expressar a vontade geral do povo.">
 				<opcao id="aa24e3bb-85cb-49d8-ae8e-cc70dc446994" idquestao="94ed74f9-684e-4bee-ae52-a45cc01e1edb" correta="true" texto="Expressar a vontade geral e garantir liberdade civil."/>
 				<opcao id="d22c5a5a-613b-4782-af2a-b18071aed3c7" idquestao="94ed74f9-684e-4bee-ae52-a45cc01e1edb" correta="false" texto="Impor a autoridade do rei sobre o povo."/>
 				<opcao id="83776d60-9c2f-453b-b03d-357c2247f5b4" idquestao="94ed74f9-684e-4bee-ae52-a45cc01e1edb" correta="false" texto="Distribuir terras de forma igualitária entre os cidadãos."/>
 				<opcao id="89b7af9a-7ed4-4c9e-983f-ed32357ebaae" idquestao="94ed74f9-684e-4bee-ae52-a45cc01e1edb" correta="false" texto="Manter a liberdade natural sem restrições."/>
 			</questao>
 		</aula>
-		<aula id="47f7a7a6-ffac-4eb4-9f3a-d23f53fae69b" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Unidade 1 - B) Cultura, Multiculturalismo, Etnocentrismo e Relativismo Cultural">
+		<aula id="47f7a7a6-ffac-4eb4-9f3a-d23f53fae69b" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Aula 02 - Cultura, Multiculturalismo, Etnocentrismo e Relativismo Cultural">
 			<questao id="b87a128a-3f4a-4870-9453-893e47efa45f" idaula="47f7a7a6-ffac-4eb4-9f3a-d23f53fae69b" enunciado="O que é cultura, segundo a perspectiva antropológica apresentada por Roque Laraia?" justificativa="Cultura, segundo a perspectiva antropológica de Laraia, engloba um complexo de hábitos e saberes adquiridos socialmente, não se limitando a arte ou heranças biológicas.">
 				<opcao id="1f27a04f-9f77-4387-82d7-77567c52674a" idquestao="b87a128a-3f4a-4870-9453-893e47efa45f" correta="false" texto="É o comportamento biológico herdado geneticamente dos antepassados."/>
 				<opcao id="61bba7cc-b258-4151-9399-df0e3b3cdcea" idquestao="b87a128a-3f4a-4870-9453-893e47efa45f" correta="false" texto="É o modo como os animais se organizam em bandos ou matilhas."/>
@@ -124,7 +208,7 @@
 				<opcao id="797bf977-5f39-4691-835e-24ecc630715e" idquestao="c65606b4-8e48-4d72-bf4f-85c0ab8a1acf" correta="false" texto="A teoria de que a linguagem molda a forma como uma cultura pensa e age."/>
 			</questao>
 		</aula>
-		<aula id="d5e08a07-a735-4c0c-bdc6-2f58246bb46c" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Unidade 1 - C) Subjetividade, Identidade e Construção Cultural do Corpo">
+		<aula id="d5e08a07-a735-4c0c-bdc6-2f58246bb46c" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Aula 03 - Subjetividade, Identidade e Construção Cultural do Corpo">
 			<questao id="10fd7e89-c66b-44b3-9f84-cf02ec3fc704" idaula="d5e08a07-a735-4c0c-bdc6-2f58246bb46c" enunciado="O que é subjetividade, segundo a perspectiva socioantropológica?" justificativa="Subjetividade envolve a construção do sujeito por meio de suas relações sociais e experiências individuais, não se trata de processos biológicos ou instintivos.">
 				<opcao id="d186cb8a-35d3-449f-a86c-b3e48fbc0a95" idquestao="10fd7e89-c66b-44b3-9f84-cf02ec3fc704" correta="false" texto="É a influência do inconsciente coletivo sobre o comportamento individual."/>
 				<opcao id="ae9e84c4-0932-44df-a19d-5b01a08e5f11" idquestao="10fd7e89-c66b-44b3-9f84-cf02ec3fc704" correta="false" texto="É a forma como o indivíduo responde mecanicamente aos estímulos sociais."/>
@@ -162,7 +246,7 @@
 				<opcao id="e53407da-f619-4d15-b90a-6640d87d3b7a" idquestao="3f74365c-f04a-4248-a018-24f2f66226f5" correta="true" texto="Técnicas de postura, padrões de beleza e maneiras de saudar presentes em diferentes culturas."/>
 			</questao>
 		</aula>
-		<aula id="47ee66b5-d991-484a-9c55-7993dbc61854" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Unidade 2 - A) Teoria de Funcionalismo de Émile Durkheim">
+		<aula id="47ee66b5-d991-484a-9c55-7993dbc61854" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Aula 04 - Teoria de Funcionalismo de Émile Durkheim">
 			<questao id="d91580e7-5850-459b-aebc-886fa43ba116" idaula="47ee66b5-d991-484a-9c55-7993dbc61854" enunciado="Qual foi o contexto histórico que favoreceu o surgimento da Sociologia?" justificativa="A Sociologia surgiu no contexto de grandes transformações sociais causadas pelas Revoluções Francesa e Industrial.">
 				<opcao id="83bddf97-f4ac-499a-88fa-06fda9d8b94b" idquestao="d91580e7-5850-459b-aebc-886fa43ba116" correta="false" texto="A Idade Média e as Cruzadas, que consolidaram o poder da Igreja."/>
 				<opcao id="deb3c41a-ff3a-4593-9fd0-b45f8cbc517f" idquestao="d91580e7-5850-459b-aebc-886fa43ba116" correta="false" texto="A colonização da América e a expansão marítima europeia."/>
@@ -218,7 +302,7 @@
 				<opcao id="4be59e8d-bb5e-4933-9404-39cd6bbb9d62" idquestao="4a1c031a-d268-4517-bd53-4d58597256ad" correta="true" texto="É a ideia de que a sociedade funciona como um sistema com partes interdependentes que mantêm a ordem social."/>
 			</questao>
 		</aula>
-		<aula id="3e8e6927-4852-47c9-a133-55c55d22335a" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Unidade 2 - B) Teoria Compreensiva de Max Weber">
+		<aula id="3e8e6927-4852-47c9-a133-55c55d22335a" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Aula 05 - Teoria Compreensiva de Max Weber">
 			<questao id="251df958-bd1d-4b67-9d6e-8444697df620" idaula="3e8e6927-4852-47c9-a133-55c55d22335a" enunciado="Qual é a principal proposta do livro 'A Ética Protestante e o Espírito do Capitalismo'?" justificativa="Weber argumenta que certos valores protestantes favoreceram o surgimento de uma mentalidade propícia ao capitalismo moderno.">
 				<opcao id="fd6b926b-d517-45e2-97ba-4bab07ed3c61" idquestao="251df958-bd1d-4b67-9d6e-8444697df620" correta="false" texto="Defender a superioridade do socialismo sobre o capitalismo."/>
 				<opcao id="7a7a5c48-f2c2-4982-86a1-790288b33adf" idquestao="251df958-bd1d-4b67-9d6e-8444697df620" correta="false" texto="Criticar a religião como entrave ao progresso econômico."/>
@@ -292,7 +376,7 @@
 				<opcao id="5d03ea05-cd79-4002-9ccd-196ccfb3068e" idquestao="439ece52-d0f4-4979-9eed-7e4d681f014d" correta="true" texto="A sociologia compreensiva busca entender o sentido subjetivo das ações humanas."/>
 			</questao>
 		</aula>
-		<aula id="8841f3b5-d655-4620-89e1-7232c7dad76c" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Unidade 2 - C) Teoria Materialista de Karl Marx">
+		<aula id="8841f3b5-d655-4620-89e1-7232c7dad76c" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Aula 06 - Teoria Materialista de Karl Marx">
 			<questao id="ba775234-d289-407d-abe6-113870aa8aca" idaula="8841f3b5-d655-4620-89e1-7232c7dad76c" enunciado="Segundo Karl Marx, qual é a base que sustenta as instituições sociais como religião, arte e política?" justificativa="Para Marx, a economia determina as outras esferas da vida social.">
 				<opcao id="1bb0393a-802c-4c3c-9abd-060862f9a9d2" idquestao="ba775234-d289-407d-abe6-113870aa8aca" correta="false" texto="As crenças religiosas predominantes."/>
 				<opcao id="0ea38d3e-2a6e-44a2-af0c-67e776f595dc" idquestao="ba775234-d289-407d-abe6-113870aa8aca" correta="false" texto="A tradição filosófica dos povos."/>
@@ -342,7 +426,45 @@
 				<opcao id="a07348b1-b0e8-403d-852f-20b89950102d" idquestao="1d6324f8-8815-4fed-aa99-f9c2a8ff5c5e" correta="true" texto="Que os conflitos entre classes sociais moldam o desenvolvimento histórico."/>
 			</questao>
 		</aula>
-		<aula id="93b7f020-3cb9-4124-a32f-34efe4457c05" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Unidade 3 - A) Os Evolucionistas: Darwin, Spencer e Galton">
+		<aula id="9ac38b71-fa59-4c83-abf6-1f833fe34b3a" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Aula 07 - Crítico-Reprodutivista (Pierre Bourdieu)">
+			<questao id="f3394c20-2490-44be-a1f7-c3bf4c24b20f" idaula="9ac38b71-fa59-4c83-abf6-1f833fe34b3a" enunciado="O que significa 'capital cultural' segundo Pierre Bourdieu?" justificativa="O capital cultural inclui conhecimentos, hábitos, gostos e comportamentos valorizados pela escola e herdados da família.">
+				<opcao id="cfe92258-d2d1-4e6f-ab84-67eccb5b3b91" idquestao="f3394c20-2490-44be-a1f7-c3bf4c24b20f" correta="true" texto="Conjunto de conhecimentos e comportamentos valorizados pela escola, herdados da família."/>
+				<opcao id="0c2af394-54dc-4c63-a5f8-80d73b5e7b9d" idquestao="f3394c20-2490-44be-a1f7-c3bf4c24b20f" correta="false" texto="Patrimônio financeiro das famílias mais ricas."/>
+				<opcao id="4409374f-d6da-404f-8e4d-0625c7e36fbe" idquestao="f3394c20-2490-44be-a1f7-c3bf4c24b20f" correta="false" texto="A capacidade inata de aprender com facilidade."/>
+				<opcao id="2eea56ef-b342-47ad-b22b-76ec51c5f525" idquestao="f3394c20-2490-44be-a1f7-c3bf4c24b20f" correta="false" texto="O valor econômico dos livros e materiais escolares."/>
+			</questao>
+			<questao id="08820d7d-9b7c-4d74-bee3-97d36148cc8a" idaula="9ac38b71-fa59-4c83-abf6-1f833fe34b3a" enunciado="Qual é a principal crítica de Bourdieu à escola tradicional?" justificativa="Bourdieu critica a escola por reforçar as desigualdades sociais ao valorizar o capital cultural das classes dominantes.">
+				<opcao id="228c662d-7e2d-4c83-ba00-5b5bf57aef8e" idquestao="08820d7d-9b7c-4d74-bee3-97d36148cc8a" correta="true" texto="Ela contribui para manter as desigualdades sociais ao valorizar o capital cultural dominante."/>
+				<opcao id="c5f26728-b033-4125-bc55-390a5614aae4" idquestao="08820d7d-9b7c-4d74-bee3-97d36148cc8a" correta="false" texto="Ela ensina conteúdos ultrapassados da Idade Média."/>
+				<opcao id="6274f0b6-deee-40c4-8791-04098f9e875a" idquestao="08820d7d-9b7c-4d74-bee3-97d36148cc8a" correta="false" texto="Ela dá liberdade demais aos alunos."/>
+				<opcao id="f89ead10-d1f3-48e9-82b2-f1770cf49c1f" idquestao="08820d7d-9b7c-4d74-bee3-97d36148cc8a" correta="false" texto="Ela ignora completamente a cultura das elites."/>
+			</questao>
+			<questao id="59a00f8a-9975-4cb6-be58-8a7d722b78b1" idaula="9ac38b71-fa59-4c83-abf6-1f833fe34b3a" enunciado="O que é 'violência simbólica' na teoria de Bourdieu?" justificativa="É a imposição da cultura dominante como única legítima, desvalorizando outras formas culturais e culpando os alunos pelo fracasso.">
+				<opcao id="e27e8601-31fd-4207-831c-dd401638a4f1" idquestao="59a00f8a-9975-4cb6-be58-8a7d722b78b1" correta="true" texto="Imposição da cultura dominante como natural, desvalorizando outras culturas."/>
+				<opcao id="b4774508-448a-4b9d-92d0-3e76ffac2b2b" idquestao="59a00f8a-9975-4cb6-be58-8a7d722b78b1" correta="false" texto="Uso da força física para impor regras escolares."/>
+				<opcao id="bdd455be-9a92-49c2-9879-eabac3aa082b" idquestao="59a00f8a-9975-4cb6-be58-8a7d722b78b1" correta="false" texto="Manipulação emocional entre professores e alunos."/>
+				<opcao id="1aa568ef-002a-48cf-875d-6f3c798546f6" idquestao="59a00f8a-9975-4cb6-be58-8a7d722b78b1" correta="false" texto="Repressão policial no ambiente escolar."/>
+			</questao>
+			<questao id="dc53cbd2-236e-418f-8d3f-5b959b97102f" idaula="9ac38b71-fa59-4c83-abf6-1f833fe34b3a" enunciado="Por que Bourdieu critica a ideia de mérito escolar?" justificativa="Ele argumenta que o mérito ignora as vantagens sociais que certos alunos já possuem antes mesmo de entrar na escola.">
+				<opcao id="f79e9571-7064-474b-93a6-f685f9f559c0" idquestao="dc53cbd2-236e-418f-8d3f-5b959b97102f" correta="true" texto="Porque desconsidera as vantagens sociais prévias de certos alunos."/>
+				<opcao id="62aa3f70-d26d-4ea2-acef-68f6eccfb4da" idquestao="dc53cbd2-236e-418f-8d3f-5b959b97102f" correta="false" texto="Porque premia apenas os alunos com boas notas."/>
+				<opcao id="35ef94fb-8795-4089-9d10-c17a20f650a4" idquestao="dc53cbd2-236e-418f-8d3f-5b959b97102f" correta="false" texto="Porque não há avaliação justa na escola."/>
+				<opcao id="f6333482-df2c-41f3-911b-e8f62b322dd3" idquestao="dc53cbd2-236e-418f-8d3f-5b959b97102f" correta="false" texto="Porque desvaloriza o esforço individual dos alunos pobres."/>
+			</questao>
+			<questao id="025c7475-d8ee-4414-b6c7-4d7a07e569d7" idaula="9ac38b71-fa59-4c83-abf6-1f833fe34b3a" enunciado="Como a escola contribui para a reprodução social, segundo Bourdieu?" justificativa="A escola favorece os alunos que já possuem o capital cultural valorizado, mantendo as mesmas hierarquias sociais.">
+				<opcao id="bfb34491-321d-4311-ae42-182e988d8e1c" idquestao="025c7475-d8ee-4414-b6c7-4d7a07e569d7" correta="true" texto="Reforçando as desigualdades ao valorizar apenas o capital cultural dominante."/>
+				<opcao id="f3789ed1-d514-4036-8e5f-f0516c6f1d07" idquestao="025c7475-d8ee-4414-b6c7-4d7a07e569d7" correta="false" texto="Tornando todos os alunos iguais em conhecimento."/>
+				<opcao id="82d7c7c5-84f8-4892-b677-12577f5302b3" idquestao="025c7475-d8ee-4414-b6c7-4d7a07e569d7" correta="false" texto="Distribuindo igualmente recursos para todas as escolas."/>
+				<opcao id="54df06af-595e-41ee-82a0-309f44b995f1" idquestao="025c7475-d8ee-4414-b6c7-4d7a07e569d7" correta="false" texto="Oferecendo atividades físicas para todos os estudantes."/>
+			</questao>
+			<questao id="da4df933-dae6-4338-a2ad-aecf4febd3eb" idaula="9ac38b71-fa59-4c83-abf6-1f833fe34b3a" enunciado="O que seria necessário para que a escola combatesse as desigualdades sociais, segundo Bourdieu?" justificativa="A escola precisaria reconhecer e enfrentar os mecanismos de reprodução, mudando currículo, avaliação e práticas.">
+				<opcao id="a11b9e93-6052-4309-a757-769aa204fad4" idquestao="da4df933-dae6-4338-a2ad-aecf4febd3eb" correta="true" texto="Reconhecer os mecanismos de reprodução social e reformular suas práticas."/>
+				<opcao id="42848633-5c1d-46dd-886c-b0b5875aff01" idquestao="da4df933-dae6-4338-a2ad-aecf4febd3eb" correta="false" texto="Aumentar a rigidez nas avaliações e provas."/>
+				<opcao id="d862a2a0-443f-46eb-8b05-c0352efcab04" idquestao="da4df933-dae6-4338-a2ad-aecf4febd3eb" correta="false" texto="Reforçar os conteúdos das elites."/>
+				<opcao id="8c91c362-2d2b-48aa-a595-08d40b602f19" idquestao="da4df933-dae6-4338-a2ad-aecf4febd3eb" correta="false" texto="Ignorar as diferenças entre os alunos para tratar todos igualmente."/>
+			</questao>
+		</aula>
+		<aula id="93b7f020-3cb9-4124-a32f-34efe4457c05" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Aula 08 - Os Evolucionistas: Darwin, Spencer e Galton">
 			<questao id="5b66b446-61a9-428b-ac8e-f015d23bd2e6" idaula="93b7f020-3cb9-4124-a32f-34efe4457c05" enunciado="Qual é a principal contribuição de Charles Darwin para a biologia moderna?" justificativa="Darwin propôs que as espécies evoluem por meio da seleção natural, com base na adaptação e hereditariedade.">
 				<opcao id="8d448651-94f3-4e3c-af98-762ef21e4bd7" idquestao="5b66b446-61a9-428b-ac8e-f015d23bd2e6" correta="false" texto="A teoria da evolução universal."/>
 				<opcao id="2419bd50-ada8-4730-9815-1483410ae48a" idquestao="5b66b446-61a9-428b-ac8e-f015d23bd2e6" correta="false" texto="A fundação da psicologia diferencial."/>
@@ -392,7 +514,7 @@
 				<opcao id="d3d1fefc-fa73-4f76-bad8-06cd0c3148e7" idquestao="f31a23ac-e279-4ba6-bef8-5001cb86f219" correta="true" texto="Sua teoria foi usada para justificar racismo e hierarquias sociais."/>
 			</questao>
 		</aula>
-		<aula id="3f97a9e1-1cc2-496f-943c-030eac56558b" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Unidade 3 - B) Os Funcionalistas: Malinowski e Radcliffe-Brown">
+		<aula id="3f97a9e1-1cc2-496f-943c-030eac56558b" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Aula 09 - Os Funcionalistas: Malinowski e Radcliffe-Brown">
 			<questao id="0926f7fc-1a47-428d-8f00-bb682fd52cc8" idaula="3f97a9e1-1cc2-496f-943c-030eac56558b" enunciado="Qual é a principal proposta do funcionalismo de Bronisław Malinowski?" justificativa="Malinowski via a cultura como um sistema funcional que existe para suprir necessidades humanas.">
 				<opcao id="4f5b5af3-6161-4532-854f-233cb4a574b4" idquestao="0926f7fc-1a47-428d-8f00-bb682fd52cc8" correta="false" texto="A cultura é uma criação simbólica desconectada das necessidades humanas."/>
 				<opcao id="b74bec39-b915-45d0-b618-2c665a1991f9" idquestao="0926f7fc-1a47-428d-8f00-bb682fd52cc8" correta="false" texto="A cultura é um conjunto de estruturas inconscientes universais."/>
@@ -423,37 +545,149 @@
 				<opcao id="4c05337c-3c9b-4617-8a10-dbefafa5e2b9" idquestao="68a68845-3d29-4fa8-b9d5-643959fa06b5" correta="false" texto="Uma psicologia aplicada às emoções universais."/>
 				<opcao id="416d32b5-6282-4751-966f-dd2ef396cdd0" idquestao="68a68845-3d29-4fa8-b9d5-643959fa06b5" correta="true" texto="Uma ciência natural das sociedades humanas, com foco em leis gerais da vida social."/>
 			</questao>
-		</aula>
-		<aula id="0cfbaeca-a83e-4ae9-9d32-a83024dc255c" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Unidade 3 - C) O Estruturalismo de Claude Lévi-Strauss">
-			<questao id="cddb5bab-77c1-45ff-84c7-2f77e2a41502" idaula="0cfbaeca-a83e-4ae9-9d32-a83024dc255c" enunciado="Qual é o foco central do pensamento de Claude Lévi-Strauss?" justificativa="Lévi-Strauss argumenta que todas as culturas compartilham estruturas mentais que moldam os sistemas simbólicos.">
+			<questao id="cddb5bab-77c1-45ff-84c7-2f77e2a41502" idaula="3f97a9e1-1cc2-496f-943c-030eac56558b" enunciado="Qual é o foco central do pensamento de Claude Lévi-Strauss?" justificativa="Lévi-Strauss argumenta que todas as culturas compartilham estruturas mentais que moldam os sistemas simbólicos.">
 				<opcao id="a15df600-6ea5-439a-8733-33075ee92f2e" idquestao="cddb5bab-77c1-45ff-84c7-2f77e2a41502" correta="false" texto="A análise exclusiva dos comportamentos individuais."/>
 				<opcao id="7a735759-bc29-4e7e-9879-0bc265d9ab57" idquestao="cddb5bab-77c1-45ff-84c7-2f77e2a41502" correta="false" texto="A valorização do instinto como motor da cultura."/>
 				<opcao id="745a0fa8-dea7-4544-8346-f931c51ef78d" idquestao="cddb5bab-77c1-45ff-84c7-2f77e2a41502" correta="false" texto="A negação da lógica nas sociedades não ocidentais."/>
 				<opcao id="fd83aae7-c48b-45ef-a672-db342b2a7db9" idquestao="cddb5bab-77c1-45ff-84c7-2f77e2a41502" correta="true" texto="A existência de estruturas mentais universais que organizam a cultura."/>
 			</questao>
-			<questao id="cb9c952d-6ea4-42c9-bd91-aef7c06b7e66" idaula="0cfbaeca-a83e-4ae9-9d32-a83024dc255c" enunciado="Como Lévi-Strauss via a cultura em sua teoria estruturalista?" justificativa="Para Lévi-Strauss, a cultura funciona como linguagem, estruturada por pares de oposição como vida/morte, quente/frio.">
+			<questao id="cb9c952d-6ea4-42c9-bd91-aef7c06b7e66" idaula="3f97a9e1-1cc2-496f-943c-030eac56558b" enunciado="Como Lévi-Strauss via a cultura em sua teoria estruturalista?" justificativa="Para Lévi-Strauss, a cultura funciona como linguagem, estruturada por pares de oposição como vida/morte, quente/frio.">
 				<opcao id="949d0aaf-6232-4fb6-8f1a-f4053a5660ea" idquestao="cb9c952d-6ea4-42c9-bd91-aef7c06b7e66" correta="false" texto="Como uma expressão biológica das necessidades humanas."/>
 				<opcao id="71b4a29b-8ef4-43a4-860a-6f783be4253c" idquestao="cb9c952d-6ea4-42c9-bd91-aef7c06b7e66" correta="false" texto="Como um conjunto de práticas individuais e isoladas."/>
 				<opcao id="d9cb55f1-44c6-4b2a-bb1a-0968a125468c" idquestao="cb9c952d-6ea4-42c9-bd91-aef7c06b7e66" correta="false" texto="Como resultado da superioridade da racionalidade ocidental."/>
 				<opcao id="eb99dc0b-635d-4228-888f-8fc836064f27" idquestao="cb9c952d-6ea4-42c9-bd91-aef7c06b7e66" correta="true" texto="Como um sistema simbólico organizado por oposições binárias."/>
 			</questao>
-			<questao id="85c3306c-84d6-4058-87df-f55e2c7c7ff2" idaula="0cfbaeca-a83e-4ae9-9d32-a83024dc255c" enunciado="Qual é o papel dos mitos na obra de Lévi-Strauss?" justificativa="Lévi-Strauss entendia os mitos como sistemas simbólicos que revelam o funcionamento da mente humana.">
+			<questao id="85c3306c-84d6-4058-87df-f55e2c7c7ff2" idaula="3f97a9e1-1cc2-496f-943c-030eac56558b" enunciado="Qual é o papel dos mitos na obra de Lévi-Strauss?" justificativa="Lévi-Strauss entendia os mitos como sistemas simbólicos que revelam o funcionamento da mente humana.">
 				<opcao id="6116ccb4-72c5-4a86-a2bb-718d46e70aa4" idquestao="85c3306c-84d6-4058-87df-f55e2c7c7ff2" correta="false" texto="São meras invenções sem relevância intelectual."/>
 				<opcao id="a992046a-e1ed-43c2-bae4-107558dc6d0f" idquestao="85c3306c-84d6-4058-87df-f55e2c7c7ff2" correta="false" texto="Representam unicamente experiências individuais religiosas."/>
 				<opcao id="c6bcb6e4-a2e4-4fc4-b84a-2c43ab3dfe8f" idquestao="85c3306c-84d6-4058-87df-f55e2c7c7ff2" correta="false" texto="Servem apenas como formas de entretenimento popular."/>
 				<opcao id="d3992d07-1efd-44e2-97d2-9c47bbd649e3" idquestao="85c3306c-84d6-4058-87df-f55e2c7c7ff2" correta="true" texto="Eles expressam formas de pensamento lógico estruturado pelas culturas."/>
 			</questao>
-			<questao id="8cb66fc8-7f17-4787-9df4-3eb78a24524f" idaula="0cfbaeca-a83e-4ae9-9d32-a83024dc255c" enunciado="Como Lévi-Strauss contribuiu para a psicologia e antropologia?" justificativa="Lévi-Strauss desmistificou a ideia de inferioridade das culturas não ocidentais, defendendo a existência de lógicas próprias.">
+			<questao id="8cb66fc8-7f17-4787-9df4-3eb78a24524f" idaula="3f97a9e1-1cc2-496f-943c-030eac56558b" enunciado="Como Lévi-Strauss contribuiu para a psicologia e antropologia?" justificativa="Lévi-Strauss desmistificou a ideia de inferioridade das culturas não ocidentais, defendendo a existência de lógicas próprias.">
 				<opcao id="144c0895-1ecc-4b4b-82c0-9cedbf436275" idquestao="8cb66fc8-7f17-4787-9df4-3eb78a24524f" correta="false" texto="Ao defender que sociedades primitivas não possuem estrutura lógica."/>
 				<opcao id="6815f1aa-4e47-456d-ba60-aa0a4e10227d" idquestao="8cb66fc8-7f17-4787-9df4-3eb78a24524f" correta="false" texto="Ao aplicar métodos quantitativos para estudar o comportamento tribal."/>
 				<opcao id="60cb2751-8f96-4426-8f28-fec89e43248b" idquestao="8cb66fc8-7f17-4787-9df4-3eb78a24524f" correta="false" texto="Ao propor que a cultura depende exclusivamente da genética."/>
 				<opcao id="43ffa5bd-9e57-4c43-a894-2307596d5dc1" idquestao="8cb66fc8-7f17-4787-9df4-3eb78a24524f" correta="true" texto="Ao mostrar que sociedades diferentes compartilham formas complexas de racionalidade simbólica."/>
 			</questao>
-			<questao id="96edacb6-bd3d-49ba-bd0e-cb7d0b3ecf6e" idaula="0cfbaeca-a83e-4ae9-9d32-a83024dc255c" enunciado="Qual é a importância do método estrutural na teoria de Lévi-Strauss?" justificativa="O método estrutural busca compreender como elementos culturais se relacionam dentro de uma lógica inconsciente comum.">
+			<questao id="96edacb6-bd3d-49ba-bd0e-cb7d0b3ecf6e" idaula="3f97a9e1-1cc2-496f-943c-030eac56558b" enunciado="Qual é a importância do método estrutural na teoria de Lévi-Strauss?" justificativa="O método estrutural busca compreender como elementos culturais se relacionam dentro de uma lógica inconsciente comum.">
 				<opcao id="06bd1495-f686-46ff-97b0-80875988f3d7" idquestao="96edacb6-bd3d-49ba-bd0e-cb7d0b3ecf6e" correta="false" texto="Prioriza a análise estatística da linguagem."/>
 				<opcao id="14158bad-290c-435e-b04f-e20dc2c5435c" idquestao="96edacb6-bd3d-49ba-bd0e-cb7d0b3ecf6e" correta="false" texto="Rejeita completamente a existência de padrões culturais."/>
 				<opcao id="939e9ad2-846b-4281-99b0-a74ed9e13de0" idquestao="96edacb6-bd3d-49ba-bd0e-cb7d0b3ecf6e" correta="false" texto="Foca na vivência pessoal dos pesquisadores de campo."/>
 				<opcao id="b98680a5-0af3-4808-8c5d-328ad940ef6d" idquestao="96edacb6-bd3d-49ba-bd0e-cb7d0b3ecf6e" correta="true" texto="Revela relações entre elementos culturais para identificar padrões universais de organização simbólica."/>
+			</questao>
+		</aula>
+		<aula id="022c60ad-38df-4bb2-819a-b010e62be603" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Aula 10 - Sociedade contemporânea: Bauman">
+			<questao id="256ce2f5-70e9-478d-9a7c-33c918443f34" idaula="022c60ad-38df-4bb2-819a-b010e62be603" enunciado="O que Zygmunt Bauman quis dizer com o termo 'modernidade líquida'?" justificativa="Bauman usa a metáfora da liquidez para descrever uma sociedade marcada pela instabilidade e mudanças constantes, ao contrário da solidez do passado.">
+				<opcao id="1c6ae020-0278-4e28-9e0f-03d0d8a30428" idquestao="256ce2f5-70e9-478d-9a7c-33c918443f34" correta="true" texto="Uma sociedade onde tudo é instável, passageiro e muda com facilidade."/>
+				<opcao id="b256a771-89ab-480f-b31e-bd2e95e6b355" idquestao="256ce2f5-70e9-478d-9a7c-33c918443f34" correta="false" texto="Uma sociedade rígida e controlada por regras fixas."/>
+				<opcao id="b57cfb58-ca47-4399-b916-22a91dbe3c01" idquestao="256ce2f5-70e9-478d-9a7c-33c918443f34" correta="false" texto="Um modelo econômico baseado no comércio de líquidos."/>
+				<opcao id="38764fc1-6cfd-4c35-9b0a-2b2d02396e2b" idquestao="256ce2f5-70e9-478d-9a7c-33c918443f34" correta="false" texto="Uma fase da história em que tudo se torna digital."/>
+			</questao>
+			<questao id="ea51ff50-b3ed-4f45-8c45-54ac75325e90" idaula="022c60ad-38df-4bb2-819a-b010e62be603" enunciado="Segundo Bauman, como são vistas as relações afetivas na modernidade líquida?" justificativa="Bauman afirma que os vínculos afetivos tornaram-se frágeis e facilmente descartáveis, refletindo a lógica do consumo.">
+				<opcao id="2ea0fcd4-1704-4c2b-9b0e-9b64d3b5dd4f" idquestao="ea51ff50-b3ed-4f45-8c45-54ac75325e90" correta="true" texto="Frágeis e facilmente descartáveis, como produtos de consumo."/>
+				<opcao id="2ccd6742-eca7-4f28-a455-a57cd464396f" idquestao="ea51ff50-b3ed-4f45-8c45-54ac75325e90" correta="false" texto="Mais profundas e duradouras graças à liberdade moderna."/>
+				<opcao id="299e0182-0527-46c5-a948-2dcc29d94bb9" idquestao="ea51ff50-b3ed-4f45-8c45-54ac75325e90" correta="false" texto="Estáveis e protegidas por instituições sólidas."/>
+				<opcao id="aa5321fb-203e-4932-a40e-0049629b7fc3" idquestao="ea51ff50-b3ed-4f45-8c45-54ac75325e90" correta="false" texto="Baseadas exclusivamente em valores religiosos."/>
+			</questao>
+			<questao id="45480c6e-092b-4163-bd1d-da8a49ca7e3a" idaula="022c60ad-38df-4bb2-819a-b010e62be603" enunciado="Na modernidade líquida, como é percebida a identidade pessoal?" justificativa="Para Bauman, a identidade deixou de ser algo fixo e passou a ser um projeto em constante construção, influenciado por pressões externas.">
+				<opcao id="82f4ac7b-344c-40a0-97b0-41b5e40848c5" idquestao="45480c6e-092b-4163-bd1d-da8a49ca7e3a" correta="true" texto="Como um projeto instável que precisa ser constantemente ajustado."/>
+				<opcao id="26716585-daab-40c8-a0f9-9cca18a5adb9" idquestao="45480c6e-092b-4163-bd1d-da8a49ca7e3a" correta="false" texto="Como uma essência natural e imutável."/>
+				<opcao id="548457ba-70cd-4556-88bc-2599be5602ff" idquestao="45480c6e-092b-4163-bd1d-da8a49ca7e3a" correta="false" texto="Como algo determinado exclusivamente pela biologia."/>
+				<opcao id="733154d8-6217-40bc-8917-f615d8d4377c" idquestao="45480c6e-092b-4163-bd1d-da8a49ca7e3a" correta="false" texto="Como uma identidade herdada e fixa desde o nascimento."/>
+			</questao>
+			<questao id="6747b533-fca6-456f-a604-82c818427af0" idaula="022c60ad-38df-4bb2-819a-b010e62be603" enunciado="Qual é a relação entre consumismo e sociedade líquida segundo Bauman?" justificativa="Bauman associa a liquidez à cultura do consumo, onde não só bens, mas também relações e experiências são consumidos rapidamente.">
+				<opcao id="1fd6fc99-7a32-4434-9b8b-1612c261bb11" idquestao="6747b533-fca6-456f-a604-82c818427af0" correta="true" texto="As pessoas consomem bens, experiências e até relações, buscando satisfação imediata."/>
+				<opcao id="6cc95f4f-c212-4127-be14-ab4fe209fc02" idquestao="6747b533-fca6-456f-a604-82c818427af0" correta="false" texto="O consumismo é rejeitado na sociedade líquida."/>
+				<opcao id="3d0bfe8c-6c11-41dd-b2f0-56064d90618b" idquestao="6747b533-fca6-456f-a604-82c818427af0" correta="false" texto="A sociedade líquida valoriza o acúmulo e a estabilidade dos bens."/>
+				<opcao id="d5eaa3eb-7c7c-4dcb-bec4-f69c0d89e85b" idquestao="6747b533-fca6-456f-a604-82c818427af0" correta="false" texto="Consumismo e liquidez não têm relação direta."/>
+			</questao>
+			<questao id="5a79d2db-a8da-4cdf-8cf7-a5ae394ddf5c" idaula="022c60ad-38df-4bb2-819a-b010e62be603" enunciado="O que Bauman aponta como consequência da liberdade na modernidade líquida?" justificativa="Embora as pessoas tenham mais liberdade de escolha, isso vem acompanhado de insegurança e responsabilidade individual excessiva.">
+				<opcao id="ffc6739b-e903-4551-85bc-706be94aa0bc" idquestao="5a79d2db-a8da-4cdf-8cf7-a5ae394ddf5c" correta="true" texto="Mais insegurança e responsabilização individual pelos fracassos."/>
+				<opcao id="5fd88a8b-3d6d-47db-87a8-b9205e1e845f" idquestao="5a79d2db-a8da-4cdf-8cf7-a5ae394ddf5c" correta="false" texto="Total autonomia e realização pessoal plena."/>
+				<opcao id="64aca182-c698-4670-8474-d62f2fb65b1e" idquestao="5a79d2db-a8da-4cdf-8cf7-a5ae394ddf5c" correta="false" texto="Proteção estatal contra os riscos sociais."/>
+				<opcao id="8b989d9d-08e8-44fa-b6fd-17fe06905ef1" idquestao="5a79d2db-a8da-4cdf-8cf7-a5ae394ddf5c" correta="false" texto="Menos ansiedade e mais estabilidade emocional."/>
+			</questao>
+			<questao id="0dc139f0-8fa7-4d55-96d4-1db62452e48e" idaula="022c60ad-38df-4bb2-819a-b010e62be603" enunciado="Como Bauman relaciona a modernidade líquida aos transtornos mentais?" justificativa="O sociólogo identifica que a instabilidade da vida moderna contribui para sentimentos de vazio, ansiedade e depressão.">
+				<opcao id="1f57a717-22d2-4c2d-ab16-6c9a6d093b2d" idquestao="0dc139f0-8fa7-4d55-96d4-1db62452e48e" correta="true" texto="A vida instável favorece o surgimento de ansiedade, depressão e sentimento de vazio."/>
+				<opcao id="6c9ce22b-6968-4d2e-a8eb-7cf74877f763" idquestao="0dc139f0-8fa7-4d55-96d4-1db62452e48e" correta="false" texto="A liquidez social cura a maioria dos transtornos mentais."/>
+				<opcao id="972f6a8c-611d-4840-a628-2a298b92db10" idquestao="0dc139f0-8fa7-4d55-96d4-1db62452e48e" correta="false" texto="Os transtornos mentais são causados apenas por fatores genéticos."/>
+				<opcao id="d8ce088c-728f-4b34-a28d-f511519fdc2e" idquestao="0dc139f0-8fa7-4d55-96d4-1db62452e48e" correta="false" texto="Bauman ignora o tema da saúde mental em suas obras."/>
+			</questao>
+		</aula>
+		<aula id="95c8e7cc-ba6d-46cc-969d-d30c357887cf" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Aula 11 - Sociedade contemporânea: Lipovetski">
+			<questao id="e4d538db-4440-4c35-97dc-5fce13891a5b" idaula="95c8e7cc-ba6d-46cc-969d-d30c357887cf" enunciado="O que Gilles Lipovetsky entende por hipermodernidade?" justificativa="A hipermodernidade é marcada pelo excesso de informação, consumo, velocidade e responsabilidades.">
+				<opcao id="52b4ab1f-28b6-4f23-8009-5708dc9758ee" idquestao="e4d538db-4440-4c35-97dc-5fce13891a5b" correta="true" texto="Uma era marcada por excessos como velocidade, consumo e instabilidade emocional."/>
+				<opcao id="87abc308-32db-4de2-a050-bdc85a7679de" idquestao="e4d538db-4440-4c35-97dc-5fce13891a5b" correta="false" texto="Uma fase da história em que a religião domina todas as áreas da vida."/>
+				<opcao id="70afd8d2-5c0b-4f29-97ad-24ad435c3735" idquestao="e4d538db-4440-4c35-97dc-5fce13891a5b" correta="false" texto="O retorno aos valores tradicionais e familiares."/>
+				<opcao id="d52243aa-db26-48ea-9ede-36e84a0911ce" idquestao="e4d538db-4440-4c35-97dc-5fce13891a5b" correta="false" texto="Uma sociedade baseada na escassez de bens e informações."/>
+			</questao>
+			<questao id="594168a4-59eb-4a2b-95fe-d91f816ac597" idaula="95c8e7cc-ba6d-46cc-969d-d30c357887cf" enunciado="Segundo Lipovetsky, qual é o papel do consumo na sociedade atual?" justificativa="O consumo é uma forma de expressão pessoal, pertencimento e busca por reconhecimento social.">
+				<opcao id="be305c37-c5b1-4595-a6e6-d80d39613b6a" idquestao="594168a4-59eb-4a2b-95fe-d91f816ac597" correta="true" texto="Uma forma de expressão pessoal e construção da identidade."/>
+				<opcao id="4503bb20-ceab-468a-aa31-04ad92413ca6" idquestao="594168a4-59eb-4a2b-95fe-d91f816ac597" correta="false" texto="Apenas uma necessidade básica para sobrevivência."/>
+				<opcao id="1ff3f671-e718-4e7c-905a-779169bee9f2" idquestao="594168a4-59eb-4a2b-95fe-d91f816ac597" correta="false" texto="Um fenômeno exclusivo das classes mais ricas."/>
+				<opcao id="99319052-593d-47b6-9e5a-e9d114684cc6" idquestao="594168a4-59eb-4a2b-95fe-d91f816ac597" correta="false" texto="Algo sem relevância na vida cotidiana moderna."/>
+			</questao>
+			<questao id="302ba91f-87eb-4dd5-b3b4-b412d5a96878" idaula="95c8e7cc-ba6d-46cc-969d-d30c357887cf" enunciado="O que Lipovetsky chama de 'individualismo narcisista'?" justificativa="É a busca intensa por prazer, liberdade e sucesso, que gera insegurança e medo de fracassar.">
+				<opcao id="823e9e47-1bef-4cc1-8ea5-0a76c0f9b358" idquestao="302ba91f-87eb-4dd5-b3b4-b412d5a96878" correta="true" texto="A valorização extrema da autonomia individual, acompanhada de inseguranças e ansiedades."/>
+				<opcao id="d609807a-6f60-494c-a7a9-fc24b30ab12e" idquestao="302ba91f-87eb-4dd5-b3b4-b412d5a96878" correta="false" texto="A rejeição total das redes sociais."/>
+				<opcao id="3d31a9aa-898f-4899-9adc-32b25ff5575b" idquestao="302ba91f-87eb-4dd5-b3b4-b412d5a96878" correta="false" texto="A dedicação exclusiva à religião."/>
+				<opcao id="1d39a9b6-a3bf-4d55-bb78-c0adaf72f4f6" idquestao="302ba91f-87eb-4dd5-b3b4-b412d5a96878" correta="false" texto="O egoísmo coletivo como norma social."/>
+			</questao>
+			<questao id="48063e6a-8c45-4135-b36b-087a7f4674a9" idaula="95c8e7cc-ba6d-46cc-969d-d30c357887cf" enunciado="O que é a estetização da vida cotidiana, segundo Lipovetsky?" justificativa="É a valorização da aparência e do estilo em todas as esferas da vida.">
+				<opcao id="565d75d5-211b-4c6c-82f1-83918e832aaf" idquestao="48063e6a-8c45-4135-b36b-087a7f4674a9" correta="true" texto="A centralidade da aparência, do corpo e do estilo na construção da identidade."/>
+				<opcao id="69eaa4d2-7e2f-48cf-bc5e-b25229d2f97f" idquestao="48063e6a-8c45-4135-b36b-087a7f4674a9" correta="false" texto="A substituição da cultura popular pela arte clássica."/>
+				<opcao id="959ef0e8-ea46-4019-8992-0c3e268d2768" idquestao="48063e6a-8c45-4135-b36b-087a7f4674a9" correta="false" texto="O abandono da preocupação com o corpo e a moda."/>
+				<opcao id="b35a3906-5a3f-43a5-8806-e9881e6ececb" idquestao="48063e6a-8c45-4135-b36b-087a7f4674a9" correta="false" texto="A padronização estética das religiões."/>
+			</questao>
+			<questao id="35bccd02-c075-4198-9405-cd73e5552225" idaula="95c8e7cc-ba6d-46cc-969d-d30c357887cf" enunciado="Qual é uma das consequências psicológicas da sociedade do hiperconsumo?" justificativa="O prazer do consumo é passageiro, o que pode gerar sensação de vazio e ansiedade.">
+				<opcao id="8bc4f875-34a4-4197-a5eb-0bd6a84dfff3" idquestao="35bccd02-c075-4198-9405-cd73e5552225" correta="true" texto="Sensação de vazio e ansiedade por causa da instabilidade das satisfações."/>
+				<opcao id="e36af395-d0cb-4e46-aa1d-526720fbe472" idquestao="35bccd02-c075-4198-9405-cd73e5552225" correta="false" texto="Melhoria contínua da saúde mental."/>
+				<opcao id="51a42010-083d-40ce-8258-61701aeaf2b9" idquestao="35bccd02-c075-4198-9405-cd73e5552225" correta="false" texto="Redução de conflitos sociais."/>
+				<opcao id="442c6d6c-bb1a-4f35-a5f7-e346bed55cfc" idquestao="35bccd02-c075-4198-9405-cd73e5552225" correta="false" texto="Aumento da espiritualidade coletiva."/>
+			</questao>
+			<questao id="2cb04111-abae-4c6a-bc42-6148a58f6e1b" idaula="95c8e7cc-ba6d-46cc-969d-d30c357887cf" enunciado="O que Lipovetsky chama de 'fadiga de ser si mesmo'?" justificativa="É o esgotamento causado pela pressão constante para se reinventar e se destacar.">
+				<opcao id="29e23421-ff0d-44f2-9d19-5ae29ec0e3bc" idquestao="2cb04111-abae-4c6a-bc42-6148a58f6e1b" correta="true" texto="Cansaço gerado pela obrigação constante de se melhorar e se destacar."/>
+				<opcao id="7b3ad5c4-1c0f-47a4-a9a5-b9fa63d4842a" idquestao="2cb04111-abae-4c6a-bc42-6148a58f6e1b" correta="false" texto="Desejo de viver isolado do mundo moderno."/>
+				<opcao id="4836a96c-e13b-4da4-af7f-9e94911310ac" idquestao="2cb04111-abae-4c6a-bc42-6148a58f6e1b" correta="false" texto="Fadiga causada por doenças físicas."/>
+				<opcao id="5d910895-faee-4d10-b701-191fa59880b1" idquestao="2cb04111-abae-4c6a-bc42-6148a58f6e1b" correta="false" texto="Negação completa do próprio eu."/>
+			</questao>
+		</aula>
+		<aula id="af8cde2e-8f03-4733-8347-b8782d0e43a2" idmateria="3166242c-18af-4159-b2be-d0e40a608540" nome="Aula 12 - Sociedade contemporânea: Byung-Chul Han">
+			<questao id="33881228-70a7-49a3-ac7f-d56d28e6a72b" idaula="af8cde2e-8f03-4733-8347-b8782d0e43a2" enunciado="O que caracteriza a 'sociedade do desempenho' segundo Byung-Chul Han?" justificativa="Na sociedade do desempenho, as pessoas se cobram constantemente para produzir mais e melhor, levando ao esgotamento.">
+				<opcao id="9451ec0e-6804-44f7-b65a-b4d13807281e" idquestao="33881228-70a7-49a3-ac7f-d56d28e6a72b" correta="true" texto="A pressão por produtividade constante, levando ao esgotamento físico e mental."/>
+				<opcao id="f2d3b265-e021-4b98-8ac1-987b8e5d64b6" idquestao="33881228-70a7-49a3-ac7f-d56d28e6a72b" correta="false" texto="A ausência de regras e compromissos sociais."/>
+				<opcao id="f15479e6-a80a-45c2-81aa-1656f4d52527" idquestao="33881228-70a7-49a3-ac7f-d56d28e6a72b" correta="false" texto="A valorização do descanso e do ócio."/>
+				<opcao id="ba9572f6-608d-4a27-8a32-e9cc730e6292" idquestao="33881228-70a7-49a3-ac7f-d56d28e6a72b" correta="false" texto="A repressão por parte de instituições religiosas."/>
+			</questao>
+			<questao id="ef006923-d928-43f3-af3d-1a6f972e5aaf" idaula="af8cde2e-8f03-4733-8347-b8782d0e43a2" enunciado="O que Han chama de 'violência da positividade'?" justificativa="Trata-se da cobrança excessiva disfarçada de mensagens motivacionais, gerando culpa e cansaço.">
+				<opcao id="0d8676f2-f2a9-4efc-a76b-7255d5f9db6f" idquestao="ef006923-d928-43f3-af3d-1a6f972e5aaf" correta="true" texto="O excesso de cobranças motivacionais que levam à autoculpa e ao cansaço."/>
+				<opcao id="cd05dd3e-a17f-4f0c-8964-e2740651e334" idquestao="ef006923-d928-43f3-af3d-1a6f972e5aaf" correta="false" texto="A agressividade explícita nas relações sociais."/>
+				<opcao id="4d299f82-5203-4764-9281-9983ee3c4b04" idquestao="ef006923-d928-43f3-af3d-1a6f972e5aaf" correta="false" texto="A imposição de regras autoritárias pelo governo."/>
+				<opcao id="8d9364c1-7c2f-48ea-b675-8a5fbdf38280" idquestao="ef006923-d928-43f3-af3d-1a6f972e5aaf" correta="false" texto="O uso da força policial em protestos políticos."/>
+			</questao>
+			<questao id="a82b965b-8419-454e-b3a4-1d2020f5d12a" idaula="af8cde2e-8f03-4733-8347-b8782d0e43a2" enunciado="Qual é uma das consequências da busca excessiva por visibilidade nas redes sociais, segundo Han?" justificativa="A exposição contínua mina o silêncio e a introspecção, essenciais para o bem-estar.">
+				<opcao id="26a31b73-5f0e-4235-8a54-8c262ff1bd41" idquestao="a82b965b-8419-454e-b3a4-1d2020f5d12a" correta="true" texto="Perda da intimidade, do silêncio e da escuta verdadeira."/>
+				<opcao id="6a868622-0364-497b-a63b-e8873cd411f5" idquestao="a82b965b-8419-454e-b3a4-1d2020f5d12a" correta="false" texto="Aumento da espiritualidade e da conexão com o outro."/>
+				<opcao id="e1b9e844-c875-457e-93d6-94b443121493" idquestao="a82b965b-8419-454e-b3a4-1d2020f5d12a" correta="false" texto="Melhoria na qualidade do diálogo entre pessoas."/>
+				<opcao id="e927a949-277b-47ef-bc7d-81eb8e793d1b" idquestao="a82b965b-8419-454e-b3a4-1d2020f5d12a" correta="false" texto="Fortalecimento das tradições familiares."/>
+			</questao>
+			<questao id="f3f5a529-8a35-4422-8ee6-5f56a29864b6" idaula="af8cde2e-8f03-4733-8347-b8782d0e43a2" enunciado="O que Han entende por 'expulsão do outro'?" justificativa="Ele critica a dificuldade contemporânea de lidar com o diferente, o que empobrece os laços sociais.">
+				<opcao id="35d55798-a170-4653-af2a-5fd1599ecd6a" idquestao="f3f5a529-8a35-4422-8ee6-5f56a29864b6" correta="true" texto="A rejeição do diferente e a perda da capacidade de escutar e dialogar."/>
+				<opcao id="1defe1cb-08c9-49f6-9b17-4fb628c6f8a7" idquestao="f3f5a529-8a35-4422-8ee6-5f56a29864b6" correta="false" texto="A inclusão excessiva de pessoas diferentes nos debates."/>
+				<opcao id="28f74969-85e8-41e6-9192-d6daaa4b2aab" idquestao="f3f5a529-8a35-4422-8ee6-5f56a29864b6" correta="false" texto="O fortalecimento da empatia nas relações sociais."/>
+				<opcao id="03f0e537-32bd-4ef8-bb87-9a72fbad24bb" idquestao="f3f5a529-8a35-4422-8ee6-5f56a29864b6" correta="false" texto="A valorização da diversidade cultural e religiosa."/>
+			</questao>
+			<questao id="85be3283-3838-433d-b90b-8db18234fd31" idaula="af8cde2e-8f03-4733-8347-b8782d0e43a2" enunciado="De que forma o narcisismo afeta as relações humanas, segundo Han?" justificativa="O foco exagerado no próprio eu dificulta a construção de vínculos com os outros.">
+				<opcao id="771dabcc-5632-45d8-ad24-1fc9cdadc6be" idquestao="85be3283-3838-433d-b90b-8db18234fd31" correta="true" texto="Provoca isolamento e enfraquecimento dos laços com o outro."/>
+				<opcao id="639bd025-dc92-4fb4-b3d1-1e55d11f50e7" idquestao="85be3283-3838-433d-b90b-8db18234fd31" correta="false" texto="Estimula o altruísmo e a empatia."/>
+				<opcao id="8dc92650-048e-4fb1-8259-ef800a3ed8fd" idquestao="85be3283-3838-433d-b90b-8db18234fd31" correta="false" texto="Fortalece a convivência em grupo."/>
+				<opcao id="0386a2c0-0766-4f7e-95fe-719e78827197" idquestao="85be3283-3838-433d-b90b-8db18234fd31" correta="false" texto="Aumenta o engajamento político coletivo."/>
+			</questao>
+			<questao id="519ef89b-190f-45fd-bf21-0b4e10399650" idaula="af8cde2e-8f03-4733-8347-b8782d0e43a2" enunciado="Qual é o impacto psicológico do excesso de liberdade e autoexigência, segundo Han?" justificativa="A liberdade aparente se transforma em obrigação de ser sempre produtivo, o que gera sofrimento.">
+				<opcao id="5b8ec74b-96b4-4d6a-b758-625f3c6db0f1" idquestao="519ef89b-190f-45fd-bf21-0b4e10399650" correta="true" texto="Gera sofrimento mental por causa da autocobrança constante."/>
+				<opcao id="4e18d6c7-aaa3-4c25-a038-085becf90e84" idquestao="519ef89b-190f-45fd-bf21-0b4e10399650" correta="false" texto="Promove maior equilíbrio emocional."/>
+				<opcao id="c34f37bc-287b-4901-b570-268470bb8ce3" idquestao="519ef89b-190f-45fd-bf21-0b4e10399650" correta="false" texto="Reduz os níveis de ansiedade."/>
+				<opcao id="14570624-76c2-429e-9cc0-90867b278599" idquestao="519ef89b-190f-45fd-bf21-0b4e10399650" correta="false" texto="Fortalece a resiliência diante das dificuldades."/>
 			</questao>
 		</aula>
 	</materia>
