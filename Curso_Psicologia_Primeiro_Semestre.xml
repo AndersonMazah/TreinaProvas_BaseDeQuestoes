@@ -692,7 +692,7 @@
 		</aula>
 	</materia>
 	<materia id="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="2-Genética">
-		<aula id="f1486ad4-c17f-443f-b88c-7846f891b8ee" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="1-Introdução à Genética">
+		<aula id="f1486ad4-c17f-443f-b88c-7846f891b8ee" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="Aula 01 - Introdução à Genética">
 			<questao id="55aa1e39-1e5f-4ce6-8332-05a7972b7582" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="O que é genética?" justificativa="A alternativa correta define adequadamente a genética como ramo da biologia que estuda os genes, hereditariedade e variação. As demais distorcem ou limitam o conceito.">
 				<opcao id="8f92dcb4-096c-4ea3-8a81-2e0421a858f9" idquestao="55aa1e39-1e5f-4ce6-8332-05a7972b7582" correta="true" texto="É o ramo da biologia que estuda os genes, a hereditariedade e a variação dos organismos."/>
 				<opcao id="1addc4f7-7b19-4639-a4bc-1e3b4e817f3e" idquestao="55aa1e39-1e5f-4ce6-8332-05a7972b7582" correta="false" texto="É a ciência que estuda apenas as mutações genéticas em humanos."/>
@@ -741,7 +741,7 @@
 				<opcao id="dc81966e-e400-43a1-a170-442fc6b41cef" idquestao="d51cf8ab-9fd8-4ff0-a146-30fc8d66c84f" correta="false" texto="Desenvolveu a técnica de inseminação artificial moderna."/>
 				<opcao id="bddc4336-89a1-4e4a-9df4-81dc238fb5e8" idquestao="d51cf8ab-9fd8-4ff0-a146-30fc8d66c84f" correta="false" texto="Criou leis internacionais sobre manipulação genética."/>
 			</questao>
-			<questao id="b4eeac5f-23cc-47b3-9532-399e94489e39" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Crie um exemplo que mostre como a dominância e a recessividade se manifestam." justificativa="A questão exige que o aluno aplique o conceito em um exemplo prático, envolvendo alelos dominantes e recessivos.">
+			<questao id="b4eeac5f-23cc-47b3-9532-399e94489e39" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Selecione um exemplo que mostre como a dominância e a recessividade se manifestam:" justificativa="A questão exige que o aluno aplique o conceito em um exemplo prático, envolvendo alelos dominantes e recessivos.">
 				<opcao id="0f187259-a526-450e-87f6-ec425534b13f" idquestao="b4eeac5f-23cc-47b3-9532-399e94489e39" correta="true" texto="Um indivíduo com alelos Aa para cor dos olhos apresenta olhos castanhos, pois o alelo A é dominante sobre o a."/>
 				<opcao id="cc05090d-baf0-4678-882d-8fe991ba9321" idquestao="b4eeac5f-23cc-47b3-9532-399e94489e39" correta="false" texto="Um indivíduo Aa apresentará traços intermediários entre A e a."/>
 				<opcao id="4c644a10-e880-4bab-a40b-63a2848b7297" idquestao="b4eeac5f-23cc-47b3-9532-399e94489e39" correta="false" texto="A presença de dois alelos recessivos resulta sempre em mutações genéticas."/>
@@ -759,7 +759,7 @@
 				<opcao id="9ddc1583-f687-4987-89b8-32ec87e0023d" idquestao="7142b0b8-794e-4ede-bdf2-71bfafcc0fa8" correta="false" texto="Afetam somente as características físicas e nunca a saúde."/>
 				<opcao id="9dc0c123-a88f-428b-afb9-7bb9c5560efc" idquestao="7142b0b8-794e-4ede-bdf2-71bfafcc0fa8" correta="false" texto="São sempre herdadas dos pais e não ocorrem ao longo da vida."/>
 			</questao>
-			<questao id="7f27d4e6-e32c-453b-aa90-5f31b4fc84da" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Proponha um exemplo de como a genética e o ambiente podem interagir na formação da personalidade." justificativa="Essa questão envolve a criação de um cenário integrando conhecimento sobre genética e ambiente, como discutido na leitura complementar.">
+			<questao id="7f27d4e6-e32c-453b-aa90-5f31b4fc84da" idaula="f1486ad4-c17f-443f-b88c-7846f891b8ee" enunciado="Selecione um exemplo de como a genética e o ambiente podem interagir na formação da personalidade." justificativa="Essa questão envolve a criação de um cenário integrando conhecimento sobre genética e ambiente, como discutido na leitura complementar.">
 				<opcao id="0de1c55d-1732-434f-99b0-a3b069ca3b6e" idquestao="7f27d4e6-e32c-453b-aa90-5f31b4fc84da" correta="true" texto="Uma pessoa com predisposição genética à ansiedade pode ou não desenvolver o transtorno dependendo das experiências de vida e ambiente familiar."/>
 				<opcao id="51c4b60e-728c-4ffe-9357-c9e1ee778f94" idquestao="7f27d4e6-e32c-453b-aa90-5f31b4fc84da" correta="false" texto="Personalidade é exclusivamente moldada por traços genéticos herdados dos pais."/>
 				<opcao id="b08c0e7a-be3a-42d8-abdd-6145dab05348" idquestao="7f27d4e6-e32c-453b-aa90-5f31b4fc84da" correta="false" texto="O ambiente não influencia a personalidade se o genótipo for dominante."/>
@@ -844,7 +844,7 @@
 				<opcao id="c55b0df6-17db-4fc5-a899-166d0b0666e3" idquestao="b7a1279c-0f4f-4220-bcf1-0a83978614d9" correta="false" texto="Todos os descendentes terão genótipo homozigoto."/>
 			</questao>
 		</aula>
-		<aula id="e596b84f-fc4d-486b-8ee9-5bd93516bc66" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="2-Estrutura do DNA e tipos de RNA">
+		<aula id="e596b84f-fc4d-486b-8ee9-5bd93516bc66" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="Aula 02 - Estrutura do DNA e tipos de RNA">
 			<questao id="3d6e2af2-9147-4b69-9e5f-d092b379097b" idaula="e596b84f-fc4d-486b-8ee9-5bd93516bc66" enunciado="Qual é a função principal do DNA nas células dos seres vivos?" justificativa="A principal função do DNA é armazenar a informação genética que determina as características e o funcionamento dos organismos vivos.">
 				<opcao id="cb5a6516-7c18-45b5-a723-f2ebf4278021" idquestao="3d6e2af2-9147-4b69-9e5f-d092b379097b" correta="false" texto="Transportar aminoácidos até o ribossomo"/>
 				<opcao id="64911583-281b-4edf-bc31-e749bbce5972" idquestao="3d6e2af2-9147-4b69-9e5f-d092b379097b" correta="true" texto="Armazenar a informação genética"/>
@@ -944,7 +944,7 @@
 				<opcao id="65a7d360-cb6b-4d46-ae61-c7f19fe28e6c" idquestao="5fa33ae6-e93d-41fd-b3f1-4f4185126c1f" correta="true" texto="Todas estão corretas."/>
 			</questao>
 		</aula>
-		<aula id="9565250c-3d57-4c9f-af05-963654bad5a3" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="3-Replicação, Transcrição e Tradução">
+		<aula id="9565250c-3d57-4c9f-af05-963654bad5a3" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="Aula 03 - Replicação, Transcrição e Tradução">
 			<questao id="215de923-1936-4530-9b7c-6d469f40c2b8" idaula="9565250c-3d57-4c9f-af05-963654bad5a3" enunciado="Qual é a principal enzima responsável pela síntese de novas fitas de DNA durante a replicação?" justificativa="A DNA polimerase é a enzima que adiciona novos nucleotídeos à fita molde durante a replicação.">
 				<opcao id="d91c0fe4-58da-44a7-bdf8-9d60980e4eb1" idquestao="215de923-1936-4530-9b7c-6d469f40c2b8" correta="false" texto="Helicase"/>
 				<opcao id="d1876f07-cf14-45e2-ae51-cccae6672a11" idquestao="215de923-1936-4530-9b7c-6d469f40c2b8" correta="false" texto="Primase"/>
@@ -1009,7 +1009,7 @@
 				<opcao id="0b4ebd7a-25e7-45f0-91ae-4130ffdae218" idquestao="2e8b90b9-ddb2-4518-988b-666b4f2bcce8" correta="false" texto="A tradução ocorre no núcleo celular, onde o RNA mensageiro (RNAm) se liga aos ribossomos e catalisa a ligação entre aminoácidos, formando a proteína."/>
 			</questao>
 		</aula>
-		<aula id="55b91bc7-0c01-42b5-90eb-71dc2f11b51a" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="4-Cromossomos e Reprodução celular">
+		<aula id="55b91bc7-0c01-42b5-90eb-71dc2f11b51a" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="Aula 04 - Cromossomos e Reprodução celular">
 			<questao id="a5ecff10-1781-4346-897d-a6615b6d09ca" idaula="55b91bc7-0c01-42b5-90eb-71dc2f11b51a" enunciado="Qual das alternativas descreve corretamente a função dos cromossomos homólogos?" justificativa="A alternativa correta representa com precisão os conceitos apresentados no conteúdo estudado.">
 				<opcao id="0bd950bd-625a-44b9-9abf-7480d996abcd" idquestao="a5ecff10-1781-4346-897d-a6615b6d09ca" correta="false" texto="Eles são cromossomos duplicados que se separam na mitose e não possuem genes em comum."/>
 				<opcao id="a1445326-dd95-4234-8724-4245376828b0" idquestao="a5ecff10-1781-4346-897d-a6615b6d09ca" correta="false" texto="Eles são responsáveis exclusivamente pela síntese de proteínas e não se pareiam durante a divisão celular."/>
@@ -1081,14 +1081,352 @@
 				<opcao id="31684593-a10f-4a98-9195-cf020d8f37eb" idquestao="e0dba97a-eb89-4411-8051-aaa5393a4fdd" correta="false" texto="O crossing-over ocorre na anáfase II da meiose, onde as cromátides-irmãs se separam e são puxadas para os polos opostos, aumentando a variabilidade genética das células filhas."/>
 			</questao>
 		</aula>
-		<aula id="7dea299a-f4a3-487d-958a-a8e64ab69bb7" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="5-Princípios básicos de hereditariedade"/>
-		<aula id="652878ca-41cc-425f-8f04-8a5ab0ea9c35" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="6-Probabilidade e Análise de heredograma"/>
-		<aula id="f397dab4-430c-4121-ac10-07cf636e67f3" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="7-Sistema ABO e Fator Rh"/>
-		<aula id="61dc879f-afc7-4079-b942-803641b79de8" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="8-Epigenética aplicada a psicologia"/>
-		<aula id="e58ca417-b4bb-487e-875f-98f20b9ff5ac" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="9-Anomalias cromossômicas numéricas e estruturais"/>
-		<aula id="0aac8526-77d9-483e-9272-c86890d958a7" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="10-Padrões de herança ligada ao sexo, monogênica e multifatorial"/>
-		<aula id="b1b1bd64-4865-4c54-a3df-95dd91cdc4c7" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="11-Aconselhamento genético e o papel do psicologo"/>
-		<aula id="8072c592-c91c-4d29-ae9c-296b7ebbb030" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="12-Aspectos da evolução e o comportamento humano"/>
+		<aula id="353a3056-3d43-49f8-980f-56d4660e9cba" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="Aula 05 - Hereditariedade - 1ª lei de Mendel">
+			<questao id="d00d8042-2b9c-4ca7-8ece-c5c1faf5e676" idaula="353a3056-3d43-49f8-980f-56d4660e9cba" enunciado="Qual é a função do crossing-over na meiose?" justificativa="O crossing-over contribui para a variabilidade genética ao promover a troca de segmentos entre cromossomos homólogos. Isso gera combinações genéticas únicas nos gametas.">
+				<opcao id="a60f3964-282f-45a7-a125-6c68a9c6a89b" idquestao="d00d8042-2b9c-4ca7-8ece-c5c1faf5e676" correta="true" texto="Promover variabilidade genética por meio da troca de segmentos entre cromossomos homólogos."/>
+				<opcao id="6289c523-0e83-4dd9-9652-91ad97ea1fe2" idquestao="d00d8042-2b9c-4ca7-8ece-c5c1faf5e676" correta="false" texto="Impedir a separação dos cromossomos na metáfase."/>
+				<opcao id="965dc9f4-8cd2-45de-abed-e6d2564ef31a" idquestao="d00d8042-2b9c-4ca7-8ece-c5c1faf5e676" correta="false" texto="Garantir a formação de dois núcleos idênticos."/>
+				<opcao id="8904222f-1f08-4853-b583-3dd6da0288e8" idquestao="d00d8042-2b9c-4ca7-8ece-c5c1faf5e676" correta="false" texto="Reforçar a ligação entre os centrômeros."/>
+			</questao>
+			<questao id="1ce809a6-c6e6-45bf-bcd0-c86fbf2cdf57" idaula="353a3056-3d43-49f8-980f-56d4660e9cba" enunciado="O que caracteriza um genótipo heterozigoto?" justificativa="O heterozigoto apresenta dois alelos diferentes para um mesmo gene (ex: Aa), enquanto o homozigoto possui dois alelos iguais (AA ou aa).">
+				<opcao id="092436f9-2ce9-4cfc-9872-17f04a9d128b" idquestao="1ce809a6-c6e6-45bf-bcd0-c86fbf2cdf57" correta="true" texto="Presença de dois alelos diferentes para um mesmo gene."/>
+				<opcao id="78d62e23-32c8-4093-90bb-5a4134b2dd3e" idquestao="1ce809a6-c6e6-45bf-bcd0-c86fbf2cdf57" correta="false" texto="Presença de dois alelos dominantes idênticos."/>
+				<opcao id="0e29cf1d-6a26-460d-b72b-e999fb0ac67b" idquestao="1ce809a6-c6e6-45bf-bcd0-c86fbf2cdf57" correta="false" texto="A expressão do fenótipo ser sempre recessiva."/>
+				<opcao id="723a9fc9-4f3e-4541-ac3e-e4f4efc76969" idquestao="1ce809a6-c6e6-45bf-bcd0-c86fbf2cdf57" correta="false" texto="Presença de apenas um alelo ativo."/>
+			</questao>
+			<questao id="97ebae8d-69d7-47a1-827e-0e77989fa9d9" idaula="353a3056-3d43-49f8-980f-56d4660e9cba" enunciado="Segundo a Primeira Lei de Mendel, qual afirmação é verdadeira?" justificativa="A Primeira Lei de Mendel afirma que os alelos se separam durante a formação dos gametas, cada gameta recebendo apenas um alelo.">
+				<opcao id="5db52fdd-6520-4bea-8433-8a3a0b3bac83" idquestao="97ebae8d-69d7-47a1-827e-0e77989fa9d9" correta="true" texto="Os alelos se separam durante a formação dos gametas."/>
+				<opcao id="0aade6d6-76dc-4ff4-8cf0-021300c72b8c" idquestao="97ebae8d-69d7-47a1-827e-0e77989fa9d9" correta="false" texto="Cada indivíduo herda apenas alelos dominantes."/>
+				<opcao id="5b33ce55-9951-4b84-89ac-c99f841d282e" idquestao="97ebae8d-69d7-47a1-827e-0e77989fa9d9" correta="false" texto="Os alelos se combinam apenas após o nascimento."/>
+				<opcao id="5aaa3f3c-ba06-4213-8318-bdaefe7dd77f" idquestao="97ebae8d-69d7-47a1-827e-0e77989fa9d9" correta="false" texto="Os genes não influenciam a hereditariedade."/>
+			</questao>
+			<questao id="b6468b8a-8db0-4576-9b94-66bc7ddc8fc0" idaula="353a3056-3d43-49f8-980f-56d4660e9cba" enunciado="O que é epistasia na genética?" justificativa="Epistasia ocorre quando um gene interfere na expressão de outro, podendo inibir completamente sua manifestação.">
+				<opcao id="05ef6a68-fe5b-4705-ade9-6c20803c784c" idquestao="b6468b8a-8db0-4576-9b94-66bc7ddc8fc0" correta="true" texto="Interferência de um gene na expressão de outro."/>
+				<opcao id="3f0fa690-8746-445b-94f9-c85e3b6f23cd" idquestao="b6468b8a-8db0-4576-9b94-66bc7ddc8fc0" correta="false" texto="Mistura de dois fenótipos em um heterozigoto."/>
+				<opcao id="e2d7afe5-d84c-4546-b973-06f773502539" idquestao="b6468b8a-8db0-4576-9b94-66bc7ddc8fc0" correta="false" texto="Separação dos genes em cromossomos diferentes."/>
+				<opcao id="1887fd4b-a806-4623-8b16-c632271f117e" idquestao="b6468b8a-8db0-4576-9b94-66bc7ddc8fc0" correta="false" texto="Fusão de dois genes dominantes para formar um novo."/>
+			</questao>
+			<questao id="190289e0-0957-4fec-8d5c-7a316b5b9ca3" idaula="353a3056-3d43-49f8-980f-56d4660e9cba" enunciado="Como é caracterizada a herança autossômica recessiva?" justificativa="Na herança autossômica recessiva, a característica só se manifesta se o indivíduo herdar dois alelos recessivos.">
+				<opcao id="02e04209-a1f0-482a-a833-30f3525a350a" idquestao="190289e0-0957-4fec-8d5c-7a316b5b9ca3" correta="true" texto="Manifestação apenas quando há dois alelos recessivos."/>
+				<opcao id="ff6580ca-9fcc-4d83-8744-060124115668" idquestao="190289e0-0957-4fec-8d5c-7a316b5b9ca3" correta="false" texto="Presença de um alelo dominante é suficiente."/>
+				<opcao id="17fe941c-984a-4d46-b470-b019d9bbfe15" idquestao="190289e0-0957-4fec-8d5c-7a316b5b9ca3" correta="false" texto="Sempre se manifesta em todas as gerações."/>
+				<opcao id="b1ad4b82-e7c9-464f-9306-f5378db9e160" idquestao="190289e0-0957-4fec-8d5c-7a316b5b9ca3" correta="false" texto="Afeta somente os homens."/>
+			</questao>
+			<questao id="615d4a19-7c82-4f68-b053-b65003ff4f5e" idaula="353a3056-3d43-49f8-980f-56d4660e9cba" enunciado="O que o Quadro de Punnett permite prever?" justificativa="O Quadro de Punnett ajuda a visualizar as possíveis combinações genéticas resultantes de um cruzamento.">
+				<opcao id="3117974e-add6-4048-9fd9-c67e091b7745" idquestao="615d4a19-7c82-4f68-b053-b65003ff4f5e" correta="true" texto="As combinações possíveis de genótipos em cruzamentos."/>
+				<opcao id="0258f0b5-154d-4c9c-8b5f-2afaed432857" idquestao="615d4a19-7c82-4f68-b053-b65003ff4f5e" correta="false" texto="As mutações causadas pela radiação."/>
+				<opcao id="d8e175fe-a67f-4cda-9e2d-6d2322baaabc" idquestao="615d4a19-7c82-4f68-b053-b65003ff4f5e" correta="false" texto="A frequência gênica ao longo de gerações."/>
+				<opcao id="d411f353-0f6d-4938-8fe0-bcf42fe4a4f7" idquestao="615d4a19-7c82-4f68-b053-b65003ff4f5e" correta="false" texto="O número de genes que um indivíduo possui."/>
+			</questao>
+		</aula>
+		<aula id="37420b64-05ba-4b05-9b01-c163562da48b" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="Aula 06 - Hereditariedade - 2ª lei de Mendel">
+			<questao id="0246ddf9-e4ec-48c1-a06b-50e16ee7af9c" idaula="37420b64-05ba-4b05-9b01-c163562da48b" enunciado="Qual é o princípio fundamental da Segunda Lei de Mendel?" justificativa="A Segunda Lei de Mendel afirma que os alelos de diferentes características se separam de forma independente durante a formação dos gametas.">
+				<opcao id="63b28336-f757-4659-86df-81c73294ac5a" idquestao="0246ddf9-e4ec-48c1-a06b-50e16ee7af9c" correta="true" texto="Os alelos de características diferentes se separam de forma independente."/>
+				<opcao id="c3bde30e-e556-4c75-9dfd-aa800a60e7db" idquestao="0246ddf9-e4ec-48c1-a06b-50e16ee7af9c" correta="false" texto="Todos os alelos são transmitidos juntos como um bloco."/>
+				<opcao id="08e75a91-5842-44b5-844f-5b1afd9e25ba" idquestao="0246ddf9-e4ec-48c1-a06b-50e16ee7af9c" correta="false" texto="Os alelos dominantes sempre se separam antes dos recessivos."/>
+				<opcao id="e085a151-0344-4623-ae2a-801849ed30d0" idquestao="0246ddf9-e4ec-48c1-a06b-50e16ee7af9c" correta="false" texto="A expressão de uma característica bloqueia todas as outras."/>
+			</questao>
+			<questao id="5a7ce7a2-f368-4496-b62c-929274b8e6a2" idaula="37420b64-05ba-4b05-9b01-c163562da48b" enunciado="Em que condição a Segunda Lei de Mendel pode não se aplicar?" justificativa="A lei pode falhar quando os genes estão muito próximos no mesmo cromossomo, ou seja, quando há ligação gênica.">
+				<opcao id="da6b28b7-67e1-42eb-97ea-9fb6df645458" idquestao="5a7ce7a2-f368-4496-b62c-929274b8e6a2" correta="true" texto="Quando os genes estão muito próximos no mesmo cromossomo."/>
+				<opcao id="970db110-fbdb-4285-9659-968b3c33812c" idquestao="5a7ce7a2-f368-4496-b62c-929274b8e6a2" correta="false" texto="Quando os alelos são todos recessivos."/>
+				<opcao id="947f1696-c65a-4bfb-9fea-c4120d5b2019" idquestao="5a7ce7a2-f368-4496-b62c-929274b8e6a2" correta="false" texto="Quando há mutação genética."/>
+				<opcao id="bde0e43b-b0c5-4dbe-a673-7bcd247baab4" idquestao="5a7ce7a2-f368-4496-b62c-929274b8e6a2" correta="false" texto="Quando os indivíduos são homozigotos dominantes."/>
+			</questao>
+			<questao id="f77db16c-8170-4e14-b47b-2af2a5cbc452" idaula="37420b64-05ba-4b05-9b01-c163562da48b" enunciado="Em um cruzamento diíbrido, qual a proporção fenotípica esperada segundo a Segunda Lei de Mendel?" justificativa="Em cruzamentos com dois pares de alelos independentes, a proporção fenotípica esperada é 9:3:3:1.">
+				<opcao id="298228b9-d715-4055-a21e-85d7ae71dcca" idquestao="f77db16c-8170-4e14-b47b-2af2a5cbc452" correta="true" texto="9:3:3:1"/>
+				<opcao id="79c78cfb-6837-4915-b6b9-6b29c53ca739" idquestao="f77db16c-8170-4e14-b47b-2af2a5cbc452" correta="false" texto="1:1:1:1"/>
+				<opcao id="6a3cd1ba-3ebc-4ffe-ae03-c3e6e7cb59a3" idquestao="f77db16c-8170-4e14-b47b-2af2a5cbc452" correta="false" texto="3:1"/>
+				<opcao id="0231e0ec-956d-4d51-b42d-089001d6d714" idquestao="f77db16c-8170-4e14-b47b-2af2a5cbc452" correta="false" texto="25% para cada combinação possível"/>
+			</questao>
+			<questao id="a41d2683-d825-4e1f-8f02-e08b1d9342db" idaula="37420b64-05ba-4b05-9b01-c163562da48b" enunciado="Qual é a condição necessária para que a Segunda Lei de Mendel seja válida?" justificativa="Os genes precisam estar localizados em cromossomos diferentes ou suficientemente afastados no mesmo cromossomo para se segregarem de forma independente.">
+				<opcao id="7a3d65fe-4896-46f9-91b8-c10fdd562f37" idquestao="a41d2683-d825-4e1f-8f02-e08b1d9342db" correta="true" texto="Os genes devem estar em cromossomos diferentes ou bem distantes no mesmo cromossomo."/>
+				<opcao id="1470fc26-10c1-45ce-a7a0-af3a4f2de29f" idquestao="a41d2683-d825-4e1f-8f02-e08b1d9342db" correta="false" texto="Os genes precisam estar no mesmo lócus genético."/>
+				<opcao id="6652b808-894d-4e99-818c-1770dd477d22" idquestao="a41d2683-d825-4e1f-8f02-e08b1d9342db" correta="false" texto="Os alelos devem ser todos dominantes."/>
+				<opcao id="72610857-346a-42bf-bb90-ab7539ad868e" idquestao="a41d2683-d825-4e1f-8f02-e08b1d9342db" correta="false" texto="Os gametas devem ser formados apenas por mitose."/>
+			</questao>
+			<questao id="afaf3117-7e1a-40f0-8cee-4ca137d83a55" idaula="37420b64-05ba-4b05-9b01-c163562da48b" enunciado="O que ocorre durante a formação dos gametas segundo a Segunda Lei de Mendel?" justificativa="Durante a meiose, os alelos de diferentes características se distribuem aleatoriamente nos gametas, gerando diversas combinações genéticas.">
+				<opcao id="c564230a-bd6a-48a7-a954-cac9979a6670" idquestao="afaf3117-7e1a-40f0-8cee-4ca137d83a55" correta="true" texto="Os alelos se distribuem aleatoriamente e formam novas combinações."/>
+				<opcao id="1556f008-bbc7-4cc6-a06c-d11037af270b" idquestao="afaf3117-7e1a-40f0-8cee-4ca137d83a55" correta="false" texto="Cada gameta recebe todos os alelos dominantes."/>
+				<opcao id="b773c3ca-fcfd-417d-9f0d-b3667fd42983" idquestao="afaf3117-7e1a-40f0-8cee-4ca137d83a55" correta="false" texto="Os alelos se duplicam para manter a herança pura."/>
+				<opcao id="8dfee28f-5455-4291-a616-e85d0d0ce192" idquestao="afaf3117-7e1a-40f0-8cee-4ca137d83a55" correta="false" texto="Os gametas são formados com o mesmo genótipo dos pais."/>
+			</questao>
+			<questao id="ae4a8170-6013-457a-8fa8-b3f844297d82" idaula="37420b64-05ba-4b05-9b01-c163562da48b" enunciado="Como a Segunda Lei de Mendel contribui para a variabilidade genética?" justificativa="Ao permitir a combinação aleatória de alelos de diferentes características, a lei aumenta as possibilidades de genótipos e fenótipos na descendência.">
+				<opcao id="e3826f88-0da0-42eb-b404-e29a915467ba" idquestao="ae4a8170-6013-457a-8fa8-b3f844297d82" correta="true" texto="Aumenta a combinação aleatória de alelos diferentes durante a meiose."/>
+				<opcao id="1f3bf43a-845c-4f18-b634-e0e08cdf0201" idquestao="ae4a8170-6013-457a-8fa8-b3f844297d82" correta="false" texto="Garante a expressão exclusiva dos alelos dominantes."/>
+				<opcao id="186326f4-921c-43ee-81ed-2f3f688e8477" idquestao="ae4a8170-6013-457a-8fa8-b3f844297d82" correta="false" texto="Limita o número de combinações possíveis de genes."/>
+				<opcao id="6af61e98-0049-46c7-8b70-3a0918f8c4fe" idquestao="ae4a8170-6013-457a-8fa8-b3f844297d82" correta="false" texto="Elimina as características recessivas da população."/>
+			</questao>
+		</aula>
+		<aula id="c50e7209-6e7b-4c13-96c2-0a746e2902f2" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="Aula 07 - Probabilidade e Análise de Heredograma">
+			<questao id="9a5f202d-beaf-4642-a391-79dd3b9b8b46" idaula="c50e7209-6e7b-4c13-96c2-0a746e2902f2" enunciado="O que representa uma probabilidade igual a 1?" justificativa="Probabilidade 1 representa certeza absoluta de que o evento ocorrerá. É o valor máximo na escala de probabilidade.">
+				<opcao id="c0f8ee01-2c93-43af-941a-7af312a6b7d2" idquestao="9a5f202d-beaf-4642-a391-79dd3b9b8b46" correta="true" texto="O evento é certo de acontecer."/>
+				<opcao id="d1ae7886-a5a7-441d-ace0-fc9be162fb06" idquestao="9a5f202d-beaf-4642-a391-79dd3b9b8b46" correta="false" texto="O evento é impossível de acontecer."/>
+				<opcao id="a45b3b34-eb56-4ece-af1c-c8a8c37e0097" idquestao="9a5f202d-beaf-4642-a391-79dd3b9b8b46" correta="false" texto="O evento tem 50% de chance de ocorrer."/>
+				<opcao id="88e83e1e-0b02-40d9-8d3c-95028e193a73" idquestao="9a5f202d-beaf-4642-a391-79dd3b9b8b46" correta="false" texto="O evento depende de outro para acontecer."/>
+			</questao>
+			<questao id="fa2fff58-e893-4409-b3e1-0e3e7c2ec9cc" idaula="c50e7209-6e7b-4c13-96c2-0a746e2902f2" enunciado="Quando devemos utilizar a regra do 'E' em probabilidade?" justificativa="A regra do 'E' é usada quando queremos que dois eventos independentes ocorram juntos. Multiplicamos as probabilidades.">
+				<opcao id="487325e6-773d-423a-8984-eb9560080e48" idquestao="fa2fff58-e893-4409-b3e1-0e3e7c2ec9cc" correta="true" texto="Quando queremos saber a chance de dois eventos independentes acontecerem juntos."/>
+				<opcao id="9f51a36a-3f0a-4997-8401-57b466f16db5" idquestao="fa2fff58-e893-4409-b3e1-0e3e7c2ec9cc" correta="false" texto="Quando os eventos são mutuamente exclusivos."/>
+				<opcao id="02264073-e707-4403-be4b-67f2ca314f8b" idquestao="fa2fff58-e893-4409-b3e1-0e3e7c2ec9cc" correta="false" texto="Quando temos apenas um evento com duas possibilidades."/>
+				<opcao id="b708c4e3-d33d-4d72-9d3c-82b33cb583a7" idquestao="fa2fff58-e893-4409-b3e1-0e3e7c2ec9cc" correta="false" texto="Quando a chance de um evento depende do outro."/>
+			</questao>
+			<questao id="d9aa4508-6f63-4eec-91a6-74d68470c8b4" idaula="c50e7209-6e7b-4c13-96c2-0a746e2902f2" enunciado="Qual a chance de sair cara duas vezes ao lançar uma moeda duas vezes?" justificativa="A chance de sair cara em cada lançamento é 0,5. Para dois lançamentos: 0,5 × 0,5 = 0,25, ou seja, 25%.">
+				<opcao id="1ce4d0d1-a111-4dd3-8cfb-eafc98955043" idquestao="d9aa4508-6f63-4eec-91a6-74d68470c8b4" correta="true" texto="25%"/>
+				<opcao id="78d5b7c9-53b1-419c-8476-e64f700a2ee6" idquestao="d9aa4508-6f63-4eec-91a6-74d68470c8b4" correta="false" texto="50%"/>
+				<opcao id="8f4ef62c-6f7c-41e3-a266-7bb06148f899" idquestao="d9aa4508-6f63-4eec-91a6-74d68470c8b4" correta="false" texto="75%"/>
+				<opcao id="67df9037-f440-4707-9dc9-dae1fda5851b" idquestao="d9aa4508-6f63-4eec-91a6-74d68470c8b4" correta="false" texto="100%"/>
+			</questao>
+			<questao id="1f71f130-dc98-49f9-9504-cdb2f623fa74" idaula="c50e7209-6e7b-4c13-96c2-0a746e2902f2" enunciado="Em qual situação usamos a regra do 'OU' em probabilidade?" justificativa="A regra do 'OU' se aplica quando estamos lidando com eventos que não ocorrem juntos. Somamos suas probabilidades.">
+				<opcao id="15c485d5-6ab9-45ce-9e9a-0ecb2dc62ed0" idquestao="1f71f130-dc98-49f9-9504-cdb2f623fa74" correta="true" texto="Quando falamos de eventos que não podem ocorrer ao mesmo tempo."/>
+				<opcao id="780c3b71-1297-4659-864e-860b7de1553e" idquestao="1f71f130-dc98-49f9-9504-cdb2f623fa74" correta="false" texto="Quando os eventos são dependentes."/>
+				<opcao id="db1830f7-0ac1-43ce-9863-c77388f54b45" idquestao="1f71f130-dc98-49f9-9504-cdb2f623fa74" correta="false" texto="Quando se deseja saber a chance de um evento repetido."/>
+				<opcao id="77ea5726-afda-4e90-afc6-c1ab7440bdb3" idquestao="1f71f130-dc98-49f9-9504-cdb2f623fa74" correta="false" texto="Quando os eventos são simultâneos e complementares."/>
+			</questao>
+			<questao id="f93fb50b-1522-4058-a544-9781da21ca0f" idaula="c50e7209-6e7b-4c13-96c2-0a746e2902f2" enunciado="Qual a principal característica da herança dominante em heredogramas?" justificativa="Na herança dominante, a característica geralmente aparece em todas as gerações e basta um alelo dominante para se manifestar.">
+				<opcao id="2cac236c-b07f-425d-b721-51c9764dc2de" idquestao="f93fb50b-1522-4058-a544-9781da21ca0f" correta="true" texto="A característica aparece em todas as gerações e basta um alelo dominante."/>
+				<opcao id="e76f4e1d-8d84-4095-b4ac-9e6504d4bc8c" idquestao="f93fb50b-1522-4058-a544-9781da21ca0f" correta="false" texto="A característica só aparece quando ambos os pais são afetados."/>
+				<opcao id="150b08bd-7171-43ee-ae27-2ec8e4af923a" idquestao="f93fb50b-1522-4058-a544-9781da21ca0f" correta="false" texto="A característica aparece em poucas gerações e sempre pula uma."/>
+				<opcao id="26e231c8-376a-419c-8b5f-b99cbca0f67d" idquestao="f93fb50b-1522-4058-a544-9781da21ca0f" correta="false" texto="A manifestação exige dois alelos dominantes."/>
+			</questao>
+			<questao id="69c822c3-5830-4dc6-a6cb-69872dad3a27" idaula="c50e7209-6e7b-4c13-96c2-0a746e2902f2" enunciado="Qual genótipo manifesta uma condição genética recessiva?" justificativa="Condições recessivas só se manifestam quando o indivíduo tem dois alelos recessivos (aa).">
+				<opcao id="68d4b9c5-2b79-4aa5-8520-7f56179ed30b" idquestao="69c822c3-5830-4dc6-a6cb-69872dad3a27" correta="true" texto="aa"/>
+				<opcao id="086a0373-7493-4c4e-a6a6-5317a6865173" idquestao="69c822c3-5830-4dc6-a6cb-69872dad3a27" correta="false" texto="AA"/>
+				<opcao id="a25ac829-e1bf-49f2-8d90-c5bdaf2bbd01" idquestao="69c822c3-5830-4dc6-a6cb-69872dad3a27" correta="false" texto="Aa"/>
+				<opcao id="4d5429eb-333a-44cf-b8f0-bc684a60f917" idquestao="69c822c3-5830-4dc6-a6cb-69872dad3a27" correta="false" texto="AA ou Aa"/>
+			</questao>
+		</aula>
+		<aula id="a945ceca-8ca8-4b2d-b045-039f01f2ad49" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="Aula 08 - Sistema ABO e Fator Rh">
+			<questao id="544d739a-b7c4-4ba3-a828-7233a74f5dab" idaula="a945ceca-8ca8-4b2d-b045-039f01f2ad49" enunciado="Quais são os quatro grupos sanguíneos do sistema ABO?" justificativa="Os quatro grupos sanguíneos humanos do sistema ABO são A, B, AB e O, definidos pela presença de antígenos nas hemácias.">
+				<opcao id="3b5c1d3f-2dc2-43c7-8ea5-8411f99b0382" idquestao="544d739a-b7c4-4ba3-a828-7233a74f5dab" correta="true" texto="A, B, AB e O"/>
+				<opcao id="f9ef55f6-3dda-4023-ac4a-c38af9f1e95e" idquestao="544d739a-b7c4-4ba3-a828-7233a74f5dab" correta="false" texto="A, B, O e OO"/>
+				<opcao id="5cadac1e-591e-4733-9ade-7237b4bcbf83" idquestao="544d739a-b7c4-4ba3-a828-7233a74f5dab" correta="false" texto="AB, AO, BO e OO"/>
+				<opcao id="7423ca3a-d911-46a9-86f8-9b4950a444e8" idquestao="544d739a-b7c4-4ba3-a828-7233a74f5dab" correta="false" texto="A, AB, O e AO"/>
+			</questao>
+			<questao id="ac601977-b5d2-4c6e-ae84-50ebbab350b2" idaula="a945ceca-8ca8-4b2d-b045-039f01f2ad49" enunciado="Qual é o genótipo de uma pessoa do grupo sanguíneo O?" justificativa="Para ser do grupo O, o indivíduo precisa herdar dois alelos recessivos, ou seja, seu genótipo é ii.">
+				<opcao id="0b6e1e43-e357-4b36-a265-d2ef271091c0" idquestao="ac601977-b5d2-4c6e-ae84-50ebbab350b2" correta="true" texto="ii"/>
+				<opcao id="8e16bf52-8419-4cb8-872c-4af3ae25c3d4" idquestao="ac601977-b5d2-4c6e-ae84-50ebbab350b2" correta="false" texto="IAIB"/>
+				<opcao id="a585f285-b4d3-45ee-b03d-4aea94f94055" idquestao="ac601977-b5d2-4c6e-ae84-50ebbab350b2" correta="false" texto="IAi"/>
+				<opcao id="57ebb17e-d26a-469f-9781-202fb4a77bb2" idquestao="ac601977-b5d2-4c6e-ae84-50ebbab350b2" correta="false" texto="IBIB"/>
+			</questao>
+			<questao id="40e13be1-430e-4803-b9c6-f92c81fdcda4" idaula="a945ceca-8ca8-4b2d-b045-039f01f2ad49" enunciado="Qual grupo sanguíneo é considerado doador universal?" justificativa="O grupo O é doador universal porque suas hemácias não possuem antígenos, evitando reações imunológicas em receptores.">
+				<opcao id="e9f0c3b8-ef59-458d-8898-1ec2c0f323a2" idquestao="40e13be1-430e-4803-b9c6-f92c81fdcda4" correta="true" texto="O"/>
+				<opcao id="01f734f9-0487-4f30-8d98-1bd8856ba17e" idquestao="40e13be1-430e-4803-b9c6-f92c81fdcda4" correta="false" texto="A"/>
+				<opcao id="0d960610-8e0d-435c-80f1-41f266703158" idquestao="40e13be1-430e-4803-b9c6-f92c81fdcda4" correta="false" texto="B"/>
+				<opcao id="60981283-98e4-4630-ba66-476b7061234b" idquestao="40e13be1-430e-4803-b9c6-f92c81fdcda4" correta="false" texto="AB"/>
+			</questao>
+			<questao id="9fcc5836-8f84-4b44-a12f-0abfe5fbaf7c" idaula="a945ceca-8ca8-4b2d-b045-039f01f2ad49" enunciado="Qual grupo sanguíneo é considerado receptor universal?" justificativa="O grupo AB é receptor universal porque não possui anticorpos no plasma, podendo receber sangue de qualquer grupo.">
+				<opcao id="4e01914c-79ca-41fd-be2f-54ad8a50accc" idquestao="9fcc5836-8f84-4b44-a12f-0abfe5fbaf7c" correta="true" texto="AB"/>
+				<opcao id="1197ee52-fc8f-4d46-b664-b776bff16715" idquestao="9fcc5836-8f84-4b44-a12f-0abfe5fbaf7c" correta="false" texto="A"/>
+				<opcao id="1473b479-c03b-4a97-8570-f96b57f19fba" idquestao="9fcc5836-8f84-4b44-a12f-0abfe5fbaf7c" correta="false" texto="B"/>
+				<opcao id="b4cb5f44-ed6c-45cf-8da6-9133d85a60d6" idquestao="9fcc5836-8f84-4b44-a12f-0abfe5fbaf7c" correta="false" texto="O"/>
+			</questao>
+			<questao id="45adff02-30e7-4c00-89ee-6c76de296637" idaula="a945ceca-8ca8-4b2d-b045-039f01f2ad49" enunciado="Quais alelos estão envolvidos no sistema ABO?" justificativa="O sistema ABO envolve três alelos: IA, IB e i. Os dois primeiros são codominantes e o terceiro é recessivo.">
+				<opcao id="31a6a596-148d-48c2-8ee1-7051083e2b73" idquestao="45adff02-30e7-4c00-89ee-6c76de296637" correta="true" texto="IA, IB e i"/>
+				<opcao id="d8af4126-6f8c-4116-9c8e-8f6796e95889" idquestao="45adff02-30e7-4c00-89ee-6c76de296637" correta="false" texto="A, B e O"/>
+				<opcao id="f187be6c-fd1f-4201-8570-e6de387743d4" idquestao="45adff02-30e7-4c00-89ee-6c76de296637" correta="false" texto="IA, IB e IO"/>
+				<opcao id="db7bf10c-b89b-431b-aacc-c1b67e6a95ac" idquestao="45adff02-30e7-4c00-89ee-6c76de296637" correta="false" texto="AA, BB e ii"/>
+			</questao>
+			<questao id="778550d7-dc34-40b0-b48e-6dfef0a281bb" idaula="a945ceca-8ca8-4b2d-b045-039f01f2ad49" enunciado="O que caracteriza o fator Rh positivo?" justificativa="O fator Rh positivo é caracterizado pela presença do antígeno Rh na superfície das hemácias, resultante dos genótipos RR ou Rr.">
+				<opcao id="a0fca367-1133-4b9b-a2e5-42dc2361d68c" idquestao="778550d7-dc34-40b0-b48e-6dfef0a281bb" correta="true" texto="Presença do antígeno Rh nas hemácias"/>
+				<opcao id="c964119a-61ba-4f98-b6cb-0503500e2b26" idquestao="778550d7-dc34-40b0-b48e-6dfef0a281bb" correta="false" texto="Ausência do antígeno Rh"/>
+				<opcao id="740764e9-0f0f-4979-9e1a-3f7ad268f66e" idquestao="778550d7-dc34-40b0-b48e-6dfef0a281bb" correta="false" texto="Presença dos anticorpos anti-Rh"/>
+				<opcao id="b0ed9481-061b-4c70-b45b-ddcedcb5db96" idquestao="778550d7-dc34-40b0-b48e-6dfef0a281bb" correta="false" texto="Genótipo rr"/>
+			</questao>
+			<questao id="db927188-4d72-4223-9ae1-8a2ec7fdd7b2" idaula="a945ceca-8ca8-4b2d-b045-039f01f2ad49" enunciado="Qual genótipo representa uma pessoa Rh negativa?" justificativa="Pessoas Rh negativas possuem o genótipo rr, que indica ausência do antígeno Rh nas hemácias.">
+				<opcao id="47b2f57f-3ad2-4072-a4da-fb54dd91275a" idquestao="db927188-4d72-4223-9ae1-8a2ec7fdd7b2" correta="true" texto="rr"/>
+				<opcao id="37325d0e-4fb6-44d9-b31e-1bd7c29dc6a8" idquestao="db927188-4d72-4223-9ae1-8a2ec7fdd7b2" correta="false" texto="RR"/>
+				<opcao id="bb66984f-45f4-4344-9396-6adde545d90e" idquestao="db927188-4d72-4223-9ae1-8a2ec7fdd7b2" correta="false" texto="Rr"/>
+				<opcao id="218231e4-b419-4d2e-afaf-86a1f475efa9" idquestao="db927188-4d72-4223-9ae1-8a2ec7fdd7b2" correta="false" texto="Rr ou RR"/>
+			</questao>
+			<questao id="908c74b0-c2b1-4e4a-8983-4751ee559554" idaula="a945ceca-8ca8-4b2d-b045-039f01f2ad49" enunciado="O que pode causar a eritroblastose fetal?" justificativa="A eritroblastose fetal ocorre quando uma mãe Rh negativa gera um filho Rh positivo e produz anticorpos que atacam as hemácias do feto.">
+				<opcao id="ef5d9d04-3c4b-4447-9f32-46a08ff3cf4e" idquestao="908c74b0-c2b1-4e4a-8983-4751ee559554" correta="true" texto="Incompatibilidade entre mãe Rh- e feto Rh+"/>
+				<opcao id="2b3bc578-a099-4af2-a099-cb360b371365" idquestao="908c74b0-c2b1-4e4a-8983-4751ee559554" correta="false" texto="Transfusão de sangue tipo O para AB"/>
+				<opcao id="2e8a37f9-a6c1-461f-992d-eb107cda8f7a" idquestao="908c74b0-c2b1-4e4a-8983-4751ee559554" correta="false" texto="Infecção por vírus Rh"/>
+				<opcao id="dae5d7f7-b3fc-477b-966f-38f4736f2835" idquestao="908c74b0-c2b1-4e4a-8983-4751ee559554" correta="false" texto="Produção de excesso de bilirrubina pela mãe"/>
+			</questao>
+			<questao id="87321455-8780-4f8b-be2f-414974c98d10" idaula="a945ceca-8ca8-4b2d-b045-039f01f2ad49" enunciado="Qual das seguintes combinações pode gerar um filho com sangue do tipo O?" justificativa="Pais com genótipos IAi e IBi podem gerar um filho com genótipo ii, resultando em sangue tipo O.">
+				<opcao id="8d397189-f727-41ee-a350-a9842679383d" idquestao="87321455-8780-4f8b-be2f-414974c98d10" correta="true" texto="A (IAi) x B (IBi)"/>
+				<opcao id="01324d9b-b99e-4aee-9a5c-139f146af8d2" idquestao="87321455-8780-4f8b-be2f-414974c98d10" correta="false" texto="AB x AB"/>
+				<opcao id="62c0084c-d53c-41e7-958a-4134e8db2b01" idquestao="87321455-8780-4f8b-be2f-414974c98d10" correta="false" texto="A (IAIA) x AB"/>
+				<opcao id="1bd66119-6ef4-4a5f-94a7-93f816c215c7" idquestao="87321455-8780-4f8b-be2f-414974c98d10" correta="false" texto="B (IBIB) x AB"/>
+			</questao>
+			<questao id="5b489773-6793-4384-839a-d1c80ccf3cfc" idaula="a945ceca-8ca8-4b2d-b045-039f01f2ad49" enunciado="Qual é a porcentagem de filhos Rh+ em um cruzamento Rr x Rr?" justificativa="O cruzamento entre dois indivíduos Rr gera 75% de chance de Rh+ (RR ou Rr) e 25% de Rh- (rr).">
+				<opcao id="94317dab-98cb-4fee-91d0-c9a973eb1d10" idquestao="5b489773-6793-4384-839a-d1c80ccf3cfc" correta="true" texto="75%"/>
+				<opcao id="4c42a967-a0d8-43d4-a6c7-2433a60421dd" idquestao="5b489773-6793-4384-839a-d1c80ccf3cfc" correta="false" texto="25%"/>
+				<opcao id="deba99da-7de1-4a62-bbc0-f297f9e1fe1c" idquestao="5b489773-6793-4384-839a-d1c80ccf3cfc" correta="false" texto="50%"/>
+				<opcao id="603c69ba-951e-4be0-99a6-2bffb2316de4" idquestao="5b489773-6793-4384-839a-d1c80ccf3cfc" correta="false" texto="100%"/>
+			</questao>
+			<questao id="cde461f3-8fa7-41af-936b-3475d4c124d9" idaula="a945ceca-8ca8-4b2d-b045-039f01f2ad49" enunciado="Qual anticorpo está presente em uma pessoa do grupo B?" justificativa="Pessoas do grupo sanguíneo B possuem anticorpos anti-A em seu plasma.">
+				<opcao id="b45d35c1-9b26-49e3-b388-aaf0e4b524c1" idquestao="cde461f3-8fa7-41af-936b-3475d4c124d9" correta="true" texto="Anti-A"/>
+				<opcao id="16106d2a-3c6f-425b-b416-98a3fa125a47" idquestao="cde461f3-8fa7-41af-936b-3475d4c124d9" correta="false" texto="Anti-B"/>
+				<opcao id="f96179f4-6a4c-422e-9538-cfe86fb7e4ff" idquestao="cde461f3-8fa7-41af-936b-3475d4c124d9" correta="false" texto="Anti-AB"/>
+				<opcao id="86bc0136-9d22-426d-a35e-44101f04730e" idquestao="cde461f3-8fa7-41af-936b-3475d4c124d9" correta="false" texto="Nenhum"/>
+			</questao>
+			<questao id="9c274c85-02d6-4dab-acfd-af13cae9727e" idaula="a945ceca-8ca8-4b2d-b045-039f01f2ad49" enunciado="Qual dos seguintes indivíduos pode ser receptor universal?" justificativa="Indivíduos do grupo AB não possuem anticorpos no plasma, podendo receber sangue de qualquer grupo.">
+				<opcao id="c00362b5-abdb-4dd7-b3ec-9aa8b7d9a8de" idquestao="9c274c85-02d6-4dab-acfd-af13cae9727e" correta="true" texto="Indivíduo com sangue AB"/>
+				<opcao id="626cb358-2ba8-4ff2-8db5-b6d6ba6ac841" idquestao="9c274c85-02d6-4dab-acfd-af13cae9727e" correta="false" texto="Indivíduo com sangue O"/>
+				<opcao id="35bc9136-7ccc-453f-9f1f-294543e02ebe" idquestao="9c274c85-02d6-4dab-acfd-af13cae9727e" correta="false" texto="Indivíduo com sangue A"/>
+				<opcao id="0c87478d-4c59-4d27-a345-38ca77063cee" idquestao="9c274c85-02d6-4dab-acfd-af13cae9727e" correta="false" texto="Indivíduo com sangue B"/>
+			</questao>
+		</aula>
+		<aula id="498b96a1-b91e-48ca-8f1d-d6ac767a5597" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="Aula 09 - Epigenética aplicada a psicologia">
+			<questao id="e7ea5e0b-985e-4adb-9e53-c42a73e07f57" idaula="498b96a1-b91e-48ca-8f1d-d6ac767a5597" enunciado="O que a epigenética estuda?" justificativa="A epigenética estuda alterações na expressão dos genes sem alterar a sequência do DNA, ou seja, sem mutação.">
+				<opcao id="13034dd4-d6d5-44e4-bf9a-c12cf069bf13" idquestao="e7ea5e0b-985e-4adb-9e53-c42a73e07f57" correta="true" texto="Mudanças na expressão gênica sem alteração da sequência de DNA."/>
+				<opcao id="4fdfb92a-de98-4f91-8e02-34a2659a2a84" idquestao="e7ea5e0b-985e-4adb-9e53-c42a73e07f57" correta="false" texto="A estrutura das proteínas geradas por genes."/>
+				<opcao id="acff640e-1a3c-4574-874d-cf5218860d3d" idquestao="e7ea5e0b-985e-4adb-9e53-c42a73e07f57" correta="false" texto="As mutações genéticas transmitidas por gerações."/>
+				<opcao id="cc5ada77-7906-45a9-affc-c07c0cef5d45" idquestao="e7ea5e0b-985e-4adb-9e53-c42a73e07f57" correta="false" texto="A replicação do DNA durante a divisão celular."/>
+			</questao>
+			<questao id="d4a76a61-9232-415b-a55f-c525b1239f7a" idaula="498b96a1-b91e-48ca-8f1d-d6ac767a5597" enunciado="Qual das alternativas é um mecanismo epigenético?" justificativa="Metilação do DNA, modificação de histonas e RNA não codificante são os principais mecanismos epigenéticos.">
+				<opcao id="66b80c3a-8118-45b8-aacd-b65fc8c2dfea" idquestao="d4a76a61-9232-415b-a55f-c525b1239f7a" correta="true" texto="Metilação do DNA."/>
+				<opcao id="d37f0253-81a3-4eaa-81e7-1771234ae14f" idquestao="d4a76a61-9232-415b-a55f-c525b1239f7a" correta="false" texto="Duplicação gênica."/>
+				<opcao id="5c6780f2-7dac-46b4-9c48-133c5048005d" idquestao="d4a76a61-9232-415b-a55f-c525b1239f7a" correta="false" texto="Mutação pontual."/>
+				<opcao id="b1cb99b0-d100-4a90-915a-fffdb008716e" idquestao="d4a76a61-9232-415b-a55f-c525b1239f7a" correta="false" texto="Recombinação cromossômica."/>
+			</questao>
+			<questao id="bd3c1a8c-6df4-427a-b57e-bb510ff2bdef" idaula="498b96a1-b91e-48ca-8f1d-d6ac767a5597" enunciado="O que acontece com um gene após a metilação do DNA?" justificativa="A metilação geralmente torna os genes inativos, impedindo sua expressão.">
+				<opcao id="da9df6f6-54cc-4aeb-bb5e-c7581762e37e" idquestao="bd3c1a8c-6df4-427a-b57e-bb510ff2bdef" correta="true" texto="O gene é inativado."/>
+				<opcao id="cf94bba8-a194-4bde-a210-0eee3b12bfc9" idquestao="bd3c1a8c-6df4-427a-b57e-bb510ff2bdef" correta="false" texto="O gene sofre mutação."/>
+				<opcao id="b76b4fd2-9bef-4095-b259-d367f73fa320" idquestao="bd3c1a8c-6df4-427a-b57e-bb510ff2bdef" correta="false" texto="O gene é duplicado."/>
+				<opcao id="a15ceef0-89bc-4812-823c-6db23b33f362" idquestao="bd3c1a8c-6df4-427a-b57e-bb510ff2bdef" correta="false" texto="O gene é expresso em excesso."/>
+			</questao>
+			<questao id="0a698a61-dc7c-4d40-831d-4d730315a4e5" idaula="498b96a1-b91e-48ca-8f1d-d6ac767a5597" enunciado="Qual efeito a acetilação das histonas tem sobre a expressão gênica?" justificativa="A acetilação deixa o DNA mais acessível, facilitando a transcrição e aumentando a expressão gênica.">
+				<opcao id="c0f9c129-cd4a-4ee2-992f-3510f8f950d3" idquestao="0a698a61-dc7c-4d40-831d-4d730315a4e5" correta="true" texto="Facilita a ativação dos genes."/>
+				<opcao id="babf73b0-da9f-45b7-a594-74e414e12123" idquestao="0a698a61-dc7c-4d40-831d-4d730315a4e5" correta="false" texto="Inativa permanentemente os genes."/>
+				<opcao id="8df916cf-2c2c-4d95-ad94-7c2f4407a8e7" idquestao="0a698a61-dc7c-4d40-831d-4d730315a4e5" correta="false" texto="Induz a duplicação gênica."/>
+				<opcao id="b2260f5a-1b55-43be-bc1c-2866e8c4db47" idquestao="0a698a61-dc7c-4d40-831d-4d730315a4e5" correta="false" texto="Bloqueia a transcrição do RNA."/>
+			</questao>
+			<questao id="462bf270-7964-43cb-93e4-823d8502e80e" idaula="498b96a1-b91e-48ca-8f1d-d6ac767a5597" enunciado="O que é o eixo HPA?" justificativa="O eixo HPA (hipotálamo-pituitária-adrenal) regula a resposta ao estresse e é afetado por experiências precoces como os cuidados maternais.">
+				<opcao id="9eeb0d7d-e384-4d86-9f50-4f4f6c4c6d0a" idquestao="462bf270-7964-43cb-93e4-823d8502e80e" correta="true" texto="Sistema neuroendócrino que regula a resposta ao estresse."/>
+				<opcao id="2e1754a6-8647-49ac-9a34-881081a891a9" idquestao="462bf270-7964-43cb-93e4-823d8502e80e" correta="false" texto="Sistema responsável pela divisão celular."/>
+				<opcao id="b8e5f4c2-0a90-43ed-89b8-c441d8db2f17" idquestao="462bf270-7964-43cb-93e4-823d8502e80e" correta="false" texto="Grupo de genes que controlam o sono."/>
+				<opcao id="89cca7e5-33a0-41b5-802d-6518be072b0a" idquestao="462bf270-7964-43cb-93e4-823d8502e80e" correta="false" texto="Sistema de defesa imunológica contra vírus."/>
+			</questao>
+			<questao id="33c56ee9-3486-4ff7-b847-9756030855e5" idaula="498b96a1-b91e-48ca-8f1d-d6ac767a5597" enunciado="Como os cuidados maternais influenciam a resposta ao estresse na prole?" justificativa="Cuidados maternais afetam a regulação epigenética de genes ligados ao estresse, como receptores de glicocorticoides.">
+				<opcao id="d619be12-4af5-4141-8ac6-b22e511452d4" idquestao="33c56ee9-3486-4ff7-b847-9756030855e5" correta="true" texto="Alteram a expressão de genes reguladores da resposta ao estresse."/>
+				<opcao id="6ea957bb-3e41-4425-af05-38ac36048747" idquestao="33c56ee9-3486-4ff7-b847-9756030855e5" correta="false" texto="Causam mutações permanentes no DNA da prole."/>
+				<opcao id="18fbe430-bbf8-48c8-a521-132c10d8bed5" idquestao="33c56ee9-3486-4ff7-b847-9756030855e5" correta="false" texto="Diminuem a produção de neurotransmissores."/>
+				<opcao id="ab591338-7cdc-4cb1-8ceb-c336866a946a" idquestao="33c56ee9-3486-4ff7-b847-9756030855e5" correta="false" texto="Inibem o crescimento neuronal no hipocampo."/>
+			</questao>
+			<questao id="98658fd3-7664-4367-849e-97ebe9658d82" idaula="498b96a1-b91e-48ca-8f1d-d6ac767a5597" enunciado="O que ocorre com os filhotes de mães com altas taxas de cuidado materno?" justificativa="Apresentam menor ativação do eixo HPA, maior resiliência ao estresse e melhor desenvolvimento emocional.">
+				<opcao id="82d028dc-e900-48fe-b555-a99df51160d9" idquestao="98658fd3-7664-4367-849e-97ebe9658d82" correta="true" texto="Maior resiliência ao estresse e menor ativação do eixo HPA."/>
+				<opcao id="5efa4a1f-bec9-4961-b88e-fd70936d15dd" idquestao="98658fd3-7664-4367-849e-97ebe9658d82" correta="false" texto="Maior vulnerabilidade ao estresse."/>
+				<opcao id="edd72442-295b-4362-b042-28fcb47e8e8f" idquestao="98658fd3-7664-4367-849e-97ebe9658d82" correta="false" texto="Baixa produção de GABA."/>
+				<opcao id="f0f12354-6434-401d-a50a-08fa0ed460a7" idquestao="98658fd3-7664-4367-849e-97ebe9658d82" correta="false" texto="Menor número de receptores GABA."/>
+			</questao>
+			<questao id="b5fa613f-5b61-45d7-9147-6a1c5fab226d" idaula="498b96a1-b91e-48ca-8f1d-d6ac767a5597" enunciado="Como o estresse crônico afeta o cérebro?" justificativa="O estresse crônico pode alterar receptores de GABA, aumentar a liberação de CRF e prejudicar a homeostase.">
+				<opcao id="423ead13-f458-40a6-a477-a39d8f2ac24c" idquestao="b5fa613f-5b61-45d7-9147-6a1c5fab226d" correta="true" texto="Pode desregular receptores e aumentar vulnerabilidade ao estresse."/>
+				<opcao id="c96b0fd4-41dd-45e8-abc7-abe1b6bdd156" idquestao="b5fa613f-5b61-45d7-9147-6a1c5fab226d" correta="false" texto="Reduz completamente a atividade do eixo HPA."/>
+				<opcao id="cc5964bf-bedc-4c5d-a6b7-44c9849a4598" idquestao="b5fa613f-5b61-45d7-9147-6a1c5fab226d" correta="false" texto="Aumenta a produção de RNA mensageiro em todas as áreas."/>
+				<opcao id="0a4a9d7d-521e-4859-b52d-d46b3669b54d" idquestao="b5fa613f-5b61-45d7-9147-6a1c5fab226d" correta="false" texto="Impede a liberação de glicocorticoides."/>
+			</questao>
+		</aula>
+		<aula id="7d83daea-9988-494d-aa5b-f27b03de6f39" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="Aula 10 - Anomalias cromossômicas numéricas e estruturais">
+			<questao id="b26559a9-dcc1-4b7f-b6ae-29f5a78cdf26" idaula="7d83daea-9988-494d-aa5b-f27b03de6f39" enunciado="O que são anomalias cromossômicas?" justificativa="São alterações na quantidade ou na estrutura dos cromossomos, podendo afetar o desenvolvimento e funcionamento do organismo.">
+				<opcao id="0ff265e9-d416-4993-b43a-9e90fed7fce4" idquestao="b26559a9-dcc1-4b7f-b6ae-29f5a78cdf26" correta="true" texto="Alterações na quantidade ou estrutura dos cromossomos."/>
+				<opcao id="e82a22e5-9abf-4a48-8409-8948736ba100" idquestao="b26559a9-dcc1-4b7f-b6ae-29f5a78cdf26" correta="false" texto="Erros na sequência de bases nitrogenadas."/>
+				<opcao id="6533d615-2ad3-40c9-8339-7358a0d11975" idquestao="b26559a9-dcc1-4b7f-b6ae-29f5a78cdf26" correta="false" texto="Mudanças no tipo de proteína produzida."/>
+				<opcao id="baff4df2-5551-47f6-ad75-4e383043af51" idquestao="b26559a9-dcc1-4b7f-b6ae-29f5a78cdf26" correta="false" texto="Mutação de RNA mensageiro."/>
+			</questao>
+			<questao id="4865499f-b1a2-4903-b926-d88eb0486c34" idaula="7d83daea-9988-494d-aa5b-f27b03de6f39" enunciado="Qual é a principal causa da síndrome de Down?" justificativa="A síndrome de Down é causada por trissomia do cromossomo 21, resultando em 47 cromossomos.">
+				<opcao id="c6276d7c-0482-428b-87ea-5be3f7a99104" idquestao="4865499f-b1a2-4903-b926-d88eb0486c34" correta="true" texto="Trissomia do cromossomo 21."/>
+				<opcao id="8cf92507-dec7-434b-aa2b-b067bb0177a3" idquestao="4865499f-b1a2-4903-b926-d88eb0486c34" correta="false" texto="Duplicação do cromossomo X."/>
+				<opcao id="daf9f2da-69bb-48b8-af1b-1afda9cda59d" idquestao="4865499f-b1a2-4903-b926-d88eb0486c34" correta="false" texto="Deleção do cromossomo 18."/>
+				<opcao id="bfc99cbb-3977-46f7-b5d1-47b0e687ea5a" idquestao="4865499f-b1a2-4903-b926-d88eb0486c34" correta="false" texto="Mutação no gene do cromossomo 13."/>
+			</questao>
+			<questao id="bfdb18cd-16d5-4323-97c9-eedc88d51742" idaula="7d83daea-9988-494d-aa5b-f27b03de6f39" enunciado="O que caracteriza uma anomalia do tipo euploidia anormal?" justificativa="É a presença de conjuntos completos extras de cromossomos, como na triploidia.">
+				<opcao id="5040adaf-337d-49ff-89ef-1c9913a5c22e" idquestao="bfdb18cd-16d5-4323-97c9-eedc88d51742" correta="true" texto="Presença de conjuntos cromossômicos extras, como na triploidia."/>
+				<opcao id="356b7110-9cf1-419e-af12-edb524d9c117" idquestao="bfdb18cd-16d5-4323-97c9-eedc88d51742" correta="false" texto="Ausência de cromossomos sexuais."/>
+				<opcao id="fa4153e0-e228-40d5-b41f-c6c2ee8f92a1" idquestao="bfdb18cd-16d5-4323-97c9-eedc88d51742" correta="false" texto="Falha na replicação de um gene."/>
+				<opcao id="c9aa9b03-de18-4c80-bf6f-6facaeaf4f44" idquestao="bfdb18cd-16d5-4323-97c9-eedc88d51742" correta="false" texto="Perda de um braço do cromossomo."/>
+			</questao>
+			<questao id="622d6bd3-c8b6-4f3c-9edb-c9df2b5b3301" idaula="7d83daea-9988-494d-aa5b-f27b03de6f39" enunciado="Qual das seguintes síndromes é causada por uma deleção no cromossomo 5?" justificativa="A síndrome Cri Du Chat é causada por uma deleção parcial no braço curto do cromossomo 5.">
+				<opcao id="37098fdf-888f-4369-91c8-a2a996a73002" idquestao="622d6bd3-c8b6-4f3c-9edb-c9df2b5b3301" correta="true" texto="Síndrome Cri Du Chat."/>
+				<opcao id="8222794e-6210-4ced-b40c-bd24a691ac42" idquestao="622d6bd3-c8b6-4f3c-9edb-c9df2b5b3301" correta="false" texto="Síndrome de Turner."/>
+				<opcao id="44dcd9a3-3c03-4224-b7c3-c90542abff35" idquestao="622d6bd3-c8b6-4f3c-9edb-c9df2b5b3301" correta="false" texto="Síndrome de Edwards."/>
+				<opcao id="9242a761-56f2-47e0-a2d6-e156f6606ec8" idquestao="622d6bd3-c8b6-4f3c-9edb-c9df2b5b3301" correta="false" texto="Síndrome de Patau."/>
+			</questao>
+			<questao id="a2b2257f-d03e-42e3-a4da-6d9e887e48fc" idaula="7d83daea-9988-494d-aa5b-f27b03de6f39" enunciado="O que é uma aneuploidia?" justificativa="A aneuploidia é a presença de um número anormal de cromossomos, que não é múltiplo de 23.">
+				<opcao id="3d81d07b-8ce7-4590-bff5-439be9aa7c1f" idquestao="a2b2257f-d03e-42e3-a4da-6d9e887e48fc" correta="true" texto="Número de cromossomos que não é múltiplo de 23."/>
+				<opcao id="6429f311-e24a-4fff-85ac-7dc9c2a18fb1" idquestao="a2b2257f-d03e-42e3-a4da-6d9e887e48fc" correta="false" texto="Presença de genes duplicados."/>
+				<opcao id="f3b6c819-d13c-4aa7-a90a-91e38ec9d4e0" idquestao="a2b2257f-d03e-42e3-a4da-6d9e887e48fc" correta="false" texto="Perda de fragmentos de RNA."/>
+				<opcao id="c84be9e9-4995-4eee-b9d7-a6e4eb482b95" idquestao="a2b2257f-d03e-42e3-a4da-6d9e887e48fc" correta="false" texto="Erro na tradução do código genético."/>
+			</questao>
+			<questao id="d468d5f0-c76a-4d0c-9d58-ae9085f969ef" idaula="7d83daea-9988-494d-aa5b-f27b03de6f39" enunciado="Qual é o cariótipo típico da síndrome de Turner?" justificativa="A síndrome de Turner ocorre quando a mulher possui apenas um cromossomo X (45,X).">
+				<opcao id="082b45f2-473b-4103-9edd-db5fe3317660" idquestao="d468d5f0-c76a-4d0c-9d58-ae9085f969ef" correta="true" texto="45,X"/>
+				<opcao id="5f68db8f-3a33-4de4-a01e-4c2edfb35dec" idquestao="d468d5f0-c76a-4d0c-9d58-ae9085f969ef" correta="false" texto="47,XXY"/>
+				<opcao id="c335f6ab-19ca-446d-b7e6-9cf31c494ef4" idquestao="d468d5f0-c76a-4d0c-9d58-ae9085f969ef" correta="false" texto="47,XXX"/>
+				<opcao id="85dd5d49-7c97-4b70-a498-5fa912f9eb61" idquestao="d468d5f0-c76a-4d0c-9d58-ae9085f969ef" correta="false" texto="46,XY"/>
+			</questao>
+			<questao id="56957cb9-a1f2-4d25-b307-7fab348dda0f" idaula="7d83daea-9988-494d-aa5b-f27b03de6f39" enunciado="Qual síndrome está associada à presença de três cromossomos 13?" justificativa="A trissomia do 13 é característica da síndrome de Patau, que causa malformações graves.">
+				<opcao id="ef824630-f4cf-42a9-af6c-8906f6ec7f1d" idquestao="56957cb9-a1f2-4d25-b307-7fab348dda0f" correta="true" texto="Síndrome de Patau."/>
+				<opcao id="2ce0bc84-b7be-400b-a508-b3cbab65626d" idquestao="56957cb9-a1f2-4d25-b307-7fab348dda0f" correta="false" texto="Síndrome de Edwards."/>
+				<opcao id="3dade6bb-e7f0-419b-a4a4-7cc10ba5ff5c" idquestao="56957cb9-a1f2-4d25-b307-7fab348dda0f" correta="false" texto="Síndrome de Down."/>
+				<opcao id="fd881f3b-ba51-4c78-823d-e5a2d5411778" idquestao="56957cb9-a1f2-4d25-b307-7fab348dda0f" correta="false" texto="Síndrome de Klinefelter."/>
+			</questao>
+			<questao id="0b49db0c-e0e8-40fd-9575-cd73b0cb0350" idaula="7d83daea-9988-494d-aa5b-f27b03de6f39" enunciado="Qual síndrome está associada ao cariótipo 47,XXY?" justificativa="A síndrome de Klinefelter afeta homens que possuem um cromossomo X extra.">
+				<opcao id="ea5e9043-d53e-47fe-a099-8080b32c26ed" idquestao="0b49db0c-e0e8-40fd-9575-cd73b0cb0350" correta="true" texto="Síndrome de Klinefelter."/>
+				<opcao id="5353d2ff-6a2d-49ba-9984-136306d60443" idquestao="0b49db0c-e0e8-40fd-9575-cd73b0cb0350" correta="false" texto="Síndrome do Triplo X."/>
+				<opcao id="f763ff81-2841-4ead-b167-cc3b6d9d3d24" idquestao="0b49db0c-e0e8-40fd-9575-cd73b0cb0350" correta="false" texto="Síndrome de Turner."/>
+				<opcao id="bfdf6800-8c26-4635-aab5-7ad252ae8a8e" idquestao="0b49db0c-e0e8-40fd-9575-cd73b0cb0350" correta="false" texto="Síndrome Cri Du Chat."/>
+			</questao>
+		</aula>
+		<aula id="150926b5-c13a-4cdd-8de9-bed80af066d2" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="Aula 11 - Padrões de herança: ligada ao sexo, monogênicas e multifatoriais">
+			<questao id="f4cea70f-8c07-48a3-ad94-0f41ab9f2925" idaula="150926b5-c13a-4cdd-8de9-bed80af066d2" enunciado="Como ocorre a herança ligada ao cromossomo X em homens?" justificativa="Homens possuem apenas um cromossomo X, portanto manifestam a característica ou doença se o gene estiver presente nesse cromossomo.">
+				<opcao id="57819fc8-79c2-41dc-9d55-4c58e2bde32c" idquestao="f4cea70f-8c07-48a3-ad94-0f41ab9f2925" correta="true" texto="Manifesta a característica ou doença se o gene estiver no X."/>
+				<opcao id="417154a7-4a5f-4cf2-9c31-81e704abdea5" idquestao="f4cea70f-8c07-48a3-ad94-0f41ab9f2925" correta="false" texto="Nunca manifesta a característica."/>
+				<opcao id="27116bf4-698e-4619-96fd-3a3dfa0a9ceb" idquestao="f4cea70f-8c07-48a3-ad94-0f41ab9f2925" correta="false" texto="Só manifesta se houver dois genes mutados."/>
+				<opcao id="501bcd1b-c7d1-4485-8e5f-e34b3c80ef63" idquestao="f4cea70f-8c07-48a3-ad94-0f41ab9f2925" correta="false" texto="Depende do cromossomo Y."/>
+			</questao>
+			<questao id="a74d11d5-03a0-40f0-aad5-5ee8f6a84176" idaula="150926b5-c13a-4cdd-8de9-bed80af066d2" enunciado="Por que mulheres podem ser portadoras de doenças ligadas ao X?" justificativa="Mulheres possuem dois cromossomos X, podendo ter apenas um gene mutado e outro saudável, o que compensa a mutação.">
+				<opcao id="6b570b32-7336-47e5-9b50-3b44ad9019df" idquestao="a74d11d5-03a0-40f0-aad5-5ee8f6a84176" correta="true" texto="Porque têm dois X e um pode compensar o outro."/>
+				<opcao id="33900ecd-7223-4a37-915f-fdb98383e159" idquestao="a74d11d5-03a0-40f0-aad5-5ee8f6a84176" correta="false" texto="Porque herdam o gene do pai apenas."/>
+				<opcao id="ff98937d-4a8c-42ee-9fb5-2176a5401e65" idquestao="a74d11d5-03a0-40f0-aad5-5ee8f6a84176" correta="false" texto="Porque têm mais genes que os homens."/>
+				<opcao id="84fcff81-7714-4bd2-8217-d54f34972e09" idquestao="a74d11d5-03a0-40f0-aad5-5ee8f6a84176" correta="false" texto="Porque o gene defeituoso é neutralizado pelo Y."/>
+			</questao>
+			<questao id="ef6c56dc-eb04-4bcd-90f1-2e8341cbf3e2" idaula="150926b5-c13a-4cdd-8de9-bed80af066d2" enunciado="Qual das doenças a seguir é um exemplo de herança ligada ao Y?" justificativa="A hipertricose auricular é um exemplo de característica ligada ao cromossomo Y, passada de pai para filho.">
+				<opcao id="9152adcf-544d-49fd-bd50-e36d5b5c1447" idquestao="ef6c56dc-eb04-4bcd-90f1-2e8341cbf3e2" correta="true" texto="Hipertricose auricular."/>
+				<opcao id="e9b1be6c-dec2-4e2f-ba23-910ba052470b" idquestao="ef6c56dc-eb04-4bcd-90f1-2e8341cbf3e2" correta="false" texto="Daltonismo."/>
+				<opcao id="d7345c76-6c7a-4f4e-8867-ced3ae223ede" idquestao="ef6c56dc-eb04-4bcd-90f1-2e8341cbf3e2" correta="false" texto="Hemofilia A."/>
+				<opcao id="25091fea-7178-407c-bb5c-a083ee517e21" idquestao="ef6c56dc-eb04-4bcd-90f1-2e8341cbf3e2" correta="false" texto="Síndrome de Marfan."/>
+			</questao>
+			<questao id="1a968623-ff67-463d-ac2e-c5f3ceb92ee0" idaula="150926b5-c13a-4cdd-8de9-bed80af066d2" enunciado="Qual a principal causa da Síndrome do X-frágil?" justificativa="É causada por uma mutação no gene FMR1 no cromossomo X, afetando a produção da proteína FMRP.">
+				<opcao id="aab96654-d023-4753-9daa-07c42d899f9d" idquestao="1a968623-ff67-463d-ac2e-c5f3ceb92ee0" correta="true" texto="Mutação no gene FMR1 no cromossomo X."/>
+				<opcao id="c90f4d9e-9d63-491f-8cff-2aa09af310e5" idquestao="1a968623-ff67-463d-ac2e-c5f3ceb92ee0" correta="false" texto="Mutação no gene HTT no cromossomo 4."/>
+				<opcao id="9ce189d1-d637-4b9b-a95f-5d0285f57e27" idquestao="1a968623-ff67-463d-ac2e-c5f3ceb92ee0" correta="false" texto="Ausência de fator VIII."/>
+				<opcao id="e75442ec-723d-4e5b-82b1-6ccd3a0c4307" idquestao="1a968623-ff67-463d-ac2e-c5f3ceb92ee0" correta="false" texto="Deleção do gene COL1A1."/>
+			</questao>
+			<questao id="b3ee97fd-ff41-43db-9eb0-288790bbb9f8" idaula="150926b5-c13a-4cdd-8de9-bed80af066d2" enunciado="O que caracteriza a Distrofia Muscular de Duchenne?" justificativa="É uma doença genética ligada ao X que causa degeneração progressiva dos músculos devido à ausência de distrofina.">
+				<opcao id="17df0017-5303-4eab-83af-ebe78d09a65a" idquestao="b3ee97fd-ff41-43db-9eb0-288790bbb9f8" correta="true" texto="Doença ligada ao X que causa degeneração muscular progressiva."/>
+				<opcao id="bf35a421-050b-4f1a-85ce-df66c873c016" idquestao="b3ee97fd-ff41-43db-9eb0-288790bbb9f8" correta="false" texto="Doença dominante que causa miopia."/>
+				<opcao id="f9d7952c-446c-49da-8cce-d23f17c359a2" idquestao="b3ee97fd-ff41-43db-9eb0-288790bbb9f8" correta="false" texto="Distúrbio mitocondrial que causa fraturas."/>
+				<opcao id="f525a8d0-d173-462f-8153-352710c259c9" idquestao="b3ee97fd-ff41-43db-9eb0-288790bbb9f8" correta="false" texto="Doença recessiva do cromossomo Y."/>
+			</questao>
+			<questao id="cadd53aa-4601-42f9-b318-5f586d2a0c98" idaula="150926b5-c13a-4cdd-8de9-bed80af066d2" enunciado="Qual a diferença entre herança autossômica dominante e recessiva?" justificativa="Na dominante, uma cópia do gene é suficiente; na recessiva, são necessárias duas cópias mutadas.">
+				<opcao id="24efdb46-b1f3-4d45-aac9-34f89fbecae9" idquestao="cadd53aa-4601-42f9-b318-5f586d2a0c98" correta="true" texto="Dominante: uma cópia. Recessiva: duas cópias mutadas."/>
+				<opcao id="85cf69e0-8023-4c31-b3d2-e58da9745a74" idquestao="cadd53aa-4601-42f9-b318-5f586d2a0c98" correta="false" texto="Dominante: dois genes. Recessiva: um gene."/>
+				<opcao id="78841e25-a030-4917-bc7c-497d2828fbdc" idquestao="cadd53aa-4601-42f9-b318-5f586d2a0c98" correta="false" texto="Ambas requerem duas cópias mutadas."/>
+				<opcao id="4b5f5cca-311e-4820-be71-d1643f3bea60" idquestao="cadd53aa-4601-42f9-b318-5f586d2a0c98" correta="false" texto="Recessiva depende do cromossomo X."/>
+			</questao>
+			<questao id="5a78dce9-cc6d-4331-ba6e-a9da45141e70" idaula="150926b5-c13a-4cdd-8de9-bed80af066d2" enunciado="Qual mutação está associada à doença de Huntington?" justificativa="É causada por uma mutação no gene HTT no cromossomo 4, que leva à produção anormal da proteína huntingtina.">
+				<opcao id="c385b132-c180-4e6f-a76a-56d0c2390c0d" idquestao="5a78dce9-cc6d-4331-ba6e-a9da45141e70" correta="true" texto="Mutação no gene HTT no cromossomo 4."/>
+				<opcao id="36dba974-82ae-4886-8f31-0da9a481533b" idquestao="5a78dce9-cc6d-4331-ba6e-a9da45141e70" correta="false" texto="Mutação no gene COL1A2."/>
+				<opcao id="201f2df0-f53b-4f8e-9030-68e4f9f51eaf" idquestao="5a78dce9-cc6d-4331-ba6e-a9da45141e70" correta="false" texto="Mutação no gene FMR1."/>
+				<opcao id="f092fbf3-0af7-48d9-a243-7d4d4b393f0c" idquestao="5a78dce9-cc6d-4331-ba6e-a9da45141e70" correta="false" texto="Mutação no gene FBN1."/>
+			</questao>
+			<questao id="cfee1060-90cb-49a5-b406-69b4b77d99f9" idaula="150926b5-c13a-4cdd-8de9-bed80af066d2" enunciado="O que é herança multifatorial?" justificativa="É a interação entre múltiplos genes e fatores ambientais para determinar uma característica ou doença.">
+				<opcao id="2a64b8f1-7295-4af8-9002-87bbb16961b0" idquestao="cfee1060-90cb-49a5-b406-69b4b77d99f9" correta="true" texto="Interação entre vários genes e fatores ambientais."/>
+				<opcao id="d7857982-3008-4c6a-b661-9c419aa4bcf0" idquestao="cfee1060-90cb-49a5-b406-69b4b77d99f9" correta="false" texto="Causada por um único gene mutado."/>
+				<opcao id="34a62876-240c-448e-9b34-bad8cde8deeb" idquestao="cfee1060-90cb-49a5-b406-69b4b77d99f9" correta="false" texto="Determina apenas cor dos olhos."/>
+				<opcao id="40679c9f-7005-4103-a6b7-8118094a5648" idquestao="cfee1060-90cb-49a5-b406-69b4b77d99f9" correta="false" texto="Relaciona-se apenas a doenças infecciosas."/>
+			</questao>
+			<questao id="7515139c-3e18-48b2-9c14-6a5014d3f9b9" idaula="150926b5-c13a-4cdd-8de9-bed80af066d2" enunciado="Qual fator pode aumentar o risco de autismo em crianças predispostas geneticamente?" justificativa="O envelhecimento dos pais, especialmente do pai, pode atuar como gatilho para o autismo em crianças predispostas.">
+				<opcao id="1ff14467-8fc1-4d40-99d4-c48b07539b54" idquestao="7515139c-3e18-48b2-9c14-6a5014d3f9b9" correta="true" texto="Envelhecimento dos pais."/>
+				<opcao id="780b7d31-ade3-4cfc-8b14-f15f1abb980e" idquestao="7515139c-3e18-48b2-9c14-6a5014d3f9b9" correta="false" texto="Alimentação com lactose."/>
+				<opcao id="0bf2064e-486b-42a1-b78e-512eb03c1355" idquestao="7515139c-3e18-48b2-9c14-6a5014d3f9b9" correta="false" texto="Uso de telas na infância."/>
+				<opcao id="a3c45cfb-5bee-4617-8d82-fe93dd565604" idquestao="7515139c-3e18-48b2-9c14-6a5014d3f9b9" correta="false" texto="Falta de vitamina C."/>
+			</questao>
+		</aula>
+		<aula id="b1b1bd64-4865-4c54-a3df-95dd91cdc4c7" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="Aula 12 - Aconselhamento genético e o papel do psicologo"/>
+		<aula id="8072c592-c91c-4d29-ae9c-296b7ebbb030" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="Aula 13 - Aspectos da evolução e o comportamento humano"/>
 	</materia>
 	<materia id="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="3-Fundamentos Históricos e Epistemológicos da Psicologia">
 		<aula id="9d6c8f9d-34bf-45f4-8940-4ab97fdb6d00" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="prova focada no wundt">
