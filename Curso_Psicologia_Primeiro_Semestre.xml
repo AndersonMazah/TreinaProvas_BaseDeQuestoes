@@ -1429,75 +1429,462 @@
 		<aula id="8072c592-c91c-4d29-ae9c-296b7ebbb030" idmateria="f347161f-7133-460f-9d1b-fd836a4ca3e6" nome="Aula 13 - Aspectos da evolução e o comportamento humano"/>
 	</materia>
 	<materia id="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="3-Fundamentos Históricos e Epistemológicos da Psicologia">
-		<aula id="9d6c8f9d-34bf-45f4-8940-4ab97fdb6d00" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="prova focada no wundt">
-			<questao id="44fa70b5-f5df-4370-a524-08f70affc4d1" idaula="9d6c8f9d-34bf-45f4-8940-4ab97fdb6d00" enunciado="A psicologia cultural de Wundt buscava estudar:" justificativa="Wundt estudava linguagem, mitos, religião e moralidade como expressões culturais de funções mentais complexas.">
-				<opcao id="ec985b87-cb16-42b3-95ad-d2e9d09428b0" idquestao="44fa70b5-f5df-4370-a524-08f70affc4d1" correta="false" texto="A hereditariedade dos traços mentais."/>
-				<opcao id="e3c2f664-b9dc-41bd-b511-5ef054c9f7f2" idquestao="44fa70b5-f5df-4370-a524-08f70affc4d1" correta="false" texto="As respostas automáticas a estímulos."/>
-				<opcao id="7bdb365e-626a-46a7-98a0-646a0d9735c4" idquestao="44fa70b5-f5df-4370-a524-08f70affc4d1" correta="false" texto="Os processos inconscientes da mente."/>
-				<opcao id="279c9d43-d4a9-431d-89be-9debb62160e7" idquestao="44fa70b5-f5df-4370-a524-08f70affc4d1" correta="true" texto="Os processos mentais superiores influenciados pela cultura."/>
+		<aula id="f086b695-82f7-43d2-b1d0-5aa75ac9ca7f" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="Aula 01 - Introdução - Importância do estudo da História da Psicologia">
+			<questao id="ee6d1b43-f67f-4da6-b700-d68c2a904d34" idaula="f086b695-82f7-43d2-b1d0-5aa75ac9ca7f" enunciado="Por que o estudo da história da Psicologia é importante para a compreensão da disciplina como um todo?" justificativa="Porque permite integrar diferentes áreas e abordagens, dando sentido ao desenvolvimento histórico da Psicologia.">
+				<opcao id="a2e423ea-301f-4b90-8ec3-6e00a3b74e44" idquestao="ee6d1b43-f67f-4da6-b700-d68c2a904d34" correta="true" texto="Porque permite integrar diferentes áreas e abordagens, dando sentido ao desenvolvimento histórico da Psicologia."/>
+				<opcao id="c262e2cf-31ab-42d5-927a-c68c69696ba7" idquestao="ee6d1b43-f67f-4da6-b700-d68c2a904d34" correta="false" texto="Porque elimina abordagens não científicas da Psicologia."/>
+				<opcao id="21257825-5547-4962-a0b6-d9c4bc953968" idquestao="ee6d1b43-f67f-4da6-b700-d68c2a904d34" correta="false" texto="Porque define uma única metodologia válida para a Psicologia."/>
+				<opcao id="189deb37-97a7-4748-85ec-03800771eff6" idquestao="ee6d1b43-f67f-4da6-b700-d68c2a904d34" correta="false" texto="Porque separa definitivamente a Psicologia da Filosofia."/>
 			</questao>
-			<questao id="eda8e6db-e700-48ff-9d55-c46579a8c3cc" idaula="9d6c8f9d-34bf-45f4-8940-4ab97fdb6d00" enunciado="O que é voluntarismo, segundo Wundt?" justificativa="Wundt acreditava que a mente tem um papel ativo na organização das experiências, conceito central do voluntarismo.">
-				<opcao id="2a71c055-5271-4205-859d-27437068ee1a" idquestao="eda8e6db-e700-48ff-9d55-c46579a8c3cc" correta="false" texto="A crença de que o comportamento é instintivo."/>
-				<opcao id="2751536f-35f4-4753-a2f8-4fe62191374f" idquestao="eda8e6db-e700-48ff-9d55-c46579a8c3cc" correta="false" texto="A doutrina de que os sentimentos determinam o pensamento."/>
-				<opcao id="4ceb4ab9-31ce-42f9-819c-c7a1b68835c1" idquestao="eda8e6db-e700-48ff-9d55-c46579a8c3cc" correta="true" texto="A ideia de que a mente organiza ativamente a experiência."/>
-				<opcao id="3a50e843-3298-48f8-bcf0-b1e4ba01c4e0" idquestao="eda8e6db-e700-48ff-9d55-c46579a8c3cc" correta="false" texto="A suposição de que toda ação é involuntária."/>
+			<questao id="80b037e3-69da-48bf-8af7-0abcc0d12b93" idaula="f086b695-82f7-43d2-b1d0-5aa75ac9ca7f" enunciado="Qual fator foi decisivo para o surgimento da Psicologia como ciência no século XIX?" justificativa="A adoção de métodos científicos, especialmente os das ciências biológicas e físicas, para estudar a natureza humana.">
+				<opcao id="ba4815d3-58c6-4fd0-a7e0-236806baead7" idquestao="80b037e3-69da-48bf-8af7-0abcc0d12b93" correta="true" texto="A adoção de métodos científicos, especialmente os das ciências biológicas e físicas, para estudar a natureza humana."/>
+				<opcao id="676cd00a-a679-4b94-88d4-5782d97cbfc6" idquestao="80b037e3-69da-48bf-8af7-0abcc0d12b93" correta="false" texto="A rejeição completa das ideias filosóficas anteriores."/>
+				<opcao id="1c991b80-40c4-457f-8fae-e938b99c6d84" idquestao="80b037e3-69da-48bf-8af7-0abcc0d12b93" correta="false" texto="A definição de um único objeto de estudo para a Psicologia."/>
+				<opcao id="adf80450-2319-4337-a15d-2df88c25b0c8" idquestao="80b037e3-69da-48bf-8af7-0abcc0d12b93" correta="false" texto="A substituição dos estudos mentais por experimentos exclusivamente fisiológicos."/>
 			</questao>
-			<questao id="4ee2f375-ad01-4119-89cf-d35a9cc53070" idaula="9d6c8f9d-34bf-45f4-8940-4ab97fdb6d00" enunciado="Para Descartes, qual estrutura do corpo humano era o ponto de interação entre a mente e o corpo?" justificativa="Descartes acreditava que a glândula pineal era o ponto onde a mente influenciava o corpo.">
-				<opcao id="85755d42-bb1a-4377-b83f-c2db4174c6e2" idquestao="4ee2f375-ad01-4119-89cf-d35a9cc53070" correta="true" texto="A glândula pineal."/>
-				<opcao id="71d918f5-64b4-4e4b-8506-07022a8702c9" idquestao="4ee2f375-ad01-4119-89cf-d35a9cc53070" correta="false" texto="A medula espinhal."/>
-				<opcao id="1d55047f-ec54-4554-90ba-cf16b603fdbf" idquestao="4ee2f375-ad01-4119-89cf-d35a9cc53070" correta="false" texto="O cérebro frontal."/>
-				<opcao id="7c4d4a4a-7f2a-45de-94b1-38f9000a9212" idquestao="4ee2f375-ad01-4119-89cf-d35a9cc53070" correta="false" texto="O coração."/>
+			<questao id="02ac4ac7-9422-4a29-a6d5-ab9b70568337" idaula="f086b695-82f7-43d2-b1d0-5aa75ac9ca7f" enunciado="O que significa o conceito de Zeitgeist no contexto da história da Psicologia?" justificativa="Refere-se ao clima intelectual, cultural e científico de uma época, que influencia o desenvolvimento da Psicologia.">
+				<opcao id="cb60ac74-0b50-4142-b656-af679da8c68d" idquestao="02ac4ac7-9422-4a29-a6d5-ab9b70568337" correta="true" texto="Refere-se ao clima intelectual, cultural e científico de uma época, que influencia o desenvolvimento da Psicologia."/>
+				<opcao id="992b5451-fefc-40eb-9cd2-8e12e7272f6f" idquestao="02ac4ac7-9422-4a29-a6d5-ab9b70568337" correta="false" texto="É uma técnica de investigação psicológica baseada em introspecção."/>
+				<opcao id="b2590f6e-046c-4d8a-9748-791253453ccd" idquestao="02ac4ac7-9422-4a29-a6d5-ab9b70568337" correta="false" texto="É uma escola de pensamento criada por Wilhelm Wundt."/>
+				<opcao id="7e6d827c-bffe-4921-bc8f-94f5407910dc" idquestao="02ac4ac7-9422-4a29-a6d5-ab9b70568337" correta="false" texto="É a rejeição do empirismo em favor da intuição filosófica."/>
 			</questao>
-			<questao id="c7eb55fc-f18f-403a-b329-276c06327f08" idaula="9d6c8f9d-34bf-45f4-8940-4ab97fdb6d00" enunciado="Quais são os três eixos da teoria tridimensional do sentimento de Wundt?" justificativa="A teoria de Wundt descreve os sentimentos em três dimensões afetivas para analisar estados mentais subjetivos.">
-				<opcao id="c4e6bc6b-463d-4801-93dc-8fc5797f3c57" idquestao="c7eb55fc-f18f-403a-b329-276c06327f08" correta="false" texto="Alegria/tristeza, calma/agitação, satisfação/insatisfação."/>
-				<opcao id="6f67f404-1b8b-4a55-a5b2-ab343f68d137" idquestao="c7eb55fc-f18f-403a-b329-276c06327f08" correta="false" texto="Ativação/inibição, tensão/relaxamento, excitação/depressão."/>
-				<opcao id="5f246c5f-92d5-4691-a79e-7fde3f0bc72a" idquestao="c7eb55fc-f18f-403a-b329-276c06327f08" correta="false" texto="Euforia/melancolia, ansiedade/serenidade, entusiasmo/apatia."/>
-				<opcao id="732861c3-c1f9-4f67-b4f8-622b3fa61078" idquestao="c7eb55fc-f18f-403a-b329-276c06327f08" correta="true" texto="Prazer/desprazer, tensão/relaxamento, excitação/depressão."/>
+			<questao id="f045aeb8-28ed-4b87-b5f2-50a1f743c200" idaula="f086b695-82f7-43d2-b1d0-5aa75ac9ca7f" enunciado="Qual foi a contribuição de Wilhelm Wundt para a consolidação da Psicologia como ciência?" justificativa="Wundt estabeleceu os objetivos, métodos e temas de pesquisa da nova disciplina científica.">
+				<opcao id="dff89a01-7d9f-4325-898d-bb71081c25c5" idquestao="f045aeb8-28ed-4b87-b5f2-50a1f743c200" correta="true" texto="Wundt estabeleceu os objetivos, métodos e temas de pesquisa da nova disciplina científica."/>
+				<opcao id="eda0d36a-a2a0-4e25-9ff3-1ca4df99a961" idquestao="f045aeb8-28ed-4b87-b5f2-50a1f743c200" correta="false" texto="Wundt propôs a eliminação de todas as escolas filosóficas antigas."/>
+				<opcao id="7d186d29-0bb5-4638-9449-16ff805cd5f4" idquestao="f045aeb8-28ed-4b87-b5f2-50a1f743c200" correta="false" texto="Wundt foi o primeiro a rejeitar completamente a fisiologia como base da Psicologia."/>
+				<opcao id="21a9e93f-524f-4032-938b-e21aa40af3f2" idquestao="f045aeb8-28ed-4b87-b5f2-50a1f743c200" correta="false" texto="Wundt desenvolveu o conceito de Zeitgeist."/>
 			</questao>
-			<questao id="1e1cf6e9-7e5c-47de-be12-e4c8a73e0f75" idaula="9d6c8f9d-34bf-45f4-8940-4ab97fdb6d00" enunciado="Quais tipos de ideias Descartes distinguia?" justificativa="Para Descartes, ideias inatas eram aquelas nascidas com o indivíduo, enquanto as derivadas vinham da experiência.">
-				<opcao id="07dd358f-7b2c-4c04-8494-e32710d81f09" idquestao="1e1cf6e9-7e5c-47de-be12-e4c8a73e0f75" correta="false" texto="Empíricas e racionais."/>
-				<opcao id="3df8a91c-e2fe-4809-bb94-c268d6fc5eae" idquestao="1e1cf6e9-7e5c-47de-be12-e4c8a73e0f75" correta="true" texto="Inatas e derivadas."/>
-				<opcao id="63c58b99-93ad-448f-b435-829b47997b7d" idquestao="1e1cf6e9-7e5c-47de-be12-e4c8a73e0f75" correta="false" texto="Inatas e hereditárias."/>
-				<opcao id="115d295c-62b1-4708-8f1f-c591f5d5f2da" idquestao="1e1cf6e9-7e5c-47de-be12-e4c8a73e0f75" correta="false" texto="Sensoriais e cognitivas."/>
+			<questao id="961187b0-7449-4ab2-a6b5-9feed4a65150" idaula="f086b695-82f7-43d2-b1d0-5aa75ac9ca7f" enunciado="O que caracteriza uma escola de pensamento dentro da Psicologia?" justificativa="É um grupo de psicólogos com orientação teórica comum, que investigam problemas semelhantes.">
+				<opcao id="ef7c3369-a180-4c63-a4ee-6bd14f2c1c48" idquestao="961187b0-7449-4ab2-a6b5-9feed4a65150" correta="true" texto="É um grupo de psicólogos com orientação teórica comum, que investigam problemas semelhantes."/>
+				<opcao id="a0abb616-06fa-48cb-bf80-b14df2ac8536" idquestao="961187b0-7449-4ab2-a6b5-9feed4a65150" correta="false" texto="É uma instituição oficial de ensino da Psicologia moderna."/>
+				<opcao id="ed479a47-a51b-49e9-a464-ec0879d6be3f" idquestao="961187b0-7449-4ab2-a6b5-9feed4a65150" correta="false" texto="É uma vertente filosófica dedicada à introspecção."/>
+				<opcao id="bc82447b-d7b9-4bc5-9e88-9a06c59ea79a" idquestao="961187b0-7449-4ab2-a6b5-9feed4a65150" correta="false" texto="É uma associação clínica com práticas padronizadas para diagnósticos."/>
 			</questao>
-			<questao id="76e2369d-1729-407e-86f2-eec336f0bd14" idaula="9d6c8f9d-34bf-45f4-8940-4ab97fdb6d00" enunciado="Qual conceito cartesiano antecipa ideias do behaviorismo?" justificativa="A teoria do ato reflexo de Descartes inspirou a noção de respostas automáticas estudadas pelo behaviorismo.">
-				<opcao id="47201adb-a14c-4dcf-bc90-e7f9a79c2e6c" idquestao="76e2369d-1729-407e-86f2-eec336f0bd14" correta="false" texto="Dualismo mente-corpo."/>
-				<opcao id="9e66f022-71f9-4968-9c3c-d00163ab78eb" idquestao="76e2369d-1729-407e-86f2-eec336f0bd14" correta="false" texto="Ideias inatas."/>
-				<opcao id="fc1b0b2a-89ef-4e81-9790-8eaef76bd5c9" idquestao="76e2369d-1729-407e-86f2-eec336f0bd14" correta="false" texto="Método da dúvida."/>
-				<opcao id="6e2bafa3-3f9e-498e-8259-23b7345a64b2" idquestao="76e2369d-1729-407e-86f2-eec336f0bd14" correta="true" texto="Teoria do ato reflexo."/>
-			</questao>
-			<questao id="9a0c2a20-dc03-41eb-99a7-aaf9243acd10" idaula="9d6c8f9d-34bf-45f4-8940-4ab97fdb6d00" enunciado="Qual é a diferença entre experiência imediata e mediata, segundo Wundt?" justificativa="Wundt diferenciava a experiência consciente direta (imediata) daquela interpretada com instrumentos (mediata).">
-				<opcao id="21cb657d-446f-463b-87b1-cc6d9d435fa2" idquestao="9a0c2a20-dc03-41eb-99a7-aaf9243acd10" correta="false" texto="Imediata é a interpretação, mediata é o dado bruto."/>
-				<opcao id="7ef383c2-86e7-411b-9f26-bfca596311df" idquestao="9a0c2a20-dc03-41eb-99a7-aaf9243acd10" correta="true" texto="Imediata é a vivência pura, mediata é a análise objetiva."/>
-				<opcao id="e9fe5958-c24d-42c7-8bf7-d30fa85d6b38" idquestao="9a0c2a20-dc03-41eb-99a7-aaf9243acd10" correta="false" texto="Imediata é emocional, mediata é racional."/>
-				<opcao id="9731897b-f03b-448d-8970-70a145f6996e" idquestao="9a0c2a20-dc03-41eb-99a7-aaf9243acd10" correta="false" texto="Imediata é objetiva, mediata é subjetiva."/>
-			</questao>
-			<questao id="89e02f5b-65d4-4774-8d3a-0a62f761435a" idaula="9d6c8f9d-34bf-45f4-8940-4ab97fdb6d00" enunciado="Qual era a visão de René Descartes sobre a relação mente-corpo?" justificativa="Descartes propôs o dualismo mente-corpo, em que mente e corpo são distintos mas interagem.">
-				<opcao id="5d620a3b-e0f3-4cec-986c-9c040c9bc66b" idquestao="89e02f5b-65d4-4774-8d3a-0a62f761435a" correta="false" texto="A mente controla o corpo, mas o corpo não influencia a mente."/>
-				<opcao id="fae08b98-e707-4ecb-a223-ba0425f9c535" idquestao="89e02f5b-65d4-4774-8d3a-0a62f761435a" correta="false" texto="A mente e o corpo são a mesma coisa, inseparáveis."/>
-				<opcao id="a0f58236-7abd-40d6-90cb-7ff0d041d374" idquestao="89e02f5b-65d4-4774-8d3a-0a62f761435a" correta="true" texto="A mente e o corpo são substâncias separadas que interagem entre si."/>
-				<opcao id="772a6c02-17aa-4bb2-9b41-f7acbf9c9f30" idquestao="89e02f5b-65d4-4774-8d3a-0a62f761435a" correta="false" texto="O corpo é uma ilusão criada pela mente."/>
-			</questao>
-			<questao id="d1553982-5a8c-4bb1-91f9-ed115813de5e" idaula="9d6c8f9d-34bf-45f4-8940-4ab97fdb6d00" enunciado="Qual método era utilizado por Wundt em seus estudos de consciência?" justificativa="A introspecção controlada consistia na auto-observação treinada e rigorosa dos estados conscientes.">
-				<opcao id="91b3c0a9-0699-4676-a726-0c99ca522de6" idquestao="d1553982-5a8c-4bb1-91f9-ed115813de5e" correta="false" texto="Autoanálise simbólica."/>
-				<opcao id="2f15495e-87f2-4fad-87e6-7f7b6c0c3bd4" idquestao="d1553982-5a8c-4bb1-91f9-ed115813de5e" correta="false" texto="Entrevista livre."/>
-				<opcao id="42adc755-d94c-489e-8d75-cd8b9cc6f15e" idquestao="d1553982-5a8c-4bb1-91f9-ed115813de5e" correta="true" texto="Introspecção controlada."/>
-				<opcao id="dca9fd1f-aef2-4844-9b48-8ece9b9a7803" idquestao="d1553982-5a8c-4bb1-91f9-ed115813de5e" correta="false" texto="Psicanálise."/>
-			</questao>
-			<questao id="121ef2b7-7a86-45fa-84d4-7e69cd285a1b" idaula="9d6c8f9d-34bf-45f4-8940-4ab97fdb6d00" enunciado="Wilhelm Wundt é conhecido como:" justificativa="Wundt fundou o primeiro laboratório de Psicologia Experimental, marcando a separação da psicologia da filosofia.">
-				<opcao id="91159c86-d1be-4ac0-9ab2-91ecc67d2cfd" idquestao="121ef2b7-7a86-45fa-84d4-7e69cd285a1b" correta="false" texto="O criador da teoria do inconsciente."/>
-				<opcao id="1757c05c-52f3-43a1-87aa-880a889025d9" idquestao="121ef2b7-7a86-45fa-84d4-7e69cd285a1b" correta="false" texto="O fundador do estruturalismo."/>
-				<opcao id="6a863331-9dc0-4cf7-938d-4ca26d1bf474" idquestao="121ef2b7-7a86-45fa-84d4-7e69cd285a1b" correta="false" texto="O inventor dos testes mentais."/>
-				<opcao id="55af3280-398f-4345-be6c-865c24ad891a" idquestao="121ef2b7-7a86-45fa-84d4-7e69cd285a1b" correta="true" texto="O pai da Psicologia Experimental."/>
+			<questao id="fd31a354-39c5-440a-9e46-fb9491ea9f27" idaula="f086b695-82f7-43d2-b1d0-5aa75ac9ca7f" enunciado="Como o contexto social, econômico e político influencia a Psicologia?" justificativa="Esses fatores moldam o desenvolvimento da Psicologia e influenciam a aceitação ou rejeição de ideias e práticas.">
+				<opcao id="0d8e0daa-92e5-46bc-bf1c-8c21a7c45d3b" idquestao="fd31a354-39c5-440a-9e46-fb9491ea9f27" correta="true" texto="Esses fatores moldam o desenvolvimento da Psicologia e influenciam a aceitação ou rejeição de ideias e práticas."/>
+				<opcao id="b8635a85-f401-49ca-b962-4e7b69cab2f4" idquestao="fd31a354-39c5-440a-9e46-fb9491ea9f27" correta="false" texto="Eles impedem a aplicação de métodos científicos."/>
+				<opcao id="524334e8-9436-4cf8-bd41-3e5a25386be7" idquestao="fd31a354-39c5-440a-9e46-fb9491ea9f27" correta="false" texto="Eles determinam quais doenças mentais podem ser curadas."/>
+				<opcao id="49fd2dfd-b000-40c7-9ad9-ee6253028e12" idquestao="fd31a354-39c5-440a-9e46-fb9491ea9f27" correta="false" texto="Eles definem os critérios para a formação de psicólogos."/>
 			</questao>
 		</aula>
-		<aula id="f5552293-2f86-4713-89cf-26911542846e" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="1-Importância do estudo da História da Psicologia"/>
-		<aula id="7aa79cfd-ee83-4d89-b4a2-67ed7cbb52a8" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="2-Influências filosóficas na psicologia"/>
-		<aula id="10510a27-ba64-4359-b718-271f4e2d0bdb" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="3-Bases filosóficas e fisiológicas da psicologia"/>
-		<aula id="ddb5c96e-6668-4b4f-939c-5a7a3e21bf33" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="4-Psicofísica e Psicologia Experimental"/>
-		<aula id="776a0483-673b-4341-bd64-72d212309add" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="5-Psicologia experimental e estruturalismo"/>
-		<aula id="2b22d112-6584-4fe1-ac57-6af6d9ce58bc" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="6-Funcionalismo"/>
-		<aula id="98f11ac6-d1cb-487c-885a-c2b8070378e9" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="7-Behaviorismo e Gestalt"/>
+		<aula id="d29b9fde-cb7b-448f-aab6-5e292c21149f" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="Aula 02 - Pensamento Mecanicista e Influências Filosóficas na Psicologia">
+			<questao id="6177bde8-0aed-4930-9e3a-29459ab50bb1" idaula="d29b9fde-cb7b-448f-aab6-5e292c21149f" enunciado="O que caracterizava o pensamento mecanicista entre os séculos XVII e XIX?" justificativa="Era baseado na ideia de que o mundo funcionava como uma máquina, explicável pelas leis da física e da química.">
+				<opcao id="15985dec-6ab3-45fb-91a6-e0d12d7e2f6b" idquestao="6177bde8-0aed-4930-9e3a-29459ab50bb1" correta="true" texto="A visão de que o mundo é como uma máquina, regido por leis físicas e químicas."/>
+				<opcao id="220d89fa-f897-4503-9c7e-9dd7ae274e9e" idquestao="6177bde8-0aed-4930-9e3a-29459ab50bb1" correta="false" texto="A ideia de que o mundo não pode ser explicado racionalmente."/>
+				<opcao id="f2d38673-d0b8-411d-bfc0-f0caa189b4f7" idquestao="6177bde8-0aed-4930-9e3a-29459ab50bb1" correta="false" texto="A crença na influência direta da religião sobre os fenômenos naturais."/>
+				<opcao id="fc40441d-73ba-43e2-a928-caacb22a5f84" idquestao="6177bde8-0aed-4930-9e3a-29459ab50bb1" correta="false" texto="A valorização da intuição em detrimento da observação científica."/>
+			</questao>
+			<questao id="c53bf68a-a60c-4c63-b5cb-da3c1f7e180e" idaula="d29b9fde-cb7b-448f-aab6-5e292c21149f" enunciado="O que o determinismo e o reducionismo representam no contexto mecanicista?" justificativa="Determinismo é a crença de que eventos são causados por eventos anteriores, e o reducionismo busca entender o todo a partir de suas partes.">
+				<opcao id="1304604c-de03-49ab-8bc4-5ec4917ae3ce" idquestao="c53bf68a-a60c-4c63-b5cb-da3c1f7e180e" correta="true" texto="Determinismo e reducionismo explicam os fenômenos como previsíveis e compreensíveis por partes básicas."/>
+				<opcao id="dd3f27f8-8446-451f-9388-8e08a8c59347" idquestao="c53bf68a-a60c-4c63-b5cb-da3c1f7e180e" correta="false" texto="Determinismo e reducionismo são ideias opostas na filosofia moderna."/>
+				<opcao id="108844f3-2b54-4daf-b343-1ede4a9d8bfb" idquestao="c53bf68a-a60c-4c63-b5cb-da3c1f7e180e" correta="false" texto="Determinismo é usado apenas em contextos religiosos e reducionismo na arte."/>
+				<opcao id="d1703a91-31e8-4530-aed1-9d6d18cc4c68" idquestao="c53bf68a-a60c-4c63-b5cb-da3c1f7e180e" correta="false" texto="Ambos rejeitam a aplicação das leis da física à Psicologia."/>
+			</questao>
+			<questao id="7bc2ee9d-f34d-400c-abd7-c47a83de0c90" idaula="d29b9fde-cb7b-448f-aab6-5e292c21149f" enunciado="Como o empirismo mudou a forma de buscar conhecimento na modernidade?" justificativa="Ele valorizou a observação e experimentação como formas legítimas de adquirir conhecimento, em oposição ao dogma.">
+				<opcao id="b557c4e2-01ff-4a97-86b5-7e474a576cdf" idquestao="7bc2ee9d-f34d-400c-abd7-c47a83de0c90" correta="true" texto="Introduziu a busca de conhecimento por meio da observação e experimentação."/>
+				<opcao id="47796b11-1b2e-4d4d-bbe5-09c2a5869795" idquestao="7bc2ee9d-f34d-400c-abd7-c47a83de0c90" correta="false" texto="Reafirmou a autoridade da tradição religiosa sobre o conhecimento."/>
+				<opcao id="7f4f4cf1-abbf-455d-8431-d255a257f7d1" idquestao="7bc2ee9d-f34d-400c-abd7-c47a83de0c90" correta="false" texto="Defendia que apenas a razão era fonte de conhecimento, ignorando os sentidos."/>
+				<opcao id="8c208c3b-a39e-4d02-b3cf-134c1b6cb793" idquestao="7bc2ee9d-f34d-400c-abd7-c47a83de0c90" correta="false" texto="Valorizava exclusivamente o pensamento especulativo antigo."/>
+			</questao>
+			<questao id="b0ce58f1-0525-4ce2-8571-a2958954e12f" idaula="d29b9fde-cb7b-448f-aab6-5e292c21149f" enunciado="Qual foi a principal contribuição de René Descartes para a Psicologia?" justificativa="Descartes propôs a separação entre mente e corpo e a ideia de que o corpo funciona como uma máquina.">
+				<opcao id="e7d1773d-4068-479f-83dc-3914b16f5ef2" idquestao="b0ce58f1-0525-4ce2-8571-a2958954e12f" correta="true" texto="Propôs a dualidade mente-corpo e a teoria do ato-reflexo."/>
+				<opcao id="8b2ef168-592f-4375-bf3a-a7220cc3bb42" idquestao="b0ce58f1-0525-4ce2-8571-a2958954e12f" correta="false" texto="Negou qualquer influência do corpo sobre a mente."/>
+				<opcao id="b4a8780c-e0d6-42bf-b81e-bd828f20bb76" idquestao="b0ce58f1-0525-4ce2-8571-a2958954e12f" correta="false" texto="Criou a primeira escola experimental de Psicologia."/>
+				<opcao id="33e09259-1b1b-491a-a08f-971025800ab8" idquestao="b0ce58f1-0525-4ce2-8571-a2958954e12f" correta="false" texto="Rejeitou a aplicação de leis mecânicas ao corpo humano."/>
+			</questao>
+			<questao id="e5427c0c-3a42-4eb2-a15a-f81814058e2d" idaula="d29b9fde-cb7b-448f-aab6-5e292c21149f" enunciado="O que a teoria do ato-reflexo de Descartes antecipou na Psicologia?" justificativa="Antecipou conceitos do behaviorismo, ao propor que certos comportamentos ocorrem automaticamente em resposta a estímulos.">
+				<opcao id="d5bc5fbb-ef26-4aa2-8238-745a13663089" idquestao="e5427c0c-3a42-4eb2-a15a-f81814058e2d" correta="true" texto="A antecipação da ideia de resposta automática a estímulos, base do behaviorismo."/>
+				<opcao id="d281dcd3-b894-4e22-ba3e-cd0ae28d0182" idquestao="e5427c0c-3a42-4eb2-a15a-f81814058e2d" correta="false" texto="A defesa da introspecção como método psicológico."/>
+				<opcao id="f78bc62d-9d54-48a2-91b0-38fc5e4c3762" idquestao="e5427c0c-3a42-4eb2-a15a-f81814058e2d" correta="false" texto="A criação da ideia de inconsciente."/>
+				<opcao id="600d242e-0210-466e-a4d4-72658dc2d5d7" idquestao="e5427c0c-3a42-4eb2-a15a-f81814058e2d" correta="false" texto="A unificação completa entre corpo e mente em um só elemento físico."/>
+			</questao>
+			<questao id="06df1966-3bec-4b0c-a328-d185f0537b70" idaula="d29b9fde-cb7b-448f-aab6-5e292c21149f" enunciado="Segundo Descartes, onde ocorreria a interação entre mente e corpo?" justificativa="Ele acreditava que essa interação acontecia na glândula pineal, uma estrutura localizada no cérebro.">
+				<opcao id="c3990037-4169-480e-9973-b1a5d5bc6e55" idquestao="06df1966-3bec-4b0c-a328-d185f0537b70" correta="true" texto="Na glândula pineal."/>
+				<opcao id="fb2f707b-2b77-40ad-9204-c0a5dac7ea54" idquestao="06df1966-3bec-4b0c-a328-d185f0537b70" correta="false" texto="No coração."/>
+				<opcao id="aaa8921d-b7f8-465e-baff-9d64cb69e7fb" idquestao="06df1966-3bec-4b0c-a328-d185f0537b70" correta="false" texto="Na medula espinhal."/>
+				<opcao id="6e29ffc2-363b-4611-935b-bfbd117d3105" idquestao="06df1966-3bec-4b0c-a328-d185f0537b70" correta="false" texto="Nos ventrículos cerebrais."/>
+			</questao>
+		</aula>
+		<aula id="80de9170-8ef6-4e2f-811e-0edad819b920" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="Aula 03 - Bases filosóficas e fisiológicas da Psicologia">
+			<questao id="c0b16051-89bb-4801-addb-1eb3650c6e52" idaula="80de9170-8ef6-4e2f-811e-0edad819b920" enunciado="Qual a principal ideia defendida pelo materialismo científico?" justificativa="O materialismo defende que tudo, inclusive a consciência, pode ser explicado por processos físicos.">
+				<opcao id="9f744450-1a81-4e70-9c3d-1614122b216a" idquestao="c0b16051-89bb-4801-addb-1eb3650c6e52" correta="true" texto="Tudo pode ser explicado pela matéria e suas leis naturais."/>
+				<opcao id="1dc1d8cf-d51c-4be4-831e-a6811c2d3b56" idquestao="c0b16051-89bb-4801-addb-1eb3650c6e52" correta="false" texto="A mente existe independentemente do corpo físico."/>
+				<opcao id="78724b9f-9c99-4ff9-9d15-930bb0ff0295" idquestao="c0b16051-89bb-4801-addb-1eb3650c6e52" correta="false" texto="A consciência é um fenômeno puramente metafísico."/>
+				<opcao id="c2b3ea7a-4482-4337-8cde-274abcd61580" idquestao="c0b16051-89bb-4801-addb-1eb3650c6e52" correta="false" texto="A matéria depende da percepção para existir."/>
+			</questao>
+			<questao id="a58348cb-2641-435e-a3b9-d837f674d114" idaula="80de9170-8ef6-4e2f-811e-0edad819b920" enunciado="Segundo o positivismo de Augusto Comte, qual é a base do conhecimento válido?" justificativa="Para Comte, somente o conhecimento baseado em fatos observáveis e métodos científicos era válido.">
+				<opcao id="b00975bb-cfa1-4702-9278-9cf490daf546" idquestao="a58348cb-2641-435e-a3b9-d837f674d114" correta="true" texto="Fatos observáveis obtidos por meio de métodos científicos."/>
+				<opcao id="18e3ccb5-f9b7-4c66-a3e0-eae84ab22c60" idquestao="a58348cb-2641-435e-a3b9-d837f674d114" correta="false" texto="Tradições religiosas e crenças filosóficas."/>
+				<opcao id="48bb5d8c-62e4-4090-bc71-09856c7ccb01" idquestao="a58348cb-2641-435e-a3b9-d837f674d114" correta="false" texto="Experiências místicas e metafísicas."/>
+				<opcao id="5bfcc983-3097-42fe-9af5-874bb4e372d0" idquestao="a58348cb-2641-435e-a3b9-d837f674d114" correta="false" texto="Dedução lógica sem necessidade de observação."/>
+			</questao>
+			<questao id="5c8eacbc-415b-4a5b-a52a-e23acd50d0f2" idaula="80de9170-8ef6-4e2f-811e-0edad819b920" enunciado="Qual o papel da experiência sensorial no empirismo de John Locke?" justificativa="Para Locke, todo conhecimento vem da experiência sensorial direta e da reflexão sobre essas impressões.">
+				<opcao id="8bfbb4fb-6da5-4aca-adf0-458d5442e39d" idquestao="5c8eacbc-415b-4a5b-a52a-e23acd50d0f2" correta="true" texto="A experiência sensorial é a base de todo conhecimento."/>
+				<opcao id="ad1fdec0-5257-48b3-bf6b-5c72cee6a695" idquestao="5c8eacbc-415b-4a5b-a52a-e23acd50d0f2" correta="false" texto="A razão inata supera as experiências sensoriais."/>
+				<opcao id="3227b176-64c7-4ddc-b1e9-2dee47af8181" idquestao="5c8eacbc-415b-4a5b-a52a-e23acd50d0f2" correta="false" texto="O conhecimento é herdado geneticamente."/>
+				<opcao id="f7d47f43-d72a-43da-aa45-fba8782f888b" idquestao="5c8eacbc-415b-4a5b-a52a-e23acd50d0f2" correta="false" texto="O saber humano se constrói a partir da fé religiosa."/>
+			</questao>
+			<questao id="1b3fdd23-e027-4f8a-b348-7323c4ada297" idaula="80de9170-8ef6-4e2f-811e-0edad819b920" enunciado="O que George Berkeley afirmava sobre a percepção?" justificativa="Berkeley acreditava que a percepção era a única realidade confiável, e que o mundo físico dependia dela.">
+				<opcao id="3764ef8f-c692-4a95-87ca-7663ae15aae8" idquestao="1b3fdd23-e027-4f8a-b348-7323c4ada297" correta="true" texto="Que a percepção é a única realidade da qual se pode ter certeza."/>
+				<opcao id="32cb38de-78d1-4564-8527-e6248b3d175d" idquestao="1b3fdd23-e027-4f8a-b348-7323c4ada297" correta="false" texto="Que os objetos físicos existem independentemente da mente."/>
+				<opcao id="3a4f123b-09c6-4c34-aaea-d81beb6f7212" idquestao="1b3fdd23-e027-4f8a-b348-7323c4ada297" correta="false" texto="Que a percepção é uma ilusão criada pelos sentidos."/>
+				<opcao id="a60505ca-3a01-4a58-bc15-bc7193fdc21e" idquestao="1b3fdd23-e027-4f8a-b348-7323c4ada297" correta="false" texto="Que os sentidos distorcem a realidade objetiva."/>
+			</questao>
+			<questao id="b7d4ecd5-709c-4a52-9781-b6c16e1708fb" idaula="80de9170-8ef6-4e2f-811e-0edad819b920" enunciado="Qual foi a proposta de John Stuart Mill em relação à mente humana?" justificativa="Mill defendia que a mente tem papel ativo na formação de ideias complexas, por meio da síntese criativa.">
+				<opcao id="db9f275d-081d-4c2e-ace0-34f8d3bd50f6" idquestao="b7d4ecd5-709c-4a52-9781-b6c16e1708fb" correta="true" texto="A mente é ativa e cria ideias complexas com novas qualidades."/>
+				<opcao id="2201ee7a-802b-4d09-bc82-9ef27e1fedae" idquestao="b7d4ecd5-709c-4a52-9781-b6c16e1708fb" correta="false" texto="A mente é completamente passiva e reativa."/>
+				<opcao id="308793d3-14dc-4bbf-bbfa-c05d20b40f85" idquestao="b7d4ecd5-709c-4a52-9781-b6c16e1708fb" correta="false" texto="Ideias complexas surgem exclusivamente por imitação."/>
+				<opcao id="e3458f8a-a912-48eb-a6a2-525a87346bd4" idquestao="b7d4ecd5-709c-4a52-9781-b6c16e1708fb" correta="false" texto="Toda ideia complexa é meramente a repetição de uma ideia simples."/>
+			</questao>
+			<questao id="bcb91c95-67d3-4c19-a719-74fac3fb3128" idaula="80de9170-8ef6-4e2f-811e-0edad819b920" enunciado="O que a equação pessoal revelou nas pesquisas científicas do século XIX?" justificativa="Revelou que há diferenças individuais na percepção do tempo, influenciando registros experimentais.">
+				<opcao id="5f459020-1bf3-47ff-98f4-49ffe8bc1f3c" idquestao="bcb91c95-67d3-4c19-a719-74fac3fb3128" correta="true" texto="Existem diferenças individuais que influenciam a medição do tempo."/>
+				<opcao id="eb083a73-1637-47ca-bd17-88db4dcca972" idquestao="bcb91c95-67d3-4c19-a719-74fac3fb3128" correta="false" texto="Todos os cientistas medem o tempo da mesma forma."/>
+				<opcao id="9a350376-2f3d-4ee3-bb17-0548c19250ec" idquestao="bcb91c95-67d3-4c19-a719-74fac3fb3128" correta="false" texto="As diferenças individuais não afetam observações experimentais."/>
+				<opcao id="fcc0ccfc-899a-41cd-b311-845042c7402c" idquestao="bcb91c95-67d3-4c19-a719-74fac3fb3128" correta="false" texto="A precisão do tempo não tem relação com a Psicologia."/>
+			</questao>
+		</aula>
+		<aula id="0d130187-da92-4e2b-ae34-68099d4a777a" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="Aula 04 - Psicofísica e Psicologia Experimental">
+			<questao id="3d20ac89-b9f4-4f52-845e-5b218feb677c" idaula="0d130187-da92-4e2b-ae34-68099d4a777a" enunciado="Por que a Alemanha foi um ambiente favorável ao surgimento da Psicologia Experimental?" justificativa="As reformas universitárias alemãs promoveram liberdade acadêmica e financiamento à pesquisa, incentivando o desenvolvimento científico.">
+				<opcao id="2ecc48b7-eede-449a-adab-dc2d327d6048" idquestao="3d20ac89-b9f4-4f52-845e-5b218feb677c" correta="true" texto="Porque suas universidades incentivavam a pesquisa com liberdade acadêmica e apoio financeiro."/>
+				<opcao id="90403a76-8c31-4fc1-a9ba-c9ecd830a0a3" idquestao="3d20ac89-b9f4-4f52-845e-5b218feb677c" correta="false" texto="Porque a Alemanha rejeitava métodos científicos e priorizava a filosofia."/>
+				<opcao id="c695b677-ab30-476e-b76f-bd97a652fe08" idquestao="3d20ac89-b9f4-4f52-845e-5b218feb677c" correta="false" texto="Porque seus laboratórios se dedicavam exclusivamente à biologia."/>
+				<opcao id="8621b0ba-b789-4e3c-ab04-66cba9cf0666" idquestao="3d20ac89-b9f4-4f52-845e-5b218feb677c" correta="false" texto="Porque os cientistas alemães ignoravam os fenômenos mentais."/>
+			</questao>
+			<questao id="093e209f-b547-44c5-8239-06258c7a35f3" idaula="0d130187-da92-4e2b-ae34-68099d4a777a" enunciado="O que a Lei de Weber demonstrou?" justificativa="A Lei de Weber mostrou que a percepção da diferença entre estímulos depende da proporção e não da diferença absoluta.">
+				<opcao id="4b26e310-1086-469f-aac7-d70a6c559502" idquestao="093e209f-b547-44c5-8239-06258c7a35f3" correta="true" texto="Que a percepção da diferença entre estímulos depende da proporção entre eles."/>
+				<opcao id="829a36fc-7763-4cfd-9ad4-f52575af0d7d" idquestao="093e209f-b547-44c5-8239-06258c7a35f3" correta="false" texto="Que a diferença absoluta entre estímulos é mais importante que a proporcional."/>
+				<opcao id="7930df24-e2ce-453a-9e0d-efb0cc8970f5" idquestao="093e209f-b547-44c5-8239-06258c7a35f3" correta="false" texto="Que todos os estímulos são percebidos da mesma forma."/>
+				<opcao id="9c6e958e-e6c9-4089-94af-c290136138d6" idquestao="093e209f-b547-44c5-8239-06258c7a35f3" correta="false" texto="Que o tato não pode ser medido experimentalmente."/>
+			</questao>
+			<questao id="bd3875ff-f782-41f9-a81b-028689bc2b0e" idaula="0d130187-da92-4e2b-ae34-68099d4a777a" enunciado="Qual foi a principal contribuição de Gustav Fechner para a Psicologia?" justificativa="Fechner criou a Psicofísica, sistematizando métodos para medir a relação entre estímulo físico e sensação.">
+				<opcao id="80146763-12bb-4650-97fa-50ffe3a0a37b" idquestao="bd3875ff-f782-41f9-a81b-028689bc2b0e" correta="true" texto="Criar a Psicofísica e desenvolver métodos para medir sensação e estímulo físico."/>
+				<opcao id="cf724396-a065-40ff-947b-b95f1face8ae" idquestao="bd3875ff-f782-41f9-a81b-028689bc2b0e" correta="false" texto="Inventar o eletroencefalograma para medir impulsos nervosos."/>
+				<opcao id="6c85c8cc-9f6a-48ec-97f0-21da7fc4ca7d" idquestao="bd3875ff-f782-41f9-a81b-028689bc2b0e" correta="false" texto="Classificar doenças mentais com base em traços do crânio."/>
+				<opcao id="0ae4f2fc-e6df-4e6f-ad77-a798f6008335" idquestao="bd3875ff-f782-41f9-a81b-028689bc2b0e" correta="false" texto="Criar teorias sobre inconsciente e repressão."/>
+			</questao>
+			<questao id="5eb4e234-1c00-4b4f-8291-4b90147f3d40" idaula="0d130187-da92-4e2b-ae34-68099d4a777a" enunciado="O que diferenciava a introspecção usada por Wundt em seu laboratório?" justificativa="A introspecção de Wundt era rigorosamente controlada e aplicada apenas a funções mentais simples.">
+				<opcao id="89ababe5-fd00-4e6f-baae-2f1bd96ca7fa" idquestao="5eb4e234-1c00-4b4f-8291-4b90147f3d40" correta="true" texto="Era controlada, com observadores treinados, e usada apenas para funções mentais simples."/>
+				<opcao id="dcf2689b-3774-46c6-b56b-eeee1bbb80c9" idquestao="5eb4e234-1c00-4b4f-8291-4b90147f3d40" correta="false" texto="Era livre e baseada em experiências religiosas subjetivas."/>
+				<opcao id="5b0739ac-6971-4bbd-9d79-5104f1f9db29" idquestao="5eb4e234-1c00-4b4f-8291-4b90147f3d40" correta="false" texto="Analisava exclusivamente sonhos e emoções profundas."/>
+				<opcao id="9341966b-032b-4b87-adb1-166bf6e98e24" idquestao="5eb4e234-1c00-4b4f-8291-4b90147f3d40" correta="false" texto="Não havia critérios para coleta ou análise dos dados."/>
+			</questao>
+			<questao id="c97c0c8b-c883-496f-ad39-d3da2f89f7b8" idaula="0d130187-da92-4e2b-ae34-68099d4a777a" enunciado="Como Wundt propôs estudar os processos mentais mais complexos?" justificativa="Wundt utilizava a Psicologia Cultural para estudar linguagem, arte, mitos e religião como formas de entender o desenvolvimento mental.">
+				<opcao id="44a5923b-daee-4ec9-935a-0c9a469018c5" idquestao="c97c0c8b-c883-496f-ad39-d3da2f89f7b8" correta="true" texto="Por meio da Psicologia Cultural, estudando fenômenos sociais como linguagem e mitos."/>
+				<opcao id="bdc04017-6fd1-442a-be8f-661c3db2bf62" idquestao="c97c0c8b-c883-496f-ad39-d3da2f89f7b8" correta="false" texto="Apenas pela introspecção aplicada a processos inconscientes."/>
+				<opcao id="79130db1-7d9c-4c41-a2a1-02690098f651" idquestao="c97c0c8b-c883-496f-ad39-d3da2f89f7b8" correta="false" texto="Utilizando exclusivamente métodos fisiológicos."/>
+				<opcao id="b567682e-02fb-405a-826d-67c751567fed" idquestao="c97c0c8b-c883-496f-ad39-d3da2f89f7b8" correta="false" texto="Ignorando os aspectos culturais e sociais do comportamento."/>
+			</questao>
+			<questao id="e8125837-6c39-4b43-99a9-5eb7538add7b" idaula="0d130187-da92-4e2b-ae34-68099d4a777a" enunciado="O que o conceito de apercepção representa na teoria de Wundt?" justificativa="A apercepção é a capacidade da mente de organizar ativamente os elementos da consciência.">
+				<opcao id="48859c87-53cb-4219-a0e5-ae5cb81c1f10" idquestao="e8125837-6c39-4b43-99a9-5eb7538add7b" correta="true" texto="A ação da mente ao organizar e sintetizar os elementos da consciência."/>
+				<opcao id="b40282e5-7466-4a3a-b067-ea2e99597c31" idquestao="e8125837-6c39-4b43-99a9-5eb7538add7b" correta="false" texto="A simples recepção passiva de estímulos pelos sentidos."/>
+				<opcao id="bdbe5621-0a10-4cb9-89b1-49bdf636d080" idquestao="e8125837-6c39-4b43-99a9-5eb7538add7b" correta="false" texto="Um reflexo automático controlado pela medula espinhal."/>
+				<opcao id="7c56724f-822f-4037-9490-b98d7a0e5735" idquestao="e8125837-6c39-4b43-99a9-5eb7538add7b" correta="false" texto="A perda momentânea da percepção consciente durante o sono."/>
+			</questao>
+		</aula>
+		<aula id="6700a2ca-7c01-4b37-88df-f3d995bfc7e3" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="Aula 05 - Psicologia Experimental e Estruturalismo">
+			<questao id="fec7e87f-ca3b-4b9e-8996-20b0b9ea2257" idaula="6700a2ca-7c01-4b37-88df-f3d995bfc7e3" enunciado="Qual era o principal objetivo da psicologia experimental de Wilhelm Wundt?" justificativa="Wundt buscava entender a experiência consciente por meio da introspecção controlada, com foco em sensações e sentimentos.">
+				<opcao id="f49d765c-3228-458a-b29f-bf1ad37f5096" idquestao="fec7e87f-ca3b-4b9e-8996-20b0b9ea2257" correta="true" texto="Estudar a experiência consciente por meio da introspecção."/>
+				<opcao id="b59b5cba-5440-4f6e-9928-0395119add3e" idquestao="fec7e87f-ca3b-4b9e-8996-20b0b9ea2257" correta="false" texto="Investigar o comportamento animal em laboratório."/>
+				<opcao id="04410ece-ca5b-4fa8-be5e-83dd2ca3b7e7" idquestao="fec7e87f-ca3b-4b9e-8996-20b0b9ea2257" correta="false" texto="Analisar os sonhos como expressão do inconsciente."/>
+				<opcao id="08ef8391-7773-4611-aac6-5d1ee32e8c8c" idquestao="fec7e87f-ca3b-4b9e-8996-20b0b9ea2257" correta="false" texto="Estudar a mente com base apenas em dados neurofisiológicos."/>
+			</questao>
+			<questao id="de4f0343-751c-46ec-8b4f-d08f218a8b0c" idaula="6700a2ca-7c01-4b37-88df-f3d995bfc7e3" enunciado="O que caracteriza a Curva do Esquecimento de Ebbinghaus?" justificativa="Ela mostra que a memória decai rapidamente após a aprendizagem, mas pode ser fortalecida com revisões.">
+				<opcao id="3fdf4d5f-cf9b-45e2-a511-afe5491da218" idquestao="de4f0343-751c-46ec-8b4f-d08f218a8b0c" correta="true" texto="A perda rápida de informações logo após a aprendizagem."/>
+				<opcao id="fcd28986-8345-4a9d-a166-25a871d923d9" idquestao="de4f0343-751c-46ec-8b4f-d08f218a8b0c" correta="false" texto="A tendência da memória em melhorar sem repetição."/>
+				<opcao id="b70f9f23-1ad5-4928-a50a-5b6724f3e95f" idquestao="de4f0343-751c-46ec-8b4f-d08f218a8b0c" correta="false" texto="A memorização imediata de informações sem esforço."/>
+				<opcao id="63bc3803-49d9-41ac-8ff9-eef4af279871" idquestao="de4f0343-751c-46ec-8b4f-d08f218a8b0c" correta="false" texto="A capacidade de lembrar apenas com apoio visual."/>
+			</questao>
+			<questao id="b0442baa-2316-4924-86f3-4b303e6dd168" idaula="6700a2ca-7c01-4b37-88df-f3d995bfc7e3" enunciado="Segundo Brentano, o foco da psicologia deve ser:" justificativa="Brentano defendia que a psicologia deve estudar os atos mentais, como ver, imaginar e lembrar.">
+				<opcao id="7a95734a-5d7a-4f3d-9160-2d65a4f6dd5f" idquestao="b0442baa-2316-4924-86f3-4b303e6dd168" correta="true" texto="Os atos mentais, como ver e imaginar."/>
+				<opcao id="841f7c6c-8464-42b3-93e2-eb7e91bc3ad4" idquestao="b0442baa-2316-4924-86f3-4b303e6dd168" correta="false" texto="Os elementos da consciência, como sensações puras."/>
+				<opcao id="94064945-5cc9-473a-8500-3d257bc353ab" idquestao="b0442baa-2316-4924-86f3-4b303e6dd168" correta="false" texto="As respostas fisiológicas a estímulos sensoriais."/>
+				<opcao id="baf3435f-6dc3-4e2d-9516-d937f771da43" idquestao="b0442baa-2316-4924-86f3-4b303e6dd168" correta="false" texto="A interpretação de símbolos culturais inconscientes."/>
+			</questao>
+			<questao id="8f15cc2a-6db2-450b-916e-b740482761f5" idaula="6700a2ca-7c01-4b37-88df-f3d995bfc7e3" enunciado="Qual foi uma das principais contribuições de Oswald Külpe à psicologia?" justificativa="Külpe mostrou que o pensamento pode ocorrer sem imagens sensoriais, o que desafiou ideias anteriores.">
+				<opcao id="a281fb50-602e-4cd1-aee5-c5b2ed0ce759" idquestao="8f15cc2a-6db2-450b-916e-b740482761f5" correta="true" texto="A ideia de que o pensamento pode ocorrer sem imagens."/>
+				<opcao id="b853fd57-a54a-44e8-b330-5eaa56630301" idquestao="8f15cc2a-6db2-450b-916e-b740482761f5" correta="false" texto="A fundação da psicologia da música."/>
+				<opcao id="e2c829f1-be97-40cb-b850-297dcaac169f" idquestao="8f15cc2a-6db2-450b-916e-b740482761f5" correta="false" texto="A teoria dos sentimentos tridimensionais."/>
+				<opcao id="8577df74-6740-4993-9676-e3d7afbb0683" idquestao="8f15cc2a-6db2-450b-916e-b740482761f5" correta="false" texto="A negação da introspecção como método."/>
+			</questao>
+			<questao id="3f7d30e4-4780-4d1c-b4c6-bc4a48e0f619" idaula="6700a2ca-7c01-4b37-88df-f3d995bfc7e3" enunciado="Para Titchener, qual era o objetivo da psicologia estrutural?" justificativa="O objetivo era identificar os elementos básicos da consciência por meio da introspecção treinada.">
+				<opcao id="911edfa7-81fa-4768-9d4a-20b416676258" idquestao="3f7d30e4-4780-4d1c-b4c6-bc4a48e0f619" correta="true" texto="Analisar os elementos da consciência por meio da introspecção."/>
+				<opcao id="fa40057a-7551-47cd-aa43-3186b2cba826" idquestao="3f7d30e4-4780-4d1c-b4c6-bc4a48e0f619" correta="false" texto="Explicar o comportamento por reflexos condicionados."/>
+				<opcao id="fbf3316d-ba8b-4d19-9e4a-3409afd1c060" idquestao="3f7d30e4-4780-4d1c-b4c6-bc4a48e0f619" correta="false" texto="Explorar o inconsciente por meio dos sonhos."/>
+				<opcao id="df600080-223d-4d16-9d4c-f8761ced1764" idquestao="3f7d30e4-4780-4d1c-b4c6-bc4a48e0f619" correta="false" texto="Estudar o cérebro através da neuroimagem funcional."/>
+			</questao>
+			<questao id="4eadb7f9-3af8-47e4-9251-64399ac39185" idaula="6700a2ca-7c01-4b37-88df-f3d995bfc7e3" enunciado="Qual das alternativas descreve corretamente o 'erro de estímulo' segundo Titchener?" justificativa="Erro de estímulo ocorre quando o observador relata o objeto físico ao invés das sensações puras da experiência.">
+				<opcao id="8e7e6bde-34e8-4cd8-a254-e8a207965d89" idquestao="4eadb7f9-3af8-47e4-9251-64399ac39185" correta="true" texto="Confundir a descrição da sensação com a do objeto físico."/>
+				<opcao id="36d0ebe2-0eab-49af-992c-03c004918c7d" idquestao="4eadb7f9-3af8-47e4-9251-64399ac39185" correta="false" texto="Atribuir sentidos espirituais à experiência introspectiva."/>
+				<opcao id="52f5ded7-e1d4-4d6a-854d-d45114a2c38b" idquestao="4eadb7f9-3af8-47e4-9251-64399ac39185" correta="false" texto="Focar na memória ao invés da percepção."/>
+				<opcao id="48870338-4a6c-4889-b3e2-d06e7f69a393" idquestao="4eadb7f9-3af8-47e4-9251-64399ac39185" correta="false" texto="Realizar experimentos com dados imprecisos."/>
+			</questao>
+		</aula>
+		<aula id="f964ec04-6eb0-4da1-a9c9-b565a8f43851" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="Aula 06 - Funcionalismo e as influências do evolucionismo na psicologia">
+			<questao id="f31cc132-6d15-4d6b-a5b0-927c4a776077" idaula="f964ec04-6eb0-4da1-a9c9-b565a8f43851" enunciado="Qual foi a principal influência da teoria de Darwin para o surgimento do funcionalismo na Psicologia?" justificativa="A teoria da evolução de Darwin destacou a importância da adaptação dos organismos ao ambiente, influenciando o funcionalismo a estudar como a mente auxilia nesse processo.">
+				<opcao id="c9f49b1d-d21a-4082-99a1-8905e0f81a5b" idquestao="f31cc132-6d15-4d6b-a5b0-927c4a776077" correta="false" texto="A valorização da introspecção como método principal"/>
+				<opcao id="04c8f080-c7d6-4d6a-b9b9-f2c2b78e3849" idquestao="f31cc132-6d15-4d6b-a5b0-927c4a776077" correta="false" texto="A ênfase na estrutura da consciência"/>
+				<opcao id="05811ab4-aed8-4535-a4ac-bc83feef0860" idquestao="f31cc132-6d15-4d6b-a5b0-927c4a776077" correta="true" texto="O foco na adaptação e nas funções mentais"/>
+				<opcao id="02e59200-4dd6-40a0-b112-cddc90451768" idquestao="f31cc132-6d15-4d6b-a5b0-927c4a776077" correta="false" texto="A defesa de que a mente é uma entidade fixa e imutável"/>
+			</questao>
+			<questao id="66674f75-56b4-4256-a756-56242590c017" idaula="f964ec04-6eb0-4da1-a9c9-b565a8f43851" enunciado="Segundo William James, o que é o fluxo da consciência?" justificativa="William James via a consciência como um fluxo contínuo e dinâmico, e não como algo fragmentado em partes isoladas.">
+				<opcao id="d7af1611-c37c-4ad6-8c14-15fe3a8b7692" idquestao="66674f75-56b4-4256-a756-56242590c017" correta="false" texto="A capacidade de lembrar eventos passados"/>
+				<opcao id="4182aa3e-0e88-46cc-8c05-0a8accb2b5a0" idquestao="66674f75-56b4-4256-a756-56242590c017" correta="false" texto="Um conjunto de ideias fixas que compõem a mente"/>
+				<opcao id="46976f62-a2c1-4d08-8c86-05e046352b73" idquestao="66674f75-56b4-4256-a756-56242590c017" correta="true" texto="Um movimento contínuo e dinâmico da mente"/>
+				<opcao id="02866015-ae28-4e47-b2d9-fee62f7abfae" idquestao="66674f75-56b4-4256-a756-56242590c017" correta="false" texto="Um reflexo condicionado ao ambiente"/>
+			</questao>
+			<questao id="5de2edd6-1a8f-42bb-bca2-ca461d2dbfa0" idaula="f964ec04-6eb0-4da1-a9c9-b565a8f43851" enunciado="O que a Lei da Parcimônia, proposta por Lloyd Morgan, orienta sobre o estudo do comportamento animal?" justificativa="A Lei da Parcimônia sugere que o comportamento animal deve ser explicado por processos mentais simples antes de se atribuir explicações mais complexas.">
+				<opcao id="418d23dd-65bc-4941-a4e0-6ef0d808d9ff" idquestao="5de2edd6-1a8f-42bb-bca2-ca461d2dbfa0" correta="false" texto="Atribuir aos animais os mesmos sentimentos humanos"/>
+				<opcao id="b1013d20-ffd6-4064-8915-fef320686ccb" idquestao="5de2edd6-1a8f-42bb-bca2-ca461d2dbfa0" correta="false" texto="Utilizar introspecção por analogia em todos os casos"/>
+				<opcao id="b91f224a-5830-401e-bdec-e037cff60d04" idquestao="5de2edd6-1a8f-42bb-bca2-ca461d2dbfa0" correta="true" texto="Evitar explicações mentais superiores quando há alternativas mais simples"/>
+				<opcao id="986dea32-90dd-4621-a71b-a3df128f43cd" idquestao="5de2edd6-1a8f-42bb-bca2-ca461d2dbfa0" correta="false" texto="Priorizar sempre os dados subjetivos no estudo animal"/>
+			</questao>
+			<questao id="1bf7004d-9110-4e79-90c2-d0154eb43c54" idaula="f964ec04-6eb0-4da1-a9c9-b565a8f43851" enunciado="Qual foi a principal contribuição de Francis Galton para a Psicologia?" justificativa="Galton contribuiu para a mensuração das capacidades humanas e desenvolveu testes mentais, além de introduzir o conceito de correlação estatística.">
+				<opcao id="9ef6e409-ac9c-4eef-b7b1-720d5b0d7ebf" idquestao="1bf7004d-9110-4e79-90c2-d0154eb43c54" correta="false" texto="Criou a teoria das emoções"/>
+				<opcao id="60a8e5bf-7048-4159-aa5d-01f02cd9a851" idquestao="1bf7004d-9110-4e79-90c2-d0154eb43c54" correta="false" texto="Desenvolveu a introspecção sistemática"/>
+				<opcao id="3e1a5054-2fc5-485f-9df4-a7ad2b613bba" idquestao="1bf7004d-9110-4e79-90c2-d0154eb43c54" correta="false" texto="Fundou o behaviorismo"/>
+				<opcao id="9ed44669-9738-4a78-92b7-7e844553236a" idquestao="1bf7004d-9110-4e79-90c2-d0154eb43c54" correta="true" texto="Estudou hereditariedade mental e desenvolveu testes de inteligência"/>
+			</questao>
+			<questao id="e366f6c3-1d63-4016-8c57-9e02cbd3e4c5" idaula="f964ec04-6eb0-4da1-a9c9-b565a8f43851" enunciado="Como o funcionalismo diferia do estruturalismo?" justificativa="Enquanto o estruturalismo focava nos elementos da mente, o funcionalismo estudava as funções mentais e como elas ajudam na adaptação.">
+				<opcao id="fa45a7b2-9e50-4518-95b7-80db3b62cd09" idquestao="e366f6c3-1d63-4016-8c57-9e02cbd3e4c5" correta="false" texto="Ambas as abordagens se dedicavam apenas à estrutura da mente"/>
+				<opcao id="7f2d2687-f688-4a3d-8964-e4d3f7f1677b" idquestao="e366f6c3-1d63-4016-8c57-9e02cbd3e4c5" correta="false" texto="O funcionalismo rejeitava o estudo das funções mentais"/>
+				<opcao id="70f2d302-f9b2-4c27-b6fd-388f96baac7d" idquestao="e366f6c3-1d63-4016-8c57-9e02cbd3e4c5" correta="false" texto="O estruturalismo aplicava o método experimental em animais"/>
+				<opcao id="0b57110b-f360-42d9-9182-ea2683492408" idquestao="e366f6c3-1d63-4016-8c57-9e02cbd3e4c5" correta="true" texto="O funcionalismo enfatizava as funções da mente em vez de sua estrutura"/>
+			</questao>
+			<questao id="cb9e78f3-088c-480c-85ec-2458cefdb8bf" idaula="f964ec04-6eb0-4da1-a9c9-b565a8f43851" enunciado="O que John Dewey propôs em relação ao arco reflexo?" justificativa="Dewey criticou a separação entre estímulo e resposta, propondo uma visão integrada do comportamento e da consciência.">
+				<opcao id="8d27aec3-04a8-42ec-bb5d-ff826ae591f3" idquestao="cb9e78f3-088c-480c-85ec-2458cefdb8bf" correta="false" texto="Que o arco reflexo deve ser analisado isoladamente"/>
+				<opcao id="8a3f3bed-1360-45ae-a638-92dc1de5f9c1" idquestao="cb9e78f3-088c-480c-85ec-2458cefdb8bf" correta="false" texto="Que a resposta vem sempre antes do estímulo"/>
+				<opcao id="07b73477-95be-46f3-a00e-855096621d93" idquestao="cb9e78f3-088c-480c-85ec-2458cefdb8bf" correta="true" texto="Que comportamento e consciência devem ser vistos de forma integrada"/>
+				<opcao id="ee0dfc35-da54-45be-b624-b92e337dde5c" idquestao="cb9e78f3-088c-480c-85ec-2458cefdb8bf" correta="false" texto="Que o arco reflexo não tem valor para a Psicologia"/>
+			</questao>
+		</aula>
+		<aula id="61648a36-6b79-4e35-90c5-a95a92d66abd" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="Aula 07 - Revisão Geral da História da Psicologia">
+			<questao id="f0de9f47-b60b-495b-9909-f2cd53bdc5a2" idaula="61648a36-6b79-4e35-90c5-a95a92d66abd" enunciado="Por que o estudo da História da Psicologia é importante para a compreensão da psicologia moderna?" justificativa="A resposta correta destaca que entender o passado da psicologia ajuda a compreender seu presente, integrando suas diferentes abordagens.">
+				<opcao id="faa204e6-fad1-46a6-b284-1f5abc5fcc27" idquestao="f0de9f47-b60b-495b-9909-f2cd53bdc5a2" correta="true" texto="Porque permite compreender o presente a partir da evolução histórica da disciplina."/>
+				<opcao id="cd60e982-5b8d-421e-a6a6-d32df8cb7b3c" idquestao="f0de9f47-b60b-495b-9909-f2cd53bdc5a2" correta="false" texto="Porque substitui a filosofia como principal base teórica da psicologia."/>
+				<opcao id="4c2dfe8b-fef0-433c-a94b-ec11c3b5e23b" idquestao="f0de9f47-b60b-495b-9909-f2cd53bdc5a2" correta="false" texto="Porque explica exclusivamente a psicologia experimental."/>
+				<opcao id="cc5cea4c-7e3b-4fd2-b535-cd0f31d83ad5" idquestao="f0de9f47-b60b-495b-9909-f2cd53bdc5a2" correta="false" texto="Porque elimina a necessidade de métodos empíricos na psicologia atual."/>
+			</questao>
+			<questao id="eb130d92-d9cb-4e0a-8eb1-5d6d2b096b41" idaula="61648a36-6b79-4e35-90c5-a95a92d66abd" enunciado="Qual foi a principal contribuição de René Descartes para a psicologia?" justificativa="A dualidade mente-corpo proposta por Descartes influenciou o surgimento de teorias que separavam funções físicas e mentais, sendo base para abordagens como o behaviorismo.">
+				<opcao id="7908cec3-fb94-4961-8642-35e95bf70956" idquestao="eb130d92-d9cb-4e0a-8eb1-5d6d2b096b41" correta="true" texto="A teoria da dualidade mente-corpo e a ideia de atos reflexos."/>
+				<opcao id="ffca823d-e702-4cc8-ba55-1ce3f171779b" idquestao="eb130d92-d9cb-4e0a-8eb1-5d6d2b096b41" correta="false" texto="A fundação do primeiro laboratório de psicologia experimental."/>
+				<opcao id="2d2197bd-07c4-4539-89cd-ca5a72373f39" idquestao="eb130d92-d9cb-4e0a-8eb1-5d6d2b096b41" correta="false" texto="A criação da teoria da evolução e da seleção natural."/>
+				<opcao id="327dd120-4058-4216-9e12-a9c4fa5bd8f9" idquestao="eb130d92-d9cb-4e0a-8eb1-5d6d2b096b41" correta="false" texto="A rejeição do racionalismo em favor do empirismo radical."/>
+			</questao>
+			<questao id="7ddf1b7c-b897-4c64-bd75-b8b1712b21f7" idaula="61648a36-6b79-4e35-90c5-a95a92d66abd" enunciado="Qual era o principal foco do estruturalismo na psicologia?" justificativa="O estruturalismo buscava identificar os elementos básicos da consciência por meio da introspecção treinada.">
+				<opcao id="6ea45934-1688-4013-8b34-0d929deffa02" idquestao="7ddf1b7c-b897-4c64-bd75-b8b1712b21f7" correta="true" texto="Analisar os elementos básicos da consciência através da introspecção."/>
+				<opcao id="eb58d697-4e8b-4dd1-a520-f0f77366a064" idquestao="7ddf1b7c-b897-4c64-bd75-b8b1712b21f7" correta="false" texto="Investigar a utilidade prática da mente para adaptação."/>
+				<opcao id="a8a6393f-2630-4d3d-9916-f031d826f48a" idquestao="7ddf1b7c-b897-4c64-bd75-b8b1712b21f7" correta="false" texto="Estudar o comportamento observável e mensurável."/>
+				<opcao id="dbbaeea4-d6e1-440d-bc53-96552ec4f7d1" idquestao="7ddf1b7c-b897-4c64-bd75-b8b1712b21f7" correta="false" texto="Explorar o inconsciente e seus efeitos na conduta humana."/>
+			</questao>
+			<questao id="e4f67930-f298-4047-9704-f6b78f26e1a2" idaula="61648a36-6b79-4e35-90c5-a95a92d66abd" enunciado="Como o funcionalismo contribuiu para a evolução da psicologia?" justificativa="O funcionalismo promoveu uma visão prática da mente como instrumento de adaptação, contribuindo para aplicações da psicologia em diversas áreas.">
+				<opcao id="113cfe92-1ae3-4164-8d87-2b985b2f40d6" idquestao="e4f67930-f298-4047-9704-f6b78f26e1a2" correta="true" texto="Valorizando a adaptação e aplicabilidade da mente aos problemas do cotidiano."/>
+				<opcao id="adc085b0-1496-483f-a0fd-e3f58a894f8b" idquestao="e4f67930-f298-4047-9704-f6b78f26e1a2" correta="false" texto="Defendendo exclusivamente o método introspectivo."/>
+				<opcao id="e99bbad8-f3cb-4b43-9aea-31b525918171" idquestao="e4f67930-f298-4047-9704-f6b78f26e1a2" correta="false" texto="Negando a influência da biologia no comportamento humano."/>
+				<opcao id="0a76dbcb-52bd-40c4-827e-8d704b7e7aa7" idquestao="e4f67930-f298-4047-9704-f6b78f26e1a2" correta="false" texto="Apoiando apenas abordagens teóricas e não empíricas."/>
+			</questao>
+			<questao id="164b7fcf-f3b4-4566-98b4-0ef8771f767f" idaula="61648a36-6b79-4e35-90c5-a95a92d66abd" enunciado="Qual foi uma das principais descobertas da psicofísica no século XIX?" justificativa="A psicofísica foi pioneira na quantificação da relação entre estímulo físico e sensação, introduzindo a Lei de Weber.">
+				<opcao id="638709eb-9c5d-4d36-a959-a475a7be2f57" idquestao="164b7fcf-f3b4-4566-98b4-0ef8771f767f" correta="true" texto="A relação quantitativa entre estímulo físico e sensação, como descrito pela Lei de Weber."/>
+				<opcao id="3a544b66-a59e-4572-9e82-d5587218b102" idquestao="164b7fcf-f3b4-4566-98b4-0ef8771f767f" correta="false" texto="A introspecção como método para estudar sentimentos subjetivos."/>
+				<opcao id="02d0ab38-2d5d-4530-9df7-f14ce3a8c077" idquestao="164b7fcf-f3b4-4566-98b4-0ef8771f767f" correta="false" texto="O uso da glândula pineal como centro de controle da mente."/>
+				<opcao id="d8e94dd4-73a8-413c-9336-8d19b0bed60b" idquestao="164b7fcf-f3b4-4566-98b4-0ef8771f767f" correta="false" texto="A divisão entre psicologia experimental e cultural."/>
+			</questao>
+			<questao id="5370a40d-d819-4dfd-a6f1-2755b417f539" idaula="61648a36-6b79-4e35-90c5-a95a92d66abd" enunciado="Qual a importância da fisiologia experimental para a psicologia científica?" justificativa="A fisiologia experimental introduziu métodos objetivos, como estímulo elétrico e extirpação, que embasaram o estudo científico do cérebro e do comportamento.">
+				<opcao id="840328a7-3dc0-4a45-b02c-962fff4803ff" idquestao="5370a40d-d819-4dfd-a6f1-2755b417f539" correta="true" texto="Forneceu métodos empíricos como estímulos elétricos e extirpação, base para o estudo da mente."/>
+				<opcao id="31507fe0-6304-432a-884b-46314e4a68eb" idquestao="5370a40d-d819-4dfd-a6f1-2755b417f539" correta="false" texto="Eliminou a necessidade de qualquer influência filosófica na psicologia."/>
+				<opcao id="b386e0f1-1a0a-4242-9b4c-22ffc0de3d53" idquestao="5370a40d-d819-4dfd-a6f1-2755b417f539" correta="false" texto="Demonstrou que a introspecção era o único método válido de estudo mental."/>
+				<opcao id="341b6752-ccca-4eeb-9eef-3472d2d2f772" idquestao="5370a40d-d819-4dfd-a6f1-2755b417f539" correta="false" texto="Proibiu o uso de experimentação com seres humanos."/>
+			</questao>
+		</aula>
+		<aula id="111c0aa4-7a4b-4474-8a7e-a63a4c025591" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="Aula 08 - Behaviorismo e Gestalt - Das Respostas Observáveis à Percepção Integral">
+			<questao id="0ab7aa26-8abe-4a9a-92fa-95ff4259bdf6" idaula="111c0aa4-7a4b-4474-8a7e-a63a4c025591" enunciado="Qual era o principal foco do Behaviorismo, segundo John B. Watson?" justificativa="Watson acreditava que a Psicologia deveria se concentrar no comportamento observável, descartando elementos subjetivos como pensamentos e sentimentos.">
+				<opcao id="e0219252-4e2b-46cc-9cc2-b5952b643740" idquestao="0ab7aa26-8abe-4a9a-92fa-95ff4259bdf6" correta="false" texto="Estudar os sonhos e o inconsciente"/>
+				<opcao id="88c9e1da-d587-4dea-8004-df2f23b991aa" idquestao="0ab7aa26-8abe-4a9a-92fa-95ff4259bdf6" correta="false" texto="Investigar a estrutura da mente"/>
+				<opcao id="7baaac16-1e9d-4df0-b598-46d26c6d09bf" idquestao="0ab7aa26-8abe-4a9a-92fa-95ff4259bdf6" correta="true" texto="Analisar o comportamento observável de forma objetiva"/>
+				<opcao id="0647f31c-9154-4fd5-b8a9-a7eac0f244cb" idquestao="0ab7aa26-8abe-4a9a-92fa-95ff4259bdf6" correta="false" texto="Explorar a percepção consciente"/>
+			</questao>
+			<questao id="9266449f-bde9-4cf2-8bc4-f995e8c722cc" idaula="111c0aa4-7a4b-4474-8a7e-a63a4c025591" enunciado="O que diferencia o condicionamento operante proposto por Skinner?" justificativa="Skinner desenvolveu o conceito de reforço, demonstrando que comportamentos reforçados tendem a se repetir, enquanto os não reforçados desaparecem.">
+				<opcao id="cc50b96a-58b3-4d3e-a993-1fe9f6cd7482" idquestao="9266449f-bde9-4cf2-8bc4-f995e8c722cc" correta="false" texto="A associação entre dois estímulos neutros"/>
+				<opcao id="c5143a2f-6eaa-495c-9c63-07a5bbe6a41b" idquestao="9266449f-bde9-4cf2-8bc4-f995e8c722cc" correta="false" texto="A observação de reflexos involuntários"/>
+				<opcao id="c81ef149-3308-4588-8dd0-6e0498d6335d" idquestao="9266449f-bde9-4cf2-8bc4-f995e8c722cc" correta="true" texto="O reforço de comportamentos por meio de consequências"/>
+				<opcao id="0804af69-45c0-48ce-992a-60a6ce2881bb" idquestao="9266449f-bde9-4cf2-8bc4-f995e8c722cc" correta="false" texto="A introspecção como método principal"/>
+			</questao>
+			<questao id="049adeac-11ef-493d-b6cb-e1d63cee2cb1" idaula="111c0aa4-7a4b-4474-8a7e-a63a4c025591" enunciado="De acordo com a Gestalt, como a mente organiza os estímulos percebidos?" justificativa="A Gestalt propõe que a mente organiza os estímulos de forma total e integrada, ou seja, o todo é mais do que a soma das partes.">
+				<opcao id="d37e21a1-e8c3-4f46-8fe4-af85c7239a48" idquestao="049adeac-11ef-493d-b6cb-e1d63cee2cb1" correta="false" texto="De maneira aleatória e desorganizada"/>
+				<opcao id="219184ec-483f-46cf-a4b7-376bda06cb48" idquestao="049adeac-11ef-493d-b6cb-e1d63cee2cb1" correta="false" texto="Através da repetição e do reforço"/>
+				<opcao id="b8a1daf8-8be5-4194-b4f8-6e7f532a2abd" idquestao="049adeac-11ef-493d-b6cb-e1d63cee2cb1" correta="false" texto="Por meio da soma simples dos elementos individuais"/>
+				<opcao id="ead297a3-17dd-427a-8af6-3c85db78d64d" idquestao="049adeac-11ef-493d-b6cb-e1d63cee2cb1" correta="true" texto="Com base na percepção do todo, e não apenas das partes"/>
+			</questao>
+			<questao id="74a8beb0-7061-4d31-ae0b-755892a970b6" idaula="111c0aa4-7a4b-4474-8a7e-a63a4c025591" enunciado="Qual foi a contribuição de Wolfgang Köhler para a Psicologia da Gestalt?" justificativa="Köhler demonstrou, com chimpanzés, que a solução de problemas pode ocorrer por insight e não apenas por tentativa e erro.">
+				<opcao id="a81e7035-8524-46d5-af4e-2a767b3eb6e7" idquestao="74a8beb0-7061-4d31-ae0b-755892a970b6" correta="false" texto="Desenvolveu os primeiros testes mentais"/>
+				<opcao id="dd363187-ec48-4cbb-b6dd-4e37216d4398" idquestao="74a8beb0-7061-4d31-ae0b-755892a970b6" correta="false" texto="Criou o conceito de reforço positivo"/>
+				<opcao id="cb62dd55-fad1-48b0-9282-ed6af32bd36e" idquestao="74a8beb0-7061-4d31-ae0b-755892a970b6" correta="true" texto="Realizou experimentos com chimpanzés que indicaram soluções por insight"/>
+				<opcao id="40cba81b-53f5-4c72-8608-33f861f3388a" idquestao="74a8beb0-7061-4d31-ae0b-755892a970b6" correta="false" texto="Definiu o inconsciente como base da percepção"/>
+			</questao>
+			<questao id="82db22b4-c8cc-4695-ad7e-12b8a019d9e5" idaula="111c0aa4-7a4b-4474-8a7e-a63a4c025591" enunciado="Por que a Gestalt se opôs ao Behaviorismo?" justificativa="A Gestalt criticava o Behaviorismo por reduzir o comportamento a estímulo-resposta e ignorar a percepção integral e ativa da mente.">
+				<opcao id="d393c7f3-667e-46b2-b3d2-7f89e8ae2ba7" idquestao="82db22b4-c8cc-4695-ad7e-12b8a019d9e5" correta="false" texto="Porque negava a importância da biologia no comportamento"/>
+				<opcao id="aea4ec89-fa9e-4cd2-a02a-4818fc384729" idquestao="82db22b4-c8cc-4695-ad7e-12b8a019d9e5" correta="false" texto="Porque valorizava apenas os processos inconscientes"/>
+				<opcao id="7b506a18-5082-4967-9f36-5d18f353639f" idquestao="82db22b4-c8cc-4695-ad7e-12b8a019d9e5" correta="false" texto="Porque acreditava que o comportamento era passivo"/>
+				<opcao id="3aa9ecde-6f61-4bcd-b4f7-0807cf607285" idquestao="82db22b4-c8cc-4695-ad7e-12b8a019d9e5" correta="true" texto="Porque considerava que a mente organiza os estímulos de maneira ativa"/>
+			</questao>
+			<questao id="df181a80-a3ab-4b31-a52a-aa74257b999a" idaula="111c0aa4-7a4b-4474-8a7e-a63a4c025591" enunciado="Qual era o lema central da Psicologia da Gestalt?" justificativa="O lema central da Gestalt era que o todo é diferente da simples soma das partes, destacando a organização perceptiva.">
+				<opcao id="bc874eb6-1fbc-49a4-8713-ab11ae1207a6" idquestao="df181a80-a3ab-4b31-a52a-aa74257b999a" correta="false" texto="O todo é a soma de seus elementos"/>
+				<opcao id="dfa094ba-b7fe-4090-9205-7ac0adb1d397" idquestao="df181a80-a3ab-4b31-a52a-aa74257b999a" correta="false" texto="A percepção depende exclusivamente do estímulo isolado"/>
+				<opcao id="4e43b69e-86d9-4576-8058-1f4f8b75d4f2" idquestao="df181a80-a3ab-4b31-a52a-aa74257b999a" correta="false" texto="O comportamento é moldado pelo reforço"/>
+				<opcao id="7a36af1c-0f75-47a4-a1ce-a376bb504dd5" idquestao="df181a80-a3ab-4b31-a52a-aa74257b999a" correta="true" texto="O todo é diferente da soma das partes"/>
+			</questao>
+		</aula>
+		<aula id="7c173c25-9e58-49b6-bc41-fc96b06087c1" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="Aula 09 - Psicanálise - Origens, Desenvolvimento e Críticas">
+			<questao id="46ab27b1-f854-4003-8f7b-addfa8e10e11" idaula="7c173c25-9e58-49b6-bc41-fc96b06087c1" enunciado="Qual é o principal objetivo da Psicanálise segundo Freud?" justificativa="A Psicanálise visa tornar consciente o que está no inconsciente, promovendo a elaboração de conflitos psíquicos profundos.">
+				<opcao id="d5fef1cd-2e31-405f-999c-be3c9b70b49a" idquestao="46ab27b1-f854-4003-8f7b-addfa8e10e11" correta="true" texto="Tornar consciente o inconsciente e elaborar conflitos psíquicos."/>
+				<opcao id="ed16ee78-c0df-4cb3-856d-c48fe2bbc19f" idquestao="46ab27b1-f854-4003-8f7b-addfa8e10e11" correta="false" texto="Eliminar todos os comportamentos indesejáveis por meio de reforços positivos."/>
+				<opcao id="d0887bc9-7e25-44a6-bbf0-e27019bc2d3f" idquestao="46ab27b1-f854-4003-8f7b-addfa8e10e11" correta="false" texto="Analisar somente os comportamentos observáveis."/>
+				<opcao id="99379a53-f71d-4457-98c6-1687bdc85b56" idquestao="46ab27b1-f854-4003-8f7b-addfa8e10e11" correta="false" texto="Investigar os efeitos dos neurotransmissores sobre o comportamento humano."/>
+			</questao>
+			<questao id="de3d6809-21c6-4fea-8262-698f80b4e777" idaula="7c173c25-9e58-49b6-bc41-fc96b06087c1" enunciado="Qual foi a contribuição do caso Anna O. para o surgimento da Psicanálise?" justificativa="O caso demonstrou que reviver emoções reprimidas por meio da fala (catarse) podia aliviar sintomas, influenciando Freud na criação da Psicanálise.">
+				<opcao id="6464b18b-6b1b-45df-b8ea-cf0c358d6ca0" idquestao="de3d6809-21c6-4fea-8262-698f80b4e777" correta="true" texto="Mostrou que verbalizar experiências traumáticas aliviava sintomas emocionais."/>
+				<opcao id="10c34907-ed50-441e-ac1f-0415e0cced26" idquestao="de3d6809-21c6-4fea-8262-698f80b4e777" correta="false" texto="Demonstrou que os sonhos são irrelevantes no tratamento de histeria."/>
+				<opcao id="ea9023dd-4605-4d27-b12f-0b6ca5b0b282" idquestao="de3d6809-21c6-4fea-8262-698f80b4e777" correta="false" texto="Reforçou o uso exclusivo da introspecção sistemática."/>
+				<opcao id="6b29d616-40f2-45bd-8100-6287277e95de" idquestao="de3d6809-21c6-4fea-8262-698f80b4e777" correta="false" texto="Provou que o método experimental era suficiente para tratar transtornos mentais."/>
+			</questao>
+			<questao id="829ac066-eee7-461d-b953-408c04519525" idaula="7c173c25-9e58-49b6-bc41-fc96b06087c1" enunciado="Na teoria da segunda tópica de Freud, qual é a função do ego?" justificativa="O ego atua como mediador entre os impulsos do id, as exigências do superego e a realidade externa.">
+				<opcao id="8d72ddb8-3bb2-4012-b602-403b14a38175" idquestao="829ac066-eee7-461d-b953-408c04519525" correta="true" texto="Medir os desejos do id com a realidade e o superego."/>
+				<opcao id="042b41e4-c1bd-4c22-91ab-6d7128993aea" idquestao="829ac066-eee7-461d-b953-408c04519525" correta="false" texto="Buscar prazer imediato independentemente das consequências."/>
+				<opcao id="f32f7e15-2507-498b-8b75-9e85c1f82c46" idquestao="829ac066-eee7-461d-b953-408c04519525" correta="false" texto="Impor padrões morais de forma rígida e punitiva."/>
+				<opcao id="be622f2f-4d25-4daa-a04f-da3f5c59d864" idquestao="829ac066-eee7-461d-b953-408c04519525" correta="false" texto="Criar conflitos psíquicos para proteger o inconsciente."/>
+			</questao>
+			<questao id="35773b05-ffb9-47a1-941d-ade47e8d7a46" idaula="7c173c25-9e58-49b6-bc41-fc96b06087c1" enunciado="O que caracteriza a fase fálica no desenvolvimento psicossexual segundo Freud?" justificativa="A fase fálica é marcada pelo Complexo de Édipo e o início da formação do superego.">
+				<opcao id="e2056e3a-c9b3-4e6d-ba7a-83591a1d3aeb" idquestao="35773b05-ffb9-47a1-941d-ade47e8d7a46" correta="true" texto="A criança desenvolve interesse pelas diferenças sexuais e vivencia o Complexo de Édipo."/>
+				<opcao id="da4a2ef6-40a6-4aef-85d5-e154f1a59989" idquestao="35773b05-ffb9-47a1-941d-ade47e8d7a46" correta="false" texto="Busca prazer exclusivamente com a alimentação."/>
+				<opcao id="c61d8a71-0c9c-444f-8a55-12bfbd2557bd" idquestao="35773b05-ffb9-47a1-941d-ade47e8d7a46" correta="false" texto="Sente prazer na retenção e expulsão das fezes."/>
+				<opcao id="cada2486-17f0-489f-903e-54d0f03406ba" idquestao="35773b05-ffb9-47a1-941d-ade47e8d7a46" correta="false" texto="Reprime totalmente a libido e foca-se apenas em atividades intelectuais."/>
+			</questao>
+			<questao id="28a44f71-23bf-44af-9911-f4b321bd00b2" idaula="7c173c25-9e58-49b6-bc41-fc96b06087c1" enunciado="Qual é a função do mecanismo de defesa chamado 'sublimação'?" justificativa="A sublimação transforma impulsos inaceitáveis em comportamentos socialmente aceitáveis, como arte e esporte.">
+				<opcao id="6fdda4c6-ca2d-447a-b4e0-8c8e1eb5ffad" idquestao="28a44f71-23bf-44af-9911-f4b321bd00b2" correta="true" texto="Redirecionar impulsos inaceitáveis para atividades socialmente aceitas."/>
+				<opcao id="b1d4d4b4-df66-439c-a9d6-f2925effee91" idquestao="28a44f71-23bf-44af-9911-f4b321bd00b2" correta="false" texto="Atribuir a outros sentimentos que são seus."/>
+				<opcao id="4a8faf58-aae1-469b-9179-cb7a35aec451" idquestao="28a44f71-23bf-44af-9911-f4b321bd00b2" correta="false" texto="Recusar-se a aceitar a realidade de uma situação difícil."/>
+				<opcao id="38bb7c1c-25d2-4c64-9741-dfe4c5874f75" idquestao="28a44f71-23bf-44af-9911-f4b321bd00b2" correta="false" texto="Retornar a comportamentos infantis em momentos de estresse."/>
+			</questao>
+			<questao id="94494188-6fc3-48fc-b0b5-0374433ea179" idaula="7c173c25-9e58-49b6-bc41-fc96b06087c1" enunciado="Qual obra é considerada a principal de Freud, onde apresenta o Complexo de Édipo?" justificativa="A obra 'A Interpretação dos Sonhos' é central para a teoria psicanalítica e introduz o Complexo de Édipo.">
+				<opcao id="5213f1fb-6508-4b5c-b439-bdc4442667c3" idquestao="94494188-6fc3-48fc-b0b5-0374433ea179" correta="true" texto="A Interpretação dos Sonhos."/>
+				<opcao id="fa61856d-8eb3-4893-b9c7-dcc59ef2692c" idquestao="94494188-6fc3-48fc-b0b5-0374433ea179" correta="false" texto="Além do Princípio do Prazer."/>
+				<opcao id="41dfe6f1-709a-44bf-b339-367388c4d010" idquestao="94494188-6fc3-48fc-b0b5-0374433ea179" correta="false" texto="Psicopatologia da Vida Cotidiana."/>
+				<opcao id="9569b964-0c9b-4cf2-9a6f-fec4f66b0ab6" idquestao="94494188-6fc3-48fc-b0b5-0374433ea179" correta="false" texto="Estudos sobre a Histeria."/>
+			</questao>
+		</aula>
+		<aula id="f63d4c03-691e-42ff-abc4-32c47c55f56e" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="Aula 10 - Psicologia Fenomenológico-Existencial e Humanista">
+			<questao id="30f08520-99be-4420-b68e-94737e767d29" idaula="f63d4c03-691e-42ff-abc4-32c47c55f56e" enunciado="Qual é o principal objetivo da psicologia fenomenológica-existencial?" justificativa="O objetivo da psicologia fenomenológica-existencial é ajudar o indivíduo a viver de forma mais autêntica, reconhecendo suas escolhas, liberdade e responsabilidade.">
+				<opcao id="f7ad6074-b548-48d2-a780-2b9ee9e74292" idquestao="30f08520-99be-4420-b68e-94737e767d29" correta="true" texto="Ajudar o indivíduo a viver de forma mais autêntica"/>
+				<opcao id="726faf0d-d919-4718-8cc7-c2f4b9a9260d" idquestao="30f08520-99be-4420-b68e-94737e767d29" correta="false" texto="Diagnosticar transtornos com base em sintomas objetivos"/>
+				<opcao id="f26302d0-a1d2-48b1-be73-758d80a2aea7" idquestao="30f08520-99be-4420-b68e-94737e767d29" correta="false" texto="Aplicar testes padronizados para medir traços de personalidade"/>
+				<opcao id="12d2e9a6-c862-4426-9c18-11d66af821f8" idquestao="30f08520-99be-4420-b68e-94737e767d29" correta="false" texto="Determinar a origem biológica das emoções"/>
+			</questao>
+			<questao id="2c8a4851-6a1c-4122-995a-bf9549b5c930" idaula="f63d4c03-691e-42ff-abc4-32c47c55f56e" enunciado="Segundo Carl Rogers, qual é o papel do terapeuta na abordagem centrada na pessoa?" justificativa="O terapeuta deve criar um ambiente seguro, empático e autêntico para que o paciente possa se desenvolver e encontrar suas próprias respostas.">
+				<opcao id="6617284f-e185-42bd-b4b2-3c1d71150b79" idquestao="2c8a4851-6a1c-4122-995a-bf9549b5c930" correta="true" texto="Criar um ambiente seguro para o paciente se desenvolver"/>
+				<opcao id="376db014-b3c5-4856-a756-5b8f6e801d90" idquestao="2c8a4851-6a1c-4122-995a-bf9549b5c930" correta="false" texto="Interpretar os sonhos do paciente para revelar o inconsciente"/>
+				<opcao id="831758e9-f1ca-4cac-8257-8ba59838258f" idquestao="2c8a4851-6a1c-4122-995a-bf9549b5c930" correta="false" texto="Determinar o diagnóstico clínico com base em critérios objetivos"/>
+				<opcao id="2523e2d2-4163-42ca-937c-633180355331" idquestao="2c8a4851-6a1c-4122-995a-bf9549b5c930" correta="false" texto="Aplicar técnicas de reforço para modificar o comportamento"/>
+			</questao>
+			<questao id="cddf8550-02d6-46a9-9c15-7c3de9496090" idaula="f63d4c03-691e-42ff-abc4-32c47c55f56e" enunciado="Na teoria de Maslow, o que é necessário para atingir a autorrealização?" justificativa="Para alcançar a autorrealização, é necessário satisfazer as necessidades básicas da hierarquia, como fisiológicas, de segurança, sociais e de autoestima.">
+				<opcao id="d34153ec-3f61-42d8-b4c1-774d918bcff4" idquestao="cddf8550-02d6-46a9-9c15-7c3de9496090" correta="true" texto="Satisfazer as necessidades básicas da hierarquia"/>
+				<opcao id="268aaa84-6295-4eb2-95af-2baed5436677" idquestao="cddf8550-02d6-46a9-9c15-7c3de9496090" correta="false" texto="Reprimir desejos para alcançar equilíbrio"/>
+				<opcao id="1986e58f-0ce9-497e-a068-4b891ea5791d" idquestao="cddf8550-02d6-46a9-9c15-7c3de9496090" correta="false" texto="Buscar aprovação constante dos outros"/>
+				<opcao id="5d3f76c8-c305-4ca8-b038-69d6d2b65930" idquestao="cddf8550-02d6-46a9-9c15-7c3de9496090" correta="false" texto="Eliminar completamente a ansiedade"/>
+			</questao>
+			<questao id="78bdb320-aa19-4279-9d71-dcaacde1e2e3" idaula="f63d4c03-691e-42ff-abc4-32c47c55f56e" enunciado="Qual é o conceito central da fenomenologia proposta por Husserl?" justificativa="A fenomenologia propõe estudar a experiência vivida tal como aparece à consciência, sem julgamentos prévios ou explicações causais.">
+				<opcao id="4e515b92-78f7-4515-9b11-b0417f57aea0" idquestao="78bdb320-aa19-4279-9d71-dcaacde1e2e3" correta="true" texto="Estudo da experiência vivida tal como aparece à consciência"/>
+				<opcao id="5b8d4396-7084-46e1-88ef-277d5c0a6a5b" idquestao="78bdb320-aa19-4279-9d71-dcaacde1e2e3" correta="false" texto="Classificação das emoções humanas por intensidade"/>
+				<opcao id="9cd1c5b8-6372-44ce-ac5c-c0676062425d" idquestao="78bdb320-aa19-4279-9d71-dcaacde1e2e3" correta="false" texto="Explicação causal dos comportamentos observados"/>
+				<opcao id="e9f24884-ae87-4eae-a401-4520e743a759" idquestao="78bdb320-aa19-4279-9d71-dcaacde1e2e3" correta="false" texto="Medição objetiva das percepções sensoriais"/>
+			</questao>
+			<questao id="3e32b9ac-4d59-406a-88f7-547ffad9630a" idaula="f63d4c03-691e-42ff-abc4-32c47c55f56e" enunciado="O que caracteriza o existencialismo segundo Sartre?" justificativa="Para Sartre, a existência precede a essência, ou seja, primeiro existimos e depois definimos quem somos por meio das escolhas que fazemos.">
+				<opcao id="2866483b-a368-46a6-a5b7-37827e308499" idquestao="3e32b9ac-4d59-406a-88f7-547ffad9630a" correta="true" texto="A existência precede a essência e define-se pelas escolhas"/>
+				<opcao id="07f1f99d-b51d-4653-aa85-d3d46e2b91fd" idquestao="3e32b9ac-4d59-406a-88f7-547ffad9630a" correta="false" texto="A essência do ser humano é determinada ao nascer"/>
+				<opcao id="46abf203-ef71-4dc0-bd99-4f4994bde457" idquestao="3e32b9ac-4d59-406a-88f7-547ffad9630a" correta="false" texto="As ações humanas são guiadas por instintos herdados"/>
+				<opcao id="81aef059-9389-48b1-80c1-64937b855048" idquestao="3e32b9ac-4d59-406a-88f7-547ffad9630a" correta="false" texto="A cultura define todos os aspectos do comportamento"/>
+			</questao>
+			<questao id="7b46baee-7542-4910-a872-bae9295129e9" idaula="f63d4c03-691e-42ff-abc4-32c47c55f56e" enunciado="Qual é o foco principal da psicologia humanista?" justificativa="A psicologia humanista valoriza o potencial humano, a liberdade, a responsabilidade e a capacidade de crescimento e autorrealização.">
+				<opcao id="22090fe7-793b-4418-aaf9-ad3892838072" idquestao="7b46baee-7542-4910-a872-bae9295129e9" correta="true" texto="Potencial de crescimento e autorrealização do ser humano"/>
+				<opcao id="3af12781-8108-4ce4-a995-40cf6c7a7b9d" idquestao="7b46baee-7542-4910-a872-bae9295129e9" correta="false" texto="Repressão de impulsos inconscientes"/>
+				<opcao id="7819ef48-626a-49f6-964e-ed0831161658" idquestao="7b46baee-7542-4910-a872-bae9295129e9" correta="false" texto="Controle de estímulos e respostas"/>
+				<opcao id="d8dd8945-e9ef-4d33-9d0c-06bfcbef1a4e" idquestao="7b46baee-7542-4910-a872-bae9295129e9" correta="false" texto="Classificação das doenças mentais"/>
+			</questao>
+		</aula>
+		<aula id="7684b3d1-60e0-42a5-b593-e7493092fe62" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="Aula 11 - Psicologia Cognitiva">
+			<questao id="8015a59f-e3c5-457e-adc4-c75b98aa75b8" idaula="7684b3d1-60e0-42a5-b593-e7493092fe62" enunciado="O que a Psicologia Cognitiva busca compreender?" justificativa="A Psicologia Cognitiva estuda os processos mentais internos como percepção, memória, linguagem, atenção e raciocínio, visando entender como as pessoas adquirem, armazenam e utilizam informações.">
+				<opcao id="03acc1d4-d6ce-4af1-b0ef-0480fab52d25" idquestao="8015a59f-e3c5-457e-adc4-c75b98aa75b8" correta="true" texto="Os processos mentais internos envolvidos na aquisição e uso da informação."/>
+				<opcao id="01d3d5f1-12d2-427d-916a-c57a51af0df3" idquestao="8015a59f-e3c5-457e-adc4-c75b98aa75b8" correta="false" texto="A resposta emocional a estímulos externos."/>
+				<opcao id="8fefc9bc-ac8f-4327-890d-f4a45bb7125f" idquestao="8015a59f-e3c5-457e-adc4-c75b98aa75b8" correta="false" texto="O comportamento observável em situações clínicas."/>
+				<opcao id="8dcc0eaa-8a9e-448f-bb08-66b253fd6fbd" idquestao="8015a59f-e3c5-457e-adc4-c75b98aa75b8" correta="false" texto="As dinâmicas inconscientes e os impulsos reprimidos."/>
+			</questao>
+			<questao id="b7f5f92d-16ea-40fd-8399-671a9d36fda3" idaula="7684b3d1-60e0-42a5-b593-e7493092fe62" enunciado="Qual a proposta do Modelo ABC de Albert Ellis?" justificativa="O modelo ABC propõe que as crenças, e não os eventos em si, causam sofrimento psicológico. A terapia visa identificar e modificar essas crenças irracionais.">
+				<opcao id="b49b1dca-0374-48c4-a110-a7ebc7e89584" idquestao="b7f5f92d-16ea-40fd-8399-671a9d36fda3" correta="true" texto="Explicar como crenças influenciam emoções e comportamentos."/>
+				<opcao id="5792e219-94fa-4a15-ad28-ebfc47ce5a82" idquestao="b7f5f92d-16ea-40fd-8399-671a9d36fda3" correta="false" texto="Analisar memórias reprimidas da infância."/>
+				<opcao id="755a3e35-0704-4e66-8625-2db2581c0184" idquestao="b7f5f92d-16ea-40fd-8399-671a9d36fda3" correta="false" texto="Relacionar comportamentos com reforços positivos."/>
+				<opcao id="cb492051-1fb1-47fc-9ccc-d06ecc8bd7cc" idquestao="b7f5f92d-16ea-40fd-8399-671a9d36fda3" correta="false" texto="Explicar o inconsciente por meio de símbolos oníricos."/>
+			</questao>
+			<questao id="42278098-0618-4a18-95ec-3e4636fac5c6" idaula="7684b3d1-60e0-42a5-b593-e7493092fe62" enunciado="O que caracteriza a teoria da enação?" justificativa="A teoria da enação afirma que o conhecimento se constrói na interação ativa com o ambiente, não sendo apenas uma representação do mundo.">
+				<opcao id="8e32a9fd-0001-452d-8053-4bd4e83c129c" idquestao="42278098-0618-4a18-95ec-3e4636fac5c6" correta="true" texto="A cognição é construída pela ação concreta no mundo."/>
+				<opcao id="1d0df744-f94f-4453-b8db-de88fbcd2a2d" idquestao="42278098-0618-4a18-95ec-3e4636fac5c6" correta="false" texto="O conhecimento é herdado geneticamente."/>
+				<opcao id="471d102a-20a6-47fe-9e0e-57978a4195c5" idquestao="42278098-0618-4a18-95ec-3e4636fac5c6" correta="false" texto="A mente funciona como um processador simbólico sequencial."/>
+				<opcao id="fca9ccda-c1d0-4d9b-a370-44940ea43579" idquestao="42278098-0618-4a18-95ec-3e4636fac5c6" correta="false" texto="O comportamento é moldado por reforços e punições."/>
+			</questao>
+			<questao id="c93c0b7a-699e-436a-a54b-e37c0f1cb549" idaula="7684b3d1-60e0-42a5-b593-e7493092fe62" enunciado="Qual é uma crítica comum à Terapia Cognitivo-Comportamental (TCC)?" justificativa="Uma das críticas à TCC é que pode ser superficial ou padronizada demais, ignorando emoções profundas ou traumas.">
+				<opcao id="c944a262-c0cc-43a0-8e85-fda064d323ef" idquestao="c93c0b7a-699e-436a-a54b-e37c0f1cb549" correta="true" texto="Apresenta padronização excessiva e pode negligenciar aspectos emocionais profundos."/>
+				<opcao id="57fcde51-b416-4972-83b0-705928b89b84" idquestao="c93c0b7a-699e-436a-a54b-e37c0f1cb549" correta="false" texto="Desconsidera completamente os pensamentos conscientes."/>
+				<opcao id="6643647a-d0f7-454f-ba03-889736ff7858" idquestao="c93c0b7a-699e-436a-a54b-e37c0f1cb549" correta="false" texto="Baseia-se apenas em relatos oníricos."/>
+				<opcao id="674aac4f-f1ff-4250-bbc0-466eed086d25" idquestao="c93c0b7a-699e-436a-a54b-e37c0f1cb549" correta="false" texto="Foca exclusivamente em experiências infantis reprimidas."/>
+			</questao>
+			<questao id="c637ec6d-945e-4bd6-92b1-d9112d8d29e8" idaula="7684b3d1-60e0-42a5-b593-e7493092fe62" enunciado="O que a tríade cognitiva de Beck propõe sobre pessoas deprimidas?" justificativa="A tríade cognitiva de Beck afirma que pessoas deprimidas mantêm visões negativas sobre si mesmas, o mundo e o futuro.">
+				<opcao id="ad60d719-15ee-482d-929d-92343c4dd9c9" idquestao="c637ec6d-945e-4bd6-92b1-d9112d8d29e8" correta="true" texto="Elas possuem visões negativas sobre si mesmas, o mundo e o futuro."/>
+				<opcao id="dbb16d26-261f-4f08-9661-9469e7de5301" idquestao="c637ec6d-945e-4bd6-92b1-d9112d8d29e8" correta="false" texto="Elas evitam interações sociais por reforço negativo."/>
+				<opcao id="13dc7c98-0fcf-4f80-a6c0-edcb4558a774" idquestao="c637ec6d-945e-4bd6-92b1-d9112d8d29e8" correta="false" texto="Elas usam mecanismos de defesa para negar a realidade."/>
+				<opcao id="7ef077fd-c7fb-4485-b723-4336c59494e0" idquestao="c637ec6d-945e-4bd6-92b1-d9112d8d29e8" correta="false" texto="Elas apresentam instabilidade nas conexões sinápticas cerebrais."/>
+			</questao>
+			<questao id="ade69dc9-649f-4604-a710-09284ef01878" idaula="7684b3d1-60e0-42a5-b593-e7493092fe62" enunciado="Segundo o conexionismo, como a cognição é compreendida?" justificativa="O conexionismo vê a cognição como o resultado da atividade simultânea de redes neurais conectadas, ajustadas com base na experiência.">
+				<opcao id="3b030335-8d42-4d95-8907-8e6e0ce1fcca" idquestao="ade69dc9-649f-4604-a710-09284ef01878" correta="true" texto="Como resultado de redes neurais que se ajustam com base na experiência."/>
+				<opcao id="cc765978-259b-4f75-85ab-74d6097e13ef" idquestao="ade69dc9-649f-4604-a710-09284ef01878" correta="false" texto="Como memórias armazenadas em um único local do cérebro."/>
+				<opcao id="d58eb628-f26a-4d24-ad54-2713321c4202" idquestao="ade69dc9-649f-4604-a710-09284ef01878" correta="false" texto="Como pensamentos derivados unicamente da linguagem."/>
+				<opcao id="ee0f52c1-b11c-482a-8b0c-0dfa756a0e24" idquestao="ade69dc9-649f-4604-a710-09284ef01878" correta="false" texto="Como eventos controlados por centros emocionais inconscientes."/>
+			</questao>
+		</aula>
+		<aula id="8d2ad331-4169-4772-9984-dfb8461821ce" idmateria="758a090b-77e6-4ccd-88fc-a22ad400e923" nome="Aula 12 - História e bases da Psicologia no Brasil">
+			<questao id="80527802-2a86-4eaf-bc9c-1e160905f890" idaula="8d2ad331-4169-4772-9984-dfb8461821ce" enunciado="Qual foi a principal contribuição dos jesuítas para o desenvolvimento da psicologia no Brasil colonial?" justificativa="Os jesuítas introduziram conceitos filosóficos e teológicos sobre a alma, emoções e autoconhecimento, utilizando sermões como ferramenta pedagógica.">
+				<opcao id="af5d81f2-1852-4777-8b0d-3abac9c9a11f" idquestao="80527802-2a86-4eaf-bc9c-1e160905f890" correta="true" texto="Eles transmitiram ideias psicológicas através de ensinamentos religiosos e educacionais."/>
+				<opcao id="229e090e-e166-400f-974b-e805afdadd2c" idquestao="80527802-2a86-4eaf-bc9c-1e160905f890" correta="false" texto="Fundaram as primeiras clínicas psicológicas do Brasil."/>
+				<opcao id="670ced0e-e25a-4f02-87ca-ee4e743cfcc6" idquestao="80527802-2a86-4eaf-bc9c-1e160905f890" correta="false" texto="Desenvolveram métodos científicos para análise do comportamento."/>
+				<opcao id="afc82648-18be-44a6-bfc0-702a0f7d8d0e" idquestao="80527802-2a86-4eaf-bc9c-1e160905f890" correta="false" texto="Criaram escolas com currículo baseado em psicanálise."/>
+			</questao>
+			<questao id="5cce8a55-2f18-4c1d-98c8-da73d63f442e" idaula="8d2ad331-4169-4772-9984-dfb8461821ce" enunciado="Durante o século XIX, como a psicologia começou a se institucionalizar no Brasil?" justificativa="A psicologia foi introduzida por médicos formados na Europa, incorporando teorias como o positivismo e o evolucionismo em cursos e práticas médicas.">
+				<opcao id="f80e1fd9-5f7e-49dd-8a6a-f73b92546402" idquestao="5cce8a55-2f18-4c1d-98c8-da73d63f442e" correta="true" texto="Através de teses acadêmicas, práticas médicas e criação de instituições de ensino."/>
+				<opcao id="87bbe9a1-878d-4196-9e49-8f380fd138d9" idquestao="5cce8a55-2f18-4c1d-98c8-da73d63f442e" correta="false" texto="Com a regulamentação da profissão por lei federal."/>
+				<opcao id="0e538090-52d8-4c40-8eb3-4f2c57b77ae1" idquestao="5cce8a55-2f18-4c1d-98c8-da73d63f442e" correta="false" texto="Pela atuação exclusiva de educadores normalistas."/>
+				<opcao id="7836823f-24ed-4c03-b770-d0a653e5daf9" idquestao="5cce8a55-2f18-4c1d-98c8-da73d63f442e" correta="false" texto="Com a criação de programas de psicoterapia nas universidades."/>
+			</questao>
+			<questao id="c1440a4b-a19f-40e2-abbb-cfadc76026a3" idaula="8d2ad331-4169-4772-9984-dfb8461821ce" enunciado="Qual foi o impacto da ditadura militar na formação dos psicólogos no Brasil?" justificativa="Durante a ditadura, houve um currículo mínimo centrado na psicologia experimental e social cognitiva norte-americana, com práticas voltadas ao aconselhamento psicológico.">
+				<opcao id="947ade02-2563-462d-92d3-c962ecc7f383" idquestao="c1440a4b-a19f-40e2-abbb-cfadc76026a3" correta="true" texto="Impôs um currículo focado na psicologia experimental e na orientação profissional."/>
+				<opcao id="f111b59b-e8e0-4aef-9364-6834635ef392" idquestao="c1440a4b-a19f-40e2-abbb-cfadc76026a3" correta="false" texto="Incentivou práticas comunitárias inspiradas em Paulo Freire."/>
+				<opcao id="5f2c5114-e948-4ae2-933f-37579b27dc27" idquestao="c1440a4b-a19f-40e2-abbb-cfadc76026a3" correta="false" texto="Estimulou a psicanálise como prática hegemônica nas universidades."/>
+				<opcao id="1682ff9f-27cc-4487-8af8-7b1198f7ccd6" idquestao="c1440a4b-a19f-40e2-abbb-cfadc76026a3" correta="false" texto="Valorizaram-se saberes indígenas e abordagens tradicionais."/>
+			</questao>
+			<questao id="c76ecd1e-d7ef-4149-a806-ed82454a2bf0" idaula="8d2ad331-4169-4772-9984-dfb8461821ce" enunciado="O que representa a Lei 4.119/62 na história da psicologia brasileira?" justificativa="Essa lei criou os cursos de Psicologia e regulamentou a profissão, estabelecendo oficialmente o exercício do psicólogo no Brasil.">
+				<opcao id="0ede1bb2-010d-4788-942f-9c9572e3d1c9" idquestao="c76ecd1e-d7ef-4149-a806-ed82454a2bf0" correta="true" texto="A criação dos cursos de Psicologia e regulamentação da profissão."/>
+				<opcao id="60b4e6d6-07c3-4a76-9940-862372751cc9" idquestao="c76ecd1e-d7ef-4149-a806-ed82454a2bf0" correta="false" texto="A proibição do uso de testes psicológicos em escolas públicas."/>
+				<opcao id="2ebe51f0-ae83-499b-bbc7-cd91ee4e8aec" idquestao="c76ecd1e-d7ef-4149-a806-ed82454a2bf0" correta="false" texto="A criação do Conselho Federal de Psicologia."/>
+				<opcao id="a126aae6-f239-4202-b19f-f5e0f7951e4a" idquestao="c76ecd1e-d7ef-4149-a806-ed82454a2bf0" correta="false" texto="A institucionalização do SUS com psicólogos nas UBS."/>
+			</questao>
+			<questao id="420d85cf-1096-4fa4-90b9-4c771fdcdca1" idaula="8d2ad331-4169-4772-9984-dfb8461821ce" enunciado="Quais são alguns dos desafios atuais enfrentados pela psicologia no Brasil?" justificativa="A expansão da formação e os conflitos entre valores religiosos e resoluções do CFP são exemplos de desafios atuais que refletem a diversidade e complexidade da atuação profissional.">
+				<opcao id="63f967a7-1ab5-4f25-b8c6-9ad144cf7987" idquestao="420d85cf-1096-4fa4-90b9-4c771fdcdca1" correta="true" texto="Desigualdade regional na formação e conflitos com valores religiosos."/>
+				<opcao id="601d5958-d14b-4855-9a60-b928c037adc9" idquestao="420d85cf-1096-4fa4-90b9-4c771fdcdca1" correta="false" texto="Falta de interesse da população por saúde mental."/>
+				<opcao id="e82eee06-cd38-463b-8561-b1de8f3951ec" idquestao="420d85cf-1096-4fa4-90b9-4c771fdcdca1" correta="false" texto="Desvalorização da profissão por parte do CFP."/>
+				<opcao id="85bac32d-6ceb-41d7-af20-321f10fbcb1f" idquestao="420d85cf-1096-4fa4-90b9-4c771fdcdca1" correta="false" texto="Impossibilidade de atuação em políticas públicas."/>
+			</questao>
+			<questao id="83fe5fb1-e427-48d8-a646-46a15e46c47b" idaula="8d2ad331-4169-4772-9984-dfb8461821ce" enunciado="Qual foi a importância da Constituição de 1988 para a psicologia brasileira?" justificativa="A Constituição permitiu maior participação da sociedade nas políticas públicas, o que ampliou o papel dos psicólogos em conselhos e na formulação de políticas sociais.">
+				<opcao id="c5915993-6fa9-47e8-9c34-bad4fca9cdc3" idquestao="83fe5fb1-e427-48d8-a646-46a15e46c47b" correta="true" texto="Promoveu a inserção da psicologia nas políticas públicas e conselhos sociais."/>
+				<opcao id="0625b4d3-2479-473f-8225-39a2b3d5b0c7" idquestao="83fe5fb1-e427-48d8-a646-46a15e46c47b" correta="false" texto="Restringiu a atuação do psicólogo à área educacional."/>
+				<opcao id="2618ec86-9589-48a0-9fe4-b98457ff25d8" idquestao="83fe5fb1-e427-48d8-a646-46a15e46c47b" correta="false" texto="Revogou a regulamentação profissional de 1962."/>
+				<opcao id="b3e76f1f-91b7-463c-8bb8-a51e51c5d87c" idquestao="83fe5fb1-e427-48d8-a646-46a15e46c47b" correta="false" texto="Determinou o fechamento dos conselhos regionais."/>
+			</questao>
+		</aula>
 	</materia>
 	<materia id="1489cf70-ad5b-4713-a2be-84e087744d5f" nome="4-Processos Psicológicos">
 		<aula id="39d97603-f693-4ab4-bd60-154e657d0a35" idmateria="1489cf70-ad5b-4713-a2be-84e087744d5f" nome="Aula 01 - A Ciência da Psicologia">
